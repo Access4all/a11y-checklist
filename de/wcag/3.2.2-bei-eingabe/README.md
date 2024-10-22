@@ -14,7 +14,7 @@ created_at: "2015-08-04 14:36:00"
 
 ## Verstehen (ausführlich)
 
-Wenn mit einem Element interagiert wird, dann darf dies zu keiner Änderung des Kontexts führen: Dazu gehört das Neuladen der aktuellen Seite (oder das Neuladen, Ersetzen oder Entfernen des Seitenteils, auf welchem sich das fokussierte Element befindet), sowie das Weiterleiten auf eine andere Seite. Solches Verhalten ist oft nicht vorhersehbar, stört den Interaktionsfluss und führt insbesondere bei der Bedienung von assistierender Technologie (etwa Screenreader, aber auch Tastatur, siehe **📜-2.1.1 Tastatur**) zu Verwirrung.
+Wenn mit einem Element interagiert wird, dann darf dies zu keiner Änderung des Kontexts führen: Dazu gehört das Neuladen der aktuellen Seite (oder das Neuladen, Ersetzen oder Entfernen des Seitenteils, auf welchem sich das fokussierte Element befindet), sowie das Weiterleiten auf eine andere Seite. Solches Verhalten ist oft nicht vorhersehbar, stört den Interaktionsfluss und führt insbesondere bei der Bedienung von assistierender Technologie (etwa Screenreader, aber auch Tastatur, siehe [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur)) zu Verwirrung.
 
 Stellen Sie etwa sicher, dass die Wahl eines Eintrags in einer Combobox (`<select>`) nicht automatisch die Seite neu lädt; lassen Sie die Kontrolle bei den Nutzenden (indem diese z.B. einen Schalter aktivieren müssen). Korrekt programmierter HTML-Code sollte diese Anforderungen bereits erfüllen.
 

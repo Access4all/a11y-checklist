@@ -27,7 +27,7 @@ Grafische CAPTCHAs bieten eine Alternative (z.B. Audio-CAPTCHA).
 
 Grafische CAPTCHAs sind per se nicht barrierefrei: ihr Sinn und Zweck ist ja, dass die gestellte Aufgabe nicht programmatisch gelöst werden kann (also z.B. durch einen Bot), sondern dass nur ein Mensch sie lösen kann. Insofern geht es bei diesem Prüfpunkt nur darum, sicherzustellen, dass ein CAPTCHA nicht nur über eine einzige Modalität (z.B. visuell) gelöst werden kann, sondern über weitere (z.B. Audio).
 
-Vergleiche auch **📜-3.3.8 Barrierefreie Authentifizierung (Minimum)**.
+Vergleiche auch [📜-3.3.8 Barrierefreie Authentifizierung (Minimum)](/de/wcag/3.3.8-barrierefreie-authentifizierung-minimum).
 
 ## Screenshots typischer Fälle
 

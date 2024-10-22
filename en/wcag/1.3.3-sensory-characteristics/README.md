@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 A person with colour deficiency can do little with the instruction 'Correct the red marked fields'. A blind person will not understand the instructions 'Look at the right column' or 'Click on the square icon'. A hearing-impaired person cannot perceive acoustic signals (e.g. a warning tone for incorrect entries).
 
-This circumstance can be taken into account by offering additional stimuli on other sensory channels, e.g. 'Correct the fields marked in red and with exclamation marks' or 'See right column "Explanations"' (however, a reference to the position within the order of a document is permissible, e.g. 'above', 'below', 'following', etc., see also **📜-1.3.2 Meaningful Sequence**). For auditory signals, always provide a visual cue.
+This circumstance can be taken into account by offering additional stimuli on other sensory channels, e.g. 'Correct the fields marked in red and with exclamation marks' or 'See right column "Explanations"' (however, a reference to the position within the order of a document is permissible, e.g. 'above', 'below', 'following', etc., see also [📜-1.3.2 Meaningful Sequence](/en/wcag/1.3.2-meaningful-sequence)). For auditory signals, always provide a visual cue.
 
 **Note:** For requirements relating to information conveyed by colour alone, see guideline 📜-1.4.
 

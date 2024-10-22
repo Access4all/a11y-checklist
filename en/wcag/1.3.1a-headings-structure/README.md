@@ -19,9 +19,9 @@ The elements `<h1>` to `<h6>` must be used; other formatting (such as the `<stro
 
 The first heading of a page does not necessarily have to be an `<h1>`: headings often start before the main content at a lower level so that the `<h1>` of the main content stands on its own.
 
-Headings are generally the first element of a content block in the DOM. They always require subsequent content (such as text, lists, tables, etc.) and should describe this concisely, see also **📜-2.4.6 Headings and Labels**.
+Headings are generally the first element of a content block in the DOM. They always require subsequent content (such as text, lists, tables, etc.) and should describe this concisely, see also [📜-2.4.6 Headings and Labels](/en/wcag/2.4.6-headings-and-labels).
 
-**Note:** If a group of linked headings appears without subsequent content, it is better to use a list (e.g. `<ul>`), see also **📜-1.3.1b Use of Lists** and [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}.
+**Note:** If a group of linked headings appears without subsequent content, it is better to use a list (e.g. `<ul>`), see also [📜-1.3.1b Use of Lists](/en/wcag/1.3.1b-use-of-lists) and [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}.
 
 **Important:** The HTML 5 outline algorithm is not supported by assistive technologies and is considered obsolete since HTML 5.2.
 
@@ -29,7 +29,7 @@ Headings are generally the first element of a content block in the DOM. They alw
 
 - This success criterion ensures that existing headings are **semantically and hierarchically correctly implemented**
 - It is not always necessary that such **exist** at all (but headings are usually the best technique for naming and delimiting content)
-- That they are **meaningful** is required by **📜-2.4.6 Headings and Labels**.
+- That they are **meaningful** is required by [📜-2.4.6 Headings and Labels](/en/wcag/2.4.6-headings-and-labels).
 
 ### Responsibilities
 

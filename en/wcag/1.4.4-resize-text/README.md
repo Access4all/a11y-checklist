@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 Many people with visual impairments are dependent on the browser's zoom functions. To enable them to use these, the layout and typeface must be adaptable.
 
-**Note:** Modern browsers can easily scale websites that are based on solid, responsive HTML and CSS. This should automatically fulfill this success criterion. Nevertheless, we recommend checking the scaling behavior regularly, as this can also reveal other deficiencies (such as overlapping, see **📜-1.4.10 Reflow**).
+**Note:** Modern browsers can easily scale websites that are based on solid, responsive HTML and CSS. This should automatically fulfill this success criterion. Nevertheless, we recommend checking the scaling behavior regularly, as this can also reveal other deficiencies (such as overlapping, see [📜-1.4.10 Reflow](/en/wcag/1.4.10-reflow)).
 
 **Important:** On mobile devices, the use of `<meta name=“viewport” content=“user-scalable=no, maximum-scale=1”>` can prevent (or severely restrict, depending on the values used) zooming. For mobile apps, it must also be ensured that the font size selected in the system settings is adopted (and that this does not lead to any display problems).
 

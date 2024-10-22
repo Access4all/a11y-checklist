@@ -18,7 +18,7 @@ Sighted people perceive a website as a two-dimensional, graphical area. Blind pe
 
 If, for example, the photo of a news item is placed visually before its headline, the headline must still come first in the DOM. Using CSS (e.g. flexbox or grid), the visual arrangement can then be changed as desired.
 
-**Important:** In general, the visual appearance should only deviate from the order in the DOM in well-founded cases. For example, it is unfavourable to display further relevant information in a form below the submit button: this is easily overlooked visually, but screen reader users in particular will not normally find it, as they activate the submit button when they encounter it (and do not search for further information below it). This can also impair intuitive focus guidance when using the keyboard (see **📜-2.1.1 Keyboard** and **📜-2.4.3 Focus Order**).
+**Important:** In general, the visual appearance should only deviate from the order in the DOM in well-founded cases. For example, it is unfavourable to display further relevant information in a form below the submit button: this is easily overlooked visually, but screen reader users in particular will not normally find it, as they activate the submit button when they encounter it (and do not search for further information below it). This can also impair intuitive focus guidance when using the keyboard (see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard) and [📜-2.4.3 Focus Order](/en/wcag/2.4.3-focus-order)).
 
 ### Responsibilities
 
@@ -28,7 +28,7 @@ If, for example, the photo of a news item is placed visually before its headline
 ### Delimitation
 
 - This success criterion ensures that the DOM sequence **makes sense**.
-- That a **manual override** of the DOM order for the focus order makes sense is required by **📜-2.4.3 Focus Order**.
+- That a **manual override** of the DOM order for the focus order makes sense is required by [📜-2.4.3 Focus Order](/en/wcag/2.4.3-focus-order).
 
 ## Examples
 

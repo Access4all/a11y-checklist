@@ -26,8 +26,8 @@ Die zugängliche Beschriftung eines Bedienelements entspricht exakt der visuelle
 ### Test-Schritte
 
 1. Seite öffnen
-1. Mit **🏷️-13 NVDA Screenreader** durch die Seite navigieren
-    - Auch der **🏷️-47 DOM Inspektor** kann aufschlussreiche Informationen liefern: wenn man über ein Element hovert, dann wird dessen zugänglicher Name angezeigt
+1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) durch die Seite navigieren
+    - Auch der [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) kann aufschlussreiche Informationen liefern: wenn man über ein Element hovert, dann wird dessen zugänglicher Name angezeigt
 1. Sicherstellen, dass der zugängliche Name eines Elements identisch ist mit dem visuell sichtbaren Namen (oder diesen beinhaltet)
     - **🙂 Beispiel:** Eine Schaltfläche hat die visuelle Beschriftung "Abschicken"; dies wird vom Screenreader auch so ausgegeben.
         - **🙄 Beispiel:** Der Screenreader gibt "Nachricht abschicken" aus (die zugängliche Beschriftung beinhaltet die visuelle Beschriftung). → ⚠️ Wir empfehlen, das Nutzer-Erleben für alle Nutzer-Gruppen möglichst einheitlich zu gestalten.

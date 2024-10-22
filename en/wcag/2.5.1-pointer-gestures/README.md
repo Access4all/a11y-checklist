@@ -14,7 +14,7 @@ For content that is operated via **path-based or multi-point pointer gestures**,
 
 ## Understanding (long)
 
-A **path pointer gesture** is characterized by the fact that it has a **specific start point and a direction** (e.g. from left to right), and sometimes a change of direction (e.g. from left to right, then upwards). The exact end point of the movement, on the other hand, is not relevant: e.g. a swipe gesture can cover the entire width of the screen, but can also be very limited (this is why drag-and-move is not considered path-based, compare with **📜-2.5.7 Dragging Movements**).
+A **path pointer gesture** is characterized by the fact that it has a **specific start point and a direction** (e.g. from left to right), and sometimes a change of direction (e.g. from left to right, then upwards). The exact end point of the movement, on the other hand, is not relevant: e.g. a swipe gesture can cover the entire width of the screen, but can also be very limited (this is why drag-and-move is not considered path-based, compare with [📜-2.5.7 Dragging Movements](/en/wcag/2.5.7-dragging-movements)).
 
 Path pointing gestures are demanding, which is why certain user groups cannot perform them (or can only do so inaccurately), e.g. people with Parkinson's or tetraplegia. The same applies to **multi-point pointing gestures**, such as the spread gesture for enlarging a section of a map.
 
@@ -28,7 +28,7 @@ It is therefore important that functions that rely on path and/or multi-point po
 
 **Exceptions:** Exceptions to this criterion are cases in which the multi-point or path-based pointer gesture is essential - for example in a drawing program.
 
-**Note:** This success criterion can also be fulfilled by having an additional alternative operating element for such a complex function that fulfills the same purpose. Important: this must be operable with simple pointer inputs (a pure keyboard alternative is therefore **not** permitted, see **📜-2.1.1 Keyboard**).
+**Note:** This success criterion can also be fulfilled by having an additional alternative operating element for such a complex function that fulfills the same purpose. Important: this must be operable with simple pointer inputs (a pure keyboard alternative is therefore **not** permitted, see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard)).
 
 ### Responsibilities
 

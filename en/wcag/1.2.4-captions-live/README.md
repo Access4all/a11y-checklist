@@ -14,7 +14,7 @@ For **live video content with audio**, **subtitles** must be provided. This enab
 
 ## Understanding (long)
 
-Add subtitles to all live videos with speech, as described in **📜-1.2.2 Captions (Prerecorded)**.
+Add subtitles to all live videos with speech, as described in [📜-1.2.2 Captions (Prerecorded)](/en/wcag/1.2.2-captions-prerecorded).
 
 Fulfilling this requirement is demanding. It requires appropriate technical tools and professional handling. Perfection is hardly possible due to the high time pressure.
 

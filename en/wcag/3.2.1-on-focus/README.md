@@ -14,7 +14,7 @@ created_at: "2015-08-04 14:36:00"
 
 ## Understanding (long)
 
-If a component of the page receives the focus, this must not lead to a change in context: this includes reloading the current page (or reloading, replacing or removing the part of the page on which the focussed element is located), as well as redirecting to another page. Such behaviour is often unpredictable, disrupts the interaction flow and leads to confusion, especially when using assistive technology (such as screen readers, but also keyboards, see **📜-2.1.1 Keyboard**).
+If a component of the page receives the focus, this must not lead to a change in context: this includes reloading the current page (or reloading, replacing or removing the part of the page on which the focussed element is located), as well as redirecting to another page. Such behaviour is often unpredictable, disrupts the interaction flow and leads to confusion, especially when using assistive technology (such as screen readers, but also keyboards, see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard)).
 
 Make sure, for example, that neither links or buttons are activated nor forms are sent with focus; leave control with the user (e.g. by requiring them to activate a button). Correctly programmed HTML code should already fulfil these requirements.
 

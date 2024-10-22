@@ -26,9 +26,9 @@ Inhalte befinden sich innerhalb semantisch bedeutsamer HTML-Elemente (z.B. `<h#>
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit **🏷️-13 NVDA Screenreader** Inhalte lesen (oder mit **🏷️-47 DOM Inspektor** direkt untersuchen)
+1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) Inhalte lesen (oder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) direkt untersuchen)
 1. Sicherstellen, dass unterschiedliche Inhalte korrekt als solche angesagt werden
-    - ⚠️ Für viele Inhalts-Typen (z.B. **📜-1.3.1a Überschriften-Struktur**, **📜-1.3.1b Aufzählungen und Listen**, **✅-42 Absätze semantisch korrekt**) gibt es spezifischere Prüfpunkte! Der vorliegende Prüfpunkt zielt auf weniger oft angetroffene Inhalts-Typen ab; auch dient er dazu, "frei umher schwebende Texte" (in `<div>`, `<span>`, o.ä.) abzustrafen, welche keine Semantik haben und vom Tester nicht klar einem Inhalts-Typ zugeordnet werden können.
+    - ⚠️ Für viele Inhalts-Typen (z.B. [📜-1.3.1a Überschriften-Struktur](/de/wcag/1.3.1a-ueberschriften-struktur), [📜-1.3.1b Aufzählungen und Listen](/de/wcag/1.3.1b-aufzaehlungen-und-listen), [✅ Absätze semantisch korrekt](/de/wcag/1.3.1e-semantisch-richtiges-markup/absaetze-semantisch-korrekt)) gibt es spezifischere Prüfpunkte! Der vorliegende Prüfpunkt zielt auf weniger oft angetroffene Inhalts-Typen ab; auch dient er dazu, "frei umher schwebende Texte" (in `<div>`, `<span>`, o.ä.) abzustrafen, welche keine Semantik haben und vom Tester nicht klar einem Inhalts-Typ zugeordnet werden können.
     - **🙂 Beispiel:** Ein Blockzitat ist korrekt als `<blockquote>` ausgezeichnet
         - **😡 Beispiel:** Es ist als `<p>`, `<div>` o.ä. ausgezeichnet
     - **🙂 Beispiel:** Eine Adresse ist korrekt als `<address>` ausgezeichnet

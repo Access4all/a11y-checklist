@@ -18,7 +18,7 @@ Complicated mental tasks overwhelm certain users; this also includes the short-t
 
 ### Conventional login and multi-factor authentication
 
-Conventional login forms are permitted if all input fields have correctly linked labels (see **📜-1.3.1c Forms, Labels and Fieldsets**) and a suitable input purpose is evident (see **📜-1.3.5 Identify Input Purpose**). However, the copying and pasting of login-relevant information into the login form must **not** be prevented; the same applies to supporting functionalities such as password managers.
+Conventional login forms are permitted if all input fields have correctly linked labels (see [📜-1.3.1c Forms, Labels and Fieldsets](/en/wcag/1.3.1c-forms-labels-and-fieldsets)) and a suitable input purpose is evident (see [📜-1.3.5 Identify Input Purpose](/en/wcag/1.3.5-identify-input-purpose)). However, the copying and pasting of login-relevant information into the login form must **not** be prevented; the same applies to supporting functionalities such as password managers.
 
 Multi-factor authentication, e.g. where a code or login link is sent by email, is also fine. It is important that all steps required for authentication are barrier-free (e.g. including those offered by third-party mobile apps).
 
@@ -30,7 +30,7 @@ CAPTCHAs in which distorted numbers and letters have to be recognized are not pe
 
 On the other hand, tests in which the user has to recognize an object (such as an animal or vehicle) are okay - unless additional considerations are required (such as: "Multiply the number of cats by the number of dogs").
 
-**Important:** Such tests bring with them a whole host of additional challenges: for example, they must also be able to be operated with the keyboard and understood via screen reader, see also **✅-14 Graphical CAPTCHAs** and **✅-63 Operable with the keyboard**.
+**Important:** Such tests bring with them a whole host of additional challenges: for example, they must also be able to be operated with the keyboard and understood via screen reader, see also [✅ Graphical CAPTCHAs](/en/wcag/1.1.1-non-text-content/graphical-captchas) and [✅ Operable with the keyboard](/en/wcag/2.1.1-keyboard/operable-with-the-keyboard).
 
 ### Responsibilities
 

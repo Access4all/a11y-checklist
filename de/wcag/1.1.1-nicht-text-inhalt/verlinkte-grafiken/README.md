@@ -26,14 +26,14 @@ Verlinkte Grafiken weisen einen Alternativtext auf, der Linkziel oder -zweck bes
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. **🏷️-32 Image Alt Text Viewer Extension** ausführen (oder in **🏷️-51 Web Developer Extension** unter "Images" → "Display Alt Attributes" wählen)
+1. [🏷️ Image Alt Text Viewer Extension](/de/tags/werkzeuge/extensions/image-alt-text-viewer-extension) ausführen (oder in [🏷️ Web Developer Extension](/de/tags/werkzeuge/extensions/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass verlinkte Grafiken einen passenden Alternativtext aufweisen
-    - ⚠️ Für verlinkte Seiten-Logos existiert **✅-10 Verlinktes Seiten-Logo**!
+    - ⚠️ Für verlinkte Seiten-Logos existiert [✅ Verlinktes Seiten-Logo](/de/wcag/1.1.1-nicht-text-inhalt/verlinktes-seiten-logo)!
     - **🙂 Beispiel:** Ein kleines Vorschau-Bild ist verlinkt auf eine Bildvariante mit voller Auflösung; der Alternativtext des Vorschau-Bilds ist "Ein Zebra, vergrössern" (oder "Vollbild", "Vollansicht", o.ä.)
         - **😡 Beispiel:** Bei "Ein Zebra" alleine fehlt der Linkzweck
         - **😡 Beispiel:** Bei "Vollansicht" alleine fehlt der Bildinhalt
 
-⚠️ Bilder werden oft auch als Teil einer Card ([✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}) verlinkt, z.B. sogenannte "Teaser" auf der Startseite einer Zeitung. Je nach Art der Umsetzung kann es sehr unterschiedlich sein, wie ein sinnvoller Alternativtext dann aussieht, z.B. kann es auch Sinn machen, das Bild in dieser Ansicht als dekorativ (**✅-13 Dekorative Grafiken**) einzustufen.
+⚠️ Bilder werden oft auch als Teil einer Card ([✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}) verlinkt, z.B. sogenannte "Teaser" auf der Startseite einer Zeitung. Je nach Art der Umsetzung kann es sehr unterschiedlich sein, wie ein sinnvoller Alternativtext dann aussieht, z.B. kann es auch Sinn machen, das Bild in dieser Ansicht als dekorativ ([✅ Dekorative Grafiken](/de/wcag/1.1.1-nicht-text-inhalt/dekorative-grafiken)) einzustufen.
 
 ## Screenshots typischer Fälle
 

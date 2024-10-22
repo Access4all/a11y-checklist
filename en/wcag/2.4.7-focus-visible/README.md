@@ -14,19 +14,19 @@ The **keyboard focus** must be **well visible** at all times. This enables peopl
 
 ## Understanding (long)
 
-If the keyboard focus is not or insufficiently visible, this makes navigation using the keyboard considerably more difficult (see **📜-2.1.1 Keyboard**). The often low-contrast default style of many browsers is sufficient as a keyboard focus according to WCAG 2.1 (provided it remains visible throughout all elements); a minimum contrast is only required at level AAA (see **📜-2.4.13 TRANSLATION MISSING**). For many people, however, the focus is not sufficiently visible.
+If the keyboard focus is not or insufficiently visible, this makes navigation using the keyboard considerably more difficult (see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard)). The often low-contrast default style of many browsers is sufficient as a keyboard focus according to WCAG 2.1 (provided it remains visible throughout all elements); a minimum contrast is only required at level AAA (see [📜-2.4.13 TRANSLATION MISSING](/en/wcag/2.4.13-translation-missing)). For many people, however, the focus is not sufficiently visible.
 
 We therefore also recommend the following at level AA: Always ensure that the keyboard focus is clearly visible at all times by defining a prominent, high-contrast style for it. A clearly visible frame should characterise focussed links, buttons, radio buttons, checkboxes, linked graphic elements, etc. The CSS attribute `outline` is particularly suitable for this, e.g. `outline: 2px dotted black`.
 
 Please note in particular:
 
-- If the focus only causes a colour change (e.g. inverting text and background colour), this must be specially optimised for the forced colours mode (**✅-9 High contrast mode**).
+- If the focus only causes a colour change (e.g. inverting text and background colour), this must be specially optimised for the forced colours mode ([✅ High contrast mode](/en/wcag/1.1.1-non-text-content/high-contrast-mode)).
     - A simple and effective trick: never set `outline: none`, but use `outline-color: transparent`. In forced colours mode, the outline remains visible.
-- Focussed elements must also fulfil the contrast requirements (see **📜-1.4.3 Contrast (Minimum)**).
-- Elements that are not visually visible but can be focussed must be displayed with focus (such as jump links, see also **📜-2.4.1 Bypass Blocks**).
+- Focussed elements must also fulfil the contrast requirements (see [📜-1.4.3 Contrast (Minimum)](/en/wcag/1.4.3-contrast-minimum)).
+- Elements that are not visually visible but can be focussed must be displayed with focus (such as jump links, see also [📜-2.4.1 Bypass Blocks](/en/wcag/2.4.1-bypass-blocks)).
 - The focus should be displayed consistently, i.e. it should be applied equally to as many interactive elements as possible.
 
-As of WCAG 2.2, **📜-2.4.11 Focus Not Obscured (Minimum)** also applies.
+As of WCAG 2.2, [📜-2.4.11 Focus Not Obscured (Minimum)](/en/wcag/2.4.11-focus-not-obscured-minimum) also applies.
 
 ### Responsibilities
 

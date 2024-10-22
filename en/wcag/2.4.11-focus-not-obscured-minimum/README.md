@@ -14,16 +14,16 @@ The **keyboard focus** should **not be covered** by other elements. This enables
 
 ## Understanding (long)
 
-If the currently focussed element is covered by other elements, this makes navigation using the keyboard considerably more difficult (see **📜-2.1.1 Keyboard**). This can happen, for example, if the footer area is fixed when scrolling (‘sticky footer’) and the focussed element is at the bottom of the viewport.
+If the currently focussed element is covered by other elements, this makes navigation using the keyboard considerably more difficult (see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard)). This can happen, for example, if the footer area is fixed when scrolling (‘sticky footer’) and the focussed element is at the bottom of the viewport.
 
 Partial covering of the focus is tolerable, even if it should be avoided; complete covering is unacceptable.
 
-**Note:** Poor focus guidance can also cause such problems, see also **📜-2.4.3 Focus Order**.
+**Note:** Poor focus guidance can also cause such problems, see also [📜-2.4.3 Focus Order](/en/wcag/2.4.3-focus-order).
 
 ### Exceptions
 
-- Situations in which an element temporarily overlaps the surrounding content are negligible: for example, if the focus disappears behind a previously opened date selector (**✅-102 Date picker / time picker**). It is important that the overlapping element can be closed if required (e.g. using the `Esc` key).
-- The position of some elements can be changed by the user, such as certain dialogues (**✅-103 Dialogs**); for such elements, only the initial position must meet the requirements, i.e. directly after the dialogue appears.
+- Situations in which an element temporarily overlaps the surrounding content are negligible: for example, if the focus disappears behind a previously opened date selector ([✅ Date picker / time picker](/en/wcag/4.1.2a-advanced-controls-widgets/date-picker-time-picker)). It is important that the overlapping element can be closed if required (e.g. using the `Esc` key).
+- The position of some elements can be changed by the user, such as certain dialogues ([✅ Dialogs](/en/wcag/4.1.2a-advanced-controls-widgets/dialogs)); for such elements, only the initial position must meet the requirements, i.e. directly after the dialogue appears.
 
 ### Responsibilities
 

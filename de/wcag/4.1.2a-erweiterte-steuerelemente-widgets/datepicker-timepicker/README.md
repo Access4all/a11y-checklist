@@ -35,7 +35,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
     - Falls möglich: Kalender aufklappen, Datum an-/abwählen, Kalender zuklappen
     - Versuchen, ein Datum manuell einzugeben
 1. Datepicker wie zuvor bedienen, dieses mal **mit Tastatur** alleine (ggf. Seite neu laden), und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter [✅ Mit der Tastatur bedienbar](/de/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar) zu bemängeln!
     - Wird mit `Hoch`/`Runter` durch Optionen navigiert (manchmal auch `Tab` / `Shift`-`Tab`)?
         - **🙂 Beispiel:** Das vorherige/nächste Datum wird an-navigiert
             - ⚠️ Falls der Kalender zuvor noch zugeklappt war, so ist er jetzt aufgeklappt
@@ -56,7 +56,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 1. Datepicker wie zuvor bedienen, dieses mal **mit Screenreader** (ggf. Seite neu laden), und prüfen:
     - ⚠️ Bedienung dürfte in etwa gleich sein wie mit Tastatur alleine
     - Vermittelt der Screenreader das Element adäquat?
-        - **🙂 Beispiel:** "Datums-Wahl" oder ähnlich, in Verbindung mit **✅-37 Formularfelder Labels**
+        - **🙂 Beispiel:** "Datums-Wahl" oder ähnlich, in Verbindung mit [✅ Formularfelder Labels](/de/wcag/1.3.1c-formular-beziehungen/formularfelder-labels)
         - **😡 Beispiel:** "Eingabe"
         - ⚠️ Screenreader-Nutzende benötigen keine zusätzliche Hilfe zur Bedienung eines Datepickers (solange dieses sich mit den genannten Tasten wie erwartet bedienen lässt)
     - Vermittelt der Screenreader den Ausklapp-Zustand des Kalenders adäquat?
@@ -91,7 +91,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 #### Funktionalitäten
 
-- Manchmal handelt es sich um ein Pflicht-Feld → siehe **✅-94 Pflichtfelder**
+- Manchmal handelt es sich um ein Pflicht-Feld → siehe [✅ Pflichtfelder](/de/wcag/3.3.2-beschriftungen-labels-oder-anweisungen/pflichtfelder)
 - Manchmal kann/muss zusätzlich eine **Zeit** gewählt werden → hier ist beim Testen sinngemäss vorzugehen
 - Manchmal sind einzelne **Daten nicht verfügbar** (z.B. wenn ein Hotel zeitweilig bereits ausgebucht ist)
 - Manchmal ist die **manuelle Eingabe** eines Datums per Tastatur möglich (ohne dass mit dem Kalender interagiert werden muss)
@@ -112,7 +112,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 - Fast immer ähnelt die Darstellung einem kleinen Monats-Kalender (ausser auf Mobile)
     - Oft mit einem zusätzlichen Schalter "Eingabe zurücksetzen" (visuell als "X" dargestellt)
 - Oft kann zwischen Monaten oder Jahren hin und her gewechselt werden über entsprechende Schalter (z.B. "Nächster Monat" oder "Vorhergehendes Jahr")
-    - Manchmal werden stattdessen Auswahl-Listen (`<select>` oder **✅-104 Dropdowns (Aufklapp-Elemente)**) angeboten
+    - Manchmal werden stattdessen Auswahl-Listen (`<select>` oder [✅ Dropdowns (Aufklapp-Elemente)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dropdowns-aufklapp-elemente)) angeboten
 
 #### Implementierung
 

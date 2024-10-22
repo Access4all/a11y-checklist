@@ -26,14 +26,14 @@ Text-Elemente, die sich zwischen den Eingabefeldern befinden (z.B. ein `<h3>` od
 ### Prüf-Schritte
 
 1. Seite mit Formular-Elementen öffnen
-1. **🏷️-50 Forms Bookmarklet** ausführen (oder mit **🏷️-47 DOM Inspektor** untersuchen)
+1. [🏷️ Forms Bookmarklet](/de/tags/werkzeuge/bookmarklets/forms-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) untersuchen)
 1. Sicherstellen, dass Text-Elemente zwischen Formular-Elementen korrekt mit diesen verbunden sind
-    - ⚠️ Jedes Eingabefeld benötigt ein `<label>`; dies wird aber nicht hier, sondern unter **✅-37 Formularfelder Labels** geprüft!
-    - ⚠️ Meldungen bei fehlerhaften Formular-Eingaben werden auch mit `aria-describedby` umgesetzt; dies wird aber nicht hier, sondern unter **✅-93 Fehlermeldungen in Formularen** geprüft!
+    - ⚠️ Jedes Eingabefeld benötigt ein `<label>`; dies wird aber nicht hier, sondern unter [✅ Formularfelder Labels](/de/wcag/1.3.1c-formular-beziehungen/formularfelder-labels) geprüft!
+    - ⚠️ Meldungen bei fehlerhaften Formular-Eingaben werden auch mit `aria-describedby` umgesetzt; dies wird aber nicht hier, sondern unter [✅ Fehlermeldungen in Formularen](/de/wcag/3.3.1-fehlerkennzeichnung/fehlermeldungen-in-formularen) geprüft!
     - **🙂 Beispiel:** Unter einem Text-Feld befindet sich ein `<p>` mit weiteren Anweisungen (z.B. "Wir freuen uns über konstruktive Kritik"). Der Paragraf ist via `aria-describedby` mit dem Text-Feld verbunden.
         - **😡 Beispiel:** Der Paragraf ist **nicht** verbunden.
     - **🙄 Beispiel:** Eine Gruppe von Radiobuttons wird mit einem `<p>` "Bitte wählen Sie Ihre Lieblingsspeise" eingeleitet; der Paragraf ist via `aria-describedby` mit jedem einzelnen Radiobutton verbunden.
-        - ⚠️ Hier wäre eine `<fieldset>`/`<legend>`-Kombination vorzuziehen, siehe **✅-35 Fieldset / Legend**
+        - ⚠️ Hier wäre eine `<fieldset>`/`<legend>`-Kombination vorzuziehen, siehe [✅ Fieldset / Legend](/de/wcag/1.3.1c-formular-beziehungen/fieldset-legend)
         - **😡 Beispiel:** der Paragraf ist via `aria-describedby` nur mit einem Radiobutton verbunden
             - ⚠️ Je nachdem, welche Radiobuttons vom Nutzer fokussiert werden, wird der assoziierte Text vom Screenreader ggf. nicht vorgelesen
     - **🙂 Beispiel:** Ein Schalter "Kauf abschliessen" mit einem `<p>` "Durch Abschicken des Formulars bestätige ich, die AGBs gelesen zu haben" davor oder danach; der Paragraf ist via `aria-describedby` mit dem Schalter verbunden.
@@ -41,7 +41,7 @@ Text-Elemente, die sich zwischen den Eingabefeldern befinden (z.B. ein `<h3>` od
 
 ### Nachprüfen mit Screenreader
 
-Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
+Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
 
 - `Tab` (oder auch `F` oder `I`) drücken, um von Eingabefeld zu Eingabefeld zu springen
 - Dann sicherstellen, dass der Screenreader alle relevante Information für's Feld vorliest
@@ -50,7 +50,7 @@ Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`)
 
 ### Nur Plain-Text via aria-describedby
 
-Elemente, die via `aria-describedby` (**🏷️-29 aria-describedby**) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
+Elemente, die via `aria-describedby` ([🏷️ aria-describedby](/de/tags/aria-attribute/aria-describedby)) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
 
 ## Screenshots typischer Fälle
 

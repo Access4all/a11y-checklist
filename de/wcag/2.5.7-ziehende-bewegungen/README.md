@@ -14,7 +14,7 @@ Für Inhalte, die über **Ziehbewegungen** (Drag & Drop) bedient werden, müssen
 
 ## Verstehen (ausführlich)
 
-Eine **Ziehbewegung** (Drag & Drop) zeichnet sich dadurch aus, dass sie einen **bestimmten Start- und exakten End-Punkt** aufweist. Der Pfad dazwischen hingegen ist nicht relevant (vergleiche mit **📜-2.5.1 Zeigergesten**).
+Eine **Ziehbewegung** (Drag & Drop) zeichnet sich dadurch aus, dass sie einen **bestimmten Start- und exakten End-Punkt** aufweist. Der Pfad dazwischen hingegen ist nicht relevant (vergleiche mit [📜-2.5.1 Zeigergesten](/de/wcag/2.5.1-zeigergesten)).
 
 Ziehbewegungen sind anspruchsvoll, weshalb gewisse User-Gruppen diese nicht (oder nur ungenau) ausführen können, z.B. Menschen mit Parkinson oder Tetraplegie.
 
@@ -24,7 +24,7 @@ Es ist deshalb wichtig, dass Funktionen, die auf Ziehbewegungen setzen, auch üb
 - Eine Einkaufsliste kann durch Ziehbewegung sortiert werden; zudem hat jedes Element ein Aufklapp-Menü mit Optionen wie "Element an den Anfang verschieben", "Element an Position X verschieben", etc.
 - In einem Projektmanagement-Werkzeug mit diversen Spalten können die Arbeitspakete mittels Ziehbewegung in eine beliebige Spalte verschoben werden; zudem für jedes Element ein Ausklapp-Menü geöffnet und Schaltflächen wie "In vorherige Spalte", "In Spalte X" oder "In letzte Spalte" ausgewählt werden.
 
-**Hinweis:** Dieses Erfolgskriterium kann auch erfüllt werden, indem für eine solche komplexe Funktion zusätzlich ein alternatives Bedien-Element besteht, welches denselben Zweck erfüllt. Wichtig: dieses muss mit einfachen Zeigereingaben bedienbar sein (eine reine Tastatur-Alternative ist also **nicht** zulässig, siehe **📜-2.1.1 Tastatur**).
+**Hinweis:** Dieses Erfolgskriterium kann auch erfüllt werden, indem für eine solche komplexe Funktion zusätzlich ein alternatives Bedien-Element besteht, welches denselben Zweck erfüllt. Wichtig: dieses muss mit einfachen Zeigereingaben bedienbar sein (eine reine Tastatur-Alternative ist also **nicht** zulässig, siehe [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur)).
 
 ### Verantwortlichkeiten
 

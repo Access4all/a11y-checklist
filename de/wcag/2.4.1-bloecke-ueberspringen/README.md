@@ -16,7 +16,7 @@ Sich auf jeder Seite **wiederholende Elemente** (etwa der Kopfbereich) müssen *
 
 Verschiedene Benutzergruppen sind auf Bedienungshilfen angewiesen zur Navigation auf Webseiten mit umfangreichem Inhalt. Eine Tastaturnutzerin etwa benötigt am Anfang jeder Seite einen Sprunglink "Zum Inhalt springen", um nicht nach jedem Neuladen durch die ganzen Elemente davor (Kopfbereich, Navigation, Breadcrumbs, usw.) tabben zu müssen. Dieser Link kann visuell versteckt und nur bei Fokus eingeblendet werden.
 
-Techniken, um das Überspringen solcher Elemente für bestimmte assistierende Technologien weiter zu vereinfachen, sind gut strukturierte Überschriften (siehe **📜-1.3.1a Überschriften-Struktur**) sowie `accesskey`-Attribute. Sprunglinks und Accesskeys werden idealerweise miteinander kombiniert.
+Techniken, um das Überspringen solcher Elemente für bestimmte assistierende Technologien weiter zu vereinfachen, sind gut strukturierte Überschriften (siehe [📜-1.3.1a Überschriften-Struktur](/de/wcag/1.3.1a-ueberschriften-struktur)) sowie `accesskey`-Attribute. Sprunglinks und Accesskeys werden idealerweise miteinander kombiniert.
 
 **Tipp:** Ein einzelner Sprunglink zum Inhalt reicht zur Erfüllung dieses Erfolgskriteriums.
 

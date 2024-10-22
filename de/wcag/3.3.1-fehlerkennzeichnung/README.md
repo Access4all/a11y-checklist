@@ -16,22 +16,22 @@ created_at: "2015-08-04 14:36:00"
 
 Wenn beim Ausfüllen eines Formulars das System Eingabefehler erkennt, so müssen die entsprechenden Fehlermeldungen für alle Nutzenden erfahrbar und zugehörige Eingabefelder identifizierbar sein.
 
-Für farbliche Hervorhebung gelten die gebräuchlichen Anforderungen an Kontraste, siehe **📜-1.4.3 Kontrast (Minimum)**, bzw. an Farbverwendung siehe **📜-1.4.1 Benutzung von Farbe**. Aber eine rein visuelle Änderung (z.B. rote oder dickere Umrandung eines fehlerhaften Eingabefelds, Hinzufügen eines Fehler-Symbols) reicht nicht aus, sondern es benötigt immer einen Hinweis **in Textform**, damit auch kognitiv Beeinträchtigte diesen verstehen können. Je nach Situation sind Best-Practices:
+Für farbliche Hervorhebung gelten die gebräuchlichen Anforderungen an Kontraste, siehe [📜-1.4.3 Kontrast (Minimum)](/de/wcag/1.4.3-kontrast-minimum), bzw. an Farbverwendung siehe [📜-1.4.1 Benutzung von Farbe](/de/wcag/1.4.1-benutzung-von-farbe). Aber eine rein visuelle Änderung (z.B. rote oder dickere Umrandung eines fehlerhaften Eingabefelds, Hinzufügen eines Fehler-Symbols) reicht nicht aus, sondern es benötigt immer einen Hinweis **in Textform**, damit auch kognitiv Beeinträchtigte diesen verstehen können. Je nach Situation sind Best-Practices:
 
 - Eine allgemeine Fehlermeldung am Anfang des Formulars, z.B. "Es sind 3 Fehler aufgetreten".
 - Spezifische Fehlermeldungen direkt bei den fehlerhaften Eingabefeldern, z.B. "Vorname muss ausgefüllt werden".
     - Diese können auch als Liste am Anfang des Formulars stehen (am besten verlinkt mit den zugehörigen Eingabefeldern).
 
-**Wichtig:** Für Screenreader-Nutzende reicht räumliche Gruppierung nicht aus, um eine Fehlermeldung mit dem entsprechenden Eingabefeld in Verbindung zu bringen; es muss eine Verknüpfung im Code erfolgen. Die einfachste Lösung besteht darin, die Fehlermeldungen (falls möglich) direkt ins `<label>`-Element zu setzen. Alternativ können sie mittels `aria-describedby` mit dem jeweiligen Eingabefeld (oder einem umspannenden `<fieldset>`-Element) verknüpft werden. Die Fehlermeldung wird dann automatisch vom Screenreader ausgegeben (zusätzlich zum `<label>`-Element), sobald das Eingabefeld fokussiert wird. Zur Handhabung von Formularen generell siehe auch **📜-1.3.1c Formular-Beziehungen**.
+**Wichtig:** Für Screenreader-Nutzende reicht räumliche Gruppierung nicht aus, um eine Fehlermeldung mit dem entsprechenden Eingabefeld in Verbindung zu bringen; es muss eine Verknüpfung im Code erfolgen. Die einfachste Lösung besteht darin, die Fehlermeldungen (falls möglich) direkt ins `<label>`-Element zu setzen. Alternativ können sie mittels `aria-describedby` mit dem jeweiligen Eingabefeld (oder einem umspannenden `<fieldset>`-Element) verknüpft werden. Die Fehlermeldung wird dann automatisch vom Screenreader ausgegeben (zusätzlich zum `<label>`-Element), sobald das Eingabefeld fokussiert wird. Zur Handhabung von Formularen generell siehe auch [📜-1.3.1c Formular-Beziehungen](/de/wcag/1.3.1c-formular-beziehungen).
 
-Zudem müssen Screenreader darüber informiert werden, dass überhaupt Fehlermeldungen angezeigt werden. Setzen Sie dazu den Fokus nach Abschicken des Formulars direkt ins erste fehlerhafte Feld, siehe **📜-2.4.3 Fokus-Reihenfolge**. Zusätzlich können Sie einen entsprechenden Hinweis im `<title>`-Element (Seitentitel) platzieren, siehe **📜-2.4.2 Seite mit Titel**. Manchmal ist auch eine Status-Nachricht hilfreich, siehe **📜-4.1.3 Statusmeldungen**.
+Zudem müssen Screenreader darüber informiert werden, dass überhaupt Fehlermeldungen angezeigt werden. Setzen Sie dazu den Fokus nach Abschicken des Formulars direkt ins erste fehlerhafte Feld, siehe [📜-2.4.3 Fokus-Reihenfolge](/de/wcag/2.4.3-fokus-reihenfolge). Zusätzlich können Sie einen entsprechenden Hinweis im `<title>`-Element (Seitentitel) platzieren, siehe [📜-2.4.2 Seite mit Titel](/de/wcag/2.4.2-seite-mit-titel). Manchmal ist auch eine Status-Nachricht hilfreich, siehe [📜-4.1.3 Statusmeldungen](/de/wcag/4.1.3-statusmeldungen).
 
-Auch Client-seitige Formular-Validierung kann eingesetzt werden, reicht alleine aber oft nicht aus, siehe **📜-3.3.3 Vorschlag bei Fehler**.
+Auch Client-seitige Formular-Validierung kann eingesetzt werden, reicht alleine aber oft nicht aus, siehe [📜-3.3.3 Vorschlag bei Fehler](/de/wcag/3.3.3-vorschlag-bei-fehler).
 
 ### Abgrenzung
 
 - Das vorliegende Erfolgskriterium stellt sicher, dass Fehler auf unterschiedlichen Wahrnehmungs-Kanälen **erfahrbar** sowie die zugehörigen Eingabefelder **identifizierbar** sind.
-- Dass sie **aussagekräftig** (also hilfreich bei der Fehlerbehebung) sind, wird von **📜-3.3.3 Vorschlag bei Fehler** gefordert.
+- Dass sie **aussagekräftig** (also hilfreich bei der Fehlerbehebung) sind, wird von [📜-3.3.3 Vorschlag bei Fehler](/de/wcag/3.3.3-vorschlag-bei-fehler) gefordert.
 
 ### Verantwortlichkeiten
 

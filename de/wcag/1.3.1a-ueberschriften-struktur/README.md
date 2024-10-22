@@ -19,9 +19,9 @@ Es müssen die Elemente `<h1>` bis `<h6>` verwendet werden; andere Formatierunge
 
 Die erste Überschrift einer Seite muss nicht unbedingt eine `<h1>` sein: oft starten Überschriften vor dem Haupt-Inhalt auf einer tieferen Ebene, damit die `<h1>` des Haupt-Inhalts für sich alleine steht.
 
-Überschriften sind im DOM generell das erste Element eines Inhaltsblocks. Sie benötigen immer einen nachfolgenden Inhalt (etwa Text, Listen, Tabellen, o.ä.) und sollen diesen prägnant beschreiben, siehe auch **📜-2.4.6 Überschriften und Beschriftungen (Labels)**.
+Überschriften sind im DOM generell das erste Element eines Inhaltsblocks. Sie benötigen immer einen nachfolgenden Inhalt (etwa Text, Listen, Tabellen, o.ä.) und sollen diesen prägnant beschreiben, siehe auch [📜-2.4.6 Überschriften und Beschriftungen (Labels)](/de/wcag/2.4.6-ueberschriften-und-beschriftungen-labels).
 
-**Hinweis:** Taucht eine Gruppe von verlinkten Überschriften ohne nachfolgenden Inhalt auf, dann wird besser eine Auflistung (z.B. `<ul>`) verwendet, siehe auch **📜-1.3.1b Aufzählungen und Listen** sowie [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}.
+**Hinweis:** Taucht eine Gruppe von verlinkten Überschriften ohne nachfolgenden Inhalt auf, dann wird besser eine Auflistung (z.B. `<ul>`) verwendet, siehe auch [📜-1.3.1b Aufzählungen und Listen](/de/wcag/1.3.1b-aufzaehlungen-und-listen) sowie [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}.
 
 **Wichtig:** Der HTML 5 Outline Algorithmus wird von assistierenden Technologien nicht unterstützt und gilt seit HTML 5.2 als obsolet.
 
@@ -29,7 +29,7 @@ Die erste Überschrift einer Seite muss nicht unbedingt eine `<h1>` sein: oft st
 
 - Das vorliegende Erfolgskriterium stellt sicher, dass vorhandene Überschriften **semantisch und hierarchisch korrekt umgesetzt** sind.
 - Dass solche überhaupt **vorhanden** sind, ist nicht immer erforderlich (Überschriften sind aber meistens die beste Technik, um Inhalte zu benennen und voneinander abzugrenzen).
-- Dass sie **aussagekräftig** sind, wird von **📜-2.4.6 Überschriften und Beschriftungen (Labels)** gefordert.
+- Dass sie **aussagekräftig** sind, wird von [📜-2.4.6 Überschriften und Beschriftungen (Labels)](/de/wcag/2.4.6-ueberschriften-und-beschriftungen-labels) gefordert.
 
 ### Verantwortlichkeiten
 

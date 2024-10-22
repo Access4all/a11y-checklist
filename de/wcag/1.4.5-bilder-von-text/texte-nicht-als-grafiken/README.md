@@ -30,7 +30,7 @@ Texte werden nicht nur als Grafiken eingebunden, denn diese lassen keine Anpassu
 1. Sicherstellen, dass Schriftgrafiken nur in legitimen Situationen verwendet werden
     - **🙂 Beispiel:** Es sind keinerlei Schriftgrafiken vorhanden
     - **🙂 Beispiel:** Ein grafisch aufwändiges Logo ist als Schriftgrafik eingebunden
-        - ⚠️ Dieses muss dann natürlich einen adäquaten Alternativtext aufweisen, siehe **✅-1 Informative Grafiken** bzw. **✅-10 Verlinktes Seiten-Logo**
+        - ⚠️ Dieses muss dann natürlich einen adäquaten Alternativtext aufweisen, siehe [✅ Informative Grafiken](/de/wcag/1.1.1-nicht-text-inhalt/informative-grafiken) bzw. [✅ Verlinktes Seiten-Logo](/de/wcag/1.1.1-nicht-text-inhalt/verlinktes-seiten-logo)
     - **🙄 Beispiel:** Eine Überschrift ist als Schriftgrafik, da sie einige visuelle Dekorationen aufweist
         - ⚠️ Bei sowas muss man sich immer fragen: legitimiert die rein ästhetische Optimierung eines Elements tatsächlich die Verringerung ihrer Barrierefreiheit?
     - **😡 Beispiel:** Ein komplexer Textinhalt (z.B. Paragrafen, Listen, etc.) ist komplett als Schriftgrafik umgesetzt

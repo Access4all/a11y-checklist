@@ -27,8 +27,8 @@ Der Einsatz von ARIA ist sinnvoll und korrekt. Wenn immer möglich werden Standa
 
 Für die Umsetzung von konkreten Elementen gibt es eine Fülle spezifischer Prüfpunkte:
 
-- Für **Inhalts-Elementen** siehe **📜-1.3.1 Info und Beziehungen**
-- Für **interaktive Elemente**, also JavaScript-Widgets, siehe **📜-4.1.2a Erweiterte Steuerelemente (Widgets)**
+- Für **Inhalts-Elementen** siehe [📜-1.3.1 Info und Beziehungen](/de/wcag/1.3.1-info-und-beziehungen)
+- Für **interaktive Elemente**, also JavaScript-Widgets, siehe [📜-4.1.2a Erweiterte Steuerelemente (Widgets)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets)
 
 Jedoch gelingt es nicht immer, ein geprüftes Element genau einem solchen Prüfpunkt zuzuordnen. Deshalb existiert der vorliegende Prüfpunkt: er ist eine Art Sammelbecken für Probleme mit weiteren Elementen, welche vermutlich auf mangelhaften oder unnötigen Einsatz von ARIA zurück zu führen sind.
 

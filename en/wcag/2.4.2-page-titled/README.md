@@ -21,7 +21,7 @@ The `<title>` element is the first thing that is output by assistive technologie
 
 The repetitive part (the operator information) should be placed at the end. In addition, the individual components of the title should be sensibly separated (e.g. with a hyphen).
 
-**Tip:** It is a good idea to also include urgent information (e.g. in the event of incorrect input after submitting a form) in the page title so that this is communicated at an early stage. See also **📜-3.3.1 Error Identification** in this regard.
+**Tip:** It is a good idea to also include urgent information (e.g. in the event of incorrect input after submitting a form) in the page title so that this is communicated at an early stage. See also [📜-3.3.1 Error Identification](/en/wcag/3.3.1-error-identification) in this regard.
 
 ### Responsibilities
 

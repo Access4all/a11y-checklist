@@ -26,7 +26,7 @@ Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informati
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. **🏷️-32 Image Alt Text Viewer Extension** ausführen (oder in **🏷️-51 Web Developer Extension** unter "Images" → "Display Alt Attributes" wählen)
+1. [🏷️ Image Alt Text Viewer Extension](/de/tags/werkzeuge/extensions/image-alt-text-viewer-extension) ausführen (oder in [🏷️ Web Developer Extension](/de/tags/werkzeuge/extensions/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass informative Grafiken einen passenden Alternativtext aufweisen
     - **🙂 Beispiel:** Ein Mitarbeiter-Foto hat den Alternativtext "Profilfoto von Hans Muster"
         - **🙂 Beispiel:** "Hans Muster" reicht ebenfalls, aber etwas mehr Info kann sinnvoll sein
@@ -34,10 +34,10 @@ Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informati
             - **😡 Beispiel:** Wenn es sich um eine Auflistung mehrerer Mitarbeiter handelt, reicht das nicht (Fotos nicht eindeutig zuordenbar)
         - **😡 Beispiel:** Es hat gar keinen Alternativtext
     - **🙂 Beispiel:** Ein Firmenlogo hat den Alternativtext "ACME Inc." oder "Logo von ACME Inc."
-        - **😡 Beispiel:** "Logo" (siehe **🎬-26 Aktiver Menü-Eintrag wird nicht angesagt - EWB**)
+        - **😡 Beispiel:** "Logo" (siehe **🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB**)
         - **😡 Beispiel:** Das Logo ist nicht als Bild (`<img>`, `<svg role="img">` o.ä.) umgesetzt, sondern nur per CSS (z.B. `background-image`)
     - **🙂 Beispiel:** Ein allein stehendes Warenkorb-Symbol hat den Alternativtext "Warenkorb"
-        - **🙄 Beispiel:** Das Warenkorb-Symbol steht neben einem zusätzlichen Text "Warenkorb" o.ä. → damit wird das Symbol redundant und sollte besser als dekorativ markiert werden (siehe **✅-13 Dekorative Grafiken**)
+        - **🙄 Beispiel:** Das Warenkorb-Symbol steht neben einem zusätzlichen Text "Warenkorb" o.ä. → damit wird das Symbol redundant und sollte besser als dekorativ markiert werden (siehe [✅ Dekorative Grafiken](/de/wcag/1.1.1-nicht-text-inhalt/dekorative-grafiken))
     - **🙂 Beispiel:** In einer Foto-Gallerie werden Fotos eines Team-Ausflugs gezeigt; jedes Foto hat einen Alternativ-Text, z.B. "Hans und Maria sitzen beim Feuer und plaudern fröhlich miteinander"
         - **🙄 Beispiel:** "Mitarbeitende reden" reicht, aber etwas mehr Kontext wäre nett
         - **🙄 Beispiel:** "Geschäftsausflug 2023, Foto Nr. 123" ist wirklich extrem minimalistisch

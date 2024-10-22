@@ -18,15 +18,15 @@ HTML offers a wealth of standard elements that can be used to implement most typ
 
 This success criterion requires the correct implementation of **interactive** elements in particular. For many other **non-interactive** HTML elements, see:
 
-- **📜-1.3.1a Headings structure**: Heading structure
-- **📜-1.3.1b Use of Lists**: Enumerations and lists
-- **📜-1.3.1c Forms, Labels and Fieldsets**: Form relationships
-- **📜-1.3.1d Tabular data**: Tabular data
-- **📜-1.3.1e Proper Semantic Markup**: Semantically correct markup
+- [📜-1.3.1a Headings structure](/en/wcag/1.3.1a-headings-structure): Heading structure
+- [📜-1.3.1b Use of Lists](/en/wcag/1.3.1b-use-of-lists): Enumerations and lists
+- [📜-1.3.1c Forms, Labels and Fieldsets](/en/wcag/1.3.1c-forms-labels-and-fieldsets): Form relationships
+- [📜-1.3.1d Tabular data](/en/wcag/1.3.1d-tabular-data): Tabular data
+- [📜-1.3.1e Proper Semantic Markup](/en/wcag/1.3.1e-proper-semantic-markup): Semantically correct markup
 
 ### Contains sub-success criterion
 
-This success criterion 4.1.2 is very extensive. In addition to the checkpoints that are located directly in it, there are further checkpoints in the sub-success criterion **📜-4.1.2a Advanced controls (widgets)**.
+This success criterion 4.1.2 is very extensive. In addition to the checkpoints that are located directly in it, there are further checkpoints in the sub-success criterion [📜-4.1.2a Advanced controls (widgets)](/en/wcag/4.1.2a-advanced-controls-widgets).
 
 **Important:** This division of success criteria into sub-success criteria does **not** exist in the original WCAG. It is a measure to promote the clarity of the WCAG.
 

@@ -26,7 +26,7 @@ Landmark Roles (HTML5-Elemente wie `<header>`, `<main>`, etc. sowie ARIA-Rollen)
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit **🏷️-13 NVDA Screenreader** die Seitenbereiche durch-navigieren (oder **🏷️-54 Landmarks Extension** verwenden)
+1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) die Seitenbereiche durch-navigieren (oder [🏷️ Landmarks Extension](/de/tags/werkzeuge/extensions/landmarks-extension) verwenden)
     - ⚠️ Eine Übersicht von Seitenbereichen (sog. Sprungmarken) kann mittels `Insert`+`F7` und dann `Alt`+`M` angezeigt werden
 1. Sicherstellen, dass die Seitenbereiche sinnvoll mit Landmarks ausgezeichnet sind
     - **🙂 Beispiel:** Der Kopfbereich, Hauptbereich, Fussbereich sowie Navigation(en) werden entsprechend angesagt

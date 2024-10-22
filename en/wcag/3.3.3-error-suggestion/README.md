@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 If errors are detected automatically and specific error messages are possible (e.g. about unfilled mandatory fields, non-compliance with format specifications, etc.), then error messages must be specific and informative.
 
-Use the techniques presented in **📜-3.3.1 Error Identification** for the `<label>` element and `aria-describedby` attribute.
+Use the techniques presented in [📜-3.3.1 Error Identification](/en/wcag/3.3.1-error-identification) for the `<label>` element and `aria-describedby` attribute.
 
 If necessary, give specific examples of how a field should be filled in. This helps to correct the errors in a targeted manner. General error messages such as "An error has occurred" are not permitted if the cause of the error is known.
 
@@ -31,7 +31,7 @@ Some examples of meaningful messages are:
 
 Avoid general collective messages such as "Passwords must be 8 characters long, contain upper and lower case letters and special characters", as it may not be clear which of the messages actually require a correction of the input. Instead, be specific and issue a separate message for each error found.
 
-**Note:** It is recommended to provide error messages directly next to each affected form field so that the assignments are immediately understandable. However, it is also possible to display all error messages at the top of the form as a list; ideally, each error message is then implemented as an anchor link to the corresponding input field. See also **📜-1.3.1c Forms, Labels and Fieldsets** for the handling of forms in general.
+**Note:** It is recommended to provide error messages directly next to each affected form field so that the assignments are immediately understandable. However, it is also possible to display all error messages at the top of the form as a list; ideally, each error message is then implemented as an anchor link to the corresponding input field. See also [📜-1.3.1c Forms, Labels and Fieldsets](/en/wcag/1.3.1c-forms-labels-and-fieldsets) for the handling of forms in general.
 
 ### Responsibilities
 
@@ -41,11 +41,11 @@ Avoid general collective messages such as "Passwords must be 8 characters long, 
 ### Delimitation
 
 - This success criterion ensures that existing error messages are **meaningful** (i.e. helpful for troubleshooting)
-- The fact that errors can be **experienced** on different perception channels and that the associated input fields are **identifiable** is required by **📜-3.3.1 Error Identification**.
+- The fact that errors can be **experienced** on different perception channels and that the associated input fields are **identifiable** is required by [📜-3.3.1 Error Identification](/en/wcag/3.3.1-error-identification).
 
 ## Examples
 
-See **📜-3.3.1 Error Identification** and **📜-3.3.2 Labels or Instructions**.
+See [📜-3.3.1 Error Identification](/en/wcag/3.3.1-error-identification) and [📜-3.3.2 Labels or Instructions](/en/wcag/3.3.2-labels-or-instructions).
 
 ## ✅ Checkpoints
 

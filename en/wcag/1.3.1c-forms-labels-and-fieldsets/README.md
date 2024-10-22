@@ -30,15 +30,15 @@ A heading (e.g. `<h1>`) at the beginning of a form makes sense. However, if ther
 - General introductory content (paragraphs, lists...) can be connected to the surrounding `<fieldset>`.
 - Specific notes (e.g. the format requirements for a password) can be conntected to the respective input field.
 - The same applies to error messages for incorrect input (e.g. "The password requires at least 1 special character").
-    - After submitting an incorrectly completed form, the keyboard focus should also be set to the first incorrect input field; see also **📜-2.4.3 Focus Order**.
+    - After submitting an incorrectly completed form, the keyboard focus should also be set to the first incorrect input field; see also [📜-2.4.3 Focus Order](/en/wcag/2.4.3-focus-order).
 
-We recommend being cautious with instructions in forms; for more detailed information, for example, you can link to a separate page or display it via dialog (**✅-103 Dialogs**) or accordion (**✅-100 TRANSLATION MISSING**).
+We recommend being cautious with instructions in forms; for more detailed information, for example, you can link to a separate page or display it via dialog ([✅ Dialogs](/en/wcag/4.1.2a-advanced-controls-widgets/dialogs)) or accordion ([✅ TRANSLATION MISSING](/en/wcag/4.1.2a-advanced-controls-widgets/translation-missing)).
 
 ### Delimitation
 
 - This success criterion ensures that existing labels and instructions in forms are **correctly implemented** (and thus connected to the input fields)
-- That they **exist** at all is required by **📜-3.3.2 Labels or Instructions**
-- That they are **meaningful** is required by **📜-2.4.6 Headings and Labels**.
+- That they **exist** at all is required by [📜-3.3.2 Labels or Instructions](/en/wcag/3.3.2-labels-or-instructions)
+- That they are **meaningful** is required by [📜-2.4.6 Headings and Labels](/en/wcag/2.4.6-headings-and-labels).
 
 ### Responsibilities
 

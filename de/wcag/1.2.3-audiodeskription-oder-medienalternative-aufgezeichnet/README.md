@@ -14,19 +14,19 @@ Für **aufgezeichnete Videos mit Audio** (etwa Spielfilme) muss eine **Textabsch
 
 ## Verstehen (ausführlich)
 
-Fügen Sie Textabschriften zu allen Videos mit Audio hinzu; dies wird in **📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)** erläutert (wobei hier sowohl auditive als auch visuelle Informationen relevant sind).
+Fügen Sie Textabschriften zu allen Videos mit Audio hinzu; dies wird in [📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet) erläutert (wobei hier sowohl auditive als auch visuelle Informationen relevant sind).
 
-**Wichtig:** Das vorliegende Erfolgskriterium erfüllt Level A. Es kann übersprungen werden, wenn Level AA erreicht werden soll; erarbeiten Sie stattdessen (oder zusätzlich) eine Audiodeskription gemäss **📜-1.2.5 Audiodeskription (aufgezeichnet)**.
+**Wichtig:** Das vorliegende Erfolgskriterium erfüllt Level A. Es kann übersprungen werden, wenn Level AA erreicht werden soll; erarbeiten Sie stattdessen (oder zusätzlich) eine Audiodeskription gemäss [📜-1.2.5 Audiodeskription (aufgezeichnet)](/de/wcag/1.2.5-audiodeskription-aufgezeichnet).
 
 **Hinweis:** Sie brauchen keine Alternative bereitzustellen, wenn das Element selbst bereits eine Zugangsalternative zu existierendem Inhalt darstellt.
 
 ### Verantwortlichkeiten
 
-Siehe **📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)** bzw. **📜-1.2.5 Audiodeskription (aufgezeichnet)**.
+Siehe [📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet) bzw. [📜-1.2.5 Audiodeskription (aufgezeichnet)](/de/wcag/1.2.5-audiodeskription-aufgezeichnet).
 
 ## Beispiele
 
-Siehe **📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)** bzw. **📜-1.2.5 Audiodeskription (aufgezeichnet)**.
+Siehe [📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet) bzw. [📜-1.2.5 Audiodeskription (aufgezeichnet)](/de/wcag/1.2.5-audiodeskription-aufgezeichnet).
 
 ## ✅ Checkpoints
 

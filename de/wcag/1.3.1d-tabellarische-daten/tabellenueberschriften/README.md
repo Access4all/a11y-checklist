@@ -26,7 +26,7 @@ Insbesondere komplexe Daten-Tabellen weisen Tabellenüberschriften (`<caption>`)
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. **🏷️-49 Tables (Bookmarklet)** ausführen
+1. [🏷️ Tables (Bookmarklet)](/de/tags/werkzeuge/bookmarklets/tables-bookmarklet) ausführen
 1. Sicherstellen, dass (insbesondere ausführliche) Tabellen eine Beschriftung (`<caption>`) haben
     - **🙂 Beispiel:** Eine ausführliche Tabelle hat die Beschriftung "Mitgliedstaaten der UNO"
     - **🙄 Beispiel:** Eine relativ kleine Tabelle hat eine Beschriftung mit `aria-label`
@@ -37,7 +37,7 @@ Insbesondere komplexe Daten-Tabellen weisen Tabellenüberschriften (`<caption>`)
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
 
 - Mit `T` zu Tabelle springen
 

@@ -26,7 +26,7 @@ Grafische Schalter sind korrekt beschriftet.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit **🏷️-13 NVDA Screenreader** die Schalter vorlesen lassen (oder in **🏷️-51 Web Developer Extension** unter "Images" → "Display Alt Attributes" wählen)
+1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) die Schalter vorlesen lassen (oder in [🏷️ Web Developer Extension](/de/tags/werkzeuge/extensions/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
     - ⚠️ Eine Übersicht von Schaltern kann mittels `Insert`+`F7` und dann `Alt`+`S` angezeigt werden
 1. Sicherstellen, dass grafische Schalter einen passenden Alternativtext aufweisen
     - **🙂 Beispiel:** Ein Schalter mit einem Warenkorb-Symbol hat die Beschriftung "Warenkorb", "Zum Warenkorb", "Warenkorb anzeigen", o.ä.

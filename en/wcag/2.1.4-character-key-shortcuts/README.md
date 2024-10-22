@@ -20,7 +20,7 @@ Typical use cases are, for example, when the search field automatically receives
 
 Single-button shortcuts can also cause problems for people with motor disabilities, especially if their hands are affected. Buttons can be pressed by mistake and actions triggered unintentionally. The context of use is lost as a result ("Where am I? What just happened? Why?").
 
-**Important:** This success criterion has no effect on the keyboard operability of native HTML elements (e.g. `<select>`s are of course still operated by individual keys), see **📜-2.1.1 Keyboard**. Keyboard shortcuts implemented by the `accesskey` attribute are also not affected.
+**Important:** This success criterion has no effect on the keyboard operability of native HTML elements (e.g. `<select>`s are of course still operated by individual keys), see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard). Keyboard shortcuts implemented by the `accesskey` attribute are also not affected.
 
 ### Responsibilities
 

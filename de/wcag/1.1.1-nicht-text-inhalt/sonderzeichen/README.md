@@ -26,7 +26,7 @@ Sonderzeichen (etwa "-10%", "CHF 20.35.-" oder "23.11.2023") vermitteln Informat
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit **🏷️-13 NVDA Screenreader** die Inhalte lesen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) die Inhalte lesen
 1. Sicherstellen, dass symbolhafte Schriftzeichen sinnvoll ausgegeben werden
     - **🙂 Beispiel:** Der Text "Der Zucker-Anteil hat sich um -10% verändert!" wird als "Der Zucker-Anteil hat sich um **minus** zehn Prozent verändert!" ausgesprochen
         - **😡 Beispiel:** Der Text wird als "Der Zucker-Anteil hat sich um zehn Prozent verändert!" ausgesprochen (das Minus-Zeichen wird "verschluckt")

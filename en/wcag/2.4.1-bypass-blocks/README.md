@@ -16,7 +16,7 @@ It must be possible to skip over **repeating elements** (such as the header) on 
 
 Various user groups rely on accessibility features to navigate websites with extensive content. A keyboard user, for example, needs a ‘Jump to content’ link at the top of every page to avoid having to tab through all the previous elements (header, navigation, breadcrumbs, etc.) after every reload. This link can be hidden visually and only displayed when the focus is on.
 
-Techniques to further simplify the skipping of such elements for certain assistive technologies are well-structured headings (see **📜-1.3.1a Headings structure**) and `accesskey` attributes. Jump links and access keys are ideally combined with each other.
+Techniques to further simplify the skipping of such elements for certain assistive technologies are well-structured headings (see [📜-1.3.1a Headings structure](/en/wcag/1.3.1a-headings-structure)) and `accesskey` attributes. Jump links and access keys are ideally combined with each other.
 
 **Tip:** A single jump link to the content is sufficient to fulfil this success criterion.
 

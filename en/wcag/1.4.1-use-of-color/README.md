@@ -22,7 +22,7 @@ We also recommend that status changes (such as hover and focus) are not only ind
 
 **Note:** This success criterion explicitly addresses colour perception. Other forms of perception are addressed in guideline 📜-1.3.
 
-**Important:** If colour differentiation alone is nevertheless to be used (e.g. for links in a text), the elements to be differentiated must have a contrast ratio of at least `3:1` to the surroundings (see **📜-1.4.3 Contrast (Minimum)**). However, it is difficult to achieve such a differentiation using contrasts alone, as the various contrast requirements (between link and background, between continuous text and background and between link and continuous text) severely limit the possibilities.
+**Important:** If colour differentiation alone is nevertheless to be used (e.g. for links in a text), the elements to be differentiated must have a contrast ratio of at least `3:1` to the surroundings (see [📜-1.4.3 Contrast (Minimum)](/en/wcag/1.4.3-contrast-minimum)). However, it is difficult to achieve such a differentiation using contrasts alone, as the various contrast requirements (between link and background, between continuous text and background and between link and continuous text) severely limit the possibilities.
 
 ### Responsibilities
 

@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 If instructions describe a form in more detail (e.g. information on the input format or whether a field requires an entry), these must be visible to all users and the associated input field must be identifiable. Spatial grouping is not sufficient for visually impaired people with screen readers.
 
-Use the techniques presented in **📜-3.3.1 Error Identification** for the `<label>` element and `aria-describedby` attribute. Make sure that labels remain visible even when input is entered: a `placeholder` attribute alone is not sufficient, as it disappears when input is entered. Specific input formats and conventions must be explained, for example if an asterisk (`*`) is used to designate mandatory fields, or if a password must have a specific format. See also **📜-1.3.1c Forms, Labels and Fieldsets** on the handling of forms in general.
+Use the techniques presented in [📜-3.3.1 Error Identification](/en/wcag/3.3.1-error-identification) for the `<label>` element and `aria-describedby` attribute. Make sure that labels remain visible even when input is entered: a `placeholder` attribute alone is not sufficient, as it disappears when input is entered. Specific input formats and conventions must be explained, for example if an asterisk (`*`) is used to designate mandatory fields, or if a password must have a specific format. See also [📜-1.3.1c Forms, Labels and Fieldsets](/en/wcag/1.3.1c-forms-labels-and-fieldsets) on the handling of forms in general.
 
 
 ### Responsibilities
@@ -27,8 +27,8 @@ Use the techniques presented in **📜-3.3.1 Error Identification** for the `<la
 ### Delimitation
 
 - This success criterion ensures that labels and instructions **exist**.
-- That they are **meaningful** is required by **📜-2.4.6 Headings and Labels**.
-- That they are correctly implemented (and thus linked to the input fields) is required by **📜-1.3.1c Forms, Labels and Fieldsets**.
+- That they are **meaningful** is required by [📜-2.4.6 Headings and Labels](/en/wcag/2.4.6-headings-and-labels).
+- That they are correctly implemented (and thus linked to the input fields) is required by [📜-1.3.1c Forms, Labels and Fieldsets](/en/wcag/1.3.1c-forms-labels-and-fieldsets).
 
 ## Examples
 

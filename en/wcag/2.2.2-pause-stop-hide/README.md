@@ -18,7 +18,7 @@ Permanently animated elements (such as advertising banners) require additional a
 
 **Exceptions:** If the movement is an animation that runs to indicate that something is loading (a ‘spinner’); or if the animation lasts no longer than 5 seconds.
 
-**Note:** For requirements related to flickering or flashing content, see **📜-2.3.1 Three Flashes or Below Threshold**.
+**Note:** For requirements related to flickering or flashing content, see [📜-2.3.1 Three Flashes or Below Threshold](/en/wcag/2.3.1-three-flashes-or-below-threshold).
 
 ### Responsibilities
 

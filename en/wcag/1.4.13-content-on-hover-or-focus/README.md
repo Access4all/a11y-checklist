@@ -14,7 +14,7 @@ created_at: "2019-11-10 20:20:52"
 
 ## Understanding (long)
 
-Elements that are shown or hidden by the user's interaction (e.g. tooltips, see **✅-107 QuickInfos / Toggletips**) can be confusing if they do not behave and operate predictably. Additional content that appears when the mouse pointer or keyboard is focussed is particularly problematic for people with visual impairments who work with high zoom magnification.
+Elements that are shown or hidden by the user's interaction (e.g. tooltips, see [✅ QuickInfos / Toggletips](/en/wcag/4.1.2a-advanced-controls-widgets/quickinfos-toggletips)) can be confusing if they do not behave and operate predictably. Additional content that appears when the mouse pointer or keyboard is focussed is particularly problematic for people with visual impairments who work with high zoom magnification.
 
 The following aspects must be taken into account:
 
@@ -28,7 +28,7 @@ The following aspects must be taken into account:
 ### Notes
 
 - If activating (clicking, tapping, Enter key) the element that fades in the content leads to the faded-in content being closed, the context must remain (and no further actions that change the context, such as activating a link, may be triggered).
-- If content is displayed via hover, it must also be displayed with keyboard focus, unless it is made available as an alternative. For requirements relating to the keyboard, see success criterion **📜-2.1.1 Keyboard**.
+- If content is displayed via hover, it must also be displayed with keyboard focus, unless it is made available as an alternative. For requirements relating to the keyboard, see success criterion [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard).
 - The requirement does not apply to displayed content whose behaviour is determined by the user agent (e.g. browser) (e.g. native `title` attributes).
 
 ### Responsibilities

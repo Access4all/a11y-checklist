@@ -25,7 +25,7 @@ Therefore, functionality that is operated with a pointing device must fulfil at 
 
 ### Notes
 
-- For more complex interactions, e.g. drag-and-drop (see also **📜-2.5.7 Dragging Movements**), the need for a cancel or undo function increases.
+- For more complex interactions, e.g. drag-and-drop (see also [📜-2.5.7 Dragging Movements](/en/wcag/2.5.7-dragging-movements)), the need for a cancel or undo function increases.
 - If the function has to be confirmed by a dialogue after execution, there is no need for an undo function.
 - An ‘up’ event is the execution of an action when the pointer is released, i.e. the mouse button is released or the finger is lifted on a touchscreen. Mousedown', “touchstart” and “pointerdown” are regarded as “down” events.
 

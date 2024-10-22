@@ -22,7 +22,7 @@ Wir empfehlen zudem, dass Zustandsänderungen (wie Hover und Fokus) nicht nur ü
 
 **Hinweis:** Dieses Erfolgskriterium spricht ausdrücklich die Farbwahrnehmung an. Andere Formen der Wahrnehmung werden in Richtlinie 📜-1.3 behandelt.
 
-**Wichtig:** Wenn trotzdem farbliche Unterscheidung alleine verwendet werden soll (z.B. für Links in einem Text), so müssen die zu unterscheidenden Elemente ein Kontrastverhältnis von mindestens `3:1` zur Umgebung aufweisen (siehe **📜-1.4.3 Kontrast (Minimum)**). Eine solche Unterscheidung allein mittels Kontrasten zu realisieren, ist allerdings schwierig, denn die verschiedenen Kontrastanforderungen (zwischen Link und Hintergrund, zwischen Fliesstext und Hintergrund sowie zwischen Link und Fliesstext) schränken die Möglichkeiten stark ein.
+**Wichtig:** Wenn trotzdem farbliche Unterscheidung alleine verwendet werden soll (z.B. für Links in einem Text), so müssen die zu unterscheidenden Elemente ein Kontrastverhältnis von mindestens `3:1` zur Umgebung aufweisen (siehe [📜-1.4.3 Kontrast (Minimum)](/de/wcag/1.4.3-kontrast-minimum)). Eine solche Unterscheidung allein mittels Kontrasten zu realisieren, ist allerdings schwierig, denn die verschiedenen Kontrastanforderungen (zwischen Link und Hintergrund, zwischen Fliesstext und Hintergrund sowie zwischen Link und Fliesstext) schränken die Möglichkeiten stark ein.
 
 ### Verantwortlichkeiten
 

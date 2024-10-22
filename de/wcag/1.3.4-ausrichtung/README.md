@@ -16,7 +16,7 @@ created_at: "2019-11-10 20:18:36"
 
 Menschen mit bestimmten Behinderungen arbeiten mit einem fix montierten Ausgabegerät, z.B. mit einem am Rollstuhl befestigten Smartphone (physisch in einer Halterung verankert). Ihnen ist es nicht möglich, das Gerät zu drehen. Menschen mit starker Sehbehinderung bevorzugen unter Umständen die Quer-Orientierung des Smartphones, weil Inhalte dann potenziell grösser dargestellt werden. Es ist deshalb wichtig, dass Web-Inhalte sowohl im Hoch- als auch im Querformat angezeigt und bedient werden können.
 
-Passt sich der Inhalt nicht automatisch an die Bildschirmorientierung an, so muss ein Schalter angeboten werden zum manuellen Drehen des Bildschirminhalts. Für Websites wird dies vom Browser sichergestellt, siehe auch **📜-1.4.10 Automatischer Umbruch (Reflow)**. Für Mobile Apps liegt die Umsetzung beim Designteam und beim Entwicklungsteam.
+Passt sich der Inhalt nicht automatisch an die Bildschirmorientierung an, so muss ein Schalter angeboten werden zum manuellen Drehen des Bildschirminhalts. Für Websites wird dies vom Browser sichergestellt, siehe auch [📜-1.4.10 Automatischer Umbruch (Reflow)](/de/wcag/1.4.10-automatischer-umbruch-reflow). Für Mobile Apps liegt die Umsetzung beim Designteam und beim Entwicklungsteam.
 
 **Ausnahmen:** Anwendungsfälle, bei denen eine spezifische Bildschirmorientierung vorausgesetzt wird (etwa eine Klavier-App, welche das Querformat benötigt, um genügend Tasten darzustellen, bzw. wo die benötigte Anzahl Tasten im Hochformat zu eng dargestellt werden müsste).
 

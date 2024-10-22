@@ -25,7 +25,7 @@ Deshalb muss Funktionalität, welche mit einem Zeigegerät bedient wird, mindest
 
 ### Hinweise
 
-- Für komplexere Interaktionen, z.B. Drag-and-Drop (siehe auch **📜-2.5.7 Ziehende Bewegungen**), steigt die Notwendigkeit für eine Abbruch- oder Rückgängig-Funktion.
+- Für komplexere Interaktionen, z.B. Drag-and-Drop (siehe auch [📜-2.5.7 Ziehende Bewegungen](/de/wcag/2.5.7-ziehende-bewegungen)), steigt die Notwendigkeit für eine Abbruch- oder Rückgängig-Funktion.
 - Wenn die Funktion nach dem Ausführen durch einen Dialog bestätigt werden muss, dann entfällt die Notwendigkeit für eine Rückgängig-Funktion.
 - Unter `up`-Event versteht man das Ausführen einer Aktion, wenn der Zeiger losgelassen wird, also die Maustaste losgelassen bzw. auf einem Touchscreen der Finger angehoben wird. Als `down`-Events gelten `mousedown`, `touchstart` und `pointerdown`.
 

@@ -14,15 +14,15 @@ created_at: "2015-08-04 14:36:00"
 
 ## Understanding (long)
 
-People who interact with a website using the keyboard move their focus through the interactive elements in their sequential order (see **📜-2.1.1 Keyboard**). Make sure that the order of the focus is intuitive and that the focus jumps from element to element in a comprehensible way (according to the visual arrangement) when tabbing through the individual elements.
+People who interact with a website using the keyboard move their focus through the interactive elements in their sequential order (see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard)). Make sure that the order of the focus is intuitive and that the focus jumps from element to element in a comprehensible way (according to the visual arrangement) when tabbing through the individual elements.
 
-Normally, the arrangement of the elements in the DOM determines the order (see **📜-1.3.2 Meaningful Sequence**). If this is to be overridden, the `tabindex` attribute can be used, but this is generally not recommended.
+Normally, the arrangement of the elements in the DOM determines the order (see [📜-1.3.2 Meaningful Sequence](/en/wcag/1.3.2-meaningful-sequence)). If this is to be overridden, the `tabindex` attribute can be used, but this is generally not recommended.
 
-Also make it easier to navigate using the keyboard by intelligently guiding the focus (e.g. via JavaScript or `autofocus` attribute). For example, when opening a modal dialog (**✅-103 Dialogs**), set the focus directly into it; prevent it from jumping back into the darkened background; and set the focus back to the previous element when the dialog is closed. Be careful, however, that no keyboard trap occurs (see **📜-2.1.2 No Keyboard Trap**).
+Also make it easier to navigate using the keyboard by intelligently guiding the focus (e.g. via JavaScript or `autofocus` attribute). For example, when opening a modal dialog ([✅ Dialogs](/en/wcag/4.1.2a-advanced-controls-widgets/dialogs)), set the focus directly into it; prevent it from jumping back into the darkened background; and set the focus back to the previous element when the dialog is closed. Be careful, however, that no keyboard trap occurs (see [📜-2.1.2 No Keyboard Trap](/en/wcag/2.1.2-no-keyboard-trap)).
 
-Focus guidance can also be appropriate in forms. For example, when submitting an incorrectly completed form, place the focus directly on the first incorrect input field (see **📜-3.3.1 Error Identification**). As a guideline: what does the user want to interact with next?
+Focus guidance can also be appropriate in forms. For example, when submitting an incorrectly completed form, place the focus directly on the first incorrect input field (see [📜-3.3.1 Error Identification](/en/wcag/3.3.1-error-identification)). As a guideline: what does the user want to interact with next?
 
-Also avoid the focus being visually "lost" (e.g. because invisible elements can be focused, see also **📜-2.4.11 Focus Not Obscured (Minimum)**) or unexpectedly being reset to the top of the page (e.g. because the previously focused element was suddenly removed from the DOM).
+Also avoid the focus being visually "lost" (e.g. because invisible elements can be focused, see also [📜-2.4.11 Focus Not Obscured (Minimum)](/en/wcag/2.4.11-focus-not-obscured-minimum)) or unexpectedly being reset to the top of the page (e.g. because the previously focused element was suddenly removed from the DOM).
 
 ### Responsibilities
 
@@ -31,7 +31,7 @@ Also avoid the focus being visually "lost" (e.g. because invisible elements can 
 ### Delimitation
 
 - This success criterion ensures that **manual overriding** of the DOM sequence for the focus sequence makes sense.
-- That the DOM order be **meaningful in itself** is required by **📜-1.3.2 Meaningful Sequence**.
+- That the DOM order be **meaningful in itself** is required by [📜-1.3.2 Meaningful Sequence](/en/wcag/1.3.2-meaningful-sequence).
 
 ## Examples
 

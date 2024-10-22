@@ -14,7 +14,7 @@ V.a. für Fehlermeldungen sinnvoll.
 
 Elemente, die via `aria-describedby` mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
 
-Vgl. z.B. **✅-36 Text elements between input fields** und **✅-93 Error messages in forms**.
+Vgl. z.B. [✅ Text elements between input fields](/en/wcag/1.3.1c-forms-labels-and-fieldsets/text-elements-between-input-fields) und [✅ Error messages in forms](/en/wcag/3.3.1-error-identification/error-messages-in-forms).
 
 ### Mehrere IDs möglich
 

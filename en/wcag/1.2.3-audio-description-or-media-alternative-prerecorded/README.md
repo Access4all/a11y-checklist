@@ -14,19 +14,19 @@ For **recorded videos with audio** (such as feature films), a **text transcript*
 
 ## Understanding (long)
 
-Add text transcripts to all videos with audio; this is explained in **📜-1.2.1 Audio-only and Video-only (Prerecorded)** (where both auditory and visual information is relevant).
+Add text transcripts to all videos with audio; this is explained in [📜-1.2.1 Audio-only and Video-only (Prerecorded)](/en/wcag/1.2.1-audio-only-and-video-only-prerecorded) (where both auditory and visual information is relevant).
 
-**Important:** This success criterion fulfils level A. It can be skipped if level AA is to be achieved; instead (or in addition) develop an audio description according to **📜-1.2.5 Audio Description (Prerecorded)**.
+**Important:** This success criterion fulfils level A. It can be skipped if level AA is to be achieved; instead (or in addition) develop an audio description according to [📜-1.2.5 Audio Description (Prerecorded)](/en/wcag/1.2.5-audio-description-prerecorded).
 
 **Note:** You do not need to provide an alternative if the element itself is already an access alternative to existing content.
 
 ### Responsibilities
 
-See **📜-1.2.1 Audio-only and Video-only (Prerecorded)** or **📜-1.2.5 Audio Description (Prerecorded)**.
+See [📜-1.2.1 Audio-only and Video-only (Prerecorded)](/en/wcag/1.2.1-audio-only-and-video-only-prerecorded) or [📜-1.2.5 Audio Description (Prerecorded)](/en/wcag/1.2.5-audio-description-prerecorded).
 
 ## Examples
 
-See **📜-1.2.1 Audio-only and Video-only (Prerecorded)** and **📜-1.2.5 Audio Description (Prerecorded)**.
+See [📜-1.2.1 Audio-only and Video-only (Prerecorded)](/en/wcag/1.2.1-audio-only-and-video-only-prerecorded) and [📜-1.2.5 Audio Description (Prerecorded)](/en/wcag/1.2.5-audio-description-prerecorded).
 
 ## ✅ Checkpoints
 

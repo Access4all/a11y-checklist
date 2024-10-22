@@ -33,7 +33,7 @@ Inhalte/Funktionalitäten (Seitenfunktionalitäten, Seitenelemente, Formularfeld
         - **🙄 Beispiel:** Ein custom Link oder Schalter (`<span onclick tabindex="0">`) ist fokussierbar.
             - ⚠️ Es sollten aber besser native HTML-Elemente eingesetzt werden!
         - **😡 Beispiel:** Ein JavaScript-Widget ist ggf. nicht fokussierbar.
-    - Falls Fokus schlecht (oder gar nicht) sichtbar → **🏷️-22 NerdeFocus Extension** aktivieren
+    - Falls Fokus schlecht (oder gar nicht) sichtbar → [🏷️ NerdeFocus Extension](/de/tags/werkzeuge/extensions/nerdefocus-extension) aktivieren
 1. Sicherstellen, dass alle interaktiven Elemente mit Tastatur alleine bedienbar sind:
     - Links und Schalter mit `Enter`-Taste aktivierbar?
         - **🙂 Beispiel:** Alle nativen interaktiven HTML-Elemente sind von Natur aus aktivierbar (z.B. `<button>` oder `<a href>`).
@@ -46,23 +46,23 @@ an-/abgewählt werden.
         - **😡 Beispiel:** Die custom Implementation einer ausklappbaren Liste von Werten kann mit `Hoch`/`Runter` nicht bedient werden.
     - JavaScript-Widgets erwartungsgemäss steuerbar?
         - Für Tastatur-Bedienung geläufiger JavaScript-Widgets siehe:
-            - Akkordeons: **✅-100 Akkordeons**
-            - Autocompletes: **✅-101 Autocompletes (Comboboxen)**
-            - Datepicker: **✅-102 Datepicker / Timepicker**
-            - Dialoge: **✅-103 Dialoge**
-            - Aufklapp-Elemente (Dropdowns): **✅-104 Dropdowns (Aufklapp-Elemente)**
-            - Karusselle: **✅-105 Karusselle**
-            - Tabs: **✅-106 Tabs / Tablisten**
-            - Tooltips: **✅-107 Tooltips / Toggletips**
+            - Akkordeons: [✅ Akkordeons](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/akkordeons)
+            - Autocompletes: [✅ Autocompletes (Comboboxen)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/autocompletes-comboboxen)
+            - Datepicker: [✅ Datepicker / Timepicker](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/datepicker-timepicker)
+            - Dialoge: [✅ Dialoge](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dialoge)
+            - Aufklapp-Elemente (Dropdowns): [✅ Dropdowns (Aufklapp-Elemente)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dropdowns-aufklapp-elemente)
+            - Karusselle: [✅ Karusselle](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/karusselle)
+            - Tabs: [✅ Tabs / Tablisten](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/tabs-tablisten)
+            - Tooltips: [✅ Tooltips / Toggletips](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/tooltips-toggletips)
             - Cards: [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}
             - Weitere JavaScript-Widgets: [✅-108 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}
 
 ### Verwandte Prüfpunkte
 
-- Bei Tastatur-Fallen: **✅-66 Tastaturfallen**
-- Bei mangelhafter Fokus-Reihenfolge: **✅-73 Fokus-Reihenfolge**
-- Bei mangelhafter Fokus-Führung: **✅-74 Fokus-Führung**
-- Wenn Tastatur-Fokus nicht sichtbar: **✅-81 Tastatur-Fokus sichtbar**
+- Bei Tastatur-Fallen: [✅ Tastaturfallen](/de/wcag/2.1.2-keine-tastaturfalle/tastaturfallen)
+- Bei mangelhafter Fokus-Reihenfolge: [✅ Fokus-Reihenfolge](/de/wcag/2.4.3-fokus-reihenfolge/fokus-reihenfolge)
+- Bei mangelhafter Fokus-Führung: [✅ Fokus-Führung](/de/wcag/2.4.3-fokus-reihenfolge/fokus-fuehrung)
+- Wenn Tastatur-Fokus nicht sichtbar: [✅ Tastatur-Fokus sichtbar](/de/wcag/2.4.7-fokus-sichtbar/tastatur-fokus-sichtbar)
 
 ## Screenshots typischer Fälle
 

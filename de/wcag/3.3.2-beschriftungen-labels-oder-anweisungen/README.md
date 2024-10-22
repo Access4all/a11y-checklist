@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 Wenn Anweisungen ein Formular näher beschreiben (etwa Angaben zum Eingabeformat, oder ob ein Feld eine Eingabe erfordert), so müssen diese für alle Nutzenden erfahrbar und das zugehörige Eingabefeld identifizierbar sein. Räumliche Gruppierung reicht für visuell beeinträchtigte Menschen mit Screenreader nicht aus.
 
-Verwenden Sie sinngemäss die in **📜-3.3.1 Fehlerkennzeichnung** vorgestellten Techniken rund um `<label>`-Element und `aria-describedby`-Attribut. Stellen Sie sicher, dass Labels auch bei Eingabe sichtbar bleiben: ein `placeholder`-Attribut allein reicht nicht aus, da es bei der Eingabe verschwindet. Spezifische Eingabeformate und Konventionen müssen erklärt werden, etwa wenn für die Bezeichnung von Pflichtfeldern ein Asterisk (`*`) eingesetzt wird, oder wenn ein Passwort ein bestimmtes Format haben muss. Zur Handhabung von Formularen generell siehe auch **📜-1.3.1c Formular-Beziehungen**.
+Verwenden Sie sinngemäss die in [📜-3.3.1 Fehlerkennzeichnung](/de/wcag/3.3.1-fehlerkennzeichnung) vorgestellten Techniken rund um `<label>`-Element und `aria-describedby`-Attribut. Stellen Sie sicher, dass Labels auch bei Eingabe sichtbar bleiben: ein `placeholder`-Attribut allein reicht nicht aus, da es bei der Eingabe verschwindet. Spezifische Eingabeformate und Konventionen müssen erklärt werden, etwa wenn für die Bezeichnung von Pflichtfeldern ein Asterisk (`*`) eingesetzt wird, oder wenn ein Passwort ein bestimmtes Format haben muss. Zur Handhabung von Formularen generell siehe auch [📜-1.3.1c Formular-Beziehungen](/de/wcag/1.3.1c-formular-beziehungen).
 
 ### Verantwortlichkeiten
 
@@ -26,8 +26,8 @@ Verwenden Sie sinngemäss die in **📜-3.3.1 Fehlerkennzeichnung** vorgestellte
 ### Abgrenzung
 
 - Das vorliegende Erfolgskriterium stellt sicher, dass Labels und Anweisungen **vorhanden** sind.
-- Dass sie **aussagekräftig** sind, wird von **📜-2.4.6 Überschriften und Beschriftungen (Labels)** gefordert.
-- Dass sie korrekt umgesetzt (und dadurch mit den Eingabefeldern verknüpft) sind, wird von **📜-1.3.1c Formular-Beziehungen** gefordert.
+- Dass sie **aussagekräftig** sind, wird von [📜-2.4.6 Überschriften und Beschriftungen (Labels)](/de/wcag/2.4.6-ueberschriften-und-beschriftungen-labels) gefordert.
+- Dass sie korrekt umgesetzt (und dadurch mit den Eingabefeldern verknüpft) sind, wird von [📜-1.3.1c Formular-Beziehungen](/de/wcag/1.3.1c-formular-beziehungen) gefordert.
 
 ## Beispiele
 

@@ -14,16 +14,16 @@ Der **Tastatur-Fokus** soll möglichst **nicht verdeckt** werden von anderen Ele
 
 ## Verstehen (ausführlich)
 
-Wenn das aktuell fokussierte Element von anderen Elementen verdeckt wird, erschwert dies die Navigation per Tastatur erheblich (siehe **📜-2.1.1 Tastatur**). Dies kann etwa passieren, wenn der Fussbereich beim Scrollen fixiert ist ("Sticky Footer") und sich das fokussierte Element ganz unten im Viewport befindet.
+Wenn das aktuell fokussierte Element von anderen Elementen verdeckt wird, erschwert dies die Navigation per Tastatur erheblich (siehe [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur)). Dies kann etwa passieren, wenn der Fussbereich beim Scrollen fixiert ist ("Sticky Footer") und sich das fokussierte Element ganz unten im Viewport befindet.
 
 Ein teilweises Verdecken des Fokus ist tolerierbar, wenn auch zu vermeiden; ein komplettes Verdecken ist inakzeptabel.
 
-**Hinweis:** Schlechte Fokus-Führung kann solche Probleme ebenfalls verursachen, siehe auch **📜-2.4.3 Fokus-Reihenfolge**.
+**Hinweis:** Schlechte Fokus-Führung kann solche Probleme ebenfalls verursachen, siehe auch [📜-2.4.3 Fokus-Reihenfolge](/de/wcag/2.4.3-fokus-reihenfolge).
 
 ### Ausnahmen
 
-- Vernachlässigbar sind Situationen, in denen ein Element den umgebenden Inhalt temporär überlappt: etwa wenn der Fokus hinter einem zuvor geöffneten Datumswähler (**✅-102 Datepicker / Timepicker**) verschwindet. Wichtig ist, dass das überlappende Element bei Bedarf geschlossen werden kann (z.B. mittels `Esc`-Taste).
-- Die Position mancher Elemente kann durch Nutzende verändert werden, etwa gewisse Dialoge (**✅-103 Dialoge**); bei solchen Elementen muss nur die initiale Position den Ansprüchen genügen, also direkt nach Auftauchen des Dialogs.
+- Vernachlässigbar sind Situationen, in denen ein Element den umgebenden Inhalt temporär überlappt: etwa wenn der Fokus hinter einem zuvor geöffneten Datumswähler ([✅ Datepicker / Timepicker](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/datepicker-timepicker)) verschwindet. Wichtig ist, dass das überlappende Element bei Bedarf geschlossen werden kann (z.B. mittels `Esc`-Taste).
+- Die Position mancher Elemente kann durch Nutzende verändert werden, etwa gewisse Dialoge ([✅ Dialoge](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dialoge)); bei solchen Elementen muss nur die initiale Position den Ansprüchen genügen, also direkt nach Auftauchen des Dialogs.
 
 ### Verantwortlichkeiten
 

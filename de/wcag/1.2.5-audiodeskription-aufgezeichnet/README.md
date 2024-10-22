@@ -16,7 +16,7 @@ Für **aufgezeichnete Videos mit Audio** (etwa Spielfilme) muss eine **Audiodesk
 
 Fügen Sie zu allen Videos Audiodeskriptionen hinzu, deren visuelle Informationen nicht bereits in der Audiospur vorliegen. Eine Audiodeskription ist eine überarbeitete Version der Audiospur, welche mehr Information bietet als das Original. Dies sind typischerweise Informationen, welche ansonsten nur visuell vermittelt werden.
 
-**Wichtig:** Die Audiodeskription macht eine Textabschrift optional. Dadurch erfüllt das vorliegende Erfolgskriterium automatisch auch **📜-1.2.3 Audiodeskription oder Medienalternative (aufgezeichnet)**.
+**Wichtig:** Die Audiodeskription macht eine Textabschrift optional. Dadurch erfüllt das vorliegende Erfolgskriterium automatisch auch [📜-1.2.3 Audiodeskription oder Medienalternative (aufgezeichnet)](/de/wcag/1.2.3-audiodeskription-oder-medienalternative-aufgezeichnet).
 
 **Tipp:** Wenn die Sprachausgabe eines Videos alle relevanten Informationen ansagt (etwa die Kommentatorin bei einer Dokumentation), so wird die Audiodeskription überflüssig; dies ist deutlich kostengünstiger und könnte als Empfehlung in allfällige Redaktionsrichtlinien aufgenommen werden. Ein Spielfilm hingegen lebt oft teils subtilen visuellen Details, deren Bedeutung blinden Personen ohne Audiodeskription entgehen.
 

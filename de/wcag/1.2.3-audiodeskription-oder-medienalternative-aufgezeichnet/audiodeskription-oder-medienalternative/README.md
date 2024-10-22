@@ -29,7 +29,7 @@ Ausnahme: Wenn der synchronisierte Video-Inhalt eine Medienalternative für bere
 
 ### Test-Schritte
 
-Siehe **✅-15 Alternative für Audio-Inhalte** (Level A) bzw. **✅-20 Audiodeskription** (Level AA)
+Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet/alternative-fuer-audio-inhalte) (Level A) bzw. [✅ Audiodeskription](/de/wcag/1.2.5-audiodeskription-aufgezeichnet/audiodeskription) (Level AA)
 
 ## Screenshots typischer Fälle
 

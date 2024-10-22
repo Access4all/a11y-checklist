@@ -28,7 +28,7 @@ Die erste Überschrift muss jedoch nicht zwingend eine `<h1>` sein.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. **🏷️-1 H123 Bookmarklet** ausführen
+1. [🏷️ H123 Bookmarklet](/de/tags/werkzeuge/bookmarklets/h123-bookmarklet) ausführen
 1. Sicherstellen, dass keine Überschriften übersprungen werden:
     - **🙂 Beispiel:** Auf `<h1>Meine Hobbys</h1>` folgt `<h2>Fussball spielen</h2>`
     - **🙂 Beispiel:** Auf `<h2>Navigation</h2>` folgt `<h3>Inhalts-Navigation</h3>`
@@ -40,7 +40,7 @@ Die erste Überschrift muss jedoch nicht zwingend eine `<h1>` sein.
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
 
 - Die Elementliste (`Insert`+`F7`) weist nicht auf Sprünge hin (die Baumstruktur wird automatisch repariert)!
 - Entsprechend muss manuell eruiert werden, ob es zu Sprüngen kommt:

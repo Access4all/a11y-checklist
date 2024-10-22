@@ -37,7 +37,7 @@ The following graphical elements should be implemented in such a way that they c
 ### Other non-text content
 
 - For video or audio, add a short description of the topic so that its purpose can be recognized before playback (e.g. "Interview with the Federal Councillor"). Please also note 📜-1.2.
-- For control elements (forms, JavaScript widgets), provide a meaningful label (e.g. "First name"). Please also note **📜-4.1.2 Name, Role, Value**.
+- For control elements (forms, JavaScript widgets), provide a meaningful label (e.g. "First name"). Please also note [📜-4.1.2 Name, Role, Value](/en/wcag/4.1.2-name-role-value).
 
 ### Responsibilities
 

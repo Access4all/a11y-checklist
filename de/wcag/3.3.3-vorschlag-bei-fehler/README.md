@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 Sofern Fehler automatisch erkannt werden und spezifische Fehlermeldungen möglich sind (z.B. über unausgefüllte Pflichtfelder, nicht eingehaltene Format-Vorgaben, etc.), dann müssen Fehlermeldungen spezifisch und informativ sein.
 
-Verwenden Sie sinngemäss die in **📜-3.3.1 Fehlerkennzeichnung** vorgestellten Techniken rund um `<label>`-Element und `aria-describedby`-Attribut.
+Verwenden Sie sinngemäss die in [📜-3.3.1 Fehlerkennzeichnung](/de/wcag/3.3.1-fehlerkennzeichnung) vorgestellten Techniken rund um `<label>`-Element und `aria-describedby`-Attribut.
 
 Nennen Sie ggf. konkrete Beispiele, wie ein Feld auszufüllen ist. Dies hilft, die Fehler zielgerichtet zu korrigieren. Allgemein gehaltene Fehlermeldungen wie z.B. "Es ist ein Fehler aufgetreten." sind nicht zulässig, sofern die Ursache des Fehlers bekannt ist.
 
@@ -31,7 +31,7 @@ Einige Beispiele für aussagekräftige Meldungen sind:
 
 Vermeiden Sie allgemeine Sammelmeldungen wie etwa "Passwörter müssen 8 Zeichen lang sein, Gross- und Kleinbuchstaben und Sonderzeichen beinhalten", da hier ggf. nicht klar wird, welche der Hinweise tatsächlich einer Korrektur der Eingabe bedürfen. Seien Sie stattdessen spezifisch und geben Sie für jeden gefunden Fehler eine eigene Meldung aus.
 
-**Hinweis:** Empfohlen wird die Bereitstellung von Fehlermeldungen direkt bei jedem betroffenen Formularfeld, damit die Zuordnungen unmittelbar verständlich sind. Es ist aber auch möglich, alle Fehlermeldungen zuoberst beim Formular als Liste anzuzeigen; im Optimalfall ist dann jede Fehlermeldung als Anker-Link zum entsprechenden Eingabefeld umgesetzt. Zur Handhabung von Formularen generell siehe auch **📜-1.3.1c Formular-Beziehungen**.
+**Hinweis:** Empfohlen wird die Bereitstellung von Fehlermeldungen direkt bei jedem betroffenen Formularfeld, damit die Zuordnungen unmittelbar verständlich sind. Es ist aber auch möglich, alle Fehlermeldungen zuoberst beim Formular als Liste anzuzeigen; im Optimalfall ist dann jede Fehlermeldung als Anker-Link zum entsprechenden Eingabefeld umgesetzt. Zur Handhabung von Formularen generell siehe auch [📜-1.3.1c Formular-Beziehungen](/de/wcag/1.3.1c-formular-beziehungen).
 
 ### Verantwortlichkeiten
 
@@ -41,11 +41,11 @@ Vermeiden Sie allgemeine Sammelmeldungen wie etwa "Passwörter müssen 8 Zeichen
 ### Abgrenzung
 
 - Das vorliegende Erfolgskriterium stellt sicher, dass vorhandene Fehlermeldungen **aussagekräftig** (also hilfreich bei der Fehlerbehebung) sind.
-- Dass Fehler auf unterschiedlichen Wahrnehmungs-Kanälen **erfahrbar** sowie die zugehörigen Eingabefelder **identifizierbar** sind, wird von **📜-3.3.1 Fehlerkennzeichnung** gefordert.
+- Dass Fehler auf unterschiedlichen Wahrnehmungs-Kanälen **erfahrbar** sowie die zugehörigen Eingabefelder **identifizierbar** sind, wird von [📜-3.3.1 Fehlerkennzeichnung](/de/wcag/3.3.1-fehlerkennzeichnung) gefordert.
 
 ## Beispiele
 
-Siehe **📜-3.3.1 Fehlerkennzeichnung** bzw. **📜-3.3.2 Beschriftungen (Labels) oder Anweisungen**.
+Siehe [📜-3.3.1 Fehlerkennzeichnung](/de/wcag/3.3.1-fehlerkennzeichnung) bzw. [📜-3.3.2 Beschriftungen (Labels) oder Anweisungen](/de/wcag/3.3.2-beschriftungen-labels-oder-anweisungen).
 
 ## ✅ Checkpoints
 

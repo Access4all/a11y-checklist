@@ -14,22 +14,22 @@ created_at: "2015-08-04 14:36:00"
 
 ## Understanding (long)
 
-Physically impaired people are often unable to use a mouse or similar pointing device and are reliant on the keyboard. Assistive input devices also use the keyboard as an interface. It is therefore necessary that all interactive elements of a page can also be reached and operated using a keyboard alone. This applies in particular to links, buttons and form elements; for JavaScript widgets of all kinds, you will find further information (including operation) under **📜-4.1.2a Advanced controls (widgets)**.
+Physically impaired people are often unable to use a mouse or similar pointing device and are reliant on the keyboard. Assistive input devices also use the keyboard as an interface. It is therefore necessary that all interactive elements of a page can also be reached and operated using a keyboard alone. This applies in particular to links, buttons and form elements; for JavaScript widgets of all kinds, you will find further information (including operation) under [📜-4.1.2a Advanced controls (widgets)](/en/wcag/4.1.2a-advanced-controls-widgets).
 
 Pay particular attention to the following:
 
-- Make sure that the focus is always clearly visible (see **📜-2.4.7 Focus Visible** and **📜-2.4.11 Focus Not Obscured (Minimum)**).
+- Make sure that the focus is always clearly visible (see [📜-2.4.7 Focus Visible](/en/wcag/2.4.7-focus-visible) and [📜-2.4.11 Focus Not Obscured (Minimum)](/en/wcag/2.4.11-focus-not-obscured-minimum)).
 - It is best to use JavaScript events that are also triggered by the keyboard (such as `click`, but not `hover`).
-- Pay attention to the order of the interactive elements and guide the focus sensibly (see **📜-2.4.3 Focus Order** and **📜-1.3.2 Meaningful Sequence**).
-- Do not unnecessarily restrict the freedom of movement of the focus (see **📜-2.1.2 No Keyboard Trap**).
-- Do not change the context automatically on focus or input (see **📜-3.2.1 On Focus** and **📜-3.2.2 On Input**).
-- Offer alternatives for path-based or multi-point pointer gestures (see **📜-2.5.1 Pointer Gestures**) and drag & drop movements (see **📜-2.5.7 Dragging Movements**), as these are dependent on a pointing device (e.g. mouse).
+- Pay attention to the order of the interactive elements and guide the focus sensibly (see [📜-2.4.3 Focus Order](/en/wcag/2.4.3-focus-order) and [📜-1.3.2 Meaningful Sequence](/en/wcag/1.3.2-meaningful-sequence)).
+- Do not unnecessarily restrict the freedom of movement of the focus (see [📜-2.1.2 No Keyboard Trap](/en/wcag/2.1.2-no-keyboard-trap)).
+- Do not change the context automatically on focus or input (see [📜-3.2.1 On Focus](/en/wcag/3.2.1-on-focus) and [📜-3.2.2 On Input](/en/wcag/3.2.2-on-input)).
+- Offer alternatives for path-based or multi-point pointer gestures (see [📜-2.5.1 Pointer Gestures](/en/wcag/2.5.1-pointer-gestures)) and drag & drop movements (see [📜-2.5.7 Dragging Movements](/en/wcag/2.5.7-dragging-movements)), as these are dependent on a pointing device (e.g. mouse).
 
 ### Standard HTML vs. JavaScript widgets
 
 We recommend using standard HTML elements where possible, i.e. only using JavaScript widgets if HTML does not offer any corresponding functionality. Accordingly, a `<button>` is preferable to a `<div tabindex="0" onclick="...">`; the same applies, for example, to a `<select>` instead of a JavaScript dropdown.
 
-Please also note the notes in **📜-4.1.2a Advanced controls (widgets)** in this regard!
+Please also note the notes in [📜-4.1.2a Advanced controls (widgets)](/en/wcag/4.1.2a-advanced-controls-widgets) in this regard!
 
 ### Responsibilities
 

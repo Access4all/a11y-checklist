@@ -14,22 +14,22 @@ created_at: "2015-08-04 14:36:00"
 
 ## Verstehen (ausführlich)
 
-Körperlich eingeschränkte Menschen können oft keine Maus oder ähnliche Zeigegeräte bedienen und sind auf die Tastatur angewiesen. Auch assistierende Eingabegeräte verwenden dieselbe als Schnittstelle. Es ist deshalb erforderlich, dass alle interaktiven Elemente einer Seite auch allein mit einer Tastatur erreicht und bedient werden können. Dies betrifft insbesondere Links, Schalter und Formular-Elemente; für JavaScript-Widgets unterschiedlichster Art finden Sie weitere Hinweise (inkl. Bedienung) unter **📜-4.1.2a Erweiterte Steuerelemente (Widgets)**.
+Körperlich eingeschränkte Menschen können oft keine Maus oder ähnliche Zeigegeräte bedienen und sind auf die Tastatur angewiesen. Auch assistierende Eingabegeräte verwenden dieselbe als Schnittstelle. Es ist deshalb erforderlich, dass alle interaktiven Elemente einer Seite auch allein mit einer Tastatur erreicht und bedient werden können. Dies betrifft insbesondere Links, Schalter und Formular-Elemente; für JavaScript-Widgets unterschiedlichster Art finden Sie weitere Hinweise (inkl. Bedienung) unter [📜-4.1.2a Erweiterte Steuerelemente (Widgets)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets).
 
 Beachten Sie insbesondere folgendes:
 
-- Stellen Sie sicher, dass der Fokus stets gut sichtbar ist (siehe **📜-2.4.7 Fokus sichtbar** und **📜-2.4.11 Fokus nicht verdeckt (Minimum)**).
+- Stellen Sie sicher, dass der Fokus stets gut sichtbar ist (siehe [📜-2.4.7 Fokus sichtbar](/de/wcag/2.4.7-fokus-sichtbar) und [📜-2.4.11 Fokus nicht verdeckt (Minimum)](/de/wcag/2.4.11-fokus-nicht-verdeckt-minimum)).
 - Verwenden Sie am besten JavaScript-Events, welche auch durch die Tastatur ausgelöst werden (etwa `click`, aber nicht `hover`).
-- Achten Sie auf die Reihenfolge der interaktiven Elemente und führen Sie den Fokus sinnvoll (siehe **📜-2.4.3 Fokus-Reihenfolge** und **📜-1.3.2 Bedeutungsvolle Reihenfolge**).
-- Schränken Sie die Bewegungs-Freiheit des Fokus nicht unnötig ein (siehe **📜-2.1.2 Keine Tastaturfalle**).
-- Ändern Sie den Kontext nicht automatisch bei Fokus oder Eingabe (siehe **📜-3.2.1 Bei Fokus** und **📜-3.2.2 Bei Eingabe**).
-- Bieten Sie Alternativen an für pfadbasierte oder Mehrpunkt-Zeigergesten (siehe **📜-2.5.1 Zeigergesten**) sowie Ziehbewegung (Drag & Drop, siehe **📜-2.5.7 Ziehende Bewegungen**), da diese von einem Zeigegerät (z.B. Maus) abhängig sind.
+- Achten Sie auf die Reihenfolge der interaktiven Elemente und führen Sie den Fokus sinnvoll (siehe [📜-2.4.3 Fokus-Reihenfolge](/de/wcag/2.4.3-fokus-reihenfolge) und [📜-1.3.2 Bedeutungsvolle Reihenfolge](/de/wcag/1.3.2-bedeutungsvolle-reihenfolge)).
+- Schränken Sie die Bewegungs-Freiheit des Fokus nicht unnötig ein (siehe [📜-2.1.2 Keine Tastaturfalle](/de/wcag/2.1.2-keine-tastaturfalle)).
+- Ändern Sie den Kontext nicht automatisch bei Fokus oder Eingabe (siehe [📜-3.2.1 Bei Fokus](/de/wcag/3.2.1-bei-fokus) und [📜-3.2.2 Bei Eingabe](/de/wcag/3.2.2-bei-eingabe)).
+- Bieten Sie Alternativen an für pfadbasierte oder Mehrpunkt-Zeigergesten (siehe [📜-2.5.1 Zeigergesten](/de/wcag/2.5.1-zeigergesten)) sowie Ziehbewegung (Drag & Drop, siehe [📜-2.5.7 Ziehende Bewegungen](/de/wcag/2.5.7-ziehende-bewegungen)), da diese von einem Zeigegerät (z.B. Maus) abhängig sind.
 
 ### Standard-HTML vs. JavaScript-Widgets
 
 Wir empfehlen, wenn möglich Standard-HTML-Elemente einzusetzen, also JavaScript-Widgets nur dann zu verwenden, wenn HTML keine entsprechende Funktionalität anbietet. Entsprechend ist ein `<button>` einem `<div tabindex="0" onclick="...">` vorzuziehen; dasselbe gilt z.B. für ein `<select>` anstelle eines JavaScript-Dropdowns.
 
-Beachten Sie diesbezüglich unbedingt auch die Hinweise in **📜-4.1.2a Erweiterte Steuerelemente (Widgets)**!
+Beachten Sie diesbezüglich unbedingt auch die Hinweise in [📜-4.1.2a Erweiterte Steuerelemente (Widgets)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets)!
 
 ### Verantwortlichkeiten
 

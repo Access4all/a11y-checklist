@@ -14,9 +14,9 @@ created_at: "2015-08-04 14:36:00"
 
 ## Verstehen (ausführlich)
 
-Überschriften müssen den zugeordneten Web-Inhalt ausreichend informativ und korrekt bezeichnen; dies hilft die Inhalte zu unterscheiden und anzusteuern. Häufige Fehler sind etwa wenig aussagekräftige oder mehrere gleich lautende Schalter oder Überschriften auf einer Seite. Bitte beachten Sie auch **📜-1.3.1a Überschriften-Struktur** und **📜-2.5.3 Beschriftung im zugänglichen Namen**.
+Überschriften müssen den zugeordneten Web-Inhalt ausreichend informativ und korrekt bezeichnen; dies hilft die Inhalte zu unterscheiden und anzusteuern. Häufige Fehler sind etwa wenig aussagekräftige oder mehrere gleich lautende Schalter oder Überschriften auf einer Seite. Bitte beachten Sie auch [📜-1.3.1a Überschriften-Struktur](/de/wcag/1.3.1a-ueberschriften-struktur) und [📜-2.5.3 Beschriftung im zugänglichen Namen](/de/wcag/2.5.3-beschriftung-im-zugaenglichen-namen).
 
-Formularelemente müssen ebenfalls gut durch Labels bezeichnet sein (mittels `<label>`, siehe **📜-1.3.1c Formular-Beziehungen**). Ein häufiger Fehler sind etwa alleine mit Asterisk (`*`) als Pflichtfelder markierte Eingabefelder (ohne weitere Techniken wie etwa das `required`-Attribut): diese visuell gängige Konvention hat für assistierende Technologien keinerlei Aussagekraft.
+Formularelemente müssen ebenfalls gut durch Labels bezeichnet sein (mittels `<label>`, siehe [📜-1.3.1c Formular-Beziehungen](/de/wcag/1.3.1c-formular-beziehungen)). Ein häufiger Fehler sind etwa alleine mit Asterisk (`*`) als Pflichtfelder markierte Eingabefelder (ohne weitere Techniken wie etwa das `required`-Attribut): diese visuell gängige Konvention hat für assistierende Technologien keinerlei Aussagekraft.
 
 **Empfehlung:** Verzichten Sie, wenn möglich, auf den Einsatz des `title`-Attributs. Dieses wird nicht einheitlich von assistierenden Technologien (z.B. Screenreadern) ausgegeben.
 
@@ -29,8 +29,8 @@ Auf unzugänglichen, fremdgenerierten Inhalt muss hingewiesen werden! Z.B. indem
 ### Abgrenzung
 
 - Das vorliegende Erfolgskriterium stellt sicher, dass vorhandene _Überschriften und Labels_ **aussagekräftig** sind.
-- Dass _Überschriften_ überhaupt **vorhanden** sind, ist nicht immer erforderlich (Überschriften sind aber meistens die beste Technik, um Inhalte zu benennen und voneinander abzugrenzen); dass _Labels_ überhaupt **vorhanden** sind, wird von **📜-3.3.2 Beschriftungen (Labels) oder Anweisungen** gefordert.
-- Dass _Überschriften_ **semantisch und hierarchisch korrekt umgesetzt** sind, wird von **📜-1.3.1a Überschriften-Struktur** gefordert; dass _Labels_ **semantisch korrekt umgesetzt** (und dadurch mit den Eingabefeldern verknüpft) sind, wird von **📜-1.3.1c Formular-Beziehungen** gefordert.
+- Dass _Überschriften_ überhaupt **vorhanden** sind, ist nicht immer erforderlich (Überschriften sind aber meistens die beste Technik, um Inhalte zu benennen und voneinander abzugrenzen); dass _Labels_ überhaupt **vorhanden** sind, wird von [📜-3.3.2 Beschriftungen (Labels) oder Anweisungen](/de/wcag/3.3.2-beschriftungen-labels-oder-anweisungen) gefordert.
+- Dass _Überschriften_ **semantisch und hierarchisch korrekt umgesetzt** sind, wird von [📜-1.3.1a Überschriften-Struktur](/de/wcag/1.3.1a-ueberschriften-struktur) gefordert; dass _Labels_ **semantisch korrekt umgesetzt** (und dadurch mit den Eingabefeldern verknüpft) sind, wird von [📜-1.3.1c Formular-Beziehungen](/de/wcag/1.3.1c-formular-beziehungen) gefordert.
 
 ### Verantwortlichkeiten
 

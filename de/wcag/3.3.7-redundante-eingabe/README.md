@@ -18,7 +18,7 @@ Für einige Menschen ist es schwierig, Informationen im Kurzzeit-Gedächtnis zu 
 
 Zuvor eingegebene Nutzer-Daten müssen also in einem nachfolgenden Prozess-Schritt während derselben Sitzung zur Auswahl verfügbar gemacht werden: etwa durch eine Checkbox "Die Liefer-Adresse als Rechnungs-Adresse verwenden". Dieses Erfolgskriterium gilt auch über unterschiedliche Anbieter innerhalb eines Prozesses hinweg, z.B. wenn beim Checkout in einem Online-Shop zu einem Zahlungs-Anbieter gewechselt wird.
 
-**Hinweis:** Dieses Erfolgskriterium gilt nicht für unterschiedliche Sitzungen; es gilt zudem nicht für die Eingabe von Passwörtern, siehe auch **📜-3.3.8 Barrierefreie Authentifizierung (Minimum)**.
+**Hinweis:** Dieses Erfolgskriterium gilt nicht für unterschiedliche Sitzungen; es gilt zudem nicht für die Eingabe von Passwörtern, siehe auch [📜-3.3.8 Barrierefreie Authentifizierung (Minimum)](/de/wcag/3.3.8-barrierefreie-authentifizierung-minimum).
 
 ### Ausnahmen
 

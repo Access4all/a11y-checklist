@@ -26,7 +26,7 @@ Dekorative Grafiken, welche als `<img>` umgesetzt sind, weisen ein leeres `alt`-
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. **🏷️-32 Image Alt Text Viewer Extension** ausführen (oder in **🏷️-51 Web Developer Extension** unter "Images" → "Display Alt Attributes" wählen)
+1. [🏷️ Image Alt Text Viewer Extension](/de/tags/werkzeuge/extensions/image-alt-text-viewer-extension) ausführen (oder in [🏷️ Web Developer Extension](/de/tags/werkzeuge/extensions/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass dekorative Grafiken vom Screenreader ignoriert werden
     - ⚠️ Wenn ein solches Bild mittels `<img>` umgesetzt ist, muss dessen `alt`-Attribut leer sein. Bei einem als CSS `background-image: url(...)` umgesetzten dekorativen Bild muss nichts weiter getan werden (da es dadurch sowieso als dekorativ eingestuft wird).
     - **🙂 Beispiel:** Ein kleines, dekoratives Ornament wird als visueller Aufteiler (Spacer) zwischen zwei Paragrafen eingesetzt

@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 Viele Menschen mit Sehbehinderung sind auf die Funktionen des Browsers zur Vergrösserung angewiesen. Damit sie diese nutzen können, muss das Layout und das Schriftbild anpassbar sein.
 
-**Hinweis:** Moderne Browser können Webseiten problemlos skalieren, welche auf solidem, sich responsiv verhaltendem HTML und CSS basieren. Dadurch sollte das vorliegende Erfolgskriterium automatisch erfüllt sein. Wir empfehlen trotzdem, das Skalierverhalten regelmässig zu prüfen, da dieses auch andere Mängel zu Tage fördern kann (etwa Überlappungen, siehe **📜-1.4.10 Automatischer Umbruch (Reflow)**).
+**Hinweis:** Moderne Browser können Webseiten problemlos skalieren, welche auf solidem, sich responsiv verhaltendem HTML und CSS basieren. Dadurch sollte das vorliegende Erfolgskriterium automatisch erfüllt sein. Wir empfehlen trotzdem, das Skalierverhalten regelmässig zu prüfen, da dieses auch andere Mängel zu Tage fördern kann (etwa Überlappungen, siehe [📜-1.4.10 Automatischer Umbruch (Reflow)](/de/wcag/1.4.10-automatischer-umbruch-reflow)).
 
 **Wichtig:** Auf mobilen Geräten kann die Verwendung von `<meta name="viewport" content="user-scalable=no, maximum-scale=1">` das Zoomen verhindern (oder empfindlich einschränken, je nach verwendeten Werten). Bei mobilen Apps muss zudem darauf geachtet werden, dass die in den Systemeinstellungen gewählte Schriftgrösse übernommen wird (und dies zu keinen Darstellungsproblemen führt).
 
