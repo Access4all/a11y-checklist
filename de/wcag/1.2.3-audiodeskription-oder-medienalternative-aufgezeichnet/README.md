@@ -28,6 +28,10 @@ Siehe **📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)** bzw. **📜-1
 
 Siehe **📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)** bzw. **📜-1.2.5 Audiodeskription (aufgezeichnet)**.
 
+## Checkpoints
+
+- [Audiodeskription oder Medienalternative](audiodeskription-oder-medienalternative)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

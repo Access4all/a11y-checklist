@@ -26,6 +26,10 @@ This condition is often fulfilled by displaying a summary of all relevant data a
 
 Before an order is sent in the online store, a confirmation page with the entire order and the customer data is displayed. The “Edit” button can be used to go back through the order process and edit it again, while “Submit order” triggers the order process with all its consequences.
 
+## Checkpoints
+
+- [User input verifiable](user-input-verifiable)
+
 ## References public
 
 ### WCAG-Varianten

@@ -51,6 +51,10 @@ Hingegen Tests, bei welchen der Nutzer ein Objekt erkennen muss (etwa ein Tier o
 <input id="pw" type="password" autocomplete="current-password"><!-- Ebenso! -->
 ```
 
+## Checkpoints
+
+- [Barrierefreies Authentifizieren](barrierefreies-authentifizieren)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

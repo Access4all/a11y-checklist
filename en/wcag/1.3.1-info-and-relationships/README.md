@@ -30,6 +30,13 @@ This success criterion 1.3.1 is very extensive. In addition to the checkpoints t
 
 **Important:** This division of success criteria into sub-success criteria does **not** exist in the original WCAG. It is a measure to promote the clarity of the WCAG.
 
+## Checkpoints
+
+- [Active elements](active-elements)
+- [Landmarks](landmarks)
+- [Breadcrumbs and process displays](breadcrumbs-and-process-displays)
+- [Footnotes](footnotes)
+
 ## References public
 
 ### WCAG-Varianten

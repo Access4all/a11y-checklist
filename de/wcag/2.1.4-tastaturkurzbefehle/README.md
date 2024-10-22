@@ -30,3 +30,7 @@ Einzeltasten-Kurzbefehle können auch Menschen mit motorischen Behinderungen vor
 ## Beispiele
 
 Eine Webseite bietet das Tastenkürzel `S` an, um direkt in ein Suchfeld zu springen. In den Benutzer-Einstellungen kann dieses Tastenkürzel deaktiviert oder geändert werden.
+
+## Checkpoints
+
+- [Einzeltasten-Kurzbefehle](einzeltasten-kurzbefehle)

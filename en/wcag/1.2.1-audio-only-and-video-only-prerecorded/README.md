@@ -49,6 +49,11 @@ The silent film classic Metropolis from 1927 begins with the fade-in of...
 <a href="metropolis.html">Text transcript of Metropolis</a>
 ```
 
+## Checkpoints
+
+- [Alternative for audio content](alternative-for-audio-content)
+- [Alternative for video-only content](alternative-for-video-only-content)
+
 ## References public
 
 ### WCAG-Varianten

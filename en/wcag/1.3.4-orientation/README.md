@@ -25,6 +25,10 @@ If the content does not automatically adjust to the screen orientation, a switch
 - The design team defines views that can be displayed and used in both landscape and portrait formats.
 - The development team correctly implements the design team's specifications and ensures that all content is correctly displayed and usable in both screen orientations.
 
+## Checkpoints
+
+- [Portrait and landscape format](portrait-and-landscape-format)
+
 ## References public
 
 ### WCAG-Varianten

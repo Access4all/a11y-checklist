@@ -76,6 +76,10 @@ Client-side form validation can also be used, but is often not sufficient on its
 </fieldset>
 ```
 
+## Checkpoints
+
+- [Error messages in forms](error-messages-in-forms)
+
 ## References public
 
 ### WCAG-Varianten

@@ -85,6 +85,11 @@ Techniques to further simplify the skipping of such elements for certain assisti
 </nav>
 ```
 
+## Checkpoints
+
+- [Jump links](jump-links)
+- [Skip sub-navigation points](skip-sub-navigation-points)
+
 ## References public
 
 ### WCAG-Varianten

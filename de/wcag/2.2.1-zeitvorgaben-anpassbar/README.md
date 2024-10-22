@@ -36,3 +36,7 @@ Folgende Möglichkeiten sind zulässig:
 
 - In einem Onlineshop, während ein Bestellvorgang ausgefüllt wird, erscheint rechtzeitig vor Ablauf der Session ein gut wahrnehmbarer Hinweis, dass die Session durch Bestätigung des Hinweises verlängert werden kann.
 - In einem e-Banking kann in den Profileinstellungen die Dauer einer Session auf den erforderlichen Wert erhöht werden.
+
+## Checkpoints
+
+- [Timeout-Zeitintervalle](timeout-zeitintervalle)

@@ -24,6 +24,10 @@ Viele Menschen mit Sehbehinderung sind auf die Funktionen des Browsers zur Vergr
 
 - Das Entwicklungsteam stellt sicher, dass die Inhalte auf bis zu 200% vergrössert werden können.
 
+## Checkpoints
+
+- [200% Zoom](200-zoom)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

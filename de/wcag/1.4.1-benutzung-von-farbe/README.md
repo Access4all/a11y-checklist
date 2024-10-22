@@ -35,6 +35,11 @@ Wir empfehlen zudem, dass Zustandsänderungen (wie Hover und Fokus) nicht nur ü
 - Ein aktiver Menüpunkt in einer Navigation wird nicht nur farblich, sondern auch durch Unterstreichung hervorgehoben.
 - Kuchenstücke in einem Kuchendiagramm sind nicht nur durch ihre Hintergrundfarbe mit der dazu gehörenden Legende verknüpfbar, sondern durch ein weiteres visuelles Merkmal (z.B. durch individuelle Schraffierung).
 
+## Checkpoints
+
+- [Nicht Farbe allein](nicht-farbe-allein)
+- [Links in Fliesstext](links-in-fliesstext)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

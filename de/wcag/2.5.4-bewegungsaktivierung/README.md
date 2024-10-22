@@ -29,6 +29,10 @@ Es muss zudem sicher gestellt sein, dass solche Funktionalitäten nicht aus Vers
 
 - Das Entwicklungsteam stellt sicher, dass Alternativen bestehen für Funktionen, die über Geräte- oder Benutzerbewegung ausgelöst werden können. Ausserdem müssen solche Funktionalitäten deaktiviert werden können.
 
+## Checkpoints
+
+- [Alternativen für Bewegungsaktivierung](alternativen-fuer-bewegungsaktivierung)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

@@ -63,6 +63,10 @@ Inaccessible, externally generated content must be pointed out! For example, by 
 </article>
 ```
 
+## Checkpoints
+
+- [Headings and labels](headings-and-labels)
+
 ## References public
 
 ### WCAG-Varianten

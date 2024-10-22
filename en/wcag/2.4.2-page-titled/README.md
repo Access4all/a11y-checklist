@@ -41,6 +41,10 @@ The repetitive part (the operator information) should be placed at the end. In a
 <title>Welcome to Bernasconi AG</title>
 ```
 
+## Checkpoints
+
+- [Meaningful title](meaningful-title)
+
 ## References public
 
 ### WCAG-Varianten

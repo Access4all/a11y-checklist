@@ -31,6 +31,10 @@ Insbesondere bei Prozessen, welche über unterschiedliche Seiten hinweg führen,
 - Ein Live-Chat-Client in der Such-Maske eines Online-Shops, welcher hilft, ein bestimmtes Produkt zu finden.
 - Möglichkeiten zur Selbsthilfe, z.B. ein Hinweis auf häufig gestellte Fragen (FAQ) innerhalb eines Online-Buchungs-Systems für Flug-Tickets.
 
+## Checkpoints
+
+- [Konsistente Hilfe](konsistente-hilfe)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

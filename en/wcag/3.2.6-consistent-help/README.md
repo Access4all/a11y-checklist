@@ -31,6 +31,10 @@ It is important that this help is always found in the same place, especially for
 - A live chat client in the search mask of an online shop that helps the customer to find a specific product or service.
 - Self-help options, such as a link to frequently asked questions (FAQs) within an online airline ticket booking system.
 
+## Checkpoints
+
+- [Consistent help](consistent-help)
+
 ## References public
 
 ### WCAG-Varianten

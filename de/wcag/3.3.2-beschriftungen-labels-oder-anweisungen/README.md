@@ -88,6 +88,12 @@ Verwenden Sie sinngemäss die in **📜-3.3.1 Fehlerkennzeichnung** vorgestellte
 </form>
 ```
 
+## Checkpoints
+
+- [Pflichtfelder](pflichtfelder)
+- [Sichtbare Labels](sichtbare-labels)
+- [Formatangaben](formatangaben)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

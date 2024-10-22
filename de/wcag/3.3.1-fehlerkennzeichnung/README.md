@@ -76,6 +76,10 @@ Auch Client-seitige Formular-Validierung kann eingesetzt werden, reicht alleine 
 </fieldset>
 ```
 
+## Checkpoints
+
+- [Fehlermeldungen in Formularen](fehlermeldungen-in-formularen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

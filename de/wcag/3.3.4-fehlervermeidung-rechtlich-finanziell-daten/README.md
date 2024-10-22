@@ -26,6 +26,10 @@ Oftmals wird diese Bedingung erfüllt, indem als letzter Schritt in einem Prozes
 
 Bevor eine Bestellung im Online-Shop abgeschickt wird, wird eine Bestätigungsseite mit der gesamten Bestellung, sowie den Kundendaten angezeigt. Via "Bearbeiten"-Schalter kann im Bestellprozess zurück gegangen und nochmals editiert werden, via "Bestellung absenden" wird der Bestellvorgang mit allen Konsequenzen ausgelöst.
 
+## Checkpoints
+
+- [Nutzereingaben überprüfbar](nutzereingaben-ueberpruefbar)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

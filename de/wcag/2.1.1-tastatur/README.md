@@ -50,6 +50,10 @@ Beachten Sie diesbezüglich unbedingt auch die Hinweise in **📜-4.1.2a Erweite
 <span onhover="...">Tooltip anzeigen</span>
 ```
 
+## Checkpoints
+
+- [Mit der Tastatur bedienbar](mit-der-tastatur-bedienbar)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

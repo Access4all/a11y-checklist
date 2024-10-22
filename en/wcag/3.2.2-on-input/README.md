@@ -26,6 +26,10 @@ Make sure, for example, that selecting an entry in a combo box (`<select>`) does
 
 - The development team implements interactive elements (such as JavaScripts widgets) in such a way that no change of context occurs when interacting with them (unless the interaction is an explicit request to do so, such as activating a button).
 
+## Checkpoints
+
+- [Context change on input](context-change-on-input)
+
 ## References public
 
 ### WCAG-Varianten

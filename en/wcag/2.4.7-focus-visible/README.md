@@ -47,3 +47,8 @@ a:focus {
   background-color: black;
 }
 ```
+
+## Checkpoints
+
+- [Keyboard-Focus visible](keyboard-focus-visible)
+- [Skip-Links visible](skip-links-visible)

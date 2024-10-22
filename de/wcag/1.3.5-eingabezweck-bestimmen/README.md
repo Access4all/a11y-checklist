@@ -35,6 +35,10 @@ Damit Benutzeragenten (z.B. Browser) Formularfelder automatisch ausfüllen könn
 <label for="last_name">Nachname:</label> <input id="last_name" autocomplete="family-name" />
 ```
 
+## Checkpoints
+
+- [Automatisches Ausfüllen](automatisches-ausfuellen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

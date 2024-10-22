@@ -30,6 +30,10 @@ This circumstance can be taken into account by offering additional stimuli on ot
 
 Incorrect input fields in a form are not only outlined in red, but also labelled as incorrect with a clear symbol (e.g. an exclamation mark).
 
+## Checkpoints
+
+- [Sensory information](sensory-information)
+
 ## References public
 
 ### WCAG-Varianten

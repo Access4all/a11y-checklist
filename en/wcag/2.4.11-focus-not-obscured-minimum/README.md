@@ -29,6 +29,10 @@ Partial covering of the focus is tolerable, even if it should be avoided; comple
 
 - The development team positions interactive elements and scrolls the viewport so that the focus is always as visible as possible.
 
+## Checkpoints
+
+- [Focus visible](focus-visible)
+
 ## References public
 
 ### WCAG-Varianten

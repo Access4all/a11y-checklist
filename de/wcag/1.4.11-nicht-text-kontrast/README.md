@@ -35,6 +35,11 @@ Bei grafischen Elementen bedeuten ausreichende Kontraste, dass jeder visuelle Hi
 - Die Inhaltsverantwortlichen gestalten Inhalte so, dass diese genügend Kontrast aufweisen.
 - Auftraggebende sollten sich bewusst sein, dass kontraststarke Designs (auch über die Mindestanforderungen hinaus) ein Vorteil für alle Sehenden sind.
 
+## Checkpoints
+
+- [Kontrastverhältnis von Bedienelementen](kontrastverhaeltnis-von-bedienelementen)
+- [Kontrast bei informativen grafischen Elementen](kontrast-bei-informativen-grafischen-elementen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

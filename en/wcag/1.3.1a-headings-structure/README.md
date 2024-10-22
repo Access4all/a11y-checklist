@@ -88,6 +88,16 @@ Headings are generally the first element of a content block in the DOM. They alw
 </footer>
 ```
 
+## Checkpoints
+
+- [Hierarchy of existing headings](hierarchy-of-existing-headings)
+- [Jumps between heading levels](jumps-between-heading-levels)
+- [Own heading](own-heading)
+- [The following content](the-following-content)
+- [Headings before related content](headings-before-related-content)
+- [Headings for accordions](headings-for-accordions)
+- [Headings semantically correct](headings-semantically-correct)
+
 ## References public
 
 ### WCAG-Varianten

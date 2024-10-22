@@ -50,6 +50,10 @@ Die zugängliche Beschriftung kann von der sichtbaren Beschriftung abweichen, we
 </a>
 ```
 
+## Checkpoints
+
+- [Zugängliche Beschriftung](zugaengliche-beschriftung)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

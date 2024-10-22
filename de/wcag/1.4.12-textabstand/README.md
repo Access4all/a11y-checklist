@@ -39,6 +39,10 @@ Bei Textinhalten müssen die Abstände von Zeilen, Absätzen, Wörtern und Buchs
 
 Die Abstände werden mithilfe von eigenen Bookmarklets oder Stylesheets vergrössert. Es entstehen dabei keine Inhalte oder Funktionalitäten verloren.
 
+## Checkpoints
+
+- [Abstände vergrösserbar](abstaende-vergroesserbar)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

@@ -30,6 +30,13 @@ Das vorliegende Erfolgskriterium 1.3.1 ist sehr umfangreich. Neben den Prüfpunk
 
 **Wichtig:** Diese Aufteilung von Erfolgskriterien in Sub-Erfolgskriterien existiert **nicht** im WCAG-Original. Sie ist eine Massnahme, um die Übersichtlichkeit der WCAG zu fördern.
 
+## Checkpoints
+
+- [Aktive Elemente](aktive-elemente)
+- [Landmarks](landmarks)
+- [Breadcrumbs und Prozessanzeigen](breadcrumbs-und-prozessanzeigen)
+- [Fussnoten](fussnoten)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

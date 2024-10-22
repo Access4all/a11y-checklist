@@ -39,6 +39,10 @@ Es ist deshalb wichtig, dass Funktionen, die auf Ziehbewegungen setzen, auch üb
 - Der sichtbare Ausschnitt auf einer Karte kann per Ziehbewegung verschoben werden. Zudem verfügt die Karte über Schaltflächen "Nach oben / unten / links / rechts", um die Ansicht zu verschieben.
 - Eine beliebige Anzahl Objekte kann mittels viereckiger Markierung (Ziehbewegung) markiert werden. Alternativ kann einmal geklickt werden, um den Startpunkt der Markierung zu setzen, um dann mit einem zweiten Klick den Endpunkt zu setzen.
 
+## Checkpoints
+
+- [Alternative zu Ziehbewegungen](alternative-zu-ziehbewegungen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

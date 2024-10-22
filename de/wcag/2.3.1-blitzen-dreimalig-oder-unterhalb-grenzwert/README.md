@@ -22,6 +22,10 @@ Webseiten dürfen nichts enthalten, was mehr als dreimal pro Sekunde blitzt (aus
 
 - Auftraggebende sollten sich bewusst sein, dass Blitzen eine unnötige Ablenkung für alle bis hin zu einer Gefahr darstellen kann.
 
+## Checkpoints
+
+- [Dreimaliges Blitzen](dreimaliges-blitzen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

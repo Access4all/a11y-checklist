@@ -60,6 +60,10 @@ Wird etwa das Foto einer News-Meldung visuell vor deren Überschrift platziert, 
 </article>
 ```
 
+## Checkpoints
+
+- [Korrekte Reihenfolge](korrekte-reihenfolge)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

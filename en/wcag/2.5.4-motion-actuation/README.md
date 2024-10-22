@@ -29,6 +29,10 @@ It must also be ensured that such functionalities are not triggered accidentally
 
 - The development team ensures that alternatives exist for functions that can be triggered by device or user movement. It must also be possible to deactivate such functionalities.
 
+## Checkpoints
+
+- [Alternatives for movement activation](alternatives-for-movement-activation)
+
 ## References public
 
 ### WCAG-Varianten

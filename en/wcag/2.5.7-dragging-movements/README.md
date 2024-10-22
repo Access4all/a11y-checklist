@@ -39,6 +39,10 @@ It is therefore important that functions that rely on dragging movements can als
 - The visible section of a map can be moved by dragging. The map also has ‘Up / Down / Left / Right’ buttons to move the view.
 - Any number of objects can be marked using a square marker (dragging movement). Alternatively, you can click once to set the start point of the marker and then click a second time to set the end point.
 
+## Checkpoints
+
+- [Alternative to pulling movements](alternative-to-pulling-movements)
+
 ## References public
 
 ### WCAG-Varianten

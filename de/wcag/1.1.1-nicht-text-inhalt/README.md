@@ -97,6 +97,23 @@ Folgende grafische Elemente sollen so implementiert werden, dass sie von assisti
 <iframe src="https://www.youtube.com/embed/xyz" title="Werbevideo XYZ"></iframe>
 ```
 
+## Checkpoints
+
+- [Informative Grafiken](informative-grafiken)
+- [Titel von Video- und Audio](titel-von-video-und-audio)
+- [Grafische Tests und Übungen](grafische-tests-und-uebungen)
+- [Sensorische Nicht-Text-Inhalte](sensorische-nicht-text-inhalte)
+- [Grafische Symbole](grafische-symbole)
+- [Verlinkte Grafiken](verlinkte-grafiken)
+- [Redundanz in Alternativtexten](redundanz-in-alternativtexten)
+- [Grafische Schalter](grafische-schalter)
+- [Hochkontrast-Modus](hochkontrast-modus)
+- [Verlinktes Seiten-Logo](verlinktes-seiten-logo)
+- [Sonderzeichen](sonderzeichen)
+- [Komplexe Grafiken](komplexe-grafiken)
+- [Dekorative Grafiken](dekorative-grafiken)
+- [Grafische CAPTCHAs](grafische-captchas)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

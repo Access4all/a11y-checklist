@@ -34,6 +34,10 @@ Permanently animated elements (such as advertising banners) require additional a
 - A ‘Special offer!’ link flashes rhythmically or changes colour regularly.
 - An animation that plays automatically (e.g. an advertising video) can be paused (or lasts no longer than 5 seconds).
 
+## Checkpoints
+
+- [Permanently animated content](permanently-animated-content)
+
 ## References public
 
 ### WCAG-Varianten

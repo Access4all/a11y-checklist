@@ -23,3 +23,7 @@ Keyboard traps used to occur frequently with Flash or video content. Nowadays, t
 ### Responsibilities
 
 - The development team implements the focus guidance correctly.
+
+## Checkpoints
+
+- [Keyboard traps](keyboard-traps)

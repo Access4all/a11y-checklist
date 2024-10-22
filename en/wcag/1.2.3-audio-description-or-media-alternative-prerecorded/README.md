@@ -28,6 +28,10 @@ See **📜-1.2.1 Audio-only and Video-only (Prerecorded)** or **📜-1.2.5 Audio
 
 See **📜-1.2.1 Audio-only and Video-only (Prerecorded)** and **📜-1.2.5 Audio Description (Prerecorded)**.
 
+## Checkpoints
+
+- [Audio description or media alternative](audio-description-or-media-alternative)
+
 ## References public
 
 ### WCAG-Varianten

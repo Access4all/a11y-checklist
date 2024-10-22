@@ -22,6 +22,10 @@ Web pages must not contain anything that flashes more than three times per secon
 
 - Instructors should be aware that flashing can be an unnecessary distraction for everyone and even a hazard.
 
+## Checkpoints
+
+- [Triple flashing](triple-flashing)
+
 ## References public
 
 ### WCAG-Varianten

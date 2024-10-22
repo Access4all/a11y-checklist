@@ -77,6 +77,14 @@ Manchmal ist es aber der einfachere Weg, komplexe Tabellen in mehrere kleine Tab
 </table>
 ```
 
+## Checkpoints
+
+- [Tabellenüberschriften](tabellenueberschriften)
+- [Spalten- oder Zeilentitel](spalten-oder-zeilentitel)
+- [Tabelle semantisch korrekt](tabelle-semantisch-korrekt)
+- [Keine leeren Spalten oder Zeilen](keine-leeren-spalten-oder-zeilen)
+- [Überspannende Zellen](ueberspannende-zellen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

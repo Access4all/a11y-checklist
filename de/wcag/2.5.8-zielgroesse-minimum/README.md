@@ -25,6 +25,10 @@ Die vorgeschriebene Mindest-Grösse beträgt `24 * 24px`. Ist ein aktivierbares 
 - Das Designteam stellt sicher, dass aktivierbare Elemente die geforderte Mindestgrösse aufweisen oder genügend Abstand aufweisen.
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um.
 
+## Checkpoints
+
+- [Zielgrösse und Abstand](zielgroesse-und-abstand)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

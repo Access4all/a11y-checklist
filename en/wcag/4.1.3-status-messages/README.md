@@ -51,6 +51,10 @@ It is unfavourable to declare extensive content (e.g. SPAs) completely as live r
 <p role="alert">The auction will expire in 60 seconds.</p>
 ```
 
+## Checkpoints
+
+- [Status messages](status-messages)
+
 ## References public
 
 ### WCAG-Varianten

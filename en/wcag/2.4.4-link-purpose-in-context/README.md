@@ -100,6 +100,11 @@ More
   <img src="ballot-box.jpg" alt="Ballot box">
 </article>
 
+## Checkpoints
+
+- [Self-speaking links](self-speaking-links)
+- [Multiple links](multiple-links)
+
 ## References public
 
 ### WCAG-Varianten

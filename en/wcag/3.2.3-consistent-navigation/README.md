@@ -23,6 +23,10 @@ Therefore, you should ensure that navigation is offered consistently on differen
 - The design team defines navigation elements that look and behave consistently.
 - The development team correctly implements the specifications defined by the design team.
 
+## Checkpoints
+
+- [Consistent navigation](consistent-navigation)
+
 ## References public
 
 ### WCAG-Varianten

@@ -25,6 +25,10 @@ The prescribed minimum size is `24 * 24px`. If an activatable element is smaller
 - The design team ensures that elements that can be activated are the minimum size required or have sufficient spacing.
 - The development team correctly implements the specifications defined by the design team.
 
+## Checkpoints
+
+- [Target size and distance](target-size-and-distance)
+
 ## References public
 
 ### WCAG-Varianten

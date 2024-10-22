@@ -25,6 +25,10 @@ Passt sich der Inhalt nicht automatisch an die Bildschirmorientierung an, so mus
 - Das Designteam definiert Ansichten, die sowohl im Hoch- wie auch im Querformat angezeigt und genutzt werden können.
 - Das Entwicklungsteam setzt die vom Designteam erarbeiteten Vorgaben korrekt um und sorgt in der Programmierung dafür, dass alle Inhalte in beiden Bildschirmausrichtungen korrekt angezeigt werden und bedienbar sind.
 
+## Checkpoints
+
+- [Hoch- und Querformat](hoch-und-querformat)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

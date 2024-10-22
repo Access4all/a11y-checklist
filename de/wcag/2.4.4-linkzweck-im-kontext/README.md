@@ -102,6 +102,11 @@ Bei alleinstehenden, textlich uninformativen Links empfehlen wir, den Linktext z
 </article>
 ```
 
+## Checkpoints
+
+- [Selbstsprechende Links](selbstsprechende-links)
+- [Mehrfache Links](mehrfache-links)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

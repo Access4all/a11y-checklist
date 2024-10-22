@@ -110,6 +110,12 @@ We recommend being cautious with instructions in forms; for more detailed inform
 </p>
 ```
 
+## Checkpoints
+
+- [Feldset / Legend](feldset-legend)
+- [Text elements between input fields](text-elements-between-input-fields)
+- [Form fields Labels](form-fields-labels)
+
 ## References public
 
 ### WCAG-Varianten

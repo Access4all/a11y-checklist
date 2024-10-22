@@ -28,6 +28,10 @@ Fulfilling this requirement is demanding. It requires appropriate technical tool
 
 The live news programme is broadcast with live subtitles.
 
+## Checkpoints
+
+- [Live subtitles](live-subtitles)
+
 ## References public
 
 ### WCAG-Varianten

@@ -23,6 +23,10 @@ Sorgen Sie deshalb dafür, dass die Navigation auf verschiedenen Seiten konsiste
 - Das Designteam definiert Navigationselemente, welche konsistent aussehen und sich ebenso verhalten.
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um.
 
+## Checkpoints
+
+- [Konsistente Navigation](konsistente-navigation)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

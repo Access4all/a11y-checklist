@@ -31,3 +31,7 @@ Gleichzeitig ist es erfahrungsgemäss so, dass die wenigsten Code-Fehler direkte
 ### Verantwortlichkeiten
 
 - Das Entwicklungsteam erstellt wohlgeformten und validen HTML-Code gemäss gesetztem Doctype.
+
+## Checkpoints
+
+- [Keine Syntaxfehler (obsolet)](keine-syntaxfehler-obsolet)

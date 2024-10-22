@@ -35,6 +35,10 @@ Previously entered user data must therefore be made available for selection in a
 - An online shop offers previously entered addresses for selection via a drop-down list.
 - The search results page immediately fills the search field with the previously entered search term.
 
+## Checkpoints
+
+- [Redundant input](redundant-input)
+
 ## References public
 
 ### WCAG-Varianten

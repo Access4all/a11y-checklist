@@ -22,6 +22,10 @@ Verschiedene Methoden müssen vorhanden sein zum Aufspüren von Inhalten, damit 
 
 - Das Entwicklungsteam stellt sicher, dass eine Suchfunktion oder Sitemap vorhanden ist.
 
+## Checkpoints
+
+- [Navigations-Methoden](navigations-methoden)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

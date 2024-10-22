@@ -35,6 +35,10 @@ In order for user agents (e.g. browsers) to be able to fill in form fields autom
 <label for=‘last_name’>last name:</label> <input id=‘last_name’ autocomplete=‘family-name’ />
 ```
 
+## Checkpoints
+
+- [Automatic completion](automatic-completion)
+
 ## References public
 
 ### WCAG-Varianten

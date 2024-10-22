@@ -45,6 +45,10 @@ Language changes need to be indicated in long passages of text. Otherwise, scree
 </html>
 ```
 
+## Checkpoints
+
+- [Language change](language-change)
+
 ## References public
 
 ### WCAG-Varianten

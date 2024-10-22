@@ -85,6 +85,11 @@ Techniken, um das Überspringen solcher Elemente für bestimmte assistierende Te
 </nav>
 ```
 
+## Checkpoints
+
+- [Sprunglinks](sprunglinks)
+- [Unternavigationspunkte überspringen](unternavigationspunkte-ueberspringen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

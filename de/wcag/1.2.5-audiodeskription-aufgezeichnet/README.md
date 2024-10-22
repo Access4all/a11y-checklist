@@ -31,6 +31,10 @@ Fügen Sie zu allen Videos Audiodeskriptionen hinzu, deren visuelle Informatione
 - In einem Videoplayer existiert ein Menü zum Auswählen der Sprache. Darin existiert pro Sprache auch eine Option zur Auswahl der entsprechenden Audiodeskription (z.B. "Deutsch" und "Deutsch mit Audiodeskription").
 - Die Szene in einem Krimi, in welcher ein Angreifer mit einem Messer sich geräuschlos jemandem annähert, wird z.B. folgendermassen audiodeskribiert: "Eine gebückte Gestalt mit einem Messer in der Hand schleicht sich von hinten an den Kommissar heran".
 
+## Checkpoints
+
+- [Audiodeskription](audiodeskription)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

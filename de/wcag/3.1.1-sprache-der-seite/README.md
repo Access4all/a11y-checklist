@@ -22,6 +22,10 @@ Das `lang`-Attribut benötigt einen ISO-Sprachcode als Wert. Normalerweise ist d
 
 - Das Entwicklungsteam setzt die korrekte Deklaration für die jeweilige Sprache.
 
+## Checkpoints
+
+- [Sprachdeklaration](sprachdeklaration)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

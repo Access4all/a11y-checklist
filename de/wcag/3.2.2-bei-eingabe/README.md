@@ -26,6 +26,10 @@ Stellen Sie etwa sicher, dass die Wahl eines Eintrags in einer Combobox (`<selec
 
 - Das Entwicklungsteam setzt interaktive Elemente (etwa JavaScripts-Widgets) so um, dass bei Interaktion mit denselben keinerlei Änderung des Kontexts erfolgt (ausser die Interaktion ist eine explizite Aufforderung dazu, etwa das Aktivieren eines Schalters).
 
+## Checkpoints
+
+- [Kontextänderung bei Eingabe](kontextaenderung-bei-eingabe)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

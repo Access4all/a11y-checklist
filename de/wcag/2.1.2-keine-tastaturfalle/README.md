@@ -23,3 +23,7 @@ Tastatur-Fallen traten früher häufig bei Flash- oder Video-Inhalten auf. Heutz
 ### Verantwortlichkeiten
 
 - Das Entwicklungsteam setzt die Fokus-Führung korrekt um.
+
+## Checkpoints
+
+- [Tastaturfallen](tastaturfallen)

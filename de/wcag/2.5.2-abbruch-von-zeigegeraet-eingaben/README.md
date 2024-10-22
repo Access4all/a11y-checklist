@@ -47,6 +47,10 @@ Deshalb muss Funktionalität, welche mit einem Zeigegerät bedient wird, mindest
 </button>
 ```
 
+## Checkpoints
+
+- [Zeigereingaben abbrechbar](zeigereingaben-abbrechbar)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

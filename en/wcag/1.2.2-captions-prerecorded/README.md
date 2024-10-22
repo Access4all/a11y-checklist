@@ -34,6 +34,10 @@ If videos only play background music, also indicate this (e.g. ‘Relaxed backgr
 - If the person speaking is not clearly visible on the image or different speakers change in quick succession, the subtitles identify the same person or persons by name.
 - Videos without speech provide an indication of the background music and/or mood.
 
+## Checkpoints
+
+- [Subtitle](subtitle)
+
 ## References public
 
 ### WCAG-Varianten

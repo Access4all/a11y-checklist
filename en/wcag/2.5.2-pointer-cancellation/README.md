@@ -47,6 +47,10 @@ Therefore, functionality that is operated with a pointing device must fulfil at 
 </button>
 ```
 
+## Checkpoints
+
+- [Cancellable pointer entries](cancellable-pointer-entries)
+
 ## References public
 
 ### WCAG-Varianten

@@ -24,6 +24,10 @@ Stellen Sie etwa sicher, dass bei Fokus weder Links oder Schalter aktiviert noch
 
 - Das Entwicklungsteam setzt fokussierbare Elemente (etwa JavaScripts-Widgets) so um, dass bei deren Fokus keinerlei Änderung des Kontexts erfolgt.
 
+## Checkpoints
+
+- [Kontextänderung bei Fokus](kontextaenderung-bei-fokus)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

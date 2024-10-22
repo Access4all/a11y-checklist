@@ -35,6 +35,11 @@ Das vorliegende Erfolgskriterium 4.1.2 ist sehr umfangreich. Neben den Prüfpunk
 - Das Designteam definiert Inhalte und Funktionalitäten, die möglichst mit Standard-HTML-Elementen umgesetzt werden können.
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um.
 
+## Checkpoints
+
+- [Einsatz von ARIA](einsatz-von-aria)
+- [Formular-Schalter korrekt umgesetzt](formular-schalter-korrekt-umgesetzt)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

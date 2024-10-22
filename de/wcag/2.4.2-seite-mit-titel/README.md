@@ -41,6 +41,10 @@ Dabei sollte der sich wiederholende Teil (die Betreiber-Information) an den Schl
 <title>Willkommen bei der Bernasconi AG!</title>
 ```
 
+## Checkpoints
+
+- [Aussagekräftiger Titel](aussagekraeftiger-titel)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

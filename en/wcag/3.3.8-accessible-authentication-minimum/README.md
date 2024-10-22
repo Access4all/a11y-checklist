@@ -51,6 +51,10 @@ On the other hand, tests in which the user has to recognize an object (such as a
 <input id=‘pw’ type=‘password’ autocomplete=‘current-password’><!-- Likewise! -->
 ```
 
+## Checkpoints
+
+- [Accessible authentication](accessible-authentication)
+
 ## References public
 
 ### WCAG-Varianten

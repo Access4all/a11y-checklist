@@ -23,6 +23,10 @@ Various methods must be available to locate content so that people with differen
 
 - The development team ensures that a search function or sitemap is available.
 
+## Checkpoints
+
+- [Navigation methods](navigation-methods)
+
 ## References public
 
 ### WCAG-Varianten

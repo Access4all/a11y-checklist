@@ -35,6 +35,10 @@ Zuvor eingegebene Nutzer-Daten müssen also in einem nachfolgenden Prozess-Schri
 - Ein Online-Shop bietet zuvor eingegebene Adressen per Ausklapp-Liste zur Auswahl an.
 - Die Seite mit Such-Ergebnissen füllt das Such-Feld gleich wieder mit dem zuvor eingegebenen Such-Begriff.
 
+## Checkpoints
+
+- [Redundante Eingabe](redundante-eingabe)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

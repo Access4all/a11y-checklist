@@ -45,3 +45,9 @@ Also avoid the focus being visually "lost" (e.g. because invisible elements can 
 <p>By submitting this form you confirm that you have read our <a href="...">Terms and Conditions</a>.</p>
 </form>
 ```
+
+## Checkpoints
+
+- [Focus order](focus-order)
+- [Focus-Guidance](focus-guidance)
+- [Hide elements correctly](hide-elements-correctly)

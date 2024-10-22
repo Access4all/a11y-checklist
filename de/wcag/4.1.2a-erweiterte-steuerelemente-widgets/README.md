@@ -45,6 +45,17 @@ Zudem versuchen viele Implementierungen, die Funktionalität von bereits existie
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um. Werden JavaScript-Widget-Bibliotheken verwendet, so werden diese erst eingehend auf Zugänglichkeit hin untersucht.
 - Auftraggebende sollten sich bewusst sein, dass die Umsetzung von zugänglichen JavaScript-Widgets Zusatzaufwand bedeuten kann.
 
+## Checkpoints
+
+- [Akkordeons](akkordeons)
+- [Autocompletes (Comboboxen)](autocompletes-comboboxen)
+- [Datepicker / Timepicker](datepicker-timepicker)
+- [Dialoge](dialoge)
+- [Dropdowns (Aufklapp-Elemente)](dropdowns-aufklapp-elemente)
+- [Karusselle](karusselle)
+- [Tabs / Tablisten](tabs-tablisten)
+- [Tooltips / Toggletips](tooltips-toggletips)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

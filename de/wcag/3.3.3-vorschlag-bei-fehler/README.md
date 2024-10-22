@@ -47,6 +47,10 @@ Vermeiden Sie allgemeine Sammelmeldungen wie etwa "Passwörter müssen 8 Zeichen
 
 Siehe **📜-3.3.1 Fehlerkennzeichnung** bzw. **📜-3.3.2 Beschriftungen (Labels) oder Anweisungen**.
 
+## Checkpoints
+
+- [Informative Fehlermeldungen](informative-fehlermeldungen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

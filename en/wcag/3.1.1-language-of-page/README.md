@@ -22,6 +22,10 @@ The ‘lang’ attribute requires an ISO language code as a value. Normally this
 
 - The development team sets the correct declaration for the respective language.
 
+## Checkpoints
+
+- [Declaration of language](declaration-of-language)
+
 ## References public
 
 ### WCAG-Varianten

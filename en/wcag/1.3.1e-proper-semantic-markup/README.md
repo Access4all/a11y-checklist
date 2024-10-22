@@ -59,6 +59,14 @@ If font variations have meaningful content, they must be accessible to everyone.
 </address>
 ```
 
+## Checkpoints
+
+- [Paragraphs semantically correct](paragraphs-semantically-correct)
+- [Content semantically correct](content-semantically-correct)
+- [Empty elements](empty-elements)
+- [Text formatting](text-formatting)
+- [Quotations semantically correct](quotations-semantically-correct)
+
 ## References public
 
 ### WCAG-Varianten

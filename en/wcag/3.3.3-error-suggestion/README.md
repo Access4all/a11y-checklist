@@ -47,6 +47,10 @@ Avoid general collective messages such as "Passwords must be 8 characters long, 
 
 See **📜-3.3.1 Error Identification** and **📜-3.3.2 Labels or Instructions**.
 
+## Checkpoints
+
+- [Informative error messages](informative-error-messages)
+
 ## References public
 
 ### WCAG-Varianten

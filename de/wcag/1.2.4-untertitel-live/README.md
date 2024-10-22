@@ -28,6 +28,10 @@ Diese Anforderung zu erfüllen ist anspruchsvoll. Sie benötigt entsprechende te
 
 Die Live-Tagesschau wird mit Live-Untertiteln versehen und so ergänzt ausgestrahlt.
 
+## Checkpoints
+
+- [Live Untertitel](live-untertitel)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

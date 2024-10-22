@@ -45,6 +45,10 @@ In längeren Textpassagen müssen Sprachwechsel angegeben sein. Ansonsten lesen 
 </html>
 ```
 
+## Checkpoints
+
+- [Sprachwechsel](sprachwechsel)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

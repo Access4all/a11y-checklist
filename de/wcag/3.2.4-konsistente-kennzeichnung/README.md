@@ -30,6 +30,10 @@ Sorgen Sie deshalb dafür, dass gleichartige Elemente gleich umgesetzt sind; etw
 
 Die Such-Funktion ist in allen Seiten immer gleich aufgebaut und betitelt.
 
+## Checkpoints
+
+- [Konsistente Umsetzung](konsistente-umsetzung)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

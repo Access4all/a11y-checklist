@@ -40,6 +40,10 @@ For text content, the spacing of lines, paragraphs, words and letters must be ad
 
 The spacing is increased with the help of customised bookmarklets or style sheets. No content or functionalities are lost in the process.
 
+## Checkpoints
+
+- [Increasable spacing](increasable-spacing)
+
 ## References public
 
 ### WCAG-Varianten

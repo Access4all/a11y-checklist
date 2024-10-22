@@ -50,6 +50,10 @@ The accessible label can differ from the visible label if it is defined via non-
 </a>
 ```
 
+## Checkpoints
+
+- [Accessible labelling](accessible-labelling)
+
 ## References public
 
 ### WCAG-Varianten

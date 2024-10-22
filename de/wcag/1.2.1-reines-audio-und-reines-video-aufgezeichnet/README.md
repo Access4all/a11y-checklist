@@ -49,6 +49,11 @@ Der Stummfilmklassiker Metropolis aus dem Jahre 1927 beginnt mit der Einblendung
 <a href="metropolis.html">Textabschrift von Metropolis</a>
 ```
 
+## Checkpoints
+
+- [Alternative für Audio-Inhalte](alternative-fuer-audio-inhalte)
+- [Alternative für reine Video-Inhalte](alternative-fuer-reine-video-inhalte)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

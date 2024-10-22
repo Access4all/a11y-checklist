@@ -97,6 +97,23 @@ The following graphical elements should be implemented in such a way that they c
 <iframe src="https://www.youtube.com/embed/xyz" title="Promotional video XYZ"></iframe>
 ```
 
+## Checkpoints
+
+- [Informative graphics](informative-graphics)
+- [Video and audio titles](video-and-audio-titles)
+- [Graphical tests and exercises](graphical-tests-and-exercises)
+- [Sensory non-text content](sensory-non-text-content)
+- [Graphic symbols](graphic-symbols)
+- [Linked graphics](linked-graphics)
+- [Redundancy in alternative texts](redundancy-in-alternative-texts)
+- [Graphic buttons](graphic-buttons)
+- [High contrast mode](high-contrast-mode)
+- [Linked page logo](linked-page-logo)
+- [Special characters](special-characters)
+- [Complex graphics](complex-graphics)
+- [Decorative graphics](decorative-graphics)
+- [Graphical CAPTCHAs](graphical-captchas)
+
 ## References public
 
 ### WCAG-Varianten

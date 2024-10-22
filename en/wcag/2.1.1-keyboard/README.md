@@ -50,6 +50,10 @@ Please also note the notes in **📜-4.1.2a Advanced controls (widgets)** in thi
 <span onhover='...'>Show tooltip</span>
 ```
 
+## Checkpoints
+
+- [Operable with the keyboard](operable-with-the-keyboard)
+
 ## References public
 
 ### WCAG-Varianten

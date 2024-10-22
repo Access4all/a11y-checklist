@@ -36,6 +36,10 @@ It is therefore important that functions that rely on path and/or multi-point po
 - The development team correctly implements the specifications defined by the design team. If JavaScript widget libraries are used, they are first thoroughly checked for accessibility.
 - Clients should be aware that the implementation of alternative input options involves a certain amount of additional work.
 
+## Checkpoints
+
+- [Alternative for path and multi-point pointer gestures](alternative-for-path-and-multi-point-pointer-gestures)
+
 ## References public
 
 ### WCAG-Varianten

@@ -35,6 +35,11 @@ This success criterion 4.1.2 is very extensive. In addition to the checkpoints t
 - The design team defines content and functionalities that can be implemented using standard HTML elements wherever possible.
 - The development team correctly implements the specifications defined by the design team.
 
+## Checkpoints
+
+- [Use of ARIA](use-of-aria)
+- [Form switch implemented correctly](form-switch-implemented-correctly)
+
 ## References public
 
 ### WCAG-Varianten

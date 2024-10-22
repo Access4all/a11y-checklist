@@ -35,6 +35,10 @@ The following aspects must be taken into account:
 
 - The development team ensures that content displayed via hover or focus can be hidden and hovered and does not close automatically.
 
+## Checkpoints
+
+- [Content via hover or focus](content-via-hover-or-focus)
+
 ## References public
 
 ### WCAG-Varianten

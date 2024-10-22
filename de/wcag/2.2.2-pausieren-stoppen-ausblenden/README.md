@@ -34,6 +34,10 @@ Dauerhaft animierte Elemente (etwa Werbebanner) erfordern zusätzliche Aufmerksa
 - Ein Link "Sonder-Angebot!" blinkt rhythmisch oder ändert regelmässig seine Farben.
 - Eine automatisch abspielende Animation (z.B. ein Werbe-Video) kann pausiert werden (oder dauert nicht länger als 5 Sekunden).
 
+## Checkpoints
+
+- [Dauerhaft animierte Inhalte](dauerhaft-animierte-inhalte)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

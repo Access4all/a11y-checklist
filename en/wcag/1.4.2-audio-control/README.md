@@ -28,6 +28,10 @@ Automatic playback of audio content can be very distracting. It can interfere wi
 
 Control buttons (play, stop, etc.) are available.
 
+## Checkpoints
+
+- [Auto-playing audio content](auto-playing-audio-content)
+
 ## References public
 
 ### WCAG-Varianten

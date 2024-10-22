@@ -89,6 +89,12 @@ Use the techniques presented in **📜-3.3.1 Error Identification** for the `<la
 </form>
 ```
 
+## Checkpoints
+
+- [Mandatory fields](mandatory-fields)
+- [Visible labels](visible-labels)
+- [Format information](format-information)
+
 ## References public
 
 ### WCAG-Varianten

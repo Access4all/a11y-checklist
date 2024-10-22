@@ -31,3 +31,7 @@ At the same time, experience has shown that very few code errors have a direct i
 ### Responsibilities
 
 - The development team creates well-formed and valid HTML code according to the set doctype.
+
+## Checkpoints
+
+- [No syntax errors (obsolete)](no-syntax-errors-obsolete)

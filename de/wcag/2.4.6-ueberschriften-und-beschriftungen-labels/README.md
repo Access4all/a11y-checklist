@@ -63,6 +63,10 @@ Auf unzugänglichen, fremdgenerierten Inhalt muss hingewiesen werden! Z.B. indem
 </article>
 ```
 
+## Checkpoints
+
+- [Überschriften und Labels](ueberschriften-und-labels)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

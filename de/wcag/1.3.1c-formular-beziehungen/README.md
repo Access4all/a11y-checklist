@@ -111,6 +111,12 @@ Wir empfehlen, mit Anweisungen in Formularen zurückhaltend zu sein; für ausfü
 </p>
 ```
 
+## Checkpoints
+
+- [Fieldset / Legend](fieldset-legend)
+- [Text-Elemente zwischen Eingabefeldern](text-elemente-zwischen-eingabefeldern)
+- [Formularfelder Labels](formularfelder-labels)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

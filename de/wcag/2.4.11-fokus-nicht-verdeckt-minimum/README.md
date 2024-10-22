@@ -29,6 +29,10 @@ Ein teilweises Verdecken des Fokus ist tolerierbar, wenn auch zu vermeiden; ein 
 
 - Das Entwicklungsteam positioniert interaktive Elemente und scrollt den Viewport so, dass der Fokus stets möglichst gut sichtbar ist.
 
+## Checkpoints
+
+- [Tastatur-Fokus nicht verdeckt](tastatur-fokus-nicht-verdeckt)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

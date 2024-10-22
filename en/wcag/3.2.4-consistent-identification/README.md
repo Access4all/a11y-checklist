@@ -30,6 +30,10 @@ For example, elements should be named consistently, icons (e.g. for printing, do
 
 The search function is always structured and labelled in the same way on all pages.
 
+## Checkpoints
+
+- [Consistent implementation](consistent-implementation)
+
 ## References public
 
 ### WCAG-Varianten

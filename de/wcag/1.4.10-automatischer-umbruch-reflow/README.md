@@ -26,6 +26,10 @@ Die vorgegebene Mindest-Auflösung hierfür ist `320`x`256` CSS-Pixel. Ein typis
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um und sorgt dafür, dass der Reflow wie vorgeschrieben funktioniert.
 - Die Inhaltsverantwortlichen kontrollieren die erstellten Inhalte auf ihre korrekte Darstellung in den Viewport-Mindestdimensionen.
 
+## Checkpoints
+
+- [Viewport-Mindestdimensionen](viewport-mindestdimensionen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

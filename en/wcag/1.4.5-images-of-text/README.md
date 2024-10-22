@@ -38,6 +38,10 @@ Exceptions are texts for which the particular type of presentation is indispensa
 </h1>
 ```
 
+## Checkpoints
+
+- [Texts not as graphics](texts-not-as-graphics)
+
 ## References public
 
 ### WCAG-Varianten

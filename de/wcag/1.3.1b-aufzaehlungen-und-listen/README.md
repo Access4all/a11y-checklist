@@ -57,6 +57,12 @@ Listen mit einem einzigen Eintrag sollten vermieden werden (ausser sie werden au
 </p>
 ```
 
+## Checkpoints
+
+- [Aufzählungen semantisch korrekt](aufzaehlungen-semantisch-korrekt)
+- [Listen mit nur einem Eintrag](listen-mit-nur-einem-eintrag)
+- [Glossare](glossare)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

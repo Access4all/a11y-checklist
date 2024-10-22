@@ -24,6 +24,10 @@ Many people with visual impairments are dependent on the browser's zoom function
 
 - The development team ensures that the content can be enlarged up to 200%.
 
+## Checkpoints
+
+- [200% zoom](200-zoom)
+
 ## References public
 
 ### WCAG-Varianten

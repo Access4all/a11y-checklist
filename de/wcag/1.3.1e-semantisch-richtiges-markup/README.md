@@ -58,6 +58,14 @@ Wenn Schriftvariationen eine inhaltliche Bedeutung haben, muss diese für alle e
 </address>
 ```
 
+## Checkpoints
+
+- [Absätze semantisch korrekt](absaetze-semantisch-korrekt)
+- [Inhalte semantisch korrekt](inhalte-semantisch-korrekt)
+- [Leere Elemente](leere-elemente)
+- [Schriftformatierungen](schriftformatierungen)
+- [Zitate semantisch korrekt](zitate-semantisch-korrekt)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

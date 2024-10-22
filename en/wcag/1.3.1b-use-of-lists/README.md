@@ -57,6 +57,12 @@ Lists with a single entry should be avoided (unless they are generated automatic
 </p>
 ```
 
+## Checkpoints
+
+- [Semantically correct enumerations](semantically-correct-enumerations)
+- [Lists with only one entry](lists-with-only-one-entry)
+- [Glossaries](glossaries)
+
 ## References public
 
 ### WCAG-Varianten

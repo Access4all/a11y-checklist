@@ -28,6 +28,10 @@ Automatisch abspielende Audioinhalte können sehr störend sein. Sie können int
 
 Steuer-Buttons (Play, Stopp usw.) stehen zur Verfügung.
 
+## Checkpoints
+
+- [Automatisch abspielender Audio-Inhalt](automatisch-abspielender-audio-inhalt)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

@@ -30,3 +30,7 @@ Single-button shortcuts can also cause problems for people with motor disabiliti
 ## Examples
 
 A website offers the keyboard shortcut 'S' to jump directly to a search field. This shortcut can be deactivated or changed in the user settings.
+
+## Checkpoints
+
+- [Single-key shortcuts](single-key-shortcuts)

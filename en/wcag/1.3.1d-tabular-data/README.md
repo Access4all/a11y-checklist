@@ -77,6 +77,14 @@ Sometimes, however, it is easier to split complex tables into several smaller ta
 </table>
 ```
 
+## Checkpoints
+
+- [Table headings](table-headings)
+- [Column or row title](column-or-row-title)
+- [Table semantically correct](table-semantically-correct)
+- [No empty columns or rows](no-empty-columns-or-rows)
+- [Spanning cells](spanning-cells)
+
 ## References public
 
 ### WCAG-Varianten

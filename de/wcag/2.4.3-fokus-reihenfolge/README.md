@@ -45,3 +45,9 @@ Vermeiden Sie zudem, dass der Fokus visuell "verloren" geht (etwa weil unsichtba
   <p>Durch Abschicken dieses Formulars bestätigen Sie, unsere <a href="...">AGBs</a> gelesen zu haben.</p>
 </form>
 ```
+
+## Checkpoints
+
+- [Fokus-Reihenfolge](fokus-reihenfolge)
+- [Fokus-Führung](fokus-fuehrung)
+- [Elemente korrekt verstecken](elemente-korrekt-verstecken)

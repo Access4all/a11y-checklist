@@ -88,6 +88,16 @@ Die erste Überschrift einer Seite muss nicht unbedingt eine `<h1>` sein: oft st
 </footer>
 ```
 
+## Checkpoints
+
+- [Hierarchie existierender Überschriften](hierarchie-existierender-ueberschriften)
+- [Sprünge zwischen Überschriften-Ebenen](spruenge-zwischen-ueberschriften-ebenen)
+- [Eigene Überschrift](eigene-ueberschrift)
+- [Nachfolgender Inhalt](nachfolgender-inhalt)
+- [Überschriften vor zugehörigen Inhalten](ueberschriften-vor-zugehoerigen-inhalten)
+- [Überschriften für Akkordeons](ueberschriften-fuer-akkordeons)
+- [Überschriften semantisch korrekt](ueberschriften-semantisch-korrekt)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

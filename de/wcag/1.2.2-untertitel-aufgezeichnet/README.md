@@ -34,6 +34,10 @@ Falls Videos nur Hintergrundmusik spielen, weisen Sie auch darauf hin (z.B. "Ent
 - Ist die sprechende Person nicht klar auf dem Bild zu sehen oder wechseln unterschiedliche Sprecher in rascher Abfolge, so identifizieren die Untertitel dieselbe(n) namentlich.
 - Videos ohne Sprache geben einen Hinweis auf vorhandene Hintergrundmusik und/oder Stimmung.
 
+## Checkpoints
+
+- [Untertitel](untertitel)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

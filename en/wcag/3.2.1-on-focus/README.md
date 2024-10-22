@@ -24,6 +24,10 @@ Make sure, for example, that neither links or buttons are activated nor forms ar
 
 - The development team implements focusable elements (such as JavaScripts widgets) in such a way that the context is not changed when they are focussed.
 
+## Checkpoints
+
+- [Context change with focus](context-change-with-focus)
+
 ## References public
 
 ### WCAG-Varianten

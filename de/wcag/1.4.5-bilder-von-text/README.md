@@ -38,6 +38,10 @@ Ausgenommen sind Texte, bei welchen die besondere Art der Präsentation unentbeh
 </h1>
 ```
 
+## Checkpoints
+
+- [Texte nicht als Grafiken](texte-nicht-als-grafiken)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

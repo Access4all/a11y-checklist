@@ -36,3 +36,7 @@ The following options are permitted:
 
 - In an online store, while an order process is being completed, a clearly perceptible notice appears in good time before the session expires, indicating that the session can be extended by confirming the notice
 - In e-banking, the duration of a session can be increased to the required value in the profile settings.
+
+## Checkpoints
+
+- [Timeout intervals](timeout-intervals)

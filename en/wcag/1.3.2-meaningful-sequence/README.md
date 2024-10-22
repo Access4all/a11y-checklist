@@ -60,6 +60,10 @@ If, for example, the photo of a news item is placed visually before its headline
 </article>
 ```
 
+## Checkpoints
+
+- [Correct order](correct-order)
+
 ## References public
 
 ### WCAG-Varianten

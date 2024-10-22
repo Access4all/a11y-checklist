@@ -51,6 +51,10 @@ Es ist ungünstig, umfangreiche Inhalte (z.B. SPAs) komplett als Live-Regions zu
 <p role="alert">Die Auktion läuft in 60 Sekunden ab.</p>
 ```
 
+## Checkpoints
+
+- [Statusmeldungen](statusmeldungen)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten

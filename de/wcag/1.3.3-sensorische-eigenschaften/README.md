@@ -30,6 +30,10 @@ Diesem Umstand kann Rechnung getragen werden, indem zusätzliche Stimuli auf and
 
 Fehlerhafte Eingabefelder in einem Formular werden nicht nur rot umrandet, sondern auch mit einem eindeutigen Symbol (z.B. ein Ausrufezeichen) als fehlerhaft gekennzeichnet.
 
+## Checkpoints
+
+- [Sensorische Hinweise](sensorische-hinweise)
+
 ## Referenzen (öffentlich)
 
 ### WCAG-Varianten
