@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.2 Audio Control - A
+# 📜 1.4.2 Audio Control - A
 
 ## Understanding (short)
 
@@ -28,9 +28,9 @@ Automatic playback of audio content can be very distracting. It can interfere wi
 
 Control buttons (play, stop, etc.) are available.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Auto-playing audio content](auto-playing-audio-content)
+- [✅ Auto-playing audio content](auto-playing-audio-content)
 
 ## References public
 

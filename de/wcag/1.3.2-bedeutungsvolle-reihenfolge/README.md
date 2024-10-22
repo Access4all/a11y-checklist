@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.3.2 Bedeutungsvolle Reihenfolge - A
+# 📜 1.3.2 Bedeutungsvolle Reihenfolge - A
 
 ## Verstehen (in Kürze)
 
@@ -60,9 +60,9 @@ Wird etwa das Foto einer News-Meldung visuell vor deren Überschrift platziert, 
 </article>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Korrekte Reihenfolge](korrekte-reihenfolge)
+- [✅ Korrekte Reihenfolge](korrekte-reihenfolge)
 
 ## Referenzen (öffentlich)
 

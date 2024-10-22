@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"
 created_at: "2023-10-23 11:03:21"
 ---
 
-# 3.2.6 Konsistente Hilfe - A
+# 📜 3.2.6 Konsistente Hilfe - A
 
 ## Verstehen (in Kürze)
 
@@ -31,9 +31,9 @@ Insbesondere bei Prozessen, welche über unterschiedliche Seiten hinweg führen,
 - Ein Live-Chat-Client in der Such-Maske eines Online-Shops, welcher hilft, ein bestimmtes Produkt zu finden.
 - Möglichkeiten zur Selbsthilfe, z.B. ein Hinweis auf häufig gestellte Fragen (FAQ) innerhalb eines Online-Buchungs-Systems für Flug-Tickets.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Konsistente Hilfe](konsistente-hilfe)
+- [✅ Konsistente Hilfe](konsistente-hilfe)
 
 ## Referenzen (öffentlich)
 

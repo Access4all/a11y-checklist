@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-fi
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.4 Fehlervermeidung (rechtlich, finanziell, Daten) - AA
+# 📜 3.3.4 Fehlervermeidung (rechtlich, finanziell, Daten) - AA
 
 ## Verstehen (in Kürze)
 
@@ -26,9 +26,9 @@ Oftmals wird diese Bedingung erfüllt, indem als letzter Schritt in einem Prozes
 
 Bevor eine Bestellung im Online-Shop abgeschickt wird, wird eine Bestätigungsseite mit der gesamten Bestellung, sowie den Kundendaten angezeigt. Via "Bearbeiten"-Schalter kann im Bestellprozess zurück gegangen und nochmals editiert werden, via "Bestellung absenden" wird der Bestellvorgang mit allen Konsequenzen ausgelöst.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Nutzereingaben überprüfbar](nutzereingaben-ueberpruefbar)
+- [✅ Nutzereingaben überprüfbar](nutzereingaben-ueberpruefbar)
 
 ## Referenzen (öffentlich)
 

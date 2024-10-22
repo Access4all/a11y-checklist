@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimu
 created_at: "2023-10-23 10:49:15"
 ---
 
-# 2.4.11 Fokus nicht verdeckt (Minimum) - AA
+# 📜 2.4.11 Fokus nicht verdeckt (Minimum) - AA
 
 ## Verstehen (in Kürze)
 
@@ -29,9 +29,9 @@ Ein teilweises Verdecken des Fokus ist tolerierbar, wenn auch zu vermeiden; ein 
 
 - Das Entwicklungsteam positioniert interaktive Elemente und scrollt den Viewport so, dass der Fokus stets möglichst gut sichtbar ist.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Tastatur-Fokus nicht verdeckt](tastatur-fokus-nicht-verdeckt)
+- [✅ Tastatur-Fokus nicht verdeckt](tastatur-fokus-nicht-verdeckt)
 
 ## Referenzen (öffentlich)
 

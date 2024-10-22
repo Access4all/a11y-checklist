@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.5 Verschiedene Möglichkeiten - AA
+# 📜 2.4.5 Verschiedene Möglichkeiten - AA
 
 ## Verstehen (in Kürze)
 
@@ -22,9 +22,9 @@ Verschiedene Methoden müssen vorhanden sein zum Aufspüren von Inhalten, damit 
 
 - Das Entwicklungsteam stellt sicher, dass eine Suchfunktion oder Sitemap vorhanden ist.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Navigations-Methoden](navigations-methoden)
+- [✅ Navigations-Methoden](navigations-methoden)
 
 ## Referenzen (öffentlich)
 

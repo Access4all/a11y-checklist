@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.2.1 Timing Adjustable - A
+# 📜 2.2.1 Timing Adjustable - A
 
 ## Understanding (short)
 
@@ -37,6 +37,6 @@ The following options are permitted:
 - In an online store, while an order process is being completed, a clearly perceptible notice appears in good time before the session expires, indicating that the session can be extended by confirming the notice
 - In e-banking, the duration of a session can be increased to the required value in the profile settings.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Timeout intervals](timeout-intervals)
+- [✅ Timeout intervals](timeout-intervals)

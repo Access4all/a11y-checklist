@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html"
 created_at: "2015-08-04 14:36:01"
 ---
 
-# 4.1.2 Name, Role, Value - A
+# 📜 4.1.2 Name, Role, Value - A
 
 ## Understanding (short)
 
@@ -35,10 +35,10 @@ This success criterion 4.1.2 is very extensive. In addition to the checkpoints t
 - The design team defines content and functionalities that can be implemented using standard HTML elements wherever possible.
 - The development team correctly implements the specifications defined by the design team.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Use of ARIA](use-of-aria)
-- [Form switch implemented correctly](form-switch-implemented-correctly)
+- [✅ Use of ARIA](use-of-aria)
+- [✅ Form switch implemented correctly](form-switch-implemented-correctly)
 
 ## References public
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation.htm
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.3 Konsistente Navigation - AA
+# 📜 3.2.3 Konsistente Navigation - AA
 
 ## Verstehen (in Kürze)
 
@@ -23,9 +23,9 @@ Sorgen Sie deshalb dafür, dass die Navigation auf verschiedenen Seiten konsiste
 - Das Designteam definiert Navigationselemente, welche konsistent aussehen und sich ebenso verhalten.
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Konsistente Navigation](konsistente-navigation)
+- [✅ Konsistente Navigation](konsistente-navigation)
 
 ## Referenzen (öffentlich)
 

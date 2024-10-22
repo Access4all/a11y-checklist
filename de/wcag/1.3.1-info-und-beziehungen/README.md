@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.3.1 Info und Beziehungen - A
+# 📜 1.3.1 Info und Beziehungen - A
 
 ## Verstehen (in Kürze)
 
@@ -30,12 +30,12 @@ Das vorliegende Erfolgskriterium 1.3.1 ist sehr umfangreich. Neben den Prüfpunk
 
 **Wichtig:** Diese Aufteilung von Erfolgskriterien in Sub-Erfolgskriterien existiert **nicht** im WCAG-Original. Sie ist eine Massnahme, um die Übersichtlichkeit der WCAG zu fördern.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Aktive Elemente](aktive-elemente)
-- [Landmarks](landmarks)
-- [Breadcrumbs und Prozessanzeigen](breadcrumbs-und-prozessanzeigen)
-- [Fussnoten](fussnoten)
+- [✅ Aktive Elemente](aktive-elemente)
+- [✅ Landmarks](landmarks)
+- [✅ Breadcrumbs und Prozessanzeigen](breadcrumbs-und-prozessanzeigen)
+- [✅ Fussnoten](fussnoten)
 
 ## Referenzen (öffentlich)
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/headings-and-labels.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.6 Überschriften und Beschriftungen (Labels) - AA
+# 📜 2.4.6 Überschriften und Beschriftungen (Labels) - AA
 
 ## Verstehen (in Kürze)
 
@@ -63,9 +63,9 @@ Auf unzugänglichen, fremdgenerierten Inhalt muss hingewiesen werden! Z.B. indem
 </article>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Überschriften und Labels](ueberschriften-und-labels)
+- [✅ Überschriften und Labels](ueberschriften-und-labels)
 
 ## Referenzen (öffentlich)
 

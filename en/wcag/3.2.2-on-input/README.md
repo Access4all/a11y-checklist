@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/on-input.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.2 On Input - A
+# 📜 3.2.2 On Input - A
 
 ## Understanding (short)
 
@@ -26,9 +26,9 @@ Make sure, for example, that selecting an entry in a combo box (`<select>`) does
 
 - The development team implements interactive elements (such as JavaScripts widgets) in such a way that no change of context occurs when interacting with them (unless the interaction is an explicit request to do so, such as activating a button).
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Context change on input](context-change-on-input)
+- [✅ Context change on input](context-change-on-input)
 
 ## References public
 

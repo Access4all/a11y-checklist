@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:52:07"
 ---
 
-# Prüfpunkt: Fokus-Reihenfolge
+# ✅ Fokus-Reihenfolge
 
 ## Beschreibung
 

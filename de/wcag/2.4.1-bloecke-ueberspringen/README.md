@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/bypass-blocks.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.1 Blöcke überspringen - A
+# 📜 2.4.1 Blöcke überspringen - A
 
 ## Verstehen (in Kürze)
 
@@ -85,10 +85,10 @@ Techniken, um das Überspringen solcher Elemente für bestimmte assistierende Te
 </nav>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Sprunglinks](sprunglinks)
-- [Unternavigationspunkte überspringen](unternavigationspunkte-ueberspringen)
+- [✅ Sprunglinks](sprunglinks)
+- [✅ Unternavigationspunkte überspringen](unternavigationspunkte-ueberspringen)
 
 ## Referenzen (öffentlich)
 

@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2016-01-22 11:03:47"
 ---
 
-# 1.3.1c Formular-Beziehungen
+# 📜 1.3.1c Formular-Beziehungen
 
 ## Verstehen (in Kürze)
 
@@ -111,11 +111,11 @@ Wir empfehlen, mit Anweisungen in Formularen zurückhaltend zu sein; für ausfü
 </p>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Fieldset / Legend](fieldset-legend)
-- [Text-Elemente zwischen Eingabefeldern](text-elemente-zwischen-eingabefeldern)
-- [Formularfelder Labels](formularfelder-labels)
+- [✅ Fieldset / Legend](fieldset-legend)
+- [✅ Text-Elemente zwischen Eingabefeldern](text-elemente-zwischen-eingabefeldern)
+- [✅ Formularfelder Labels](formularfelder-labels)
 
 ## Referenzen (öffentlich)
 

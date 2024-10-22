@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:18:55"
 ---
 
-# Prüfpunkt: Absätze semantisch korrekt
+# ✅ Absätze semantisch korrekt
 
 ## Beschreibung
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 12:59:27"
 ---
 
-# Prüfpunkt: Aufzählungen semantisch korrekt
+# ✅ Aufzählungen semantisch korrekt
 
 ## Beschreibung
 

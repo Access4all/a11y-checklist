@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.2.2 Pausieren, stoppen, ausblenden - A
+# 📜 2.2.2 Pausieren, stoppen, ausblenden - A
 
 ## Verstehen (in Kürze)
 
@@ -34,9 +34,9 @@ Dauerhaft animierte Elemente (etwa Werbebanner) erfordern zusätzliche Aufmerksa
 - Ein Link "Sonder-Angebot!" blinkt rhythmisch oder ändert regelmässig seine Farben.
 - Eine automatisch abspielende Animation (z.B. ein Werbe-Video) kann pausiert werden (oder dauert nicht länger als 5 Sekunden).
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Dauerhaft animierte Inhalte](dauerhaft-animierte-inhalte)
+- [✅ Dauerhaft animierte Inhalte](dauerhaft-animierte-inhalte)
 
 ## Referenzen (öffentlich)
 

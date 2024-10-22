@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:59:23"
 ---
 
-# Checkpoint: Keyboard-Focus visible
+# ✅ Keyboard-Focus visible
 
 ## Description
 

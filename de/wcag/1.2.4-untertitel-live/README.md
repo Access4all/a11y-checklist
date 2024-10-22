@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html"
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.4 Untertitel (Live) - AA
+# 📜 1.2.4 Untertitel (Live) - AA
 
 ## Verstehen (in Kürze)
 
@@ -28,9 +28,9 @@ Diese Anforderung zu erfüllen ist anspruchsvoll. Sie benötigt entsprechende te
 
 Die Live-Tagesschau wird mit Live-Untertiteln versehen und so ergänzt ausgestrahlt.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Live Untertitel](live-untertitel)
+- [✅ Live Untertitel](live-untertitel)
 
 ## Referenzen (öffentlich)
 

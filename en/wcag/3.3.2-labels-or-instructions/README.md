@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.ht
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.2 Labels or Instructions - A
+# 📜 3.3.2 Labels or Instructions - A
 
 ## Understanding (short)
 
@@ -89,11 +89,11 @@ Use the techniques presented in **📜-3.3.1 Error Identification** for the `<la
 </form>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Mandatory fields](mandatory-fields)
-- [Visible labels](visible-labels)
-- [Format information](format-information)
+- [✅ Mandatory fields](mandatory-fields)
+- [✅ Visible labels](visible-labels)
+- [✅ Format information](format-information)
 
 ## References public
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.1.1 Tastatur - A
+# 📜 2.1.1 Tastatur - A
 
 ## Verstehen (in Kürze)
 
@@ -50,9 +50,9 @@ Beachten Sie diesbezüglich unbedingt auch die Hinweise in **📜-4.1.2a Erweite
 <span onhover="...">Tooltip anzeigen</span>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Mit der Tastatur bedienbar](mit-der-tastatur-bedienbar)
+- [✅ Mit der Tastatur bedienbar](mit-der-tastatur-bedienbar)
 
 ## Referenzen (öffentlich)
 

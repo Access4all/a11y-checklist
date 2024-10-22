@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.1 Audio-only and Video-only (Prerecorded) - A
+# 📜 1.2.1 Audio-only and Video-only (Prerecorded) - A
 
 ## Understanding (short)
 
@@ -49,10 +49,10 @@ The silent film classic Metropolis from 1927 begins with the fade-in of...
 <a href="metropolis.html">Text transcript of Metropolis</a>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Alternative for audio content](alternative-for-audio-content)
-- [Alternative for video-only content](alternative-for-video-only-content)
+- [✅ Alternative for audio content](alternative-for-audio-content)
+- [✅ Alternative for video-only content](alternative-for-video-only-content)
 
 ## References public
 

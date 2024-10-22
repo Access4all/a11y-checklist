@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.h
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.3.3 Sensorische Eigenschaften - A
+# 📜 1.3.3 Sensorische Eigenschaften - A
 
 ## Verstehen (in Kürze)
 
@@ -30,9 +30,9 @@ Diesem Umstand kann Rechnung getragen werden, indem zusätzliche Stimuli auf and
 
 Fehlerhafte Eingabefelder in einem Formular werden nicht nur rot umrandet, sondern auch mit einem eindeutigen Symbol (z.B. ein Ausrufezeichen) als fehlerhaft gekennzeichnet.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Sensorische Hinweise](sensorische-hinweise)
+- [✅ Sensorische Hinweise](sensorische-hinweise)
 
 ## Referenzen (öffentlich)
 

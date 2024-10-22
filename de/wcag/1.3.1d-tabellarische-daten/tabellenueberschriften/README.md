@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:14:26"
 ---
 
-# Prüfpunkt: Tabellenüberschriften
+# ✅ Tabellenüberschriften
 
 ## Beschreibung
 

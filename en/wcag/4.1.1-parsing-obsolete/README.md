@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/parsing.html"
 created_at: "2015-08-04 14:36:01"
 ---
 
-# 4.1.1 Parsing (obsolete) - A
+# 📜 4.1.1 Parsing (obsolete) - A
 
 ## Understanding (short)
 
@@ -32,6 +32,6 @@ At the same time, experience has shown that very few code errors have a direct i
 
 - The development team creates well-formed and valid HTML code according to the set doctype.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [No syntax errors (obsolete)](no-syntax-errors-obsolete)
+- [✅ No syntax errors (obsolete)](no-syntax-errors-obsolete)

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/motion-actuation.html"
 created_at: "2019-11-10 20:25:15"
 ---
 
-# 2.5.4 Bewegungsaktivierung - A
+# 📜 2.5.4 Bewegungsaktivierung - A
 
 ## Verstehen (in Kürze)
 
@@ -29,9 +29,9 @@ Es muss zudem sicher gestellt sein, dass solche Funktionalitäten nicht aus Vers
 
 - Das Entwicklungsteam stellt sicher, dass Alternativen bestehen für Funktionen, die über Geräte- oder Benutzerbewegung ausgelöst werden können. Ausserdem müssen solche Funktionalitäten deaktiviert werden können.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Alternativen für Bewegungsaktivierung](alternativen-fuer-bewegungsaktivierung)
+- [✅ Alternativen für Bewegungsaktivierung](alternativen-fuer-bewegungsaktivierung)
 
 ## Referenzen (öffentlich)
 

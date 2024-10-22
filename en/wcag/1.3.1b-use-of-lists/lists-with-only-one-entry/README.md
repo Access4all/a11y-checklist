@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:00:02"
 ---
 
-# Checkpoint: Lists with only one entry
+# ✅ Lists with only one entry
 
 ## Description
 

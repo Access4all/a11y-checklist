@@ -9,7 +9,7 @@ applies_to_quality_assurance: ""
 created_at: "2024-04-16 08:42:16"
 ---
 
-# Prüfpunkt: Barrierefreies Authentifizieren
+# ✅ Barrierefreies Authentifizieren
 
 ## Beschreibung
 

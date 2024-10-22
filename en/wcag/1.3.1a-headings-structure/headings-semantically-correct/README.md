@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 12:27:30"
 ---
 
-# Checkpoint: Headings semantically correct
+# ✅ Headings semantically correct
 
 ## Description
 

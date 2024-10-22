@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:37:24"
 ---
 
-# Prüfpunkt: Links in Fliesstext
+# ✅ Links in Fliesstext
 
 ## Beschreibung
 

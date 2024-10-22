@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.1.1 Language of Page - A
+# 📜 3.1.1 Language of Page - A
 
 ## Understanding (short)
 
@@ -22,9 +22,9 @@ The ‘lang’ attribute requires an ISO language code as a value. Normally this
 
 - The development team sets the correct declaration for the respective language.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Declaration of language](declaration-of-language)
+- [✅ Declaration of language](declaration-of-language)
 
 ## References public
 

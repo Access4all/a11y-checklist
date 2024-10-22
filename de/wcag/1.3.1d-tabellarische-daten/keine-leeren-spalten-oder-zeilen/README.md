@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:17:53"
 ---
 
-# Prüfpunkt: Keine leeren Spalten oder Zeilen
+# ✅ Keine leeren Spalten oder Zeilen
 
 ## Beschreibung
 

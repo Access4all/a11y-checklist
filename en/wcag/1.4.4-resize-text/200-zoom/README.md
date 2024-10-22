@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:42:11"
 ---
 
-# Checkpoint: 200% zoom
+# ✅ 200% zoom
 
 ## Description
 

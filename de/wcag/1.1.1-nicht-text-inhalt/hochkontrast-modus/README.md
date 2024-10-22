@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-13 16:21:05"
 ---
 
-# Prüfpunkt: Hochkontrast-Modus
+# ✅ Hochkontrast-Modus
 
 ## Beschreibung
 

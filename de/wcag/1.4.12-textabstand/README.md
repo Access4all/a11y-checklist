@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html"
 created_at: "2019-11-10 20:20:34"
 ---
 
-# 1.4.12 Textabstand - AA
+# 📜 1.4.12 Textabstand - AA
 
 ## Verstehen (in Kürze)
 
@@ -39,9 +39,9 @@ Bei Textinhalten müssen die Abstände von Zeilen, Absätzen, Wörtern und Buchs
 
 Die Abstände werden mithilfe von eigenen Bookmarklets oder Stylesheets vergrössert. Es entstehen dabei keine Inhalte oder Funktionalitäten verloren.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Abstände vergrösserbar](abstaende-vergroesserbar)
+- [✅ Abstände vergrösserbar](abstaende-vergroesserbar)
 
 ## Referenzen (öffentlich)
 

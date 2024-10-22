@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html"
 created_at: "2019-11-10 20:26:08"
 ---
 
-# 4.1.3 Statusmeldungen - AA
+# 📜 4.1.3 Statusmeldungen - AA
 
 ## Verstehen (in Kürze)
 
@@ -51,9 +51,9 @@ Es ist ungünstig, umfangreiche Inhalte (z.B. SPAs) komplett als Live-Regions zu
 <p role="alert">Die Auktion läuft in 60 Sekunden ab.</p>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Statusmeldungen](statusmeldungen)
+- [✅ Statusmeldungen](statusmeldungen)
 
 ## Referenzen (öffentlich)
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.3 Error Suggestion - AA
+# 📜 3.3.3 Error Suggestion - AA
 
 ## Understanding (short)
 
@@ -47,9 +47,9 @@ Avoid general collective messages such as "Passwords must be 8 characters long, 
 
 See **📜-3.3.1 Error Identification** and **📜-3.3.2 Labels or Instructions**.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Informative error messages](informative-error-messages)
+- [✅ Informative error messages](informative-error-messages)
 
 ## References public
 

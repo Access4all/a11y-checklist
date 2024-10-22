@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus
 created_at: "2019-11-10 20:20:52"
 ---
 
-# 1.4.13 Content on Hover or Focus - AA
+# 📜 1.4.13 Content on Hover or Focus - AA
 
 ## Understanding (short)
 
@@ -35,9 +35,9 @@ The following aspects must be taken into account:
 
 - The development team ensures that content displayed via hover or focus can be hidden and hovered and does not close automatically.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Content via hover or focus](content-via-hover-or-focus)
+- [✅ Content via hover or focus](content-via-hover-or-focus)
 
 ## References public
 

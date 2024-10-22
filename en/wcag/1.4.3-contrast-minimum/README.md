@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.3 Contrast (Minimum) - AA
+# 📜 1.4.3 Contrast (Minimum) - AA
 
 ## Understanding (short)
 
@@ -44,10 +44,10 @@ If a placeholder (`placeholder` attribute) provides additional information that 
 - Contrast analysis: foreground white (HEX #FFFFFF), background blue (HEX #0064B4). Results: Contrast ratio is `6.0:1` and fulfills the requirements for normal text at level AA as well as the requirements for large text at levels AA and AAA.
 - The colors used can be measured and adjusted with the “Colour Contrast Analyser”. There are options for pipette function, HEX code input and selection from a color palette.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Contrast ratio for text](contrast-ratio-for-text)
-- [Contrast of interactive text elements](contrast-of-interactive-text-elements)
+- [✅ Contrast ratio for text](contrast-ratio-for-text)
+- [✅ Contrast of interactive text elements](contrast-of-interactive-text-elements)
 
 ## References public
 

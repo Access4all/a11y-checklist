@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.1.2 Keine Tastaturfalle - A
+# 📜 2.1.2 Keine Tastaturfalle - A
 
 ## Verstehen (in Kürze)
 
@@ -24,6 +24,6 @@ Tastatur-Fallen traten früher häufig bei Flash- oder Video-Inhalten auf. Heutz
 
 - Das Entwicklungsteam setzt die Fokus-Führung korrekt um.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Tastaturfallen](tastaturfallen)
+- [✅ Tastaturfallen](tastaturfallen)

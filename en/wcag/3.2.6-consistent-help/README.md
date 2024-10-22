@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/consistent-help.html"
 created_at: "2023-10-23 11:03:21"
 ---
 
-# 3.2.6 Consistent Help - A
+# 📜 3.2.6 Consistent Help - A
 
 ## Understanding (short)
 
@@ -31,9 +31,9 @@ It is important that this help is always found in the same place, especially for
 - A live chat client in the search mask of an online shop that helps the customer to find a specific product or service.
 - Self-help options, such as a link to frequently asked questions (FAQs) within an online airline ticket booking system.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Consistent help](consistent-help)
+- [✅ Consistent help](consistent-help)
 
 ## References public
 

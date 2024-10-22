@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/error-prevention-legal-fi
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.4 Error Prevention (Legal, Financial, Data) - AA
+# 📜 3.3.4 Error Prevention (Legal, Financial, Data) - AA
 
 ## Understanding (short)
 
@@ -26,9 +26,9 @@ This condition is often fulfilled by displaying a summary of all relevant data a
 
 Before an order is sent in the online store, a confirmation page with the entire order and the customer data is displayed. The “Edit” button can be used to go back through the order process and edit it again, while “Submit order” triggers the order process with all its consequences.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [User input verifiable](user-input-verifiable)
+- [✅ User input verifiable](user-input-verifiable)
 
 ## References public
 

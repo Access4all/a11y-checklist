@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/consistent-navigation.htm
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.3 Consistent Navigation - AA
+# 📜 3.2.3 Consistent Navigation - AA
 
 ## Understanding (short)
 
@@ -23,9 +23,9 @@ Therefore, you should ensure that navigation is offered consistently on differen
 - The design team defines navigation elements that look and behave consistently.
 - The development team correctly implements the specifications defined by the design team.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Consistent navigation](consistent-navigation)
+- [✅ Consistent navigation](consistent-navigation)
 
 ## References public
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 12:22:50"
 ---
 
-# Prüfpunkt: Hierarchie existierender Überschriften
+# ✅ Hierarchie existierender Überschriften
 
 ## Beschreibung
 

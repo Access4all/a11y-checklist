@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"
 created_at: "2023-10-23 11:02:02"
 ---
 
-# 2.5.8 Zielgrösse (Minimum) - AA
+# 📜 2.5.8 Zielgrösse (Minimum) - AA
 
 ## Verstehen (in Kürze)
 
@@ -25,9 +25,9 @@ Die vorgeschriebene Mindest-Grösse beträgt `24 * 24px`. Ist ein aktivierbares 
 - Das Designteam stellt sicher, dass aktivierbare Elemente die geforderte Mindestgrösse aufweisen oder genügend Abstand aufweisen.
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Zielgrösse und Abstand](zielgroesse-und-abstand)
+- [✅ Zielgrösse und Abstand](zielgroesse-und-abstand)
 
 ## Referenzen (öffentlich)
 

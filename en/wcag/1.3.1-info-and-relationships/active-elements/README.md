@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 12:18:53"
 ---
 
-# Checkpoint: Active elements
+# ✅ Active elements
 
 ## Description
 

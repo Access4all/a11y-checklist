@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:13:34"
 ---
 
-# Prüfpunkt: Formularfelder Labels
+# ✅ Formularfelder Labels
 
 ## Beschreibung
 

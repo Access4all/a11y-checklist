@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/non-text-content.html"
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.1.1 Non-text Content - A
+# 📜 1.1.1 Non-text Content - A
 
 ## Understanding (short)
 
@@ -97,22 +97,22 @@ The following graphical elements should be implemented in such a way that they c
 <iframe src="https://www.youtube.com/embed/xyz" title="Promotional video XYZ"></iframe>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Informative graphics](informative-graphics)
-- [Video and audio titles](video-and-audio-titles)
-- [Graphical tests and exercises](graphical-tests-and-exercises)
-- [Sensory non-text content](sensory-non-text-content)
-- [Graphic symbols](graphic-symbols)
-- [Linked graphics](linked-graphics)
-- [Redundancy in alternative texts](redundancy-in-alternative-texts)
-- [Graphic buttons](graphic-buttons)
-- [High contrast mode](high-contrast-mode)
-- [Linked page logo](linked-page-logo)
-- [Special characters](special-characters)
-- [Complex graphics](complex-graphics)
-- [Decorative graphics](decorative-graphics)
-- [Graphical CAPTCHAs](graphical-captchas)
+- [✅ Informative graphics](informative-graphics)
+- [✅ Video and audio titles](video-and-audio-titles)
+- [✅ Graphical tests and exercises](graphical-tests-and-exercises)
+- [✅ Sensory non-text content](sensory-non-text-content)
+- [✅ Graphic symbols](graphic-symbols)
+- [✅ Linked graphics](linked-graphics)
+- [✅ Redundancy in alternative texts](redundancy-in-alternative-texts)
+- [✅ Graphic buttons](graphic-buttons)
+- [✅ High contrast mode](high-contrast-mode)
+- [✅ Linked page logo](linked-page-logo)
+- [✅ Special characters](special-characters)
+- [✅ Complex graphics](complex-graphics)
+- [✅ Decorative graphics](decorative-graphics)
+- [✅ Graphical CAPTCHAs](graphical-captchas)
 
 ## References public
 

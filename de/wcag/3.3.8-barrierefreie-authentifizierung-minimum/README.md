@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication
 created_at: "2023-10-23 11:06:30"
 ---
 
-# 3.3.8 Barrierefreie Authentifizierung (Minimum) - AA
+# 📜 3.3.8 Barrierefreie Authentifizierung (Minimum) - AA
 
 ## Verstehen (in Kürze)
 
@@ -51,9 +51,9 @@ Hingegen Tests, bei welchen der Nutzer ein Objekt erkennen muss (etwa ein Tier o
 <input id="pw" type="password" autocomplete="current-password"><!-- Ebenso! -->
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Barrierefreies Authentifizieren](barrierefreies-authentifizieren)
+- [✅ Barrierefreies Authentifizieren](barrierefreies-authentifizieren)
 
 ## Referenzen (öffentlich)
 

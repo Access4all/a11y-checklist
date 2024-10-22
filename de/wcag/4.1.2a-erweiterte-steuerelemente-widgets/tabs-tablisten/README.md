@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:16:04"
 ---
 
-# Prüfpunkt: Tabs / Tablisten
+# ✅ Tabs / Tablisten
 
 ## Beschreibung
 

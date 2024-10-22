@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2016-01-22 11:03:47"
 ---
 
-# 1.3.1b Aufzählungen und Listen
+# 📜 1.3.1b Aufzählungen und Listen
 
 ## Verstehen (in Kürze)
 
@@ -57,11 +57,11 @@ Listen mit einem einzigen Eintrag sollten vermieden werden (ausser sie werden au
 </p>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Aufzählungen semantisch korrekt](aufzaehlungen-semantisch-korrekt)
-- [Listen mit nur einem Eintrag](listen-mit-nur-einem-eintrag)
-- [Glossare](glossare)
+- [✅ Aufzählungen semantisch korrekt](aufzaehlungen-semantisch-korrekt)
+- [✅ Listen mit nur einem Eintrag](listen-mit-nur-einem-eintrag)
+- [✅ Glossare](glossare)
 
 ## Referenzen (öffentlich)
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:30:37"
 ---
 
-# Prüfpunkt: Schriftformatierungen
+# ✅ Schriftformatierungen
 
 ## Beschreibung
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:02:56"
 ---
 
-# Checkpoint: Alternatives for movement activation
+# ✅ Alternatives for movement activation
 
 ## Description
 

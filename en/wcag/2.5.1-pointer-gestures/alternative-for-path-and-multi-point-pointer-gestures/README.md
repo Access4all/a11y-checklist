@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:01:06"
 ---
 
-# Checkpoint: Alternative for path and multi-point pointer gestures
+# ✅ Alternative for path and multi-point pointer gestures
 
 ## Description
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/audio-description-prereco
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.5 Audio Description (Prerecorded) - AA
+# 📜 1.2.5 Audio Description (Prerecorded) - AA
 
 ## Understanding (short)
 
@@ -31,9 +31,9 @@ Add audio descriptions to all videos whose visual information is not already ava
 - A video player has a menu for selecting the language. For each language, there is also an option to select the corresponding audio description (e.g. 'German' and 'German with audio description').
 - For example, the scene in a crime thriller in which an attacker with a knife silently approaches someone is audio-described as follows: 'A stooped figure with a knife in his hand sneaks up behind the inspector'.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Audio description](audio-description)
+- [✅ Audio description](audio-description)
 
 ## References public
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/label-in-name.html"
 created_at: "2019-11-10 20:24:51"
 ---
 
-# 2.5.3 Beschriftung im zugänglichen Namen - A
+# 📜 2.5.3 Beschriftung im zugänglichen Namen - A
 
 ## Verstehen (in Kürze)
 
@@ -50,9 +50,9 @@ Die zugängliche Beschriftung kann von der sichtbaren Beschriftung abweichen, we
 </a>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Zugängliche Beschriftung](zugaengliche-beschriftung)
+- [✅ Zugängliche Beschriftung](zugaengliche-beschriftung)
 
 ## Referenzen (öffentlich)
 

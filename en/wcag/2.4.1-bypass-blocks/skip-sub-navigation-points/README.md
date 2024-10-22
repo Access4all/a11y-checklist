@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:53:57"
 ---
 
-# Checkpoint: Skip sub-navigation points
+# ✅ Skip sub-navigation points
 
 ## Description
 

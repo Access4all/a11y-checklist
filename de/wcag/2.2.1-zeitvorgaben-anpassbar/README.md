@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/timing-adjustable.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.2.1 Zeitvorgaben anpassbar - A
+# 📜 2.2.1 Zeitvorgaben anpassbar - A
 
 ## Verstehen (in Kürze)
 
@@ -37,6 +37,6 @@ Folgende Möglichkeiten sind zulässig:
 - In einem Onlineshop, während ein Bestellvorgang ausgefüllt wird, erscheint rechtzeitig vor Ablauf der Session ein gut wahrnehmbarer Hinweis, dass die Session durch Bestätigung des Hinweises verlängert werden kann.
 - In einem e-Banking kann in den Profileinstellungen die Dauer einer Session auf den erforderlichen Wert erhöht werden.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Timeout-Zeitintervalle](timeout-zeitintervalle)
+- [✅ Timeout-Zeitintervalle](timeout-zeitintervalle)

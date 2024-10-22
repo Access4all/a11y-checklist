@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:56:46"
 ---
 
-# Prüfpunkt: Selbstsprechende Links
+# ✅ Selbstsprechende Links
 
 ## Beschreibung
 

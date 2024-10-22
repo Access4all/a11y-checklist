@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2016-01-22 11:03:47"
 ---
 
-# 1.3.1a Headings structure
+# 📜 1.3.1a Headings structure
 
 ## Understanding (short)
 
@@ -88,15 +88,15 @@ Headings are generally the first element of a content block in the DOM. They alw
 </footer>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Hierarchy of existing headings](hierarchy-of-existing-headings)
-- [Jumps between heading levels](jumps-between-heading-levels)
-- [Own heading](own-heading)
-- [The following content](the-following-content)
-- [Headings before related content](headings-before-related-content)
-- [Headings for accordions](headings-for-accordions)
-- [Headings semantically correct](headings-semantically-correct)
+- [✅ Hierarchy of existing headings](hierarchy-of-existing-headings)
+- [✅ Jumps between heading levels](jumps-between-heading-levels)
+- [✅ Own heading](own-heading)
+- [✅ The following content](the-following-content)
+- [✅ Headings before related content](headings-before-related-content)
+- [✅ Headings for accordions](headings-for-accordions)
+- [✅ Headings semantically correct](headings-semantically-correct)
 
 ## References public
 

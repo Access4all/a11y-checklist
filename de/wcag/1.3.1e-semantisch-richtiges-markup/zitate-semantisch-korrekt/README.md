@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:31:21"
 ---
 
-# Prüfpunkt: Zitate semantisch korrekt
+# ✅ Zitate semantisch korrekt
 
 ## Beschreibung
 

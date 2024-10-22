@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/audio-description-or-medi
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.3 Audiodeskription oder Medienalternative (aufgezeichnet) - A
+# 📜 1.2.3 Audiodeskription oder Medienalternative (aufgezeichnet) - A
 
 ## Verstehen (in Kürze)
 
@@ -28,9 +28,9 @@ Siehe **📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)** bzw. **📜-1
 
 Siehe **📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)** bzw. **📜-1.2.5 Audiodeskription (aufgezeichnet)**.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Audiodeskription oder Medienalternative](audiodeskription-oder-medienalternative)
+- [✅ Audiodeskription oder Medienalternative](audiodeskription-oder-medienalternative)
 
 ## Referenzen (öffentlich)
 

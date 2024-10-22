@@ -9,7 +9,7 @@ applies_to_quality_assurance: ""
 created_at: "2024-06-10 11:25:18"
 ---
 
-# Prüfpunkt: Überspannende Zellen
+# ✅ Überspannende Zellen
 
 ## Beschreibung
 

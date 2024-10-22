@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-th
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.3.1 Three Flashes or Below Threshold - A
+# 📜 2.3.1 Three Flashes or Below Threshold - A
 
 ## Understanding (short)
 
@@ -22,9 +22,9 @@ Web pages must not contain anything that flashes more than three times per secon
 
 - Instructors should be aware that flashing can be an unnecessary distraction for everyone and even a hazard.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Triple flashing](triple-flashing)
+- [✅ Triple flashing](triple-flashing)
 
 ## References public
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:19:20"
 ---
 
-# Prüfpunkt: Formular-Schalter korrekt umgesetzt
+# ✅ Formular-Schalter korrekt umgesetzt
 
 ## Beschreibung
 

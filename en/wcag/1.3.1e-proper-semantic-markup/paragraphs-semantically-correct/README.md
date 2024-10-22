@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:18:55"
 ---
 
-# Checkpoint: Paragraphs semantically correct
+# ✅ Paragraphs semantically correct
 
 ## Description
 

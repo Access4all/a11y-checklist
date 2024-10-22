@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/images-of-text.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.5 Bilder von Text - AA
+# 📜 1.4.5 Bilder von Text - AA
 
 ## Verstehen (in Kürze)
 
@@ -38,9 +38,9 @@ Ausgenommen sind Texte, bei welchen die besondere Art der Präsentation unentbeh
 </h1>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Texte nicht als Grafiken](texte-nicht-als-grafiken)
+- [✅ Texte nicht als Grafiken](texte-nicht-als-grafiken)
 
 ## Referenzen (öffentlich)
 

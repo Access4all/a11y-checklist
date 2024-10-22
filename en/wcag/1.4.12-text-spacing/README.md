@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/text-spacing.html"
 created_at: "2019-11-10 20:20:34"
 ---
 
-# 1.4.12 Text Spacing - AA
+# 📜 1.4.12 Text Spacing - AA
 
 ## Understanding (short)
 
@@ -40,9 +40,9 @@ For text content, the spacing of lines, paragraphs, words and letters must be ad
 
 The spacing is increased with the help of customised bookmarklets or style sheets. No content or functionalities are lost in the process.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Increasable spacing](increasable-spacing)
+- [✅ Increasable spacing](increasable-spacing)
 
 ## References public
 

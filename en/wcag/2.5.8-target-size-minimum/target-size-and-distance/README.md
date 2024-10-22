@@ -9,7 +9,7 @@ applies_to_quality_assurance: ""
 created_at: "2024-04-16 09:10:44"
 ---
 
-# Checkpoint: Target size and distance
+# ✅ Target size and distance
 
 ## Description
 

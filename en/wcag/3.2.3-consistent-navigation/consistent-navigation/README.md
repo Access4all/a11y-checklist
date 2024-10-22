@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:05:35"
 ---
 
-# Checkpoint: Consistent navigation
+# ✅ Consistent navigation
 
 ## Description
 

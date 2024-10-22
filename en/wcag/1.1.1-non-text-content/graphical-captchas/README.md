@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-13 16:25:32"
 ---
 
-# Checkpoint: Graphical CAPTCHAs
+# ✅ Graphical CAPTCHAs
 
 ## Description
 

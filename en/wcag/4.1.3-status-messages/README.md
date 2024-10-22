@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/status-messages.html"
 created_at: "2019-11-10 20:26:08"
 ---
 
-# 4.1.3 Status Messages - AA
+# 📜 4.1.3 Status Messages - AA
 
 ## Understanding (short)
 
@@ -51,9 +51,9 @@ It is unfavourable to declare extensive content (e.g. SPAs) completely as live r
 <p role="alert">The auction will expire in 60 seconds.</p>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Status messages](status-messages)
+- [✅ Status messages](status-messages)
 
 ## References public
 

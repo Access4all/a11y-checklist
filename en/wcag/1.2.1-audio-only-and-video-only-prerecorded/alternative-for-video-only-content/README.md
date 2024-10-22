@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-13 17:04:08"
 ---
 
-# Checkpoint: Alternative for video-only content
+# ✅ Alternative for video-only content
 
 ## Description
 

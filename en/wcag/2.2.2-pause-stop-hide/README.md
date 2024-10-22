@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/pause-stop-hide.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.2.2 Pause, Stop, Hide - A
+# 📜 2.2.2 Pause, Stop, Hide - A
 
 ## Understanding (short)
 
@@ -34,9 +34,9 @@ Permanently animated elements (such as advertising banners) require additional a
 - A ‘Special offer!’ link flashes rhythmically or changes colour regularly.
 - An animation that plays automatically (e.g. an advertising video) can be paused (or lasts no longer than 5 seconds).
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Permanently animated content](permanently-animated-content)
+- [✅ Permanently animated content](permanently-animated-content)
 
 ## References public
 

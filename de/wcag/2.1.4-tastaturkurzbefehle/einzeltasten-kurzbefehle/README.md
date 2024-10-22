@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:47:27"
 ---
 
-# Prüfpunkt: Einzeltasten-Kurzbefehle
+# ✅ Einzeltasten-Kurzbefehle
 
 ## Beschreibung
 

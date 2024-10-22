@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:09:35"
 ---
 
-# Checkpoint: Format information
+# ✅ Format information
 
 ## Description
 

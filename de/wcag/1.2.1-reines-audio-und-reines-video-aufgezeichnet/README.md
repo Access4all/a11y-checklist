@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/audio-only-and-video-only
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.1 Reines Audio und reines Video (aufgezeichnet) - A
+# 📜 1.2.1 Reines Audio und reines Video (aufgezeichnet) - A
 
 ## Verstehen (in Kürze)
 
@@ -49,10 +49,10 @@ Der Stummfilmklassiker Metropolis aus dem Jahre 1927 beginnt mit der Einblendung
 <a href="metropolis.html">Textabschrift von Metropolis</a>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Alternative für Audio-Inhalte](alternative-fuer-audio-inhalte)
-- [Alternative für reine Video-Inhalte](alternative-fuer-reine-video-inhalte)
+- [✅ Alternative für Audio-Inhalte](alternative-fuer-audio-inhalte)
+- [✅ Alternative für reine Video-Inhalte](alternative-fuer-reine-video-inhalte)
 
 ## Referenzen (öffentlich)
 

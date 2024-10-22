@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/focus-visible.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.7 Focus Visible - AA
+# 📜 2.4.7 Focus Visible - AA
 
 ## Understanding (short)
 
@@ -48,7 +48,7 @@ a:focus {
 }
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Keyboard-Focus visible](keyboard-focus-visible)
-- [Skip-Links visible](skip-links-visible)
+- [✅ Keyboard-Focus visible](keyboard-focus-visible)
+- [✅ Skip-Links visible](skip-links-visible)

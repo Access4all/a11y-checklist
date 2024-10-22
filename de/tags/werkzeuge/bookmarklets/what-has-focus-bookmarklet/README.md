@@ -4,7 +4,7 @@ parent_id: "67"
 created_at: "2024-04-01 13:07:02"
 ---
 
-# What has focus? (Bookmarklet)
+# 🏷️ What has focus? (Bookmarklet)
 
 ## Beschreibung
 

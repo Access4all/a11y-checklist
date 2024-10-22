@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-13 16:19:25"
 ---
 
-# Checkpoint: Graphic buttons
+# ✅ Graphic buttons
 
 ## Description
 

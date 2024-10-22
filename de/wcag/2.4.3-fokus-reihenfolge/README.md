@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.3 Fokus-Reihenfolge - A
+# 📜 2.4.3 Fokus-Reihenfolge - A
 
 ## Verstehen (in Kürze)
 
@@ -46,8 +46,8 @@ Vermeiden Sie zudem, dass der Fokus visuell "verloren" geht (etwa weil unsichtba
 </form>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Fokus-Reihenfolge](fokus-reihenfolge)
-- [Fokus-Führung](fokus-fuehrung)
-- [Elemente korrekt verstecken](elemente-korrekt-verstecken)
+- [✅ Fokus-Reihenfolge](fokus-reihenfolge)
+- [✅ Fokus-Führung](fokus-fuehrung)
+- [✅ Elemente korrekt verstecken](elemente-korrekt-verstecken)

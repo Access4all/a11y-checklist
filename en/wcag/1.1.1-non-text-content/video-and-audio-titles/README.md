@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-13 16:03:27"
 ---
 
-# Checkpoint: Video and audio titles
+# ✅ Video and audio titles
 
 ## Description
 

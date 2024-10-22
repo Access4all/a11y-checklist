@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:41:16"
 ---
 
-# Prüfpunkt: Kontrast von interaktiven Textelementen
+# ✅ Kontrast von interaktiven Textelementen
 
 ## Beschreibung
 

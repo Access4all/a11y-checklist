@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-12 18:46:48"
 ---
 
-# Prüfpunkt: Informative Grafiken
+# ✅ Informative Grafiken
 
 ## Beschreibung
 

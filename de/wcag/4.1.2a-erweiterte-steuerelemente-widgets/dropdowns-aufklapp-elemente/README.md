@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:15:05"
 ---
 
-# Prüfpunkt: Dropdowns (Aufklapp-Elemente)
+# ✅ Dropdowns (Aufklapp-Elemente)
 
 ## Beschreibung
 

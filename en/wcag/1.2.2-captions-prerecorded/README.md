@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.2 Captions (Prerecorded) - A
+# 📜 1.2.2 Captions (Prerecorded) - A
 
 ## Understanding (short)
 
@@ -34,9 +34,9 @@ If videos only play background music, also indicate this (e.g. ‘Relaxed backgr
 - If the person speaking is not clearly visible on the image or different speakers change in quick succession, the subtitles identify the same person or persons by name.
 - Videos without speech provide an indication of the background music and/or mood.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Subtitle](subtitle)
+- [✅ Subtitle](subtitle)
 
 ## References public
 

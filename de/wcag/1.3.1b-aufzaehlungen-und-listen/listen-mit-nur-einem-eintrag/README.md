@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:00:02"
 ---
 
-# Prüfpunkt: Listen mit nur einem Eintrag
+# ✅ Listen mit nur einem Eintrag
 
 ## Beschreibung
 

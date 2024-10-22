@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/identify-input-purpose.ht
 created_at: "2019-11-10 20:19:06"
 ---
 
-# 1.3.5 Identify Input Purpose - AA
+# 📜 1.3.5 Identify Input Purpose - AA
 
 ## Understanding (short)
 
@@ -35,9 +35,9 @@ In order for user agents (e.g. browsers) to be able to fill in form fields autom
 <label for=‘last_name’>last name:</label> <input id=‘last_name’ autocomplete=‘family-name’ />
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Automatic completion](automatic-completion)
+- [✅ Automatic completion](automatic-completion)
 
 ## References public
 

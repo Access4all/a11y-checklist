@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"
 created_at: "2023-10-23 11:05:05"
 ---
 
-# 3.3.7 Redundant Entry - A
+# 📜 3.3.7 Redundant Entry - A
 
 ## Understanding (short)
 
@@ -35,9 +35,9 @@ Previously entered user data must therefore be made available for selection in a
 - An online shop offers previously entered addresses for selection via a drop-down list.
 - The search results page immediately fills the search field with the previously entered search term.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Redundant input](redundant-input)
+- [✅ Redundant input](redundant-input)
 
 ## References public
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:18:08"
 ---
 
-# Prüfpunkt: Einsatz von ARIA
+# ✅ Einsatz von ARIA
 
 ## Beschreibung
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.4 Konsistente Kennzeichnung - AA
+# 📜 3.2.4 Konsistente Kennzeichnung - AA
 
 ## Verstehen (in Kürze)
 
@@ -30,9 +30,9 @@ Sorgen Sie deshalb dafür, dass gleichartige Elemente gleich umgesetzt sind; etw
 
 Die Such-Funktion ist in allen Seiten immer gleich aufgebaut und betitelt.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Konsistente Umsetzung](konsistente-umsetzung)
+- [✅ Konsistente Umsetzung](konsistente-umsetzung)
 
 ## Referenzen (öffentlich)
 

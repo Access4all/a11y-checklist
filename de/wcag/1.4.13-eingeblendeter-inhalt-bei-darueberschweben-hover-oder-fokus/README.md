@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/content-on-hover-or-focus
 created_at: "2019-11-10 20:20:52"
 ---
 
-# 1.4.13 Eingeblendeter Inhalt bei Darüberschweben (Hover) oder Fokus - AA
+# 📜 1.4.13 Eingeblendeter Inhalt bei Darüberschweben (Hover) oder Fokus - AA
 
 ## Verstehen (in Kürze)
 
@@ -35,9 +35,9 @@ Folgende Aspekte sind zu beachten:
 
 - Das Entwicklungsteam stellt sicher, dass via Hover oder Fokus eingeblendete Inhalte ausblendbar und hoverbar sind und sich nicht selbsttätig schliessen.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Inhalte per Hover oder Fokus](inhalte-per-hover-oder-fokus)
+- [✅ Inhalte per Hover oder Fokus](inhalte-per-hover-oder-fokus)
 
 ## Referenzen (öffentlich)
 

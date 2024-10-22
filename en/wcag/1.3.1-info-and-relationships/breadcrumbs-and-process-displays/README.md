@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 12:20:47"
 ---
 
-# Checkpoint: Breadcrumbs and process displays
+# ✅ Breadcrumbs and process displays
 
 ## Description
 

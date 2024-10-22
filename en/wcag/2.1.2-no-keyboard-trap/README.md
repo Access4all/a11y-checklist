@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/no-keyboard-trap.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.1.2 No Keyboard Trap - A
+# 📜 2.1.2 No Keyboard Trap - A
 
 ## Understanding (short)
 
@@ -24,6 +24,6 @@ Keyboard traps used to occur frequently with Flash or video content. Nowadays, t
 
 - The development team implements the focus guidance correctly.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Keyboard traps](keyboard-traps)
+- [✅ Keyboard traps](keyboard-traps)

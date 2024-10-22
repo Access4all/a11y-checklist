@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/name-role-value"
 created_at: "2016-01-28 13:28:43"
 ---
 
-# 4.1.2a Erweiterte Steuerelemente (Widgets)
+# 📜 4.1.2a Erweiterte Steuerelemente (Widgets)
 
 ## Verstehen (in Kürze)
 
@@ -45,16 +45,16 @@ Zudem versuchen viele Implementierungen, die Funktionalität von bereits existie
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um. Werden JavaScript-Widget-Bibliotheken verwendet, so werden diese erst eingehend auf Zugänglichkeit hin untersucht.
 - Auftraggebende sollten sich bewusst sein, dass die Umsetzung von zugänglichen JavaScript-Widgets Zusatzaufwand bedeuten kann.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Akkordeons](akkordeons)
-- [Autocompletes (Comboboxen)](autocompletes-comboboxen)
-- [Datepicker / Timepicker](datepicker-timepicker)
-- [Dialoge](dialoge)
-- [Dropdowns (Aufklapp-Elemente)](dropdowns-aufklapp-elemente)
-- [Karusselle](karusselle)
-- [Tabs / Tablisten](tabs-tablisten)
-- [Tooltips / Toggletips](tooltips-toggletips)
+- [✅ Akkordeons](akkordeons)
+- [✅ Autocompletes (Comboboxen)](autocompletes-comboboxen)
+- [✅ Datepicker / Timepicker](datepicker-timepicker)
+- [✅ Dialoge](dialoge)
+- [✅ Dropdowns (Aufklapp-Elemente)](dropdowns-aufklapp-elemente)
+- [✅ Karusselle](karusselle)
+- [✅ Tabs / Tablisten](tabs-tablisten)
+- [✅ Tooltips / Toggletips](tooltips-toggletips)
 
 ## Referenzen (öffentlich)
 

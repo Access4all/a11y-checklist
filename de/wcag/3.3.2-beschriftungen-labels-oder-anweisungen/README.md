@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/labels-or-instructions.ht
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.2 Beschriftungen (Labels) oder Anweisungen - A
+# 📜 3.3.2 Beschriftungen (Labels) oder Anweisungen - A
 
 ## Verstehen (in Kürze)
 
@@ -88,11 +88,11 @@ Verwenden Sie sinngemäss die in **📜-3.3.1 Fehlerkennzeichnung** vorgestellte
 </form>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Pflichtfelder](pflichtfelder)
-- [Sichtbare Labels](sichtbare-labels)
-- [Formatangaben](formatangaben)
+- [✅ Pflichtfelder](pflichtfelder)
+- [✅ Sichtbare Labels](sichtbare-labels)
+- [✅ Formatangaben](formatangaben)
 
 ## Referenzen (öffentlich)
 

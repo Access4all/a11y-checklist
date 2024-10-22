@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/captions-prerecorded.html
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.2 Untertitel (aufgezeichnet) - A
+# 📜 1.2.2 Untertitel (aufgezeichnet) - A
 
 ## Verstehen (in Kürze)
 
@@ -34,9 +34,9 @@ Falls Videos nur Hintergrundmusik spielen, weisen Sie auch darauf hin (z.B. "Ent
 - Ist die sprechende Person nicht klar auf dem Bild zu sehen oder wechseln unterschiedliche Sprecher in rascher Abfolge, so identifizieren die Untertitel dieselbe(n) namentlich.
 - Videos ohne Sprache geben einen Hinweis auf vorhandene Hintergrundmusik und/oder Stimmung.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Untertitel](untertitel)
+- [✅ Untertitel](untertitel)
 
 ## Referenzen (öffentlich)
 

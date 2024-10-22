@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/page-titled.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.2 Seite mit Titel - A
+# 📜 2.4.2 Seite mit Titel - A
 
 ## Verstehen (in Kürze)
 
@@ -41,9 +41,9 @@ Dabei sollte der sich wiederholende Teil (die Betreiber-Information) an den Schl
 <title>Willkommen bei der Bernasconi AG!</title>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Aussagekräftiger Titel](aussagekraeftiger-titel)
+- [✅ Aussagekräftiger Titel](aussagekraeftiger-titel)
 
 ## Referenzen (öffentlich)
 

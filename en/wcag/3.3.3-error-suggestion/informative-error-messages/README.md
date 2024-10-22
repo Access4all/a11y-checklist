@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:11:04"
 ---
 
-# Checkpoint: Informative error messages
+# ✅ Informative error messages
 
 ## Description
 

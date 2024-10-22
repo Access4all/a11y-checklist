@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2016-01-22 11:03:47"
 ---
 
-# 1.3.1c Forms, Labels and Fieldsets
+# 📜 1.3.1c Forms, Labels and Fieldsets
 
 ## Understanding (short)
 
@@ -110,11 +110,11 @@ We recommend being cautious with instructions in forms; for more detailed inform
 </p>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Feldset / Legend](feldset-legend)
-- [Text elements between input fields](text-elements-between-input-fields)
-- [Form fields Labels](form-fields-labels)
+- [✅ Feldset / Legend](feldset-legend)
+- [✅ Text elements between input fields](text-elements-between-input-fields)
+- [✅ Form fields Labels](form-fields-labels)
 
 ## References public
 

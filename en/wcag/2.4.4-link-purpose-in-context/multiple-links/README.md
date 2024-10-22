@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:57:26"
 ---
 
-# Checkpoint: Multiple links
+# ✅ Multiple links
 
 ## Description
 

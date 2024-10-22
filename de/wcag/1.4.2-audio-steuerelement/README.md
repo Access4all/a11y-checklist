@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/audio-control.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.2 Audio-Steuerelement - A
+# 📜 1.4.2 Audio-Steuerelement - A
 
 ## Verstehen (in Kürze)
 
@@ -28,9 +28,9 @@ Automatisch abspielende Audioinhalte können sehr störend sein. Sie können int
 
 Steuer-Buttons (Play, Stopp usw.) stehen zur Verfügung.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Automatisch abspielender Audio-Inhalt](automatisch-abspielender-audio-inhalt)
+- [✅ Automatisch abspielender Audio-Inhalt](automatisch-abspielender-audio-inhalt)
 
 ## Referenzen (öffentlich)
 

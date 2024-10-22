@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.1 Fehlerkennzeichnung - A
+# 📜 3.3.1 Fehlerkennzeichnung - A
 
 ## Verstehen (in Kürze)
 
@@ -76,9 +76,9 @@ Auch Client-seitige Formular-Validierung kann eingesetzt werden, reicht alleine 
 </fieldset>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Fehlermeldungen in Formularen](fehlermeldungen-in-formularen)
+- [✅ Fehlermeldungen in Formularen](fehlermeldungen-in-formularen)
 
 ## Referenzen (öffentlich)
 

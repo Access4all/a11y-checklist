@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:29:12"
 ---
 
-# Prüfpunkt: Inhalte semantisch korrekt
+# ✅ Inhalte semantisch korrekt
 
 ## Beschreibung
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/orientation.html"
 created_at: "2019-11-10 20:18:36"
 ---
 
-# 1.3.4 Orientation - AA
+# 📜 1.3.4 Orientation - AA
 
 ## Understanding (short)
 
@@ -25,9 +25,9 @@ If the content does not automatically adjust to the screen orientation, a switch
 - The design team defines views that can be displayed and used in both landscape and portrait formats.
 - The development team correctly implements the design team's specifications and ensures that all content is correctly displayed and usable in both screen orientations.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Portrait and landscape format](portrait-and-landscape-format)
+- [✅ Portrait and landscape format](portrait-and-landscape-format)
 
 ## References public
 

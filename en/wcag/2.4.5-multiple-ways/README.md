@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/multiple-ways.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.5 Multiple Ways - AA
+# 📜 2.4.5 Multiple Ways - AA
 
 ## Understanding (short)
 
@@ -23,9 +23,9 @@ Various methods must be available to locate content so that people with differen
 
 - The development team ensures that a search function or sitemap is available.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Navigation methods](navigation-methods)
+- [✅ Navigation methods](navigation-methods)
 
 ## References public
 

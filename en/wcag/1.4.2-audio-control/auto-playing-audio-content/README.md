@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:38:05"
 ---
 
-# Checkpoint: Auto-playing audio content
+# ✅ Auto-playing audio content
 
 ## Description
 

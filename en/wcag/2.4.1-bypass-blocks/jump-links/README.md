@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:50:20"
 ---
 
-# Checkpoint: Jump links
+# ✅ Jump links
 
 ## Description
 

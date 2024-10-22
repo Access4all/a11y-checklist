@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.4 Textgrösse ändern - AA
+# 📜 1.4.4 Textgrösse ändern - AA
 
 ## Verstehen (in Kürze)
 
@@ -24,9 +24,9 @@ Viele Menschen mit Sehbehinderung sind auf die Funktionen des Browsers zur Vergr
 
 - Das Entwicklungsteam stellt sicher, dass die Inhalte auf bis zu 200% vergrössert werden können.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [200% Zoom](200-zoom)
+- [✅ 200% Zoom](200-zoom)
 
 ## Referenzen (öffentlich)
 

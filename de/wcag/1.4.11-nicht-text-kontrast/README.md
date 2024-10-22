@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html"
 created_at: "2019-11-10 20:20:15"
 ---
 
-# 1.4.11 Nicht-Text Kontrast - AA
+# 📜 1.4.11 Nicht-Text Kontrast - AA
 
 ## Verstehen (in Kürze)
 
@@ -35,10 +35,10 @@ Bei grafischen Elementen bedeuten ausreichende Kontraste, dass jeder visuelle Hi
 - Die Inhaltsverantwortlichen gestalten Inhalte so, dass diese genügend Kontrast aufweisen.
 - Auftraggebende sollten sich bewusst sein, dass kontraststarke Designs (auch über die Mindestanforderungen hinaus) ein Vorteil für alle Sehenden sind.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Kontrastverhältnis von Bedienelementen](kontrastverhaeltnis-von-bedienelementen)
-- [Kontrast bei informativen grafischen Elementen](kontrast-bei-informativen-grafischen-elementen)
+- [✅ Kontrastverhältnis von Bedienelementen](kontrastverhaeltnis-von-bedienelementen)
+- [✅ Kontrast bei informativen grafischen Elementen](kontrast-bei-informativen-grafischen-elementen)
 
 ## Referenzen (öffentlich)
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:15:29"
 ---
 
-# Checkpoint: Column or row title
+# ✅ Column or row title
 
 ## Description
 

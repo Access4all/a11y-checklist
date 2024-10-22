@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:19:20"
 ---
 
-# Checkpoint: Form switch implemented correctly
+# ✅ Form switch implemented correctly
 
 ## Description
 

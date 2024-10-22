@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2016-01-22 11:03:47"
 ---
 
-# 1.3.1b Use of Lists
+# 📜 1.3.1b Use of Lists
 
 ## Understanding (short)
 
@@ -57,11 +57,11 @@ Lists with a single entry should be avoided (unless they are generated automatic
 </p>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Semantically correct enumerations](semantically-correct-enumerations)
-- [Lists with only one entry](lists-with-only-one-entry)
-- [Glossaries](glossaries)
+- [✅ Semantically correct enumerations](semantically-correct-enumerations)
+- [✅ Lists with only one entry](lists-with-only-one-entry)
+- [✅ Glossaries](glossaries)
 
 ## References public
 

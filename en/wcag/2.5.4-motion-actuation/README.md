@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/motion-actuation.html"
 created_at: "2019-11-10 20:25:15"
 ---
 
-# 2.5.4 Motion Actuation - A
+# 📜 2.5.4 Motion Actuation - A
 
 ## Understanding (short)
 
@@ -29,9 +29,9 @@ It must also be ensured that such functionalities are not triggered accidentally
 
 - The development team ensures that alternatives exist for functions that can be triggered by device or user movement. It must also be possible to deactivate such functionalities.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Alternatives for movement activation](alternatives-for-movement-activation)
+- [✅ Alternatives for movement activation](alternatives-for-movement-activation)
 
 ## References public
 

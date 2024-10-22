@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/audio-description-prereco
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.5 Audiodeskription (aufgezeichnet) - AA
+# 📜 1.2.5 Audiodeskription (aufgezeichnet) - AA
 
 ## Verstehen (in Kürze)
 
@@ -31,9 +31,9 @@ Fügen Sie zu allen Videos Audiodeskriptionen hinzu, deren visuelle Informatione
 - In einem Videoplayer existiert ein Menü zum Auswählen der Sprache. Darin existiert pro Sprache auch eine Option zur Auswahl der entsprechenden Audiodeskription (z.B. "Deutsch" und "Deutsch mit Audiodeskription").
 - Die Szene in einem Krimi, in welcher ein Angreifer mit einem Messer sich geräuschlos jemandem annähert, wird z.B. folgendermassen audiodeskribiert: "Eine gebückte Gestalt mit einem Messer in der Hand schleicht sich von hinten an den Kommissar heran".
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Audiodeskription](audiodeskription)
+- [✅ Audiodeskription](audiodeskription)
 
 ## Referenzen (öffentlich)
 

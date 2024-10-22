@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/resize-text.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.4 Resize text - AA
+# 📜 1.4.4 Resize text - AA
 
 ## Understanding (short)
 
@@ -24,9 +24,9 @@ Many people with visual impairments are dependent on the browser's zoom function
 
 - The development team ensures that the content can be enlarged up to 200%.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [200% zoom](200-zoom)
+- [✅ 200% zoom](200-zoom)
 
 ## References public
 

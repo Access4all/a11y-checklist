@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/error-suggestion.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.3 Vorschlag bei Fehler - AA
+# 📜 3.3.3 Vorschlag bei Fehler - AA
 
 ## Verstehen (in Kürze)
 
@@ -47,9 +47,9 @@ Vermeiden Sie allgemeine Sammelmeldungen wie etwa "Passwörter müssen 8 Zeichen
 
 Siehe **📜-3.3.1 Fehlerkennzeichnung** bzw. **📜-3.3.2 Beschriftungen (Labels) oder Anweisungen**.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Informative Fehlermeldungen](informative-fehlermeldungen)
+- [✅ Informative Fehlermeldungen](informative-fehlermeldungen)
 
 ## Referenzen (öffentlich)
 

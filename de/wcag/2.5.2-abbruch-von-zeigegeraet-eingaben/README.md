@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/pointer-cancellation.html
 created_at: "2019-11-10 20:24:28"
 ---
 
-# 2.5.2 Abbruch von Zeigegerät-Eingaben - A
+# 📜 2.5.2 Abbruch von Zeigegerät-Eingaben - A
 
 ## Verstehen (in Kürze)
 
@@ -47,9 +47,9 @@ Deshalb muss Funktionalität, welche mit einem Zeigegerät bedient wird, mindest
 </button>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Zeigereingaben abbrechbar](zeigereingaben-abbrechbar)
+- [✅ Zeigereingaben abbrechbar](zeigereingaben-abbrechbar)
 
 ## Referenzen (öffentlich)
 

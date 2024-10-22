@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:43:01"
 ---
 
-# Checkpoint: Texts not as graphics
+# ✅ Texts not as graphics
 
 ## Description
 

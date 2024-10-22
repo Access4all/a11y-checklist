@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:58:13"
 ---
 
-# Checkpoint: Navigation methods
+# ✅ Navigation methods
 
 ## Description
 

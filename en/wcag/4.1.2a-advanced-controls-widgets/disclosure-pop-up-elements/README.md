@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:15:05"
 ---
 
-# Checkpoint: Disclosure (pop-up elements)
+# ✅ Disclosure (pop-up elements)
 
 ## Description
 

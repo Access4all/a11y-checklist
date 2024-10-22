@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.3.1 Info and Relationships - A
+# 📜 1.3.1 Info and Relationships - A
 
 ## Understanding (short)
 
@@ -30,12 +30,12 @@ This success criterion 1.3.1 is very extensive. In addition to the checkpoints t
 
 **Important:** This division of success criteria into sub-success criteria does **not** exist in the original WCAG. It is a measure to promote the clarity of the WCAG.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Active elements](active-elements)
-- [Landmarks](landmarks)
-- [Breadcrumbs and process displays](breadcrumbs-and-process-displays)
-- [Footnotes](footnotes)
+- [✅ Active elements](active-elements)
+- [✅ Landmarks](landmarks)
+- [✅ Breadcrumbs and process displays](breadcrumbs-and-process-displays)
+- [✅ Footnotes](footnotes)
 
 ## References public
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:15:29"
 ---
 
-# Prüfpunkt: Spalten- oder Zeilentitel
+# ✅ Spalten- oder Zeilentitel
 
 ## Beschreibung
 

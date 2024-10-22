@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/captions-live.html"
 created_at: "2015-08-04 14:35:59"
 ---
 
-# 1.2.4 Captions (Live) - AA
+# 📜 1.2.4 Captions (Live) - AA
 
 ## Understanding (short)
 
@@ -28,9 +28,9 @@ Fulfilling this requirement is demanding. It requires appropriate technical tool
 
 The live news programme is broadcast with live subtitles.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Live subtitles](live-subtitles)
+- [✅ Live subtitles](live-subtitles)
 
 ## References public
 

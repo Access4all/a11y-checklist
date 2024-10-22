@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/pointer-gestures.html"
 created_at: "2019-11-10 20:24:09"
 ---
 
-# 2.5.1 Zeigergesten - A
+# 📜 2.5.1 Zeigergesten - A
 
 ## Verstehen (in Kürze)
 
@@ -36,9 +36,9 @@ Es ist deshalb wichtig, dass Funktionen, die auf Pfad- und/oder Mehrpunkt-Zeiger
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um. Werden JavaScript-Widget-Bibliotheken verwendet, so werden diese erst eingehend auf Zugänglichkeit hin untersucht.
 - Auftraggebende sollten sich bewusst sein, dass die Implementierung alternativer Eingabe-Möglichkeiten einen gewissen Zusatzaufwand bedeutet.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Alternative für Pfad- und Mehrfach-Punkt-Zeigergesten](alternative-fuer-pfad-und-mehrfach-punkt-zeigergesten)
+- [✅ Alternative für Pfad- und Mehrfach-Punkt-Zeigergesten](alternative-fuer-pfad-und-mehrfach-punkt-zeigergesten)
 
 ## Referenzen (öffentlich)
 

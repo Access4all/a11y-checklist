@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:12:33"
 ---
 
-# Checkpoint: Text elements between input fields
+# ✅ Text elements between input fields
 
 ## Description
 

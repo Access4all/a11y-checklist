@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:48:53"
 ---
 
-# Prüfpunkt: Dauerhaft animierte Inhalte
+# ✅ Dauerhaft animierte Inhalte
 
 ## Beschreibung
 

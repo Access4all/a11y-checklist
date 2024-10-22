@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:45:10"
 ---
 
-# Checkpoint: Contrast ratio of control elements
+# ✅ Contrast ratio of control elements
 
 ## Description
 

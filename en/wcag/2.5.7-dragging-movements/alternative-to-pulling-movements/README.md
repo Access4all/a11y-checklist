@@ -9,7 +9,7 @@ applies_to_quality_assurance: ""
 created_at: "2024-04-16 08:24:34"
 ---
 
-# Checkpoint: Alternative to pulling movements
+# ✅ Alternative to pulling movements
 
 ## Description
 

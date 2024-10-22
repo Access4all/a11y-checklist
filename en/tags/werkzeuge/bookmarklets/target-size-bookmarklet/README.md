@@ -4,7 +4,7 @@ parent_id: "67"
 created_at: "2024-06-06 11:49:25"
 ---
 
-# Target Size (Bookmarklet)
+# 🏷️ Target Size (Bookmarklet)
 
 ## Description
 

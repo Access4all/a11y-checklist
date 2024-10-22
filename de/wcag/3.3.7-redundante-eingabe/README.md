@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/redundant-entry.html"
 created_at: "2023-10-23 11:05:05"
 ---
 
-# 3.3.7 Redundante Eingabe - A
+# 📜 3.3.7 Redundante Eingabe - A
 
 ## Verstehen (in Kürze)
 
@@ -35,9 +35,9 @@ Zuvor eingegebene Nutzer-Daten müssen also in einem nachfolgenden Prozess-Schri
 - Ein Online-Shop bietet zuvor eingegebene Adressen per Ausklapp-Liste zur Auswahl an.
 - Die Seite mit Such-Ergebnissen füllt das Such-Feld gleich wieder mit dem zuvor eingegebenen Such-Begriff.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Redundante Eingabe](redundante-eingabe)
+- [✅ Redundante Eingabe](redundante-eingabe)
 
 ## Referenzen (öffentlich)
 

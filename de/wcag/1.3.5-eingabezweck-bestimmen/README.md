@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/identify-input-purpose.ht
 created_at: "2019-11-10 20:19:06"
 ---
 
-# 1.3.5 Eingabezweck bestimmen - AA
+# 📜 1.3.5 Eingabezweck bestimmen - AA
 
 ## Verstehen (in Kürze)
 
@@ -35,9 +35,9 @@ Damit Benutzeragenten (z.B. Browser) Formularfelder automatisch ausfüllen könn
 <label for="last_name">Nachname:</label> <input id="last_name" autocomplete="family-name" />
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Automatisches Ausfüllen](automatisches-ausfuellen)
+- [✅ Automatisches Ausfüllen](automatisches-ausfuellen)
 
 ## Referenzen (öffentlich)
 

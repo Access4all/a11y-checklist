@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2016-01-22 11:03:47"
 ---
 
-# 1.3.1d Tabular data
+# 📜 1.3.1d Tabular data
 
 ## Understanding (short)
 
@@ -77,13 +77,13 @@ Sometimes, however, it is easier to split complex tables into several smaller ta
 </table>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Table headings](table-headings)
-- [Column or row title](column-or-row-title)
-- [Table semantically correct](table-semantically-correct)
-- [No empty columns or rows](no-empty-columns-or-rows)
-- [Spanning cells](spanning-cells)
+- [✅ Table headings](table-headings)
+- [✅ Column or row title](column-or-row-title)
+- [✅ Table semantically correct](table-semantically-correct)
+- [✅ No empty columns or rows](no-empty-columns-or-rows)
+- [✅ Spanning cells](spanning-cells)
 
 ## References public
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:05:04"
 ---
 
-# Checkpoint: Context change on input
+# ✅ Context change on input
 
 ## Description
 

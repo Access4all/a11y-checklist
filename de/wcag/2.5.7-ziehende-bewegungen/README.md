@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/dragging-movements.html"
 created_at: "2023-10-23 11:00:29"
 ---
 
-# 2.5.7 Ziehende Bewegungen - AA
+# 📜 2.5.7 Ziehende Bewegungen - AA
 
 ## Verstehen (in Kürze)
 
@@ -39,9 +39,9 @@ Es ist deshalb wichtig, dass Funktionen, die auf Ziehbewegungen setzen, auch üb
 - Der sichtbare Ausschnitt auf einer Karte kann per Ziehbewegung verschoben werden. Zudem verfügt die Karte über Schaltflächen "Nach oben / unten / links / rechts", um die Ansicht zu verschieben.
 - Eine beliebige Anzahl Objekte kann mittels viereckiger Markierung (Ziehbewegung) markiert werden. Alternativ kann einmal geklickt werden, um den Startpunkt der Markierung zu setzen, um dann mit einem zweiten Klick den Endpunkt zu setzen.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Alternative zu Ziehbewegungen](alternative-zu-ziehbewegungen)
+- [✅ Alternative zu Ziehbewegungen](alternative-zu-ziehbewegungen)
 
 ## Referenzen (öffentlich)
 

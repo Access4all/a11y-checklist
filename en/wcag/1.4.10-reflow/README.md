@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/reflow.html"
 created_at: "2019-11-10 20:19:46"
 ---
 
-# 1.4.10 Reflow - AA
+# 📜 1.4.10 Reflow - AA
 
 ## Understanding (short)
 
@@ -26,9 +26,9 @@ The specified minimum resolution for this is `320`x`256` CSS pixels. A typical p
 - The development team correctly implements the specifications defined by the design team and ensures that the reflow works as prescribed.
 - The content managers check that the content created is displayed correctly in the minimum viewport dimensions.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Viewport minimum dimensions](viewport-minimum-dimensions)
+- [✅ Viewport minimum dimensions](viewport-minimum-dimensions)
 
 ## References public
 

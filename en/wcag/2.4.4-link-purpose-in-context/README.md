@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/link-purpose-in-context.h
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.4 Link Purpose (In Context) - A
+# 📜 2.4.4 Link Purpose (In Context) - A
 
 ## Understanding (short)
 
@@ -100,10 +100,10 @@ More
   <img src="ballot-box.jpg" alt="Ballot box">
 </article>
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Self-speaking links](self-speaking-links)
-- [Multiple links](multiple-links)
+- [✅ Self-speaking links](self-speaking-links)
+- [✅ Multiple links](multiple-links)
 
 ## References public
 

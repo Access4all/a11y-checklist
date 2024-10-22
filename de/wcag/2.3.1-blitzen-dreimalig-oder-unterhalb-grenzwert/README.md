@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/three-flashes-or-below-th
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.3.1 Blitzen, dreimalig oder unterhalb Grenzwert - A
+# 📜 2.3.1 Blitzen, dreimalig oder unterhalb Grenzwert - A
 
 ## Verstehen (in Kürze)
 
@@ -22,9 +22,9 @@ Webseiten dürfen nichts enthalten, was mehr als dreimal pro Sekunde blitzt (aus
 
 - Auftraggebende sollten sich bewusst sein, dass Blitzen eine unnötige Ablenkung für alle bis hin zu einer Gefahr darstellen kann.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Dreimaliges Blitzen](dreimaliges-blitzen)
+- [✅ Dreimaliges Blitzen](dreimaliges-blitzen)
 
 ## Referenzen (öffentlich)
 

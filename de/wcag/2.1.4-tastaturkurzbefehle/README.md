@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/character-key-shortcuts.h
 created_at: "2019-11-10 20:22:06"
 ---
 
-# 2.1.4 Tastaturkurzbefehle - A
+# 📜 2.1.4 Tastaturkurzbefehle - A
 
 ## Verstehen (in Kürze)
 
@@ -31,6 +31,6 @@ Einzeltasten-Kurzbefehle können auch Menschen mit motorischen Behinderungen vor
 
 Eine Webseite bietet das Tastenkürzel `S` an, um direkt in ein Suchfeld zu springen. In den Benutzer-Einstellungen kann dieses Tastenkürzel deaktiviert oder geändert werden.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Einzeltasten-Kurzbefehle](einzeltasten-kurzbefehle)
+- [✅ Einzeltasten-Kurzbefehle](einzeltasten-kurzbefehle)

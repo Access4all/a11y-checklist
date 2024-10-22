@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/language-of-page.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.1.1 Sprache der Seite - A
+# 📜 3.1.1 Sprache der Seite - A
 
 ## Verstehen (in Kürze)
 
@@ -22,9 +22,9 @@ Das `lang`-Attribut benötigt einen ISO-Sprachcode als Wert. Normalerweise ist d
 
 - Das Entwicklungsteam setzt die korrekte Deklaration für die jeweilige Sprache.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Sprachdeklaration](sprachdeklaration)
+- [✅ Sprachdeklaration](sprachdeklaration)
 
 ## Referenzen (öffentlich)
 

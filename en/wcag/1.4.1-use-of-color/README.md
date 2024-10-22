@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.1 Use of Color - A
+# 📜 1.4.1 Use of Color - A
 
 ## Understanding (short)
 
@@ -35,10 +35,10 @@ We also recommend that status changes (such as hover and focus) are not only ind
 - An active menu item in a navigation is highlighted not only in colour, but also by underlining.
 - Pie slices in a pie chart can be linked to the corresponding legend not only by their background colour, but also by another visual feature (e.g. individual hatching).
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Not just colour alone](not-just-colour-alone)
-- [Links in continuous text](links-in-continuous-text)
+- [✅ Not just colour alone](not-just-colour-alone)
+- [✅ Links in continuous text](links-in-continuous-text)
 
 ## References public
 

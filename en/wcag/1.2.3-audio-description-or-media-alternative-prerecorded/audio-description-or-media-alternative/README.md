@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 12:15:28"
 ---
 
-# Checkpoint: Audio description or media alternative
+# ✅ Audio description or media alternative
 
 ## Description
 

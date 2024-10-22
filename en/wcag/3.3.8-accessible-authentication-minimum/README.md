@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/accessible-authentication
 created_at: "2023-10-23 11:06:30"
 ---
 
-# 3.3.8 Accessible Authentication (Minimum) - AA
+# 📜 3.3.8 Accessible Authentication (Minimum) - AA
 
 ## Understanding (short)
 
@@ -51,9 +51,9 @@ On the other hand, tests in which the user has to recognize an object (such as a
 <input id=‘pw’ type=‘password’ autocomplete=‘current-password’><!-- Likewise! -->
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Accessible authentication](accessible-authentication)
+- [✅ Accessible authentication](accessible-authentication)
 
 ## References public
 

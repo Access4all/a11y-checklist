@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/use-of-color.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.1 Benutzung von Farbe - A
+# 📜 1.4.1 Benutzung von Farbe - A
 
 ## Verstehen (in Kürze)
 
@@ -35,10 +35,10 @@ Wir empfehlen zudem, dass Zustandsänderungen (wie Hover und Fokus) nicht nur ü
 - Ein aktiver Menüpunkt in einer Navigation wird nicht nur farblich, sondern auch durch Unterstreichung hervorgehoben.
 - Kuchenstücke in einem Kuchendiagramm sind nicht nur durch ihre Hintergrundfarbe mit der dazu gehörenden Legende verknüpfbar, sondern durch ein weiteres visuelles Merkmal (z.B. durch individuelle Schraffierung).
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Nicht Farbe allein](nicht-farbe-allein)
-- [Links in Fliesstext](links-in-fliesstext)
+- [✅ Nicht Farbe allein](nicht-farbe-allein)
+- [✅ Links in Fliesstext](links-in-fliesstext)
 
 ## Referenzen (öffentlich)
 

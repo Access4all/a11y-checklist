@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.1 Bei Fokus - A
+# 📜 3.2.1 Bei Fokus - A
 
 ## Verstehen (in Kürze)
 
@@ -24,9 +24,9 @@ Stellen Sie etwa sicher, dass bei Fokus weder Links oder Schalter aktiviert noch
 
 - Das Entwicklungsteam setzt fokussierbare Elemente (etwa JavaScripts-Widgets) so um, dass bei deren Fokus keinerlei Änderung des Kontexts erfolgt.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Kontextänderung bei Fokus](kontextaenderung-bei-fokus)
+- [✅ Kontextänderung bei Fokus](kontextaenderung-bei-fokus)
 
 ## Referenzen (öffentlich)
 

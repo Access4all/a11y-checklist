@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:55:44"
 ---
 
-# Checkpoint: Hide elements correctly
+# ✅ Hide elements correctly
 
 ## Description
 

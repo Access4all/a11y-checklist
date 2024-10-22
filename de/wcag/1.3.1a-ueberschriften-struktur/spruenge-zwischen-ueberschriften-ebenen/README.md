@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 12:23:55"
 ---
 
-# Prüfpunkt: Sprünge zwischen Überschriften-Ebenen
+# ✅ Sprünge zwischen Überschriften-Ebenen
 
 ## Beschreibung
 

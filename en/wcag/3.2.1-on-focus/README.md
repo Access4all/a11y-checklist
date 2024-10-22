@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/on-focus.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.1 On Focus - A
+# 📜 3.2.1 On Focus - A
 
 ## Understanding (short)
 
@@ -24,9 +24,9 @@ Make sure, for example, that neither links or buttons are activated nor forms ar
 
 - The development team implements focusable elements (such as JavaScripts widgets) in such a way that the context is not changed when they are focussed.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Context change with focus](context-change-with-focus)
+- [✅ Context change with focus](context-change-with-focus)
 
 ## References public
 

@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/name-role-value"
 created_at: "2016-01-28 13:28:43"
 ---
 
-# 4.1.2a Advanced controls (widgets)
+# 📜 4.1.2a Advanced controls (widgets)
 
 ## Understanding (short)
 
@@ -46,16 +46,16 @@ In addition, many implementations attempt to exactly imitate the functionality o
 - The development team correctly implements the specifications defined by the design team. If JavaScript widget libraries are used, they are first analysed in detail for accessibility.
 - Clients should be aware that the implementation of accessible JavaScript widgets can mean additional work.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [TRANSLATION MISSING](translation-missing)
-- [Autocompletes (comboboxes)](autocompletes-comboboxes)
-- [Date picker / time picker](date-picker-time-picker)
-- [Dialogs](dialogs)
-- [Disclosure (pop-up elements)](disclosure-pop-up-elements)
-- [Carousels](carousels)
-- [Tabs / tablists](tabs-tablists)
-- [QuickInfos / Toggletips](quickinfos-toggletips)
+- [✅ TRANSLATION MISSING](translation-missing)
+- [✅ Autocompletes (comboboxes)](autocompletes-comboboxes)
+- [✅ Date picker / time picker](date-picker-time-picker)
+- [✅ Dialogs](dialogs)
+- [✅ Disclosure (pop-up elements)](disclosure-pop-up-elements)
+- [✅ Carousels](carousels)
+- [✅ Tabs / tablists](tabs-tablists)
+- [✅ QuickInfos / Toggletips](quickinfos-toggletips)
 
 ## References public
 

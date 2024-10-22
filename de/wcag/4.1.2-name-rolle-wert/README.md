@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/name-role-value.html"
 created_at: "2015-08-04 14:36:01"
 ---
 
-# 4.1.2 Name, Rolle, Wert - A
+# 📜 4.1.2 Name, Rolle, Wert - A
 
 ## Verstehen (in Kürze)
 
@@ -35,10 +35,10 @@ Das vorliegende Erfolgskriterium 4.1.2 ist sehr umfangreich. Neben den Prüfpunk
 - Das Designteam definiert Inhalte und Funktionalitäten, die möglichst mit Standard-HTML-Elementen umgesetzt werden können.
 - Das Entwicklungsteam setzt die vom Designteam definierten Vorgaben korrekt um.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Einsatz von ARIA](einsatz-von-aria)
-- [Formular-Schalter korrekt umgesetzt](formular-schalter-korrekt-umgesetzt)
+- [✅ Einsatz von ARIA](einsatz-von-aria)
+- [✅ Formular-Schalter korrekt umgesetzt](formular-schalter-korrekt-umgesetzt)
 
 ## Referenzen (öffentlich)
 

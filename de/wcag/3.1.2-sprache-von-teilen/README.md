@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.1.2 Sprache von Teilen - AA
+# 📜 3.1.2 Sprache von Teilen - AA
 
 ## Verstehen (in Kürze)
 
@@ -45,9 +45,9 @@ In längeren Textpassagen müssen Sprachwechsel angegeben sein. Ansonsten lesen 
 </html>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Sprachwechsel](sprachwechsel)
+- [✅ Sprachwechsel](sprachwechsel)
 
 ## Referenzen (öffentlich)
 

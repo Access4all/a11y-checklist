@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/contrast-minimum.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.4.3 Kontrast (Minimum) - AA
+# 📜 1.4.3 Kontrast (Minimum) - AA
 
 ## Verstehen (in Kürze)
 
@@ -43,10 +43,10 @@ Wenn ein Platzhalter (`placeholder`-Attribut) zusätzliche Information liefert, 
 - Kontrastanalyse: Vordergrund weiss (HEX #FFFFFF), Hintergrund blau (HEX #0064B4). Resultate: Kontrastverhältnis ist `6.0:1` und erfüllt die Anforderungen an normalen Text auf Stufe AA sowie die Anforderungen an grossen Text auf Stufen AA und AAA.
 - Mit dem "Colour Contrast Analyser" können die verwendeten Farben gemessen und abgestimmt werden. Pipettenfunktion, HEX-Code-Eingabe und Auswahl aus einer Farbpalette stehen zur Auswahl.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Kontrastverhältnis bei Text](kontrastverhaeltnis-bei-text)
-- [Kontrast von interaktiven Textelementen](kontrast-von-interaktiven-textelementen)
+- [✅ Kontrastverhältnis bei Text](kontrastverhaeltnis-bei-text)
+- [✅ Kontrast von interaktiven Textelementen](kontrast-von-interaktiven-textelementen)
 
 ## Referenzen (öffentlich)
 

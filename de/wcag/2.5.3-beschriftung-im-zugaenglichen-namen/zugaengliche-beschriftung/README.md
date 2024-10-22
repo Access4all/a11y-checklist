@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:02:31"
 ---
 
-# Prüfpunkt: Zugängliche Beschriftung
+# ✅ Zugängliche Beschriftung
 
 ## Beschreibung
 

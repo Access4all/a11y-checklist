@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/target-size-minimum.html"
 created_at: "2023-10-23 11:02:02"
 ---
 
-# 2.5.8 Target Size (Minimum) - AA
+# 📜 2.5.8 Target Size (Minimum) - AA
 
 ## Understanding (short)
 
@@ -25,9 +25,9 @@ The prescribed minimum size is `24 * 24px`. If an activatable element is smaller
 - The design team ensures that elements that can be activated are the minimum size required or have sufficient spacing.
 - The development team correctly implements the specifications defined by the design team.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Target size and distance](target-size-and-distance)
+- [✅ Target size and distance](target-size-and-distance)
 
 ## References public
 

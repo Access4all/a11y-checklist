@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:51:00"
 ---
 
-# Checkpoint: Meaningful title
+# ✅ Meaningful title
 
 ## Description
 

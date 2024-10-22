@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/non-text-contrast.html"
 created_at: "2019-11-10 20:20:15"
 ---
 
-# 1.4.11 Non-Text Contrast - AA
+# 📜 1.4.11 Non-Text Contrast - AA
 
 ## Understanding (short)
 
@@ -37,10 +37,10 @@ For graphic elements, sufficient contrast means that every visual cue required f
 - The content managers design content in such a way that it has sufficient contrast.
 - Clients should be aware that high-contrast designs (even beyond the minimum requirements) are an advantage for all sighted people.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Contrast ratio of control elements](contrast-ratio-of-control-elements)
-- [Contrast for informative graphic elements](contrast-for-informative-graphic-elements)
+- [✅ Contrast ratio of control elements](contrast-ratio-of-control-elements)
+- [✅ Contrast for informative graphic elements](contrast-for-informative-graphic-elements)
 
 ## References public
 

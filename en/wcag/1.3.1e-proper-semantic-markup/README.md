@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2020-07-13 11:46:23"
 ---
 
-# 1.3.1e Proper Semantic Markup
+# 📜 1.3.1e Proper Semantic Markup
 
 ## Understanding (short)
 
@@ -59,13 +59,13 @@ If font variations have meaningful content, they must be accessible to everyone.
 </address>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Paragraphs semantically correct](paragraphs-semantically-correct)
-- [Content semantically correct](content-semantically-correct)
-- [Empty elements](empty-elements)
-- [Text formatting](text-formatting)
-- [Quotations semantically correct](quotations-semantically-correct)
+- [✅ Paragraphs semantically correct](paragraphs-semantically-correct)
+- [✅ Content semantically correct](content-semantically-correct)
+- [✅ Empty elements](empty-elements)
+- [✅ Text formatting](text-formatting)
+- [✅ Quotations semantically correct](quotations-semantically-correct)
 
 ## References public
 

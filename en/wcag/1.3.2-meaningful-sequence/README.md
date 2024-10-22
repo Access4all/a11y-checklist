@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/meaningful-sequence.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.3.2 Meaningful Sequence - A
+# 📜 1.3.2 Meaningful Sequence - A
 
 ## Understanding (short)
 
@@ -60,9 +60,9 @@ If, for example, the photo of a news item is placed visually before its headline
 </article>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Correct order](correct-order)
+- [✅ Correct order](correct-order)
 
 ## References public
 

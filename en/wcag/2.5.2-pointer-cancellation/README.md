@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/pointer-cancellation.html
 created_at: "2019-11-10 20:24:28"
 ---
 
-# 2.5.2 Pointer Cancellation - A
+# 📜 2.5.2 Pointer Cancellation - A
 
 ## Understanding (short)
 
@@ -47,9 +47,9 @@ Therefore, functionality that is operated with a pointing device must fulfil at 
 </button>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Cancellable pointer entries](cancellable-pointer-entries)
+- [✅ Cancellable pointer entries](cancellable-pointer-entries)
 
 ## References public
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:48:14"
 ---
 
-# Prüfpunkt: Timeout-Zeitintervalle
+# ✅ Timeout-Zeitintervalle
 
 ## Beschreibung
 

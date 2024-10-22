@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/orientation.html"
 created_at: "2019-11-10 20:18:36"
 ---
 
-# 1.3.4 Ausrichtung - AA
+# 📜 1.3.4 Ausrichtung - AA
 
 ## Verstehen (in Kürze)
 
@@ -25,9 +25,9 @@ Passt sich der Inhalt nicht automatisch an die Bildschirmorientierung an, so mus
 - Das Designteam definiert Ansichten, die sowohl im Hoch- wie auch im Querformat angezeigt und genutzt werden können.
 - Das Entwicklungsteam setzt die vom Designteam erarbeiteten Vorgaben korrekt um und sorgt in der Programmierung dafür, dass alle Inhalte in beiden Bildschirmausrichtungen korrekt angezeigt werden und bedienbar sind.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Hoch- und Querformat](hoch-und-querformat)
+- [✅ Hoch- und Querformat](hoch-und-querformat)
 
 ## Referenzen (öffentlich)
 

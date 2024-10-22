@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:54:36"
 ---
 
-# Prüfpunkt: Inhalte per Hover oder Fokus
+# ✅ Inhalte per Hover oder Fokus
 
 ## Beschreibung
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/sensory-characteristics.h
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 1.3.3 Sensory Characteristics - A
+# 📜 1.3.3 Sensory Characteristics - A
 
 ## Understanding (short)
 
@@ -30,9 +30,9 @@ This circumstance can be taken into account by offering additional stimuli on ot
 
 Incorrect input fields in a form are not only outlined in red, but also labelled as incorrect with a clear symbol (e.g. an exclamation mark).
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Sensory information](sensory-information)
+- [✅ Sensory information](sensory-information)
 
 ## References public
 

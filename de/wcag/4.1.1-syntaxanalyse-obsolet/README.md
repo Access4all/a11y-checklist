@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/parsing.html"
 created_at: "2015-08-04 14:36:01"
 ---
 
-# 4.1.1 Syntaxanalyse (obsolet) - A
+# 📜 4.1.1 Syntaxanalyse (obsolet) - A
 
 ## Verstehen (in Kürze)
 
@@ -32,6 +32,6 @@ Gleichzeitig ist es erfahrungsgemäss so, dass die wenigsten Code-Fehler direkte
 
 - Das Entwicklungsteam erstellt wohlgeformten und validen HTML-Code gemäss gesetztem Doctype.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Keine Syntaxfehler (obsolet)](keine-syntaxfehler-obsolet)
+- [✅ Keine Syntaxfehler (obsolet)](keine-syntaxfehler-obsolet)

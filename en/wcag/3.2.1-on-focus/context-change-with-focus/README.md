@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 14:04:34"
 ---
 
-# Checkpoint: Context change with focus
+# ✅ Context change with focus
 
 ## Description
 

@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:55:43"
 ---
 
-# Checkpoint: Operable with the keyboard
+# ✅ Operable with the keyboard
 
 ## Description
 

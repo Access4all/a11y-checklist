@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:46:37"
 ---
 
-# Prüfpunkt: Tastaturfallen
+# ✅ Tastaturfallen
 
 ## Beschreibung
 

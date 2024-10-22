@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2020-07-13 11:46:23"
 ---
 
-# 1.3.1e Semantisch richtiges Markup
+# 📜 1.3.1e Semantisch richtiges Markup
 
 ## Verstehen (in Kürze)
 
@@ -58,13 +58,13 @@ Wenn Schriftvariationen eine inhaltliche Bedeutung haben, muss diese für alle e
 </address>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Absätze semantisch korrekt](absaetze-semantisch-korrekt)
-- [Inhalte semantisch korrekt](inhalte-semantisch-korrekt)
-- [Leere Elemente](leere-elemente)
-- [Schriftformatierungen](schriftformatierungen)
-- [Zitate semantisch korrekt](zitate-semantisch-korrekt)
+- [✅ Absätze semantisch korrekt](absaetze-semantisch-korrekt)
+- [✅ Inhalte semantisch korrekt](inhalte-semantisch-korrekt)
+- [✅ Leere Elemente](leere-elemente)
+- [✅ Schriftformatierungen](schriftformatierungen)
+- [✅ Zitate semantisch korrekt](zitate-semantisch-korrekt)
 
 ## Referenzen (öffentlich)
 

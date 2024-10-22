@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:46:12"
 ---
 
-# Prüfpunkt: Kontrast bei informativen grafischen Elementen
+# ✅ Kontrast bei informativen grafischen Elementen
 
 ## Beschreibung
 

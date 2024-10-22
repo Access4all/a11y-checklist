@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/label-in-name.html"
 created_at: "2019-11-10 20:24:51"
 ---
 
-# 2.5.3 Label in Name - A
+# 📜 2.5.3 Label in Name - A
 
 ## Understanding (short)
 
@@ -50,9 +50,9 @@ The accessible label can differ from the visible label if it is defined via non-
 </a>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Accessible labelling](accessible-labelling)
+- [✅ Accessible labelling](accessible-labelling)
 
 ## References public
 

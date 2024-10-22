@@ -5,7 +5,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/info-and-relationships.ht
 created_at: "2016-01-22 11:03:47"
 ---
 
-# 1.3.1d Tabellarische Daten
+# 📜 1.3.1d Tabellarische Daten
 
 ## Verstehen (in Kürze)
 
@@ -77,13 +77,13 @@ Manchmal ist es aber der einfachere Weg, komplexe Tabellen in mehrere kleine Tab
 </table>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Tabellenüberschriften](tabellenueberschriften)
-- [Spalten- oder Zeilentitel](spalten-oder-zeilentitel)
-- [Tabelle semantisch korrekt](tabelle-semantisch-korrekt)
-- [Keine leeren Spalten oder Zeilen](keine-leeren-spalten-oder-zeilen)
-- [Überspannende Zellen](ueberspannende-zellen)
+- [✅ Tabellenüberschriften](tabellenueberschriften)
+- [✅ Spalten- oder Zeilentitel](spalten-oder-zeilentitel)
+- [✅ Tabelle semantisch korrekt](tabelle-semantisch-korrekt)
+- [✅ Keine leeren Spalten oder Zeilen](keine-leeren-spalten-oder-zeilen)
+- [✅ Überspannende Zellen](ueberspannende-zellen)
 
 ## Referenzen (öffentlich)
 

@@ -4,7 +4,7 @@ parent_id: "58"
 created_at: "2024-06-01 08:51:34"
 ---
 
-# DOM Inspektor
+# 🏷️ DOM Inspektor
 
 ## Description
 

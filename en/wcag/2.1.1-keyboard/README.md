@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/keyboard.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.1.1 Keyboard - A
+# 📜 2.1.1 Keyboard - A
 
 ## Understanding (short)
 
@@ -50,9 +50,9 @@ Please also note the notes in **📜-4.1.2a Advanced controls (widgets)** in thi
 <span onhover='...'>Show tooltip</span>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Operable with the keyboard](operable-with-the-keyboard)
+- [✅ Operable with the keyboard](operable-with-the-keyboard)
 
 ## References public
 

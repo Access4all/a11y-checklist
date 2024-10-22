@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 13:58:51"
 ---
 
-# Checkpoint: Headings and labels
+# ✅ Headings and labels
 
 ## Description
 

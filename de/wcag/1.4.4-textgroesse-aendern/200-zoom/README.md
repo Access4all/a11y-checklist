@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:42:11"
 ---
 
-# Prüfpunkt: 200% Zoom
+# ✅ 200% Zoom
 
 ## Beschreibung
 

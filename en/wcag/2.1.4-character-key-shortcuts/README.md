@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/character-key-shortcuts.h
 created_at: "2019-11-10 20:22:06"
 ---
 
-# 2.1.4 Character Key Shortcuts - A
+# 📜 2.1.4 Character Key Shortcuts - A
 
 ## Understanding (short)
 
@@ -31,6 +31,6 @@ Single-button shortcuts can also cause problems for people with motor disabiliti
 
 A website offers the keyboard shortcut 'S' to jump directly to a search field. This shortcut can be deactivated or changed in the user settings.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Single-key shortcuts](single-key-shortcuts)
+- [✅ Single-key shortcuts](single-key-shortcuts)

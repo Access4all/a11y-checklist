@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-13 17:04:08"
 ---
 
-# Prüfpunkt: Alternative für reine Video-Inhalte
+# ✅ Alternative für reine Video-Inhalte
 
 ## Beschreibung
 

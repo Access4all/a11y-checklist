@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/error-identification.html
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.3.1 Error Identification - A
+# 📜 3.3.1 Error Identification - A
 
 ## Understanding (short)
 
@@ -76,9 +76,9 @@ Client-side form validation can also be used, but is often not sufficient on its
 </fieldset>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Error messages in forms](error-messages-in-forms)
+- [✅ Error messages in forms](error-messages-in-forms)
 
 ## References public
 

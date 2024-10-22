@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/consistent-identification
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.4 Consistent Identification - AA
+# 📜 3.2.4 Consistent Identification - AA
 
 ## Understanding (short)
 
@@ -30,9 +30,9 @@ For example, elements should be named consistently, icons (e.g. for printing, do
 
 The search function is always structured and labelled in the same way on all pages.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Consistent implementation](consistent-implementation)
+- [✅ Consistent implementation](consistent-implementation)
 
 ## References public
 

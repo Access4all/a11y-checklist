@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/language-of-parts.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.1.2 Language of Parts - AA
+# 📜 3.1.2 Language of Parts - AA
 
 ## Understanding (short)
 
@@ -45,9 +45,9 @@ Language changes need to be indicated in long passages of text. Otherwise, scree
 </html>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Language change](language-change)
+- [✅ Language change](language-change)
 
 ## References public
 

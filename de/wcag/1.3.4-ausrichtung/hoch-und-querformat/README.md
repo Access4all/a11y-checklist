@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-15 07:35:03"
 ---
 
-# Prüfpunkt: Hoch- und Querformat
+# ✅ Hoch- und Querformat
 
 ## Beschreibung
 

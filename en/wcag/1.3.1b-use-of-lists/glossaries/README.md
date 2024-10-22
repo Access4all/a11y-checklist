@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:00:51"
 ---
 
-# Checkpoint: Glossaries
+# ✅ Glossaries
 
 ## Description
 

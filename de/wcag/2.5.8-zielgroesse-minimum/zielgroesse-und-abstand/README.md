@@ -9,7 +9,7 @@ applies_to_quality_assurance: ""
 created_at: "2024-04-16 09:10:44"
 ---
 
-# Prüfpunkt: Zielgrösse und Abstand
+# ✅ Zielgrösse und Abstand
 
 ## Beschreibung
 

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/pointer-gestures.html"
 created_at: "2019-11-10 20:24:09"
 ---
 
-# 2.5.1 Pointer Gestures - A
+# 📜 2.5.1 Pointer Gestures - A
 
 ## Understanding (short)
 
@@ -36,9 +36,9 @@ It is therefore important that functions that rely on path and/or multi-point po
 - The development team correctly implements the specifications defined by the design team. If JavaScript widget libraries are used, they are first thoroughly checked for accessibility.
 - Clients should be aware that the implementation of alternative input options involves a certain amount of additional work.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Alternative for path and multi-point pointer gestures](alternative-for-path-and-multi-point-pointer-gestures)
+- [✅ Alternative for path and multi-point pointer gestures](alternative-for-path-and-multi-point-pointer-gestures)
 
 ## References public
 

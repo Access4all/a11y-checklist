@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/focus-order.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 2.4.3 Focus Order - A
+# 📜 2.4.3 Focus Order - A
 
 ## Understanding (short)
 
@@ -46,8 +46,8 @@ Also avoid the focus being visually "lost" (e.g. because invisible elements can 
 </form>
 ```
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Focus order](focus-order)
-- [Focus-Guidance](focus-guidance)
-- [Hide elements correctly](hide-elements-correctly)
+- [✅ Focus order](focus-order)
+- [✅ Focus-Guidance](focus-guidance)
+- [✅ Hide elements correctly](hide-elements-correctly)

@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/on-input.html"
 created_at: "2015-08-04 14:36:00"
 ---
 
-# 3.2.2 Bei Eingabe - A
+# 📜 3.2.2 Bei Eingabe - A
 
 ## Verstehen (in Kürze)
 
@@ -26,9 +26,9 @@ Stellen Sie etwa sicher, dass die Wahl eines Eintrags in einer Combobox (`<selec
 
 - Das Entwicklungsteam setzt interaktive Elemente (etwa JavaScripts-Widgets) so um, dass bei Interaktion mit denselben keinerlei Änderung des Kontexts erfolgt (ausser die Interaktion ist eine explizite Aufforderung dazu, etwa das Aktivieren eines Schalters).
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Kontextänderung bei Eingabe](kontextaenderung-bei-eingabe)
+- [✅ Kontextänderung bei Eingabe](kontextaenderung-bei-eingabe)
 
 ## Referenzen (öffentlich)
 

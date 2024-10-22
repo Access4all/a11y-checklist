@@ -9,7 +9,7 @@ applies_to_quality_assurance: "true"
 created_at: "2024-03-14 13:11:30"
 ---
 
-# Prüfpunkt: Fieldset / Legend
+# ✅ Fieldset / Legend
 
 ## Beschreibung
 

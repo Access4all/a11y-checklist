@@ -6,7 +6,7 @@ wcag_url: "https://www.w3.org/WAI/WCAG22/Understanding/focus-not-obscured-minimu
 created_at: "2023-10-23 10:49:15"
 ---
 
-# 2.4.11 Focus Not Obscured (Minimum) - AA
+# 📜 2.4.11 Focus Not Obscured (Minimum) - AA
 
 ## Understanding (short)
 
@@ -29,9 +29,9 @@ Partial covering of the focus is tolerable, even if it should be avoided; comple
 
 - The development team positions interactive elements and scrolls the viewport so that the focus is always as visible as possible.
 
-## Checkpoints
+## ✅ Checkpoints
 
-- [Focus visible](focus-visible)
+- [✅ Focus visible](focus-visible)
 
 ## References public
 
