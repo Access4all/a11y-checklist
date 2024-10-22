@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:17:53"
 
 # ✅ Keine leeren Spalten oder Zeilen
 
+WCAG-Kriterium: [📜 1.3.1d Tabellarische Daten](..)
+
 ## Beschreibung
 
 Daten-Tabellen weisen keine leeren Spalten oder Zeilen auf.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:18:08"
 
 # ✅ Use of ARIA
 
+Wcag criterion: [📜 4.1.2 Name, Role, Value - A](..)
+
 ## Description
 
 The use of ARIA is reasonable and correct. Wherever possible, standard HTML elements are used; ARIA is used if no corresponding HTML element exists or because there is a technical need for it.

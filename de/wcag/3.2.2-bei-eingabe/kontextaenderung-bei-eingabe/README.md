@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:05:04"
 
 # ✅ Kontextänderung bei Eingabe
 
+WCAG-Kriterium: [📜 3.2.2 Bei Eingabe - A](..)
+
 ## Beschreibung
 
 Der Kontext ändert sich nicht automatisch bei Eingabe (z.B. Weiterleitung auf eine andere Seite).

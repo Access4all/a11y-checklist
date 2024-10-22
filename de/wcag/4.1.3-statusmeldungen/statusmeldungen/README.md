@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:20:14"
 
 # ✅ Statusmeldungen
 
+WCAG-Kriterium: [📜 4.1.3 Statusmeldungen - AA](..)
+
 ## Beschreibung
 
 Statusmeldungen sind für assistierende Technologien zugänglich und überstrapazieren den Audiokanal nicht.

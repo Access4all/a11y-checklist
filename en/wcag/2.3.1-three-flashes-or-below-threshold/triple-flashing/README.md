@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:49:31"
 
 # ✅ Triple flashing
 
+Wcag criterion: [📜 2.3.1 Three Flashes or Below Threshold - A](..)
+
 ## Description
 
 There are no elements that flash more than three times in one second or the flash is below a defined limit value for flashes.

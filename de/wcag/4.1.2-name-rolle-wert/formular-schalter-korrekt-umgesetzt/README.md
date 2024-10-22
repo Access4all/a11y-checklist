@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:19:20"
 
 # ✅ Formular-Schalter korrekt umgesetzt
 
+WCAG-Kriterium: [📜 4.1.2 Name, Rolle, Wert - A](..)
+
 ## Beschreibung
 
 Formular-Schalter sind korrekt umgesetzt (als `<button>`-Element oder `<input type="submit">`-Element).

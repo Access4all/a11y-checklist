@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:43:01"
 
 # ✅ Texts not as graphics
 
+Wcag criterion: [📜 1.4.5 Images of Text - AA](..)
+
 ## Description
 
 Texts are not only integrated as graphics, as these do not allow any adjustments (e.g. scaling size, changing foreground and background colors, replacing font, etc.). Exceptions are texts where a certain type of presentation is essential for the information conveyed (e.g. logos or brand names).

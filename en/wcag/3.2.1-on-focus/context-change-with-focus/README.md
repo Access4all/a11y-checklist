@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:04:34"
 
 # ✅ Context change with focus
 
+Wcag criterion: [📜 3.2.1 On Focus - A](..)
+
 ## Description
 
 The context does not change automatically with focus (e.g. redirection to another page).

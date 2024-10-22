@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:13:12"
 
 # ✅ Akkordeons
 
+WCAG-Kriterium: [📜 4.1.2a Erweiterte Steuerelemente (Widgets)](..)
+
 ## Beschreibung
 
 Akkordeons sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, ihr Status wird vermittelt (z.B. "reduziert" bzw. "erweitert").

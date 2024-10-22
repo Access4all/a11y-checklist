@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:36:23"
 
 # ✅ Nicht Farbe allein
 
+WCAG-Kriterium: [📜 1.4.1 Benutzung von Farbe - A](..)
+
 ## Beschreibung
 
 Information wird nicht durch Farbe allein vermittelt. Das gilt auch für Hover- und Fokus-Zustände. Wenn Information farblich übermittelt wird (z.B. rot hervorgehobene Teile eines Texts, um deren Wichtigkeit zu markieren), ist ein weiterer visueller Reiz vorhanden, um diese Information zu vermitteln (z.B. Fettschrift oder Unterstreichung, unterschiedliche Symbole, zusätzlicher Text).

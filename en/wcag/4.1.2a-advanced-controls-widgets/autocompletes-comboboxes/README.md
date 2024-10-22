@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:13:38"
 
 # ✅ Autocompletes (comboboxes)
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 Autocompletes are implemented barrier-free. They are correctly announced by screen readers, the number of currently available suggestions, the current entry when navigating the options and the finally selected option are conveyed by screen readers.

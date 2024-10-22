@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:47:27"
 
 # ✅ Single-key shortcuts
 
+Wcag criterion: [📜 2.1.4 Character Key Shortcuts - A](..)
+
 ## Description
 
 Single-key shortcuts (consisting of a single letter, punctuation, number or symbol character key) can either be deactivated or changed or are only active with focus.

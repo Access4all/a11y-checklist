@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:02:56"
 
 # ✅ Alternativen für Bewegungsaktivierung
 
+WCAG-Kriterium: [📜 2.5.4 Bewegungsaktivierung - A](..)
+
 ## Beschreibung
 
 Durch Bewegungsaktivierung (z.B. Gerätebewegung oder Erkennung von Gesten per Video) ausgeführte Funktionalität kann auch durch konventionelle Eingabemethoden angesteuert und deaktiviert werden.

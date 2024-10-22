@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:15:28"
 
 # ✅ Audio description or media alternative
 
+Wcag criterion: [📜 1.2.3 Audio Description or Media Alternative (Prerecorded) - A](..)
+
 ## Description
 
 Text transcripts or audio descriptions exist for synchronised video content (videos in which the audio and video tracks together provide the complete information). The following applies to audio description: If all the information in the video track is already contained in the audio track, no audio description is required.

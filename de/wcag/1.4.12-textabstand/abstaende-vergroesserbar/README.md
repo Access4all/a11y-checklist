@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:50:30"
 
 # ✅ Abstände vergrösserbar
 
+WCAG-Kriterium: [📜 1.4.12 Textabstand - AA](..)
+
 ## Beschreibung
 
 Abstände zwischen Zeilen, Wörtern und Buchstaben sowie nach Absätzen sind ohne resultierende Einschränkungen um bestimmte Werte vergrösserbar. Ausnahmen sind: Untertitel in Video-Inhalten, PDF-Dokumente.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:58:51"
 
 # ✅ Überschriften und Labels
 
+WCAG-Kriterium: [📜 2.4.6 Überschriften und Beschriftungen (Labels) - AA](..)
+
 ## Beschreibung
 
 Überschriften und Labels (z.B. in Eingabefeldern, bei Schaltern, etc.) sind ausreichend informativ und korrekt und bezeichnen den zugeordneten Web-Inhalt verständlich. Es gibt keine gleichlautenden Überschriften oder Labels auf einer Seite.

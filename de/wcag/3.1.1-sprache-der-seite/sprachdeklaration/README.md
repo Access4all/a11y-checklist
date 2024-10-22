@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:03:27"
 
 # ✅ Sprachdeklaration
 
+WCAG-Kriterium: [📜 3.1.1 Sprache der Seite - A](..)
+
 ## Beschreibung
 
 Die Sprachdeklaration ist vorhanden und korrekt.

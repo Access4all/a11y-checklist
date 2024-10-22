@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:33:18"
 
 # ✅ Sensorische Hinweise
 
+WCAG-Kriterium: [📜 1.3.3 Sensorische Eigenschaften - A](..)
+
 ## Beschreibung
 
 Inhalte weisen nicht ausschliesslich auf sensorische Eigenschaften (rein visuell erkennbar, rein akustisch verständlich) hin, z.B. "Den grünen Schalter links betätigen", "Korrigieren Sie die Eingaben in den rot umrandeten Feldern", "Mit Klick auf das Bild rechts…".

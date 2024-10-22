@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:02:01"
 
 # ✅ Zeigereingaben abbrechbar
 
+WCAG-Kriterium: [📜 2.5.2 Abbruch von Zeigegerät-Eingaben - A](..)
+
 ## Beschreibung
 
 Zeigereingaben sind abbrechbar oder können rückgängig gemacht werden.

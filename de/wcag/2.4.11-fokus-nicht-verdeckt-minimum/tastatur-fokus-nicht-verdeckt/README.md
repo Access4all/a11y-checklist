@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:17:49"
 
 # ✅ Tastatur-Fokus nicht verdeckt
 
+WCAG-Kriterium: [📜 2.4.11 Fokus nicht verdeckt (Minimum) - AA](..)
+
 ## Beschreibung
 
 Der Tastatur-Fokus ist beim Navigieren stets gut sichtbar und höchstens teilweise durch andere Elemente verdeckt.

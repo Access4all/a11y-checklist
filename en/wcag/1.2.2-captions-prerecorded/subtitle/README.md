@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:14:33"
 
 # ✅ Subtitle
 
+Wcag criterion: [📜 1.2.2 Captions (Prerecorded) - A](..)
+
 ## Description
 
 Equivalent, synchronised subtitles exist for recorded video content with audio (e.g. feature films).

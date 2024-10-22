@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:16:46"
 
 # ✅ Audio description
 
+Wcag criterion: [📜 1.2.5 Audio Description (Prerecorded) - AA](..)
+
 ## Description
 
 Audio descriptions exist for synchronised video content (videos in which the audio and video tracks together provide the complete information) for purely visual content relevant to the content. The following applies to audio description: If all the information in the video track is already contained in the audio track, no audio description is required.

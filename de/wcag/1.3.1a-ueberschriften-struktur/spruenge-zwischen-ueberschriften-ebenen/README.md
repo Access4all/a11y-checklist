@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:23:55"
 
 # ✅ Sprünge zwischen Überschriften-Ebenen
 
+WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
+
 ## Beschreibung
 
 Es existieren möglichst keine Sprünge zwischen Überschriften-Ebenen, wobei eine einzelne Ebene toleriert wird (z.B. `<h2>` zu `<h4>`, aber nicht zu `<h5>`).

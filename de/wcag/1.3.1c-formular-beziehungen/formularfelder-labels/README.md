@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:13:34"
 
 # ✅ Formularfelder Labels
 
+WCAG-Kriterium: [📜 1.3.1c Formular-Beziehungen](..)
+
 ## Beschreibung
 
 Formularfelder weisen korrekt verknüpfte Labels auf.

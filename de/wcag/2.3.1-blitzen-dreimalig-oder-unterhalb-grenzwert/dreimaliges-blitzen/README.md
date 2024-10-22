@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:49:31"
 
 # ✅ Dreimaliges Blitzen
 
+WCAG-Kriterium: [📜 2.3.1 Blitzen, dreimalig oder unterhalb Grenzwert - A](..)
+
 ## Beschreibung
 
 Es gibt keine Elemente, die öfter als dreimal in einer Sekunde blitzen, oder der Blitz ist unterhalb eines definierten Grenzwerts für Blitze.

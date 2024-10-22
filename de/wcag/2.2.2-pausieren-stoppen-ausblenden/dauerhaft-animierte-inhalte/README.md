@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:48:53"
 
 # ✅ Dauerhaft animierte Inhalte
 
+WCAG-Kriterium: [📜 2.2.2 Pausieren, stoppen, ausblenden - A](..)
+
 ## Beschreibung
 
 Dauerhaft animierte Inhalte (länger als fünf Sekunden) können mittels gut sichtbarer Bedienelemente pausiert, gestoppt oder ausgeblendet werden. Als dauerhaft animiert gelten Inhalte, die sich bewegen und/oder automatisch aktualisieren, die blinken oder scrollen. Sie beginnen automatisch und werden parallel zu anderen Inhalten dargestellt.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:46:37"
 
 # ✅ Tastaturfallen
 
+WCAG-Kriterium: [📜 2.1.2 Keine Tastaturfalle - A](..)
+
 ## Beschreibung
 
 Es treten keine Tastaturfallen auf. Alle Bedienelemente können mit der Tastatur erreicht und wieder verlassen werden. Die uneingeschränkte Navigation rückwärts mit `Shift`-`Tab` ist sichergestellt.

@@ -11,6 +11,8 @@ created_at: "2024-06-10 11:25:18"
 
 # ✅ Spanning cells
 
+Wcag criterion: [📜 1.3.1d Tabular data](..)
+
 ## Description
 
 Tables whose cells span several columns and/or rows are still easy to understand for screen readers.

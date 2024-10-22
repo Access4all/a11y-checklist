@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:14:00"
 
 # ✅ Sensory non-text content
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Sensory content that necessarily consists of non-text content because it cannot be adequately replaced by words (e.g. music performances, works of art) has an alternative text that describes the purpose of the non-text content.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:29:59"
 
 # ✅ Leere Elemente
 
+WCAG-Kriterium: [📜 1.3.1e Semantisch richtiges Markup](..)
+
 ## Beschreibung
 
 Leere bedeutungstragende Elemente werden vermieden.

@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:21:16"
 
 # ✅ Footnotes
 
+Wcag criterion: [📜 1.3.1 Info and Relationships - A](..)
+
 ## Description
 
 Footnotes are implemented barrier-free: The footnote text can also be accessed with a screen reader without losing the original context.

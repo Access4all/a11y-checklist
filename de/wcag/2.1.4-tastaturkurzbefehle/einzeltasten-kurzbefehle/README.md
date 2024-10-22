@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:47:27"
 
 # ✅ Einzeltasten-Kurzbefehle
 
+WCAG-Kriterium: [📜 2.1.4 Tastaturkurzbefehle - A](..)
+
 ## Beschreibung
 
 Einzeltasten-Kurzbefehle (bestehend aus einer einzelnen Buchstaben-, Interpunktions-, Zahlen- oder Symbolzeichentaste) sind entweder deaktivierbar oder veränderbar oder nur bei Fokus aktiv.

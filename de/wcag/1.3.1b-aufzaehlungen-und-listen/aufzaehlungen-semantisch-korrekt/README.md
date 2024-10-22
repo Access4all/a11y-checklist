@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:59:27"
 
 # ✅ Aufzählungen semantisch korrekt
 
+WCAG-Kriterium: [📜 1.3.1b Aufzählungen und Listen](..)
+
 ## Beschreibung
 
 Aufzählungen sind semantisch korrekt als Listen (`<ul>`, `<ol>`, `<dl>`) formatiert.

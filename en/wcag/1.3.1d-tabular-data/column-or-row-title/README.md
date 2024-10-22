@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:15:29"
 
 # ✅ Column or row title
 
+Wcag criterion: [📜 1.3.1d Tabular data](..)
+
 ## Description
 
 Data tables have column or row titles (`<th>`), ideally both.

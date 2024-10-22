@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:21:05"
 
 # ✅ Hochkontrast-Modus
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Informative Grafiken und grafische Elemente (z.B. Häkchen in einer aktivierten Checkbox, Hervorhebung des aktiven Elements in einer Navigation, oder die Umrandung eines Textfelds) sind im Forced-Colors-Modus sichtbar.

@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:18:53"
 
 # ✅ Active elements
 
+Wcag criterion: [📜 1.3.1 Info and Relationships - A](..)
+
 ## Description
 
 Active elements (e.g. the active menu item in a navigation) are semantically recognisable if they are clearly visually identifiable as active.

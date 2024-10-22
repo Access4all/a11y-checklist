@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:24:25"
 
 # ✅ Complex graphics
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 If alternative text is not sufficient (e.g. for complex graphics such as infographics or diagrams), a long description is provided and referred to in the alternative text.

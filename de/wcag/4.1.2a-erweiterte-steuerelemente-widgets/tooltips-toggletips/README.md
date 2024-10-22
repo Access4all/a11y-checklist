@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:16:37"
 
 # ✅ Tooltips / Toggletips
 
+WCAG-Kriterium: [📜 4.1.2a Erweiterte Steuerelemente (Widgets)](..)
+
 ## Beschreibung
 
 Tooltips sind barrierefrei umgesetzt. Einfache, kurze Inhalte werden durch Screenreader sogleich angesagt. Beinhalten Tooltips komplexe Inhalte, so müssen diese manuell gelesen werden können (in diesem Fall handelt es sich eher um einen Dialog).

@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:43:01"
 
 # ✅ Texte nicht als Grafiken
 
+WCAG-Kriterium: [📜 1.4.5 Bilder von Text - AA](..)
+
 ## Beschreibung
 
 Texte werden nicht nur als Grafiken eingebunden, denn diese lassen keine Anpassungen zu (z.B. Grösse skalieren, Vorder- und Hintergrund-Farben verändern, Schriftart ersetzen, etc.). Ausgenommen sind Texte, bei denen eine bestimmte Art der Präsentation für die vermittelte Information unentbehrlich ist (z.B. Logos oder Markennamen).

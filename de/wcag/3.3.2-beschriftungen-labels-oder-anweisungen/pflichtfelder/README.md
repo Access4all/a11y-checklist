@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:08:12"
 
 # ✅ Pflichtfelder
 
+WCAG-Kriterium: [📜 3.3.2 Beschriftungen (Labels) oder Anweisungen - A](..)
+
 ## Beschreibung
 
 Pflichtfelder sind zugänglich ausgezeichnet, sowohl auf visueller wie nicht-visueller Ebene, z.B. mit `required`-Attribut.

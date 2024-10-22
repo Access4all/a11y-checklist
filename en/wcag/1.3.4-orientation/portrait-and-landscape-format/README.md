@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:35:03"
 
 # ✅ Portrait and landscape format
 
+Wcag criterion: [📜 1.3.4 Orientation - AA](..)
+
 ## Description
 
 Content is correctly displayed and usable in both screen orientations (portrait and landscape). If the content does not automatically adapt to the screen orientation, a switch is available to manually rotate the screen content (ensured by the browser for websites, ensured by design and development for mobile apps).

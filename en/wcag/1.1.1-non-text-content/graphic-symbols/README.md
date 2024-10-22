@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:16:02"
 
 # ✅ Graphic symbols
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Graphic symbols (e.g. web fonts or emojis) are implemented in such a way that they do not lead to incomprehensible output by screen readers.

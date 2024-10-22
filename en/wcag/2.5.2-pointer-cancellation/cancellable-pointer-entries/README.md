@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:02:01"
 
 # ✅ Cancellable pointer entries
 
+Wcag criterion: [📜 2.5.2 Pointer Cancellation - A](..)
+
 ## Description
 
 Pointer entries can be cancelled or undone.

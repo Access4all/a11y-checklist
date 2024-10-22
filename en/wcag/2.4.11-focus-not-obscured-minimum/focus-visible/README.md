@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:17:49"
 
 # ✅ Focus visible
 
+Wcag criterion: [📜 2.4.11 Focus Not Obscured (Minimum) - AA](..)
+
 ## Description
 
 The keyboard focus is always clearly visible when navigating and is at most partially obscured by other elements.

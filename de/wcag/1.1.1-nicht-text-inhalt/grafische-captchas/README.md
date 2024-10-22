@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:25:32"
 
 # ✅ Grafische CAPTCHAs
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Grafische CAPTCHAs bieten eine Alternative (z.B. Audio-CAPTCHA).

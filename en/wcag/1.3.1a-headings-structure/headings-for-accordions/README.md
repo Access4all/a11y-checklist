@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:26:50"
 
 # ✅ Headings for accordions
 
+Wcag criterion: [📜 1.3.1a Headings structure](..)
+
 ## Description
 
 Headings for accordions are implemented as such.

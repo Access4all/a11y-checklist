@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:52:07"
 
 # ✅ Focus order
 
+Wcag criterion: [📜 2.4.3 Focus Order - A](..)
+
 ## Description
 
 The focus sequence is sensible, i.e. intuitively understandable and comprehensible.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:14:05"
 
 # ✅ Date picker / time picker
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 Date pickers are implemented barrier-free unless there is no alternative (e.g. manual date entry in the form field). They are correctly announced by screen readers, the current entry when navigating the options as well as the finally selected option are conveyed by screen readers.

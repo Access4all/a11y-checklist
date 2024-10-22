@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:55:44"
 
 # ✅ Elemente korrekt verstecken
 
+WCAG-Kriterium: [📜 2.4.3 Fokus-Reihenfolge - A](..)
+
 ## Beschreibung
 
 Elemente sind korrekt versteckt und zwar so, dass sie auch durch assistierende Technologien nicht ausgegeben werden, wenn sie visuell nicht sichtbar sind.

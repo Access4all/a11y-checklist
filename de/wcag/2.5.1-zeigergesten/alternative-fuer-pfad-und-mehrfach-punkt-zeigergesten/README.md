@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:01:06"
 
 # ✅ Alternative für Pfad- und Mehrfach-Punkt-Zeigergesten
 
+WCAG-Kriterium: [📜 2.5.1 Zeigergesten - A](..)
+
 ## Beschreibung
 
 Für pfadbasierte oder Mehrpunkt-Zeigergesten existieren Alternativen, die mit einfachen Zeigergesten bedienbar sind (etwa Klicken, Doppelklicken, oder Klicken-und-Halten).

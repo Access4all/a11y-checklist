@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:38:05"
 
 # ✅ Auto-playing audio content
 
+Wcag criterion: [📜 1.4.2 Audio Control - A](..)
+
 ## Description
 
 Audio content that plays automatically for more than 3 seconds is avoided wherever possible. If it is present, it can be controlled (stop playback, adjust volume independently of the system volume). The controls are located at the top of the page.

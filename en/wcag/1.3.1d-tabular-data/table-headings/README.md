@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:14:26"
 
 # ✅ Table headings
 
+Wcag criterion: [📜 1.3.1d Tabular data](..)
+
 ## Description
 
 Complex data tables in particular have table headings (`<caption>`).

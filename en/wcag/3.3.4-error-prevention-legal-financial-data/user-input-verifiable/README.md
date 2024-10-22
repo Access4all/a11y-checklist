@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:11:33"
 
 # ✅ User input verifiable
 
+Wcag criterion: [📜 3.3.4 Error Prevention (Legal, Financial, Data) - AA](..)
+
 ## Description
 
 User input must be verifiable before process completion with financial/legal consequences. It is ensured that there is an opportunity to check and, if necessary, correct entered data before a final conclusion is reached.

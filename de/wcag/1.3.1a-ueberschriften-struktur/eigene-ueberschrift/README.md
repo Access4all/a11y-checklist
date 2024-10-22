@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:24:42"
 
 # ✅ Eigene Überschrift
 
+WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
+
 ## Beschreibung
 
 Eigenständige Seitenbereiche weisen eine eigene Überschrift auf, da sie sonst der vorausgehenden Überschrift falsch untergeordnet werden. Für Inhalts- und Funktionsblöcke wie Kopf- und Fussbereich, Navigation, Breadcrumb, etc. können visuell versteckte Überschriften eingesetzt werden.

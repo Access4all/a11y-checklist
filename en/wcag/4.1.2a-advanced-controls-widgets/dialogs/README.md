@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:14:46"
 
 # ✅ Dialogs
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 Dialogs (also called modals, overlays, lightboxes, etc.) are implemented barrier-free. They are correctly announced by screen readers.

@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:25:00"
 
 # ✅ Dekorative Grafiken
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Dekorative Grafiken, welche als `<img>` umgesetzt sind, weisen ein leeres `alt`-Attribut auf, damit sie von assistierenden Geräten ignoriert werden können.

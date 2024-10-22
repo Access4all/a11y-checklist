@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:59:23"
 
 # ✅ Tastatur-Fokus sichtbar
 
+WCAG-Kriterium: [📜 2.4.7 Fokus sichtbar - AA](..)
+
 ## Beschreibung
 
 Der Tastatur-Fokus ist genügend sichtbar, z.B. durch einen gut sichtbaren Rahmen (für alle fokussierbaren Elemente wie Links, Schaltflächen, Radio-Buttons, Checkboxen, Ausklapplisten, verlinkte grafische Elemente, etc.).

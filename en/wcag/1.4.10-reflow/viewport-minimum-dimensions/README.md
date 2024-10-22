@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:44:00"
 
 # ✅ Viewport minimum dimensions
 
+Wcag criterion: [📜 1.4.10 Reflow - AA](..)
+
 ## Description
 
 Content can be displayed without restrictions (e.g. overlapping) and without horizontal scrolling in the viewport minimum dimensions of `320x256` CSS pixels. This corresponds to an enlargement to 400%.

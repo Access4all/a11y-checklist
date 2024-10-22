@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:45:10"
 
 # ✅ Contrast ratio of control elements
 
+Wcag criterion: [📜 1.4.11 Non-Text Contrast - AA](..)
+
 ## Description
 
 The contrast ratio of control elements (e.g. text fields, radio buttons, checkboxes, buttons, tabs, etc.) to the surrounding colours is at least ‘3:1’. This applies to all visual cues that are required for perception and operation (e.g. form field boundaries, fold-out indicators for flyouts/dropdowns, tick in a checkbox, etc.), in particular also for the perception of the status of an element. The hover state of an element does not have to be distinguishable from the standard state.

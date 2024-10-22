@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:57:26"
 
 # ✅ Multiple links
 
+Wcag criterion: [📜 2.4.4 Link Purpose (In Context) - A](..)
+
 ## Description
 
 Multiple, different links (e.g. a headline, a graphic and an additional text link) to the same destination are avoided.

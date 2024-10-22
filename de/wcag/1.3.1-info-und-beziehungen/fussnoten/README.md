@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:21:16"
 
 # ✅ Fussnoten
 
+WCAG-Kriterium: [📜 1.3.1 Info und Beziehungen - A](..)
+
 ## Beschreibung
 
 Fussnoten sind barrierefrei umgesetzt: Auch mit einem Screenreader ist beim Fussnoten-Zeichen der Zugriff auf den Fussnotentext gegeben, ohne dass der ursprüngliche Kontext verloren geht.

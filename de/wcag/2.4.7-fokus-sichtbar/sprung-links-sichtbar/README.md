@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:00:37"
 
 # ✅ Sprung-Links sichtbar
 
+WCAG-Kriterium: [📜 2.4.7 Fokus sichtbar - AA](..)
+
 ## Beschreibung
 
 Sprung-Links werden bei Tastatur-Bedienung sichtbar.

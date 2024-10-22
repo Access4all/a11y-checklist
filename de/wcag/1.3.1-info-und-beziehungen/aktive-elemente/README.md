@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:18:53"
 
 # ✅ Aktive Elemente
 
+WCAG-Kriterium: [📜 1.3.1 Info und Beziehungen - A](..)
+
 ## Beschreibung
 
 Aktive Elemente (z.B. der aktive Menüpunkt in einer Navigation) sind semantisch erkennbar ausgezeichnet, wenn sie visuell klar als aktiv erkennbar sind.

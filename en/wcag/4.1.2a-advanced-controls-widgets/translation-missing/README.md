@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:13:12"
 
 # ✅ TRANSLATION MISSING
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 TRANSLATION MISSING

@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:52:58"
 
 # ✅ Fokus-Führung
 
+WCAG-Kriterium: [📜 2.4.3 Fokus-Reihenfolge - A](..)
+
 ## Beschreibung
 
 Der Tastatur-Fokus wird sinnvoll geführt, wenn jemand mit Elementen auf der Seite interagiert, die zu einer Veränderung innerhalb der Seite führen (ohne Seiten-Reload), z.B. nach dem Klick auf einen Schalter, der einen Dialog anzeigt (Erreichen des Dialogs und Interagieren im Dialog, Verlassen desselben, Fokus zurück auf das dialog-auslösende Element, Weiternavigieren auf der Seite). Auch die Interaktion mit Formular-Elementen kann durch sinnvolle Fokus-Führung ggf. optimiert werden.

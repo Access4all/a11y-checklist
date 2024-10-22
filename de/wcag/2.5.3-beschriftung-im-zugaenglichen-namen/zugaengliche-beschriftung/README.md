@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:02:31"
 
 # ✅ Zugängliche Beschriftung
 
+WCAG-Kriterium: [📜 2.5.3 Beschriftung im zugänglichen Namen - A](..)
+
 ## Beschreibung
 
 Die zugängliche Beschriftung eines Bedienelements entspricht exakt der visuellen oder beinhaltet sie (ermöglicht v.a. Sprachsteuerung).

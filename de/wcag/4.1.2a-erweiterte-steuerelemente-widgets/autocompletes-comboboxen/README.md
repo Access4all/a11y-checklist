@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:13:38"
 
 # ✅ Autocompletes (Comboboxen)
 
+WCAG-Kriterium: [📜 4.1.2a Erweiterte Steuerelemente (Widgets)](..)
+
 ## Beschreibung
 
 Autocompletes sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, die Anzahl aktuell verfügbarer Vorschläge, der aktuelle Eintrag beim Navigieren der Optionen sowie die schlussendlich gewählte Option werden durch Screenreader vermittelt.

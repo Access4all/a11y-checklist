@@ -11,6 +11,8 @@ created_at: "2024-03-13 17:04:08"
 
 # ✅ Alternative for video-only content
 
+Wcag criterion: [📜 1.2.1 Audio-only and Video-only (Prerecorded) - A](..)
+
 ## Description
 
 Text transcripts or equivalent alternatives exist as audio content for recorded video-only content (e.g. silent films).

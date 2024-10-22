@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:24:34"
 
 # ✅ Alternative zu Ziehbewegungen
 
+WCAG-Kriterium: [📜 2.5.7 Ziehende Bewegungen - AA](..)
+
 ## Beschreibung
 
 Für Ziehbewegungen (Drag & Drop) existieren Alternativen, die mit einfachen Zeigergesten bedienbar sind (etwa Klicken, Doppelklicken, oder Klicken-und-Halten).

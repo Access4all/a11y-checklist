@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:42:16"
 
 # ✅ Barrierefreies Authentifizieren
 
+WCAG-Kriterium: [📜 3.3.8 Barrierefreie Authentifizierung (Minimum) - AA](..)
+
 ## Beschreibung
 
 Mindestens eine der angebotenen Möglichkeiten zur Authentifizierung ist für die unterschiedlichen Nutzer-Gruppen barrierefrei. Insbesondere Copy & Paste ist nicht unterbunden.

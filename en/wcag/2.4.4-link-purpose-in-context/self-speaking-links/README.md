@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:56:46"
 
 # ✅ Self-speaking links
 
+Wcag criterion: [📜 2.4.4 Link Purpose (In Context) - A](..)
+
 ## Description
 
 Link texts are self-explanatory, i.e. understandable by themselves or via context (same `<p>` element, same list element, same table cell, column or row heading in table).

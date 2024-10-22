@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:44:00"
 
 # ✅ Viewport-Mindestdimensionen
 
+WCAG-Kriterium: [📜 1.4.10 Automatischer Umbruch (Reflow) - AA](..)
+
 ## Beschreibung
 
 Inhalt lässt sich ohne Einschränkungen (z.B. Überlappungen) und ohne horizontales Scrollen in den Viewport-Mindestdimensionen von `320x256` CSS-Pixel darstellen. Das entspricht einer Vergrösserung auf 400%.

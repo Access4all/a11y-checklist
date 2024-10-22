@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:18:08"
 
 # ✅ Einsatz von ARIA
 
+WCAG-Kriterium: [📜 4.1.2 Name, Rolle, Wert - A](..)
+
 ## Beschreibung
 
 Der Einsatz von ARIA ist sinnvoll und korrekt. Wenn immer möglich werden Standard-HTML-Elemente verwendet; ARIA wird eingesetzt, wenn kein entsprechendes HTML-Element existiert oder weil eine technische Notwendigkeit dafür besteht.

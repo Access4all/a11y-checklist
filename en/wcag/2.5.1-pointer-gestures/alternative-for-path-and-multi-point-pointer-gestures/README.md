@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:01:06"
 
 # ✅ Alternative for path and multi-point pointer gestures
 
+Wcag criterion: [📜 2.5.1 Pointer Gestures - A](..)
+
 ## Description
 
 Alternatives exist for path-based or multi-point pointer gestures that can be operated with simple pointer gestures (such as click, double-click or click-and-hold).

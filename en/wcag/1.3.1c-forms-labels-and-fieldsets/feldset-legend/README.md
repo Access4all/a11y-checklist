@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:11:30"
 
 # ✅ Feldset / Legend
 
+Wcag criterion: [📜 1.3.1c Forms, Labels and Fieldsets](..)
+
 ## Description
 
 In extensive forms, form fields with related content are grouped using the `<fieldset>`/`<legend>` combination.

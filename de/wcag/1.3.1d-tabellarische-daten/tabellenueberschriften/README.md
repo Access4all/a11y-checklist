@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:14:26"
 
 # ✅ Tabellenüberschriften
 
+WCAG-Kriterium: [📜 1.3.1d Tabellarische Daten](..)
+
 ## Beschreibung
 
 Insbesondere komplexe Daten-Tabellen weisen Tabellenüberschriften (`<caption>`) auf.

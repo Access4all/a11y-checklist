@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:17:53"
 
 # ✅ No empty columns or rows
 
+Wcag criterion: [📜 1.3.1d Tabular data](..)
+
 ## Description
 
 Data tables have no empty columns or rows.

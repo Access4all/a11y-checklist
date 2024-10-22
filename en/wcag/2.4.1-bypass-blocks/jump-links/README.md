@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:50:20"
 
 # ✅ Jump links
 
+Wcag criterion: [📜 2.4.1 Bypass Blocks - A](..)
+
 ## Description
 
 Jump links make it easy to skip repeating blocks of information (e.g. navigation, header area) using the keyboard.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:36:23"
 
 # ✅ Not just colour alone
 
+Wcag criterion: [📜 1.4.1 Use of Color - A](..)
+
 ## Description
 
 Information is not conveyed by colour alone. This is also true for hover and focus states. When information is conveyed by colour (e.g. parts of text highlighted in red to indicate their importance), there is another visual stimulus to convey this information (e.g. bold or underlined text, different icons, additional text).

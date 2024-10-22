@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:48:53"
 
 # ✅ Permanently animated content
 
+Wcag criterion: [📜 2.2.2 Pause, Stop, Hide - A](..)
+
 ## Description
 
 Permanently animated content (longer than five seconds) can be paused, stopped or faded out using clearly visible controls. Permanently animated content is content that moves and/or updates automatically, flashes or scrolls. They start automatically and are displayed in parallel with other content.

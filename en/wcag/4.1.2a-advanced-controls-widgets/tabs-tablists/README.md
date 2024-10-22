@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:16:04"
 
 # ✅ Tabs / tablists
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 Tabs are implemented barrier-free. They are correctly announced by screen readers and their status is communicated (e.g. "active" or "not active").

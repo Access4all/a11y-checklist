@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:23:34"
 
 # ✅ Special characters
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Special characters (such as "-10%", "CHF 20.35.-" or "23.11.2023") convey information in an accessible way.

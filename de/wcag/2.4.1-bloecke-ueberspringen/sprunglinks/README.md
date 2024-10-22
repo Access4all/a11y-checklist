@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:50:20"
 
 # ✅ Sprunglinks
 
+WCAG-Kriterium: [📜 2.4.1 Blöcke überspringen - A](..)
+
 ## Beschreibung
 
 Sprunglinks ermöglichen das einfache Überspringen von sich wiederholenden Informationsblöcken (z.B. Navigation, Headerbereich) mit der Tastatur.

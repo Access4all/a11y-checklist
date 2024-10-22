@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:12:15"
 
 # ✅ Keine Syntaxfehler (obsolet)
 
+WCAG-Kriterium: [📜 4.1.1 Syntaxanalyse (obsolet) - A](..)
+
 ## Beschreibung
 
 _**Obsolet:** Dieses Kriterium hat keinen Nutzen mehr und wurde aus den WCAG gestrichen. Mehr Infos hier: [How and why is success criteria 4.1.1 Parsing obsolete?](https://www.w3.org/WAI/standards-guidelines/wcag/faq/#parsing411)_

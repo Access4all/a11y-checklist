@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:24:25"
 
 # ✅ Komplexe Grafiken
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Wenn Alternativtext nicht ausreicht (z.B. bei komplexen Grafiken wie Infografiken oder Diagrammen), wird eine lange Beschreibung bereitgestellt und im Alternativtext darauf hingewiesen.

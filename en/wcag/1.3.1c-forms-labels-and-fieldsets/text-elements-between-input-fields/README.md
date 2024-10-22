@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:12:33"
 
 # ✅ Text elements between input fields
 
+Wcag criterion: [📜 1.3.1c Forms, Labels and Fieldsets](..)
+
 ## Description
 
 Text elements that are located between the input fields (e.g. an `<h3>` or `<p>`) are linked to the relevant form fields (e.g. with `aria-describedby`) so that they can also be recognized with screen readers when the fields are in focus.

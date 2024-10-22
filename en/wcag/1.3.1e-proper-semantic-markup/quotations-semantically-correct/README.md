@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:31:21"
 
 # ✅ Quotations semantically correct
 
+Wcag criterion: [📜 1.3.1e Proper Semantic Markup](..)
+
 ## Description
 
 Visually recognizable quotations are semantically correctly marked (e.g. as `<blockquote>` and `<cite>`) so that the respective text is also recognized as a quotation when assistive technologies are used.

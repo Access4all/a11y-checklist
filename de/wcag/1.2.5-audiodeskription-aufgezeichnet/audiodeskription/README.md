@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:16:46"
 
 # ✅ Audiodeskription
 
+WCAG-Kriterium: [📜 1.2.5 Audiodeskription (aufgezeichnet) - AA](..)
+
 ## Beschreibung
 
 Für synchronisierte Video-Inhalte (Videos, in denen Audio- und Videospur zusammen die komplette Information ergeben) existieren Audiodeskriptionen für inhaltlich relevante, rein visuelle Inhalte. Für die Audiodeskription gilt: Wenn alle Informationen der Videospur bereits in der Audiospur enthalten sind, ist keine Audiodeskription erforderlich.

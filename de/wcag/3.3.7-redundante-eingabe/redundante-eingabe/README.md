@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:35:33"
 
 # ✅ Redundante Eingabe
 
+WCAG-Kriterium: [📜 3.3.7 Redundante Eingabe - A](..)
+
 ## Beschreibung
 
 Persönliche Daten müssen nicht mehrfach eingegeben werden, sondern sind bei mehrmaliger Abfrage z.B. über eine Checkbox oder Liste auswählbar.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:02:31"
 
 # ✅ Accessible labelling
 
+Wcag criterion: [📜 2.5.3 Label in Name - A](..)
+
 ## Description
 
 The accessible labelling of a control element corresponds exactly to the visual labelling or includes it (enables voice control in particular).

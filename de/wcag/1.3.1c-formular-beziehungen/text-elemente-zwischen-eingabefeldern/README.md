@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:12:33"
 
 # ✅ Text-Elemente zwischen Eingabefeldern
 
+WCAG-Kriterium: [📜 1.3.1c Formular-Beziehungen](..)
+
 ## Beschreibung
 
 Text-Elemente, die sich zwischen den Eingabefeldern befinden (z.B. ein `<h3>` oder `<p>`), sind verknüpft mit den relevanten Formularfeldern (z.B. mit `aria-describedby`), sodass sie bei Fokus der Felder auch mit Screenreader wahrgenommen werden können.

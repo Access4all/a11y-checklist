@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:27:30"
 
 # ✅ Überschriften semantisch korrekt
 
+WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
+
 ## Beschreibung
 
 Überschriften sind semantisch korrekt mit dem Überschriften-Element (`<h1>` bis `<h6>`) ausgezeichnet.

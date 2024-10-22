@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:00:37"
 
 # ✅ Skip-Links visible
 
+Wcag criterion: [📜 2.4.7 Focus Visible - AA](..)
+
 ## Description
 
 Skip links are visible when using the keyboard.

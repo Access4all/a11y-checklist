@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:18:36"
 
 # ✅ Redundanz in Alternativtexten
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Alternativtexte von Grafiken beinhalten keine redundanten Informationen, z.B. eine bereits in einer Bildlegende oder einem Linktext vorhandene Information oder eine Information wie `"Grafik …"`, `"Bild …"`.

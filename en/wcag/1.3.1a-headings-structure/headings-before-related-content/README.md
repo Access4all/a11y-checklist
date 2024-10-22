@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:26:12"
 
 # ✅ Headings before related content
 
+Wcag criterion: [📜 1.3.1a Headings structure](..)
+
 ## Description
 
 Headings are placed in the code before their associated content.

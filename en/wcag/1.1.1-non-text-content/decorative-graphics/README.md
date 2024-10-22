@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:25:00"
 
 # ✅ Decorative graphics
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Decorative graphics that are implemented as `<img>` have an empty `alt` attribute so that they can be ignored by assisting devices.

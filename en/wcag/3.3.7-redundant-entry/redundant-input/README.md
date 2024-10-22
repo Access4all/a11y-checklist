@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:35:33"
 
 # ✅ Redundant input
 
+Wcag criterion: [📜 3.3.7 Redundant Entry - A](..)
+
 ## Description
 
 Personal data does not have to be entered multiple times, but can be selected via a checkbox or list, for example.

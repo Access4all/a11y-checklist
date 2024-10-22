@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:05:35"
 
 # ✅ Konsistente Navigation
 
+WCAG-Kriterium: [📜 3.2.3 Konsistente Navigation - AA](..)
+
 ## Beschreibung
 
 Die Navigation ist konsistent, d.h. innerhalb einer Anwendung gleichbleibend angeordnet und aufgebaut.

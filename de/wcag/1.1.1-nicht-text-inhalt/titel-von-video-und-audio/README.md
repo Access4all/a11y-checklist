@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:03:27"
 
 # ✅ Titel von Video- und Audio
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Video- und Audio-Inhalte weisen einen Alternativtext auf, der den Titel und/oder eine kurze Umschreibung vermittelt.

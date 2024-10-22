@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:11:04"
 
 # ✅ Informative Fehlermeldungen
 
+WCAG-Kriterium: [📜 3.3.3 Vorschlag bei Fehler - AA](..)
+
 ## Beschreibung
 
 Fehlermeldungen sind informativ und mit den zugehörigen Eingabefeldern eindeutig verknüpft: Es sind Korrekturempfehlungen vorhanden, wenn falsche Benutzereingaben erfolgen.

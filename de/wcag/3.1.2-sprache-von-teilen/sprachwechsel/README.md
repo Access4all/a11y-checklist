@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:04:05"
 
 # ✅ Sprachwechsel
 
+WCAG-Kriterium: [📜 3.1.2 Sprache von Teilen - AA](..)
+
 ## Beschreibung
 
 Sprachwechsel bei längeren Textpassagen werden angegeben: Anderssprachige Textabschnitte sind mit dem `lang`-Attribut ausgezeichnet. Bei kurzen anderssprachigen Textpassagen (einzelne Wörter) wird auf den Sprachwechsel verzichtet.

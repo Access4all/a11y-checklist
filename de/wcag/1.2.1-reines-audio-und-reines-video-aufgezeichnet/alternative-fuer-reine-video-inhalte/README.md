@@ -11,6 +11,8 @@ created_at: "2024-03-13 17:04:08"
 
 # ✅ Alternative für reine Video-Inhalte
 
+WCAG-Kriterium: [📜 1.2.1 Reines Audio und reines Video (aufgezeichnet) - A](..)
+
 ## Beschreibung
 
 Für aufgezeichnete reine Video-Inhalte (z.B. Stummfilme) existieren Textabschriften oder gleichwertige Alternativen als Audio-Inhalt.

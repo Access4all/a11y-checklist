@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:31:21"
 
 # ✅ Zitate semantisch korrekt
 
+WCAG-Kriterium: [📜 1.3.1e Semantisch richtiges Markup](..)
+
 ## Beschreibung
 
 Visuell erkennbare Zitate sind semantisch korrekt ausgezeichnet (z.B. als `<blockquote>` und `<cite>`), sodass der jeweilige Text auch beim Einsatz von assistierenden Technologien als Zitat erkannt wird.

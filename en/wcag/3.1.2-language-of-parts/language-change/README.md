@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:04:05"
 
 # ✅ Language change
 
+Wcag criterion: [📜 3.1.2 Language of Parts - AA](..)
+
 ## Description
 
 Language changes for longer text passages are indicated: Text passages in other languages are labelled with the ‘lang’-attribute. In the case of short passages of text in other languages (individual words), the language change is omitted.

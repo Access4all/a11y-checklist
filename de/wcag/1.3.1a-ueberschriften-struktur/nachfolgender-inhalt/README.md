@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:25:33"
 
 # ✅ Nachfolgender Inhalt
 
+WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
+
 ## Beschreibung
 
 Überschriften weisen nachfolgenden Inhalt (bzw. darunter liegende Überschriften) auf.

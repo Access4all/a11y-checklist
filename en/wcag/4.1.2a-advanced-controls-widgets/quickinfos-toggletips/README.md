@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:16:37"
 
 # ✅ QuickInfos / Toggletips
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 Tooltips are implemented barrier-free. Simple, short content is immediately announced by screen readers. If tooltips contain complex content, it must be possible to read them manually (in this case it is more of a dialog).

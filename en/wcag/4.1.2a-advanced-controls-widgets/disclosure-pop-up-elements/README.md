@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:15:05"
 
 # ✅ Disclosure (pop-up elements)
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 Discolsure (also mega disclosure) are implemented barrier-free. They are correctly announced by screen readers, their status is communicated (e.g. "expanded" or ‘"reduced"), the current entry when navigating the options is communicated by screen readers.

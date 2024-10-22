@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:13:34"
 
 # ✅ Form fields Labels
 
+Wcag criterion: [📜 1.3.1c Forms, Labels and Fieldsets](..)
+
 ## Description
 
 Form fields have correctly linked labels.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:06:21"
 
 # ✅ Consistent implementation
 
+Wcag criterion: [📜 3.2.4 Consistent Identification - AA](..)
+
 ## Description
 
 Components with the same function are implemented consistently, both visually and semantically.

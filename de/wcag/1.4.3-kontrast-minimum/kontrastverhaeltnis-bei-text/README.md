@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:39:19"
 
 # ✅ Kontrastverhältnis bei Text
 
+WCAG-Kriterium: [📜 1.4.3 Kontrast (Minimum) - AA](..)
+
 ## Beschreibung
 
 Das Kontrastverhältnis bei Text und Bildern von Text zum Hintergrund beträgt mindstens `4.5:1` bei normaler Schriftgrösse und mindestens `3:1` bei grosser Schrift (definiert als mindestens `18pt` oder `14pt + fett`). Das gilt sowohl für normale Schrift zur Hintergrundfarbe (alle Texte und Hinweise) als auch für Texte in informativen grafischen Elementen, ist aber nicht zwingend für Logos oder rein dekorative Grafiken.

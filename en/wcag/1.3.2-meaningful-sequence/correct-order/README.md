@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:32:06"
 
 # ✅ Correct order
 
+Wcag criterion: [📜 1.3.2 Meaningful Sequence - A](..)
+
 ## Description
 
 Content must be in the correct order in the code (DOM) (independent of CSS).

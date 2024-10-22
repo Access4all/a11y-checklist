@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:15:29"
 
 # ✅ Spalten- oder Zeilentitel
 
+WCAG-Kriterium: [📜 1.3.1d Tabellarische Daten](..)
+
 ## Beschreibung
 
 Daten-Tabellen weisen Spalten- oder Zeilentitel (`<th>`) auf, idealerweise beides.

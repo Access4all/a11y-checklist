@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:09:10"
 
 # ✅ Visible labels
 
+Wcag criterion: [📜 3.3.2 Labels or Instructions - A](..)
+
 ## Description
 
 Form fields have visually visible labels. The sole use of `placeholder` attributes for labeling form fields is avoided.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:33:18"
 
 # ✅ Sensory information
 
+Wcag criterion: [📜 1.3.3 Sensory Characteristics - A](..)
+
 ## Description
 
 Content does not refer exclusively to sensory properties (purely visually recognisable, purely acoustically understandable), e.g. ‘Press the green button on the left’, ‘Correct the entries in the fields outlined in red’, ‘Click on the image on the right...’.

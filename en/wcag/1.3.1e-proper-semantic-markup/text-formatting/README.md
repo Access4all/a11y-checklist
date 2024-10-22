@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:30:37"
 
 # ✅ Text formatting
 
+Wcag criterion: [📜 1.3.1e Proper Semantic Markup](..)
+
 ## Description
 
 Text formatting with informational content (e.g., crossed out) is also accessible non-visually.

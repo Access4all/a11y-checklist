@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:57:26"
 
 # ✅ Mehrfache Links
 
+WCAG-Kriterium: [📜 2.4.4 Linkzweck (im Kontext) - A](..)
+
 ## Beschreibung
 
 Mehrfache, unterschiedliche Links (z.B. eine Überschrift, eine Grafik und ein zusätzlicher Textlink) auf dasselbe Ziel werden vermieden.

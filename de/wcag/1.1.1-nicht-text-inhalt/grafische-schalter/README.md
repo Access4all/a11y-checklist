@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:19:25"
 
 # ✅ Grafische Schalter
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Grafische Schalter sind korrekt beschriftet.

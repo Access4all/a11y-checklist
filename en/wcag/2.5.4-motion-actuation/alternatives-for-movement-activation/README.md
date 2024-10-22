@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:02:56"
 
 # ✅ Alternatives for movement activation
 
+Wcag criterion: [📜 2.5.4 Motion Actuation - A](..)
+
 ## Description
 
 Functionality executed by motion activation (e.g. device movement or recognition of gestures via video) can also be activated and deactivated using conventional input methods.

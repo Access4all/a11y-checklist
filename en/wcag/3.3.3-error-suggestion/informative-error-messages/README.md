@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:11:04"
 
 # ✅ Informative error messages
 
+Wcag criterion: [📜 3.3.3 Error Suggestion - AA](..)
+
 ## Description
 
 Error messages are informative and clearly linked to the associated input fields: Correction recommendations are available if incorrect user entries are made.

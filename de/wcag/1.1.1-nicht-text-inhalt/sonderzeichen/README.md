@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:23:34"
 
 # ✅ Sonderzeichen
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Sonderzeichen (etwa "-10%", "CHF 20.35.-" oder "23.11.2023") vermitteln Informationen auf zugängliche Weise.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:30:37"
 
 # ✅ Schriftformatierungen
 
+WCAG-Kriterium: [📜 1.3.1e Semantisch richtiges Markup](..)
+
 ## Beschreibung
 
 Schriftformatierungen mit Informationsgehalt (z.B. durchgestrichen) sind auch nicht-visuell zugänglich.

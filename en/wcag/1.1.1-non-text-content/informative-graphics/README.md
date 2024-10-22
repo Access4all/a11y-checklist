@@ -11,6 +11,8 @@ created_at: "2024-03-12 18:46:48"
 
 # ✅ Informative graphics
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Informative graphics have an alternative text that conveys equivalent information.

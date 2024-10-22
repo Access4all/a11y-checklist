@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:20:01"
 
 # ✅ Landmarks
 
+Wcag criterion: [📜 1.3.1 Info and Relationships - A](..)
+
 ## Description
 
 Landmark roles (HTML5 elements such as `<header>`, `<main>`, etc. as well as ARIA roles) are assigned correctly. They are used carefully and consistently (no multiple use of the same role if possible, consistent labelling of all important page areas).

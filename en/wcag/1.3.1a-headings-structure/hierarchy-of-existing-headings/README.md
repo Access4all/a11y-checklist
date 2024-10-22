@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:22:50"
 
 # ✅ Hierarchy of existing headings
 
+Wcag criterion: [📜 1.3.1a Headings structure](..)
+
 ## Description
 
 The hierarchy of the heading levels is logically correct in terms of content and conveys the structure of the content.

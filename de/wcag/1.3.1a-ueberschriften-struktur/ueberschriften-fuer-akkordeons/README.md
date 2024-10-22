@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:26:50"
 
 # ✅ Überschriften für Akkordeons
 
+WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
+
 ## Beschreibung
 
 Überschriften für Akkordeons sind als solche implementiert.

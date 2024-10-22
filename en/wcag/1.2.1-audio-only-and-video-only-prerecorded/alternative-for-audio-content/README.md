@@ -11,6 +11,8 @@ created_at: "2024-03-13 17:04:08"
 
 # ✅ Alternative for audio content
 
+Wcag criterion: [📜 1.2.1 Audio-only and Video-only (Prerecorded) - A](..)
+
 ## Description
 
 Text transcripts exist for recorded audio-only content (e.g. radio programs).

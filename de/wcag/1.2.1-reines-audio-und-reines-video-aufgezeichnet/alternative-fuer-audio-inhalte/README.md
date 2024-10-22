@@ -11,6 +11,8 @@ created_at: "2024-03-13 17:04:08"
 
 # ✅ Alternative für Audio-Inhalte
 
+WCAG-Kriterium: [📜 1.2.1 Reines Audio und reines Video (aufgezeichnet) - A](..)
+
 ## Beschreibung
 
 Für aufgezeichnete reine Audio-Inhalte (z.B. Radiosendungen) existieren Textabschriften.

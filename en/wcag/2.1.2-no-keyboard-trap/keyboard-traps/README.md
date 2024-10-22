@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:46:37"
 
 # ✅ Keyboard traps
 
+Wcag criterion: [📜 2.1.2 No Keyboard Trap - A](..)
+
 ## Description
 
 There are no keyboard traps. All operating elements can be accessed and exited using the keyboard. Unrestricted navigation backwards with `Shift`-`Tab` is guaranteed.

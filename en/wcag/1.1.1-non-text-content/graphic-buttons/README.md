@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:19:25"
 
 # ✅ Graphic buttons
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Graphic buttons are correctly labeled.

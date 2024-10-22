@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:00:51"
 
 # ✅ Glossare
 
+WCAG-Kriterium: [📜 1.3.1b Aufzählungen und Listen](..)
+
 ## Beschreibung
 
 Glossare und ähnliche Informationslisten sind als Definitionslisten formatiert.

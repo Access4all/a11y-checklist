@@ -11,6 +11,8 @@ created_at: "2024-04-16 09:10:44"
 
 # ✅ Target size and distance
 
+Wcag criterion: [📜 2.5.8 Target Size (Minimum) - AA](..)
+
 ## Description
 
 Activatable elements have the required minimum size or sufficient spacing.

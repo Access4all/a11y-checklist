@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:15:36"
 
 # ✅ Carousels
 
+Wcag criterion: [📜 4.1.2a Advanced controls (widgets)](..)
+
 ## Description
 
 Carousels (sliders) are implemented barrier-free. They are correctly announced by screen readers.

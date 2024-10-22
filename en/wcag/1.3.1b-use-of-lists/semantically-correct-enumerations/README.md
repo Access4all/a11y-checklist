@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:59:27"
 
 # ✅ Semantically correct enumerations
 
+Wcag criterion: [📜 1.3.1b Use of Lists](..)
+
 ## Description
 
 Enumerations are semantically correctly formatted as lists (`<ul>`, `<ol>`, `<dl>`).

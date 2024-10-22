@@ -11,6 +11,8 @@ created_at: "2024-03-12 18:46:48"
 
 # ✅ Informative Grafiken
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informationen vermittelt.

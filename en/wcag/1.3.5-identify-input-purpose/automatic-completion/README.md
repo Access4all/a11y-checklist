@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:35:43"
 
 # ✅ Automatic completion
 
+Wcag criterion: [📜 1.3.5 Identify Input Purpose - AA](..)
+
 ## Description
 
 Input fields for user data can be filled in automatically.

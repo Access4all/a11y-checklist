@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:18:36"
 
 # ✅ Redundancy in alternative texts
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Alternative texts for graphics do not contain any redundant information, e.g. information that already exists in a caption or link text or information such as `"Graphic ..."`, `"Image ..."`.

@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:53:57"
 
 # ✅ Skip sub-navigation points
 
+Wcag criterion: [📜 2.4.1 Bypass Blocks - A](..)
+
 ## Description
 
 Sub-navigation points can be skipped using the keyboard. Sub-navigation points are either only opened when triggered (e.g. by pressing the `Enter` or `Down Arrow` key) or sub-navigation points are already displayed when the focus is set, but it is not necessary to interact with the sub-navigation points (close them by pressing the `Esc` key or use the `Tab` key to jump to the next main navigation point; navigate into the sub-navigation only with `Arrow` keys).

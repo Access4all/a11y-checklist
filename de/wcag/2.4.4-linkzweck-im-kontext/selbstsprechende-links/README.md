@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:56:46"
 
 # ✅ Selbstsprechende Links
 
+WCAG-Kriterium: [📜 2.4.4 Linkzweck (im Kontext) - A](..)
+
 ## Beschreibung
 
 Link-Texte sind selbstsprechend, d.h. aus sich selbst heraus oder über den Kontext (gleiches `<p>`-Element, gleiches Listenelement, gleiche Tabellenzelle, Spalten- oder Zeilenüberschrift in Tabelle) verständlich.

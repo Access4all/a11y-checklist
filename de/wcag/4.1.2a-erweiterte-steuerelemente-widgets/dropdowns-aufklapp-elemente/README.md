@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:15:05"
 
 # ✅ Dropdowns (Aufklapp-Elemente)
 
+WCAG-Kriterium: [📜 4.1.2a Erweiterte Steuerelemente (Widgets)](..)
+
 ## Beschreibung
 
 Dropdowns (auch Mega-Dropdowns) sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, ihr Status wird vermittelt (z.B. "erweitert" bzw. "reduziert"), der aktuelle Eintrag beim Navigieren der Optionen wird durch Screenreader vermittelt.

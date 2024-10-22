@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:20:47"
 
 # ✅ Breadcrumbs und Prozessanzeigen
 
+WCAG-Kriterium: [📜 1.3.1 Info und Beziehungen - A](..)
+
 ## Beschreibung
 
 Breadcrumbs oder Prozessanzeigen sind auch nicht-visuell als solche erkennbar.

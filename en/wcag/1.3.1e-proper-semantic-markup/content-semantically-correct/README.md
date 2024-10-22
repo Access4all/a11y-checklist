@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:29:12"
 
 # ✅ Content semantically correct
 
+Wcag criterion: [📜 1.3.1e Proper Semantic Markup](..)
+
 ## Description
 
 Content is placed within semantically meaningful HTML elements (e.g. <h#>, <p>, <ul>, <ol>, etc.); using <div> or <span> elements (which have no semantic relevance) is not sufficient.

@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:16:58"
 
 # ✅ Tabelle semantisch korrekt
 
+WCAG-Kriterium: [📜 1.3.1d Tabellarische Daten](..)
+
 ## Beschreibung
 
 Daten, welche eindeutig tabellarischen Charakter aufweisen (also keine Layout-Tabellen), sind semantisch korrekt als Tabelle formatiert und enthalten möglichst keine komplexen semantischen Strukturen, z.B. Überschriften-Elemente (`<h1>` bis `<h6>`).

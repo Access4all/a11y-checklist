@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:16:58"
 
 # ✅ Table semantically correct
 
+Wcag criterion: [📜 1.3.1d Tabular data](..)
+
 ## Description
 
 Data that is clearly tabular in nature (i.e. no layout tables) is semantically correctly formatted as a table and contains as few complex semantic structures as possible, e.g. heading elements (`<h1>` to `<h6>`).

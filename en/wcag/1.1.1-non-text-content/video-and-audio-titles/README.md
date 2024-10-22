@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:03:27"
 
 # ✅ Video and audio titles
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Video and audio content has an alternative text that conveys the title and/or a short description.

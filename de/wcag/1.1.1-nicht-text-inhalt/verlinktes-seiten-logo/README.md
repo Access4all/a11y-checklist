@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:22:24"
 
 # ✅ Verlinktes Seiten-Logo
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Das Seiten-Logo (mit Link zur Startseite) verfügt über eine sinnvolle Textalternative (Muster `alt="Logo Firmenname, zur Startseite"`)

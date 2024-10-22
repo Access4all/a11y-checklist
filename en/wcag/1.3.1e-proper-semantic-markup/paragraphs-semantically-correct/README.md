@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:18:55"
 
 # ✅ Paragraphs semantically correct
 
+Wcag criterion: [📜 1.3.1e Proper Semantic Markup](..)
+
 ## Description
 
 Paragraphs are semantically correctly labelled, not just visually (e.g. using double `<br>`).

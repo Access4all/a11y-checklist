@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:04:34"
 
 # ✅ Kontextänderung bei Fokus
 
+WCAG-Kriterium: [📜 3.2.1 Bei Fokus - A](..)
+
 ## Beschreibung
 
 Der Kontext ändert sich nicht automatisch bei Fokus (z.B. Weiterleitung auf eine andere Seite).

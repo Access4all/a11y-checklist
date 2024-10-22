@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:26:12"
 
 # ✅ Überschriften vor zugehörigen Inhalten
 
+WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
+
 ## Beschreibung
 
 Überschriften sind im Code vor den ihnen zugehörigen Inhalten platziert.

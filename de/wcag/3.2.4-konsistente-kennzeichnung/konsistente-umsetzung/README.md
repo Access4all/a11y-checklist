@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:06:21"
 
 # ✅ Konsistente Umsetzung
 
+WCAG-Kriterium: [📜 3.2.4 Konsistente Kennzeichnung - AA](..)
+
 ## Beschreibung
 
 Bestandteile mit gleicher Funktion sind konsistent umgesetzt, sowohl auf visueller wie auch auf semantischer Ebene.

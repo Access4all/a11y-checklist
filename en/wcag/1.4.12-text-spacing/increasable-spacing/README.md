@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:50:30"
 
 # ✅ Increasable spacing
 
+Wcag criterion: [📜 1.4.12 Text Spacing - AA](..)
+
 ## Description
 
 Spacing between lines, words and letters as well as after paragraphs can be increased by certain values without any resulting restrictions. Exceptions are: Subtitles in video content, PDF documents.

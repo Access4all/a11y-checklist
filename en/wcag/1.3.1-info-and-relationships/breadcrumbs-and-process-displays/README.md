@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:20:47"
 
 # ✅ Breadcrumbs and process displays
 
+Wcag criterion: [📜 1.3.1 Info and Relationships - A](..)
+
 ## Description
 
 Breadcrumbs or process displays can also be recognised as such non-visually.

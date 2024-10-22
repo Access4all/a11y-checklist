@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:52:07"
 
 # ✅ Fokus-Reihenfolge
 
+WCAG-Kriterium: [📜 2.4.3 Fokus-Reihenfolge - A](..)
+
 ## Beschreibung
 
 Die Fokus-Reihenfolge ist sinnvoll, d. h. intuitiv verständlich und nachvollziehbar.

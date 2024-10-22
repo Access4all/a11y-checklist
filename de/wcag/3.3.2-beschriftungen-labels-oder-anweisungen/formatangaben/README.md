@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:09:35"
 
 # ✅ Formatangaben
 
+WCAG-Kriterium: [📜 3.3.2 Beschriftungen (Labels) oder Anweisungen - A](..)
+
 ## Beschreibung
 
 Formatangaben bei Formularfeldern sind zugänglich und mit den zugehörigen Eingabefeldern eindeutig verknüpft, d.h. zusätzlich angegebene Hinweise zu Eingabeformaten sind auch durch assistierende Technologien korrekt erfassbar.

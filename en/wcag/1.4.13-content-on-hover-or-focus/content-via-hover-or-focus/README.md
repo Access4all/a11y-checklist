@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:54:36"
 
 # ✅ Content via hover or focus
 
+Wcag criterion: [📜 1.4.13 Content on Hover or Focus - AA](..)
+
 ## Description
 
 Content that is displayed via hover or focus is not distracting and can be interacted with. The following three conditions are met: Content displayed via hover or focus can be hidden, hovered and is persistent.

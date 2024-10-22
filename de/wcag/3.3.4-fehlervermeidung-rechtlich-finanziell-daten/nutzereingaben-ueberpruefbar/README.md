@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:11:33"
 
 # ✅ Nutzereingaben überprüfbar
 
+WCAG-Kriterium: [📜 3.3.4 Fehlervermeidung (rechtlich, finanziell, Daten) - AA](..)
+
 ## Beschreibung
 
 Nutzereingaben müssen überprüfbar sein vor Prozess-Abschluss mit finanziellen/rechtlichen Folgen. Es ist sichergestellt, dass die Gelegenheit besteht, eingegebenen Daten zu überprüfen und gegebenenfalls zu korrigieren, bevor ein endgültiger Abschluss erfolgt.

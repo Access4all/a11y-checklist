@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:27:30"
 
 # ✅ Headings semantically correct
 
+Wcag criterion: [📜 1.3.1a Headings structure](..)
+
 ## Description
 
 Headings are semantically correctly marked with the heading element (`<h1>` to `<h6>`).

@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:11:33"
 
 # ✅ Grafische Tests und Übungen
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Tests und Übungen, deren Inhalt zwingend aus Nicht-Text-Inhalt bestehen muss, weisen einen Alternativtext auf, der dessen Zweck beschreibt (ohne die Information, die benötigt wird, um den Test oder die Übung zu bestehen).

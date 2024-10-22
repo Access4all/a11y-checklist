@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:55:43"
 
 # ✅ Mit der Tastatur bedienbar
 
+WCAG-Kriterium: [📜 2.1.1 Tastatur - A](..)
+
 ## Beschreibung
 
 Inhalte/Funktionalitäten (Seitenfunktionalitäten, Seitenelemente, Formularfelder, Kontrollelemente, Schalter, Links, Dialoge, Multimedia-Steuerungen, etc.) sind mit der Tastatur alleine (d.h. ohne Zeigegerät) erreichbar und können erwartungsgemäss bedient werden.

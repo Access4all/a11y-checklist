@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:58:51"
 
 # ✅ Headings and labels
 
+Wcag criterion: [📜 2.4.6 Headings and Labels - AA](..)
+
 ## Description
 
 Headings and labels (e.g. in input fields, for buttons, etc.) are sufficiently informative and correct and clearly describe the assigned web content. There are no identical headings or labels on a page.

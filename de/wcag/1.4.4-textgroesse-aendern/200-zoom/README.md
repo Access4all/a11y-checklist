@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:42:11"
 
 # ✅ 200% Zoom
 
+WCAG-Kriterium: [📜 1.4.4 Textgrösse ändern - AA](..)
+
 ## Beschreibung
 
 Elemente sind auf mindestens 200% zoombar, entweder der Text allein oder die komplette Seite (für Websites in der Regel vom Browser sichergestellt, für Mobile Apps durch Design und Entwicklung sicherzustellen).

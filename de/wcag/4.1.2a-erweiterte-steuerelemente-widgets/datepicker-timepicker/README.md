@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:14:05"
 
 # ✅ Datepicker / Timepicker
 
+WCAG-Kriterium: [📜 4.1.2a Erweiterte Steuerelemente (Widgets)](..)
+
 ## Beschreibung
 
 Datepicker sind barrierefrei umgesetzt, sofern keine Alternative dazu besteht (z.B. manuelle Datumseingabe in Formularfeld). Sie werden durch Screenreader korrekt angesagt, der aktuelle Eintrag beim Navigieren der Optionen sowie die schlussendlich gewählte Option werden durch Screenreader vermittelt.

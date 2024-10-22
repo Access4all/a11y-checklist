@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:37:24"
 
 # ✅ Links in continuous text
 
+Wcag criterion: [📜 1.4.1 Use of Color - A](..)
+
 ## Description
 
 If links within continuous text are distinguished from the continuous text only by colour, the contrast between the link and the surrounding continuous text must be at least 3:1. Alternatively, other visual markings of links may be used (e.g. underline, bold, frame, etc.).

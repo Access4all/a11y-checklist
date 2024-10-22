@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:09:10"
 
 # ✅ Sichtbare Labels
 
+WCAG-Kriterium: [📜 3.3.2 Beschriftungen (Labels) oder Anweisungen - A](..)
+
 ## Beschreibung
 
 Formularfelder verfügen über visuell sichtbare Labels. Die alleinige Verwendung von `placeholder`-Attributen zur Beschriftung von Formularfeldern wird vermieden.

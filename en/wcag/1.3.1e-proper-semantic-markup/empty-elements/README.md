@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:29:59"
 
 # ✅ Empty elements
 
+Wcag criterion: [📜 1.3.1e Proper Semantic Markup](..)
+
 ## Description
 
 Empty meaningful elements are avoided.

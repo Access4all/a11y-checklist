@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:17:35"
 
 # ✅ Verlinkte Grafiken
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Verlinkte Grafiken weisen einen Alternativtext auf, der Linkziel oder -zweck beschreibt.

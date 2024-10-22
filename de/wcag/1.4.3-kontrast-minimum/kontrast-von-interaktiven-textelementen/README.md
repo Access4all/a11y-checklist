@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:41:16"
 
 # ✅ Kontrast von interaktiven Textelementen
 
+WCAG-Kriterium: [📜 1.4.3 Kontrast (Minimum) - AA](..)
+
 ## Beschreibung
 
 Interaktive Textelemente (z.B. Schalterbeschriftungen) erfüllen die Kontrastanforderung von `4.5:1` in allen Zuständen (fokussiert, bei Mouseover, etc.) gleichermassen. Für die Unterscheidbarkeit zwischen den Zuständen eines interaktiven Elements gelten keine strikten Kontrastanforderungen.

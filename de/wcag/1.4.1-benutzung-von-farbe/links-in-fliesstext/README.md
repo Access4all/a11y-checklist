@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:37:24"
 
 # ✅ Links in Fliesstext
 
+WCAG-Kriterium: [📜 1.4.1 Benutzung von Farbe - A](..)
+
 ## Beschreibung
 
 Wenn Links innerhalb von Fliesstext nur durch Farbe vom Fliesstext unterschieden werden, muss der Kontrast zwischen Link und umgebendem Fliesstext den minimalen Kontrastwert von `3:1` erreichen. Als Alternative kann eine weitere visuelle Auszeichnung von Links verwendet werden (z.B. Unterstreichung, Fettschrift, Rahmen, etc.).

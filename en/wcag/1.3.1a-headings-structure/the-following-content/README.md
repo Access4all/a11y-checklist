@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:25:33"
 
 # ✅ The following content
 
+Wcag criterion: [📜 1.3.1a Headings structure](..)
+
 ## Description
 
 Headings have the following content (or underlying headings).

@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:51:00"
 
 # ✅ Meaningful title
 
+Wcag criterion: [📜 2.4.2 Page Titled - A](..)
+
 ## Description
 
 Pages have a clear, meaningful title that contains the topic or purpose of the page and the operator (sample: 'Topic/purpose of the page - page operator')

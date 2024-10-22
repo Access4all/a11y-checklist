@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:46:12"
 
 # ✅ Kontrast bei informativen grafischen Elementen
 
+WCAG-Kriterium: [📜 1.4.11 Nicht-Text Kontrast - AA](..)
+
 ## Beschreibung
 
 Das Kontrastverhältnis bei informativen grafischen Elementen (z.B. Linien und Kurven in Diagrammen) zu den umgebenden Farben beträgt mindestens `3:1`. Das gilt für alle visuellen Hinweise, die für die Wahrnehmung und Bedienung erforderlich sind.

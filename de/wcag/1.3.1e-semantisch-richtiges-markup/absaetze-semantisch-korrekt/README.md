@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:18:55"
 
 # ✅ Absätze semantisch korrekt
 
+WCAG-Kriterium: [📜 1.3.1e Semantisch richtiges Markup](..)
+
 ## Beschreibung
 
 Absätze sind semantisch korrekt ausgezeichnet, nicht nur visuell (z.B. mittels doppelten `<br>`).

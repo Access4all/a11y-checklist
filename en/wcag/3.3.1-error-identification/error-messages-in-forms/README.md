@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:06:51"
 
 # ✅ Error messages in forms
 
+Wcag criterion: [📜 3.3.1 Error Identification - A](..)
+
 ## Description
 
 Error messages in forms are implemented barrier-free: Automatically recognized input errors provide a clear indication (in text form) of the incorrect element in the error message and are clearly linked to it.

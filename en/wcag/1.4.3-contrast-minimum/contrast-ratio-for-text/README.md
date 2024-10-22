@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:39:19"
 
 # ✅ Contrast ratio for text
 
+Wcag criterion: [📜 1.4.3 Contrast (Minimum) - AA](..)
+
 ## Description
 
 The contrast ratio for text and images from text to background is at least `4.5:1` for normal font size and at least `3:1` for large font (defined as at least `18pt` or `14pt + bold`). This applies both for normal font to background color (all texts and notes) and for texts in informative graphic elements, but is not mandatory for logos or purely decorative graphics.

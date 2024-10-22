@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:09:35"
 
 # ✅ Format information
 
+Wcag criterion: [📜 3.3.2 Labels or Instructions - A](..)
+
 ## Description
 
 Format information for form fields is accessible and clearly linked to the associated input fields, i.e. additional information on input formats can also be correctly entered using assistive technologies.

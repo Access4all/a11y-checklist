@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:42:16"
 
 # ✅ Accessible authentication
 
+Wcag criterion: [📜 3.3.8 Accessible Authentication (Minimum) - AA](..)
+
 ## Description
 
 At least one of the authentication options provided is accessible to different user groups. In particular, copy and paste is not prevented.

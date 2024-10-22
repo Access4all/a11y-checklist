@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:52:58"
 
 # ✅ Focus-Guidance
 
+Wcag criterion: [📜 2.4.3 Focus Order - A](..)
+
 ## Description
 
 The keyboard focus is guided sensibly when someone interacts with elements on the page that lead to a change within the page (without page reload), e.g. after clicking on a button that displays a dialogue (reaching the dialogue and interacting in the dialogue, exiting it, focus back on the element that triggered the dialogue, navigating further on the page). Interaction with form elements can also be optimised through sensible focus guidance.

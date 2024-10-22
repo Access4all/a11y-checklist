@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:46:12"
 
 # ✅ Contrast for informative graphic elements
 
+Wcag criterion: [📜 1.4.11 Non-Text Contrast - AA](..)
+
 ## Description
 
 The contrast ratio of informative graphic elements (e.g. lines and curves in diagrams) to the surrounding colours is at least ‘3:1’. This applies to all visual cues that are necessary for perception and operation.

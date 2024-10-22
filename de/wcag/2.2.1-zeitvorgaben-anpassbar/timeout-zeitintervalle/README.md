@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:48:14"
 
 # ✅ Timeout-Zeitintervalle
 
+WCAG-Kriterium: [📜 2.2.1 Zeitvorgaben anpassbar - A](..)
+
 ## Beschreibung
 
 Timeout-Zeitintervalle sind anpassbar oder können deaktiviert werden. Es ist ein deutlicher Hinweis auf diese Möglichkeiten erforderlich. Für die Anpassungsmöglichkeiten gilt: Entweder ist das Timeout auf mindestens den zehnfachen Wert der Standardeinstellung möglich oder es erfolgt eine Warnung, bevor das Timeout abläuft, und es werden mindestens 20 Sekunden zur Verfügung gestellt, um mit einer einfachen Aktion (z.B. "Drücken Sie die Leertaste") die verfügbare Zeit zu verlängern. Diese Option muss mindestens zehn Mal bestehen.

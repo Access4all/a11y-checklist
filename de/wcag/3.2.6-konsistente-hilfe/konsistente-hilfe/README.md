@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:30:41"
 
 # ✅ Konsistente Hilfe
 
+WCAG-Kriterium: [📜 3.2.6 Konsistente Hilfe - A](..)
+
 ## Beschreibung
 
 Hilfestellungen werden über Prozesse und Unter-Seiten hinweg konsistent angeboten.

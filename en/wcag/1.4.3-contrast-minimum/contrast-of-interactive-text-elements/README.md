@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:41:16"
 
 # ✅ Contrast of interactive text elements
 
+Wcag criterion: [📜 1.4.3 Contrast (Minimum) - AA](..)
+
 ## Description
 
 Interactive text elements (e.g. button labels) fulfill the contrast requirement of `4.5:1` in all states (focused, on mouseover, etc.) to the same extent. There are no strict contrast requirements for distinguishing between the states of an interactive element.

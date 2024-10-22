@@ -11,6 +11,8 @@ created_at: "2024-04-16 09:10:44"
 
 # ✅ Zielgrösse und Abstand
 
+WCAG-Kriterium: [📜 2.5.8 Zielgrösse (Minimum) - AA](..)
+
 ## Beschreibung
 
 Aktivierbare Elemente weisen die geforderte Mindestgrösse oder genügend Abstand auf.

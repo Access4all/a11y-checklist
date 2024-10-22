@@ -11,6 +11,8 @@ created_at: "2024-06-10 11:25:18"
 
 # ✅ Überspannende Zellen
 
+WCAG-Kriterium: [📜 1.3.1d Tabellarische Daten](..)
+
 ## Beschreibung
 
 Tabellen, deren Zellen mehrere Spalten und/oder Zeilen überspannen, sind für Screenreader weiterhin gut verständlich.

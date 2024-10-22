@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:42:11"
 
 # ✅ 200% zoom
 
+Wcag criterion: [📜 1.4.4 Resize text - AA](..)
+
 ## Description
 
 Elements are zoomable to at least 200%, either the text alone or the entire page (usually ensured by the browser for websites, ensured by design and development for mobile apps).

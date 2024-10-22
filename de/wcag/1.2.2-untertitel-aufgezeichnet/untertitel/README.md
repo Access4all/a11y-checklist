@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:14:33"
 
 # ✅ Untertitel
 
+WCAG-Kriterium: [📜 1.2.2 Untertitel (aufgezeichnet) - A](..)
+
 ## Beschreibung
 
 Für aufgezeichnete Video-Inhalte mit Audio (z.B. Spielfilme) existieren gleichwertige, synchrone Untertitel.

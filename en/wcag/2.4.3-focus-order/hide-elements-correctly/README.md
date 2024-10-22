@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:55:44"
 
 # ✅ Hide elements correctly
 
+Wcag criterion: [📜 2.4.3 Focus Order - A](..)
+
 ## Description
 
 Elements are correctly hidden in such a way that they are not displayed even by assistive technologies if they are not visually visible.

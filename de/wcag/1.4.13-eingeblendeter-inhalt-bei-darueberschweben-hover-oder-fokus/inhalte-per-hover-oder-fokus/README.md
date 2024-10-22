@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:54:36"
 
 # ✅ Inhalte per Hover oder Fokus
 
+WCAG-Kriterium: [📜 1.4.13 Eingeblendeter Inhalt bei Darüberschweben (Hover) oder Fokus - AA](..)
+
 ## Beschreibung
 
 Inhalte, die per Hover oder Fokus eingeblendet werden, sind nicht störend und es kann mit ihnen interagiert werden. Folgende drei Bedingungen sind erfüllt: Per Hover oder Fokus eingeblendete Inhalte sind ausblendbar, hoverbar und dauerhaft (persistent).

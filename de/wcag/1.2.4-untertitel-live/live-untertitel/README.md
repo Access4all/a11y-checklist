@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:16:03"
 
 # ✅ Live Untertitel
 
+WCAG-Kriterium: [📜 1.2.4 Untertitel (Live) - AA](..)
+
 ## Beschreibung
 
 Für Live Video-Inhalte mit Audio (z.B. Nachrichtensendung) existieren gleichwertige, synchrone Untertitel.

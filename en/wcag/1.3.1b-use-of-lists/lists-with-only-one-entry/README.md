@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:00:02"
 
 # ✅ Lists with only one entry
 
+Wcag criterion: [📜 1.3.1b Use of Lists](..)
+
 ## Description
 
 Lists with only one entry are avoided (unless they are generated automatically: for example, a list of keywords, where sometimes there is only a single keyword).

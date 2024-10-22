@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:38:05"
 
 # ✅ Automatisch abspielender Audio-Inhalt
 
+WCAG-Kriterium: [📜 1.4.2 Audio-Steuerelement - A](..)
+
 ## Beschreibung
 
 Automatisch abspielender Audio-Inhalt von mehr als 3 Sekunden wird nach Möglichkeit vermieden. Ist er doch vorhanden, ist er steuerbar (Wiedergabe stoppen, Lautstärke unabhängig von der Systemlautstärke regeln). Die Steuerung befindet sich am Anfang der Seite.

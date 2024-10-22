@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:05:04"
 
 # ✅ Context change on input
 
+Wcag criterion: [📜 3.2.2 On Input - A](..)
+
 ## Description
 
 The context does not change automatically on entry (e.g. redirection to another page).

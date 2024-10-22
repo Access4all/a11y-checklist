@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:22:24"
 
 # ✅ Linked page logo
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 The page logo (with link to the homepage) has a meaningful text alternative (pattern `alt="Logo company name, to homepage"`)

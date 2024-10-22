@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:16:02"
 
 # ✅ Grafische Symbole
 
+WCAG-Kriterium: [📜 1.1.1 Nicht-Text-Inhalt - A](..)
+
 ## Beschreibung
 
 Grafische Symbole (z.B. Webfonts oder Emojis) sind so umgesetzt, dass sie nicht zu unverständlichen Ausgaben durch Screenreader führen.

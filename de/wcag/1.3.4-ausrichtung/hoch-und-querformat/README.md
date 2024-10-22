@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:35:03"
 
 # ✅ Hoch- und Querformat
 
+WCAG-Kriterium: [📜 1.3.4 Ausrichtung - AA](..)
+
 ## Beschreibung
 
 Inhalte sind in beiden Bildschirmorientierungen (Hoch- und Querformat) korrekt dargestellt und nutzbar. Passt sich der Inhalt nicht automatisch an die Bildschirmorientierung an, steht ein Schalter zur Verfügung zum manuellen Drehen des Bildschirminhalts (für Websites vom Browser sichergestellt, für Mobile Apps durch Design und Entwicklung sicherzustellen).

@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:06:51"
 
 # ✅ Fehlermeldungen in Formularen
 
+WCAG-Kriterium: [📜 3.3.1 Fehlerkennzeichnung - A](..)
+
 ## Beschreibung
 
 Fehlermeldungen in Formularen sind barrierefrei umgesetzt: Eingabefehler können auf unterschiedlichen Wahrnehmungs-Kanälen erfahren werden (also z.B. nicht nur visuell, sondern auch mit Screenreader) und die zugehörigen Eingabefelder können identifiziert werden.

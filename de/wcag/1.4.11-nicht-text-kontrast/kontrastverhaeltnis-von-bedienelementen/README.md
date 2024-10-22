@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:45:10"
 
 # ✅ Kontrastverhältnis von Bedienelementen
 
+WCAG-Kriterium: [📜 1.4.11 Nicht-Text Kontrast - AA](..)
+
 ## Beschreibung
 
 Das Kontrastverhältnis von Bedienelementen (z.B. Textfelder, Radiobuttons, Checkboxen, Schalter, Tabs, etc.) zu den umgebenden Farben beträgt mindestens `3:1`. Das gilt für alle visuellen Hinweise, die für die Wahrnehmung und Bedienung erforderlich sind (z.B. Formularfeldbegrenzungen, Ausklappindikatoren bei Flyouts/Dropdowns, Häkchen in einer Checkbox, etc.), insbesondere auch für die Wahrnehmung des Zustands eines Elements. Der Hover-Zustand eines Elements muss nicht unterscheidbar sein vom Standard-Zustand.

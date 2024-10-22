@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:59:23"
 
 # ✅ Keyboard-Focus visible
 
+Wcag criterion: [📜 2.4.7 Focus Visible - AA](..)
+
 ## Description
 
 The keyboard focus is sufficiently visible, e.g. through a clearly visible frame (for all focusable elements such as links, buttons, radio buttons, checkboxes, drop-down lists, linked graphic elements, etc.).

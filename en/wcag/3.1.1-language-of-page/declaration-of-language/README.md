@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:03:27"
 
 # ✅ Declaration of language
 
+Wcag criterion: [📜 3.1.1 Language of Page - A](..)
+
 ## Description
 
 The language declaration is available and correct.

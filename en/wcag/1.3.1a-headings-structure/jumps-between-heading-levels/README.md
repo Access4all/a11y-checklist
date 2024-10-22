@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:23:55"
 
 # ✅ Jumps between heading levels
 
+Wcag criterion: [📜 1.3.1a Headings structure](..)
+
 ## Description
 
 If possible, there are no jumps between heading levels, whereby a single level is tolerated (e.g. `<h2>` to `<h4>`, but not to `<h5>`). However, the first heading does not necessarily have to be an `<h1>`.

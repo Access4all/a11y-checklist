@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:20:01"
 
 # ✅ Landmarks
 
+WCAG-Kriterium: [📜 1.3.1 Info und Beziehungen - A](..)
+
 ## Beschreibung
 
 Landmark Roles (HTML5-Elemente wie `<header>`, `<main>`, etc. sowie ARIA-Rollen) werden korrekt vergeben. Sie werden mit Bedacht verwendet und konsistent eingesetzt (möglichst keine Mehrfach-Verwendung derselben Rolle, konsistentes Auszeichnen aller wichtigen Seitenbereiche).

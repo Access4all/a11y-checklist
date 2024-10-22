@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:16:04"
 
 # ✅ Tabs / Tablisten
 
+WCAG-Kriterium: [📜 4.1.2a Erweiterte Steuerelemente (Widgets)](..)
+
 ## Beschreibung
 
 Tabs (Registerkarten) sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt, ihr Status wird vermittelt (z.B. "aktiv" bzw. "nicht aktiv").

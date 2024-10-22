@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:24:42"
 
 # ✅ Own heading
 
+Wcag criterion: [📜 1.3.1a Headings structure](..)
+
 ## Description
 
 Independent page areas have their own heading, otherwise they will be incorrectly subordinated to the preceding heading. Visually hidden headings can be used for content and function blocks such as header and footer, navigation, breadcrumb, etc.

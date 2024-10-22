@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:11:30"
 
 # ✅ Fieldset / Legend
 
+WCAG-Kriterium: [📜 1.3.1c Formular-Beziehungen](..)
+
 ## Beschreibung
 
 In umfangreichen Formularen werden inhaltlich zusammengehörige Formularfelder mittels `<fieldset>`/`<legend>`-Kombination gruppiert.

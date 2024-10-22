@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:24:34"
 
 # ✅ Alternative to pulling movements
 
+Wcag criterion: [📜 2.5.7 Dragging Movements - AA](..)
+
 ## Description
 
 There are alternatives for drag & drop movements that can be operated with simple pointer gestures (such as clicking, double-clicking or click-and-hold).

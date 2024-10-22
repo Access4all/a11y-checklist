@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:58:13"
 
 # ✅ Navigations-Methoden
 
+WCAG-Kriterium: [📜 2.4.5 Verschiedene Möglichkeiten - AA](..)
+
 ## Beschreibung
 
 Es existieren mindestens zwei der folgenden drei Methoden, um Zugang zu Inhalten zu bekommen: Navigation, Suchfunktion, Sitemap.

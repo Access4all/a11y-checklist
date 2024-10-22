@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:58:13"
 
 # ✅ Navigation methods
 
+Wcag criterion: [📜 2.4.5 Multiple Ways - AA](..)
+
 ## Description
 
 There are at least two of the following three methods for accessing content: Navigation, search function, sitemap.

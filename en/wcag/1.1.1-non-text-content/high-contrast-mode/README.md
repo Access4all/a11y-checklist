@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:21:05"
 
 # ✅ High contrast mode
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Informative graphics and graphical elements (e.g. a tick in an activated checkbox, highlighting the active element in a navigation or the border of a text field) are visible in forced colors mode.

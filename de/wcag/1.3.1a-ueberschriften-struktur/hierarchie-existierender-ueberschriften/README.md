@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:22:50"
 
 # ✅ Hierarchie existierender Überschriften
 
+WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
+
 ## Beschreibung
 
 Die Hierarchie der Überschriften-Ebenen ist inhaltlich-logisch korrekt und vermittelt die Struktur der Inhalte.

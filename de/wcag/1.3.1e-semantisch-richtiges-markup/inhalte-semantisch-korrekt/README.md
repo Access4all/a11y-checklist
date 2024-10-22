@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:29:12"
 
 # ✅ Inhalte semantisch korrekt
 
+WCAG-Kriterium: [📜 1.3.1e Semantisch richtiges Markup](..)
+
 ## Beschreibung
 
 Inhalte befinden sich innerhalb semantisch bedeutsamer HTML-Elemente (z.B. `<h#>`, `<p>`, `<ul>`, `<ol>`, etc.); das Verwenden von `<div>`- oder `<span>`-Elementen (die keine semantische Relevanz aufweisen) ist nicht ausreichend.

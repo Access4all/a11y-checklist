@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:25:32"
 
 # ✅ Graphical CAPTCHAs
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Graphical CAPTCHAs offer an alternative (e.g. audio CAPTCHA).

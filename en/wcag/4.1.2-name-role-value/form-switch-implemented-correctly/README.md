@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:19:20"
 
 # ✅ Form switch implemented correctly
 
+Wcag criterion: [📜 4.1.2 Name, Role, Value - A](..)
+
 ## Description
 
 Form buttons are implemented correctly (as a `<button>` element or `<input type=‘submit’>` element).

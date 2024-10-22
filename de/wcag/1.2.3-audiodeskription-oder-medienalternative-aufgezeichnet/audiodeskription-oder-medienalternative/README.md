@@ -11,6 +11,8 @@ created_at: "2024-03-14 12:15:28"
 
 # ✅ Audiodeskription oder Medienalternative
 
+WCAG-Kriterium: [📜 1.2.3 Audiodeskription oder Medienalternative (aufgezeichnet) - A](..)
+
 ## Beschreibung
 
 Für synchronisierte Video-Inhalte (Videos, in denen Audio- und Videospur zusammen die komplette Information ergeben) existieren Textabschriften oder Audiodeskriptionen. Für die Audiodeskription gilt: Wenn alle Informationen der Videospur bereits in der Audiospur enthalten sind, ist keine Audiodeskription erforderlich.

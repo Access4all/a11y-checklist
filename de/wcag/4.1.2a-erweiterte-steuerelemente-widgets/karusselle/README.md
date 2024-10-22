@@ -11,6 +11,8 @@ created_at: "2024-03-15 14:15:36"
 
 # ✅ Karusselle
 
+WCAG-Kriterium: [📜 4.1.2a Erweiterte Steuerelemente (Widgets)](..)
+
 ## Beschreibung
 
 Karusselle (Slider) sind barrierefrei umgesetzt. Sie werden durch Screenreader korrekt angesagt.

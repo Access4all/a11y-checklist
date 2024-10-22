@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:53:57"
 
 # ✅ Unternavigationspunkte überspringen
 
+WCAG-Kriterium: [📜 2.4.1 Blöcke überspringen - A](..)
+
 ## Beschreibung
 
 Unter-Navigationspunkte können mit der Tastatur übersprungen werden. Unter-Navigationen werden entweder erst auf Auslösen geöffnet (z.B. mittels `Enter`- oder `Pfeil-nach-unten`-Taste), oder Unter-Navigationen werden zwar bereits bei Fokus angezeigt, aber es muss nicht mit den Unter-Navigationspunkten interagiert werden (Schliessen derselben durch `Esc`-Taste, oder mit der `Tab`-Taste wird zum nächsten Haupt-Navigationspunkt gesprungen; Hinein-Navigieren in die Unter-Navigation nur mit `Pfeil`-Tasten).

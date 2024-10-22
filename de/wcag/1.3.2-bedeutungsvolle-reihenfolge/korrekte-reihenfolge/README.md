@@ -11,6 +11,8 @@ created_at: "2024-03-15 07:32:06"
 
 # ✅ Korrekte Reihenfolge
 
+WCAG-Kriterium: [📜 1.3.2 Bedeutungsvolle Reihenfolge - A](..)
+
 ## Beschreibung
 
 Inhalte müssen im Code (DOM) eine korrekte Reihenfolge aufweisen (unabhängig von CSS).

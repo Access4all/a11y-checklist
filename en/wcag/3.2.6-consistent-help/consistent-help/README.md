@@ -11,6 +11,8 @@ created_at: "2024-04-16 08:30:41"
 
 # ✅ Consistent help
 
+Wcag criterion: [📜 3.2.6 Consistent Help - A](..)
+
 ## Description
 
 Assistance is offered consistently across processes and sub-pages.

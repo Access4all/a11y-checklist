@@ -11,6 +11,8 @@ created_at: "2024-03-14 13:00:02"
 
 # ✅ Listen mit nur einem Eintrag
 
+WCAG-Kriterium: [📜 1.3.1b Aufzählungen und Listen](..)
+
 ## Beschreibung
 
 Listen mit nur einem Eintrag werden vermieden (ausser sie werden automatisch generiert: etwa eine Auflistung von Schlagwörtern, wo manchmal auch nur ein einzelnes Schlagwort vorhanden ist).

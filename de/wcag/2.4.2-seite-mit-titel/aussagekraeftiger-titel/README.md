@@ -11,6 +11,8 @@ created_at: "2024-03-15 13:51:00"
 
 # ✅ Aussagekräftiger Titel
 
+WCAG-Kriterium: [📜 2.4.2 Seite mit Titel - A](..)
+
 ## Beschreibung
 
 Seiten haben einen eindeutigen, aussagekräftigen Titel, der Thema oder Zweck der Seite sowie den Betreiber enthält (Muster: "Thema/Zweck der Seite - Seitenbetreiberin")

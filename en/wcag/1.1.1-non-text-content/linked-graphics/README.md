@@ -11,6 +11,8 @@ created_at: "2024-03-13 16:17:35"
 
 # ✅ Linked graphics
 
+Wcag criterion: [📜 1.1.1 Non-text Content - A](..)
+
 ## Description
 
 Linked graphics have an alternative text that describes the link target or purpose.
