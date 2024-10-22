@@ -14,7 +14,7 @@ created_at: "2015-08-04 14:36:00"
 
 ## Understanding (long)
 
-When interacting with an element, it should not lead to a change in context: This includes reloading the current page (or reloading, replacing or removing the part of the page on which the focussed element is located), as well as redirecting to another page. Such behaviour is often unpredictable, disrupts the flow of interaction and leads to confusion, especially when using assistive technology (such as screen readers, but also keyboards, see 📜-2.1.1).
+When interacting with an element, it should not lead to a change in context: This includes reloading the current page (or reloading, replacing or removing the part of the page on which the focussed element is located), as well as redirecting to another page. Such behaviour is often unpredictable, disrupts the flow of interaction and leads to confusion, especially when using assistive technology (such as screen readers, but also keyboards, see **📜-2.1.1 Keyboard**).
 
 Make sure, for example, that selecting an entry in a combo box (`<select>`) does not automatically reload the page; leave control with the user (e.g. by requiring them to activate a switch). Correctly programmed HTML code should already fulfil these requirements.
 

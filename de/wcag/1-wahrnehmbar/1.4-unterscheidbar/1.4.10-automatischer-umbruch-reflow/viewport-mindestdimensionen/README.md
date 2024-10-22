@@ -24,7 +24,7 @@ Inhalt lässt sich ohne Einschränkungen (z.B. Überlappungen) und ohne horizont
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. In der 🏷️-51 auf `Resize` → `Resize Window...` klicken und `256`x`320` einstellen (alternativ im 🏷️-47 über die `Geräte Toolbar` möglich)
+1. In der **🏷️-51 Web Developer Extension** auf `Resize` → `Resize Window...` klicken und `256`x`320` einstellen (alternativ im **🏷️-47 DOM Inspektor** über die `Geräte Toolbar` möglich)
 1. Sicherstellen, dass alle Inhalte weiterhin gut lesbar sind
     - **🙂 Beispiel:** Alle Inhalte sind weiterhin gut lesbar (ohne horizontales Scrollen)
     - **😡 Beispiel:** Es kommt zu unerlaubtem horizontalen Scrollen, z.B. weil Wörter sehr lange sind oder weil fixe Breiten eingestellt sind

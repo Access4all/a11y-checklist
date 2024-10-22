@@ -18,7 +18,7 @@ Some people find it difficult to store information in their short-term memory. H
 
 Previously entered user data must therefore be made available for selection in a subsequent process step during the same session: for example, via a checkbox "Use delivery address as billing address". This success criterion also applies across different providers within a process, e.g. when switching to a payment provider during checkout in an online shop.
 
-**Note:** This success criterion does not apply to multiple sessions, nor does it apply to password entry, see also 📜-3.3.8.
+**Note:** This success criterion does not apply to multiple sessions, nor does it apply to password entry, see also **📜-3.3.8 Accessible Authentication (Minimum)**.
 
 ### Exceptions
 

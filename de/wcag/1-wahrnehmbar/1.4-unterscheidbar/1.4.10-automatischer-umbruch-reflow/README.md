@@ -14,7 +14,7 @@ Inhalt muss sich den **Viewport-Mindestdimensionen** anpassen (sog. **Reflow**).
 
 ## Verstehen (ausführlich)
 
-Menschen mit Sehbehinderungen arbeiten häufig mit niedriger Bildschirmauflösung und/oder hohem Zoom-Faktor. Web-Inhalte müssen entsprechend auch unter diesen Umständen korrekt angezeigt werden (ohne Überlappungen oder sonstwie störende Effekte), wobei nur in eine Richtung gescrollt werden darf (entweder horizontal oder vertikal, nicht aber beides). Siehe auch 📜-1.3.4.
+Menschen mit Sehbehinderungen arbeiten häufig mit niedriger Bildschirmauflösung und/oder hohem Zoom-Faktor. Web-Inhalte müssen entsprechend auch unter diesen Umständen korrekt angezeigt werden (ohne Überlappungen oder sonstwie störende Effekte), wobei nur in eine Richtung gescrollt werden darf (entweder horizontal oder vertikal, nicht aber beides). Siehe auch **📜-1.3.4 Ausrichtung**.
 
 Die vorgegebene Mindest-Auflösung hierfür ist `320`x`256` CSS-Pixel. Ein typisches Problem etwa sind zu lange Wörter, welche zu einem Scrollbedarf in mehrere Richtungen führen oder Überlappungen verursachen.
 

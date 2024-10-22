@@ -14,7 +14,7 @@ created_at: "2019-11-10 20:20:52"
 
 ## Verstehen (ausführlich)
 
-Elemente, die durch die Interaktion der Benutzenden ein- oder ausgeblendet werden (z.B. Tooltips, siehe ✅-107), können verwirren, wenn sie sich nicht vorhersehbar verhalten und bedienen lassen. Insbesondere für Menschen mit Sehbehinderungen, die mit starker Zoomvergrösserung arbeiten, sind zusätzliche Inhalte problematisch, die bei Mauszeiger- oder Tastaturfokus eingeblendet werden.
+Elemente, die durch die Interaktion der Benutzenden ein- oder ausgeblendet werden (z.B. Tooltips, siehe **✅-107 Tooltips / Toggletips**), können verwirren, wenn sie sich nicht vorhersehbar verhalten und bedienen lassen. Insbesondere für Menschen mit Sehbehinderungen, die mit starker Zoomvergrösserung arbeiten, sind zusätzliche Inhalte problematisch, die bei Mauszeiger- oder Tastaturfokus eingeblendet werden.
 
 Folgende Aspekte sind zu beachten:
 
@@ -28,7 +28,7 @@ Folgende Aspekte sind zu beachten:
 ### Hinweise
 
 - Wenn das Aktivieren (Klicken, Tippen, Enter-Taste) desjenigen Elements, das den Inhalt einblendet, zum Schliessen des eingeblendeten Inhalts führt, muss der Kontext bestehen bleiben (und es dürfen keine weiteren Aktionen ausgelöst werden, die den Kontext ändern, etwa das Aktivieren eines Links).
-- Wenn Inhalte durch Hover eingeblendet werden, müssen diese auch bei Tastaturfokus eingeblendet werden, ausser sie werden alternativ zur Verfügung gestellt. Für Anforderungen in Bezug auf Tastatur, beachten Sie Erfolgskriterium 📜-2.1.1.
+- Wenn Inhalte durch Hover eingeblendet werden, müssen diese auch bei Tastaturfokus eingeblendet werden, ausser sie werden alternativ zur Verfügung gestellt. Für Anforderungen in Bezug auf Tastatur, beachten Sie Erfolgskriterium **📜-2.1.1 Tastatur**.
 - Die Anforderung gilt nicht für eingeblendete Inhalte, deren Verhalten durch den Nutzer-Agenten (z.B. Browser) bestimmt wird (z.B. native `title`-Attribute).
 
 ### Verantwortlichkeiten

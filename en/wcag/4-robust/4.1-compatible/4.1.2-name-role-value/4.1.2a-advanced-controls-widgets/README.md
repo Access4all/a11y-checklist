@@ -15,7 +15,7 @@ created_at: "2016-01-28 13:28:43"
 
 ### Standard HTML vs. JavaScript widgets
 
-Even though standard HTML offers many useful controls, some more sophisticated controls (JavaScript widgets), which are often required in current interactive websites, are missing: Examples include tabs (✅-106), accordions (✅-100), dropdowns (✅-104), tooltips (✅-107), etc.
+Even though standard HTML offers many useful controls, some more sophisticated controls (JavaScript widgets), which are often required in current interactive websites, are missing: Examples include tabs (**✅-106 Tabs / tablists**), accordions (**✅-100 TRANSLATION MISSING**), dropdowns (**✅-104 Disclosure (pop-up elements)**), tooltips (**✅-107 QuickInfos / Toggletips**), etc.
 
 **Important:** We recommend using standard HTML elements whenever possible and resorting to JavaScript widgets only when HTML does not offer the required functionality. Accordingly, a `<button>` is preferable to a `<div role="button">`, and the same applies to a `<select>` instead of a JavaScript dropdown.
 
@@ -24,7 +24,7 @@ HTML-standard elements are offered by all browsers "by defaul" barrier-free. The
 
 ### ARIA (Accessible Rich Internet Applications)
 
-ARIA offers various roles (e.g. `role="tablist"`), attributes and states (e.g. `aria-selected="rue"`). This allows both standard and various non-standard control elements to be semantically enriched in such a way that they can be made accessible and operable by assistive technologies (e.g. screen readers). The basis for this is always solid keyboard operability, see 📜-2.1.1.
+ARIA offers various roles (e.g. `role="tablist"`), attributes and states (e.g. `aria-selected="rue"`). This allows both standard and various non-standard control elements to be semantically enriched in such a way that they can be made accessible and operable by assistive technologies (e.g. screen readers). The basis for this is always solid keyboard operability, see **📜-2.1.1 Keyboard**.
 
 The [ARIA Specification](https://www.w3.org/WAI/standards-guidelines/aria/) for accessible web applications from the Web Accessibility Initiative (WAI) describes the available options; specific use cases are demonstrated in the [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/).
 
@@ -32,13 +32,13 @@ The implementation of control elements using ARIA is not trivial, because the re
 
 In addition, current browsers and assistive technologies do not recognise all available roles, states and attributes. In some cases, they are interpreted differently (or incorrectly). This sometimes makes it difficult to implement a control element in a consistently accessible way on all common combinations of input and output devices. Such elements can quickly become inaccessible on other platforms (e.g. on mobile devices).
 
-When specifying a user interface, we therefore recommend carefully considering whether the desired functionality actually requires the use of such widgets. In any case, you should look for ways to simplify the intended functionalities so that they can be implemented using the standard HTML controls. Many seemingly complex requirements that at first glance appear to require the use of widgets can be broken down into simpler sub-requirements: an autocomplete (✅-101), for example, can be a simple text field that filters a group of underlying radio buttons.
+When specifying a user interface, we therefore recommend carefully considering whether the desired functionality actually requires the use of such widgets. In any case, you should look for ways to simplify the intended functionalities so that they can be implemented using the standard HTML controls. Many seemingly complex requirements that at first glance appear to require the use of widgets can be broken down into simpler sub-requirements: an autocomplete (**✅-101 Autocompletes (comboboxes)**), for example, can be a simple text field that filters a group of underlying radio buttons.
 
 In addition, many implementations attempt to exactly imitate the functionality of existing standard HTML controls, usually due to special visual design requirements. Whether the expected implementation effort is justified for such visual details must be weighed up.
 
 **Caution:** Many JavaScript widget libraries on offer claim to be optimised for accessibility. This is often misleading, as views on accessibility and target platforms can differ. You should therefore always ensure the accessibility of such libraries yourself in advance.
 
-**Note:** Keyboard focus guidance is often important for JavaScript widgets (see also 📜-2.1.1 and 📜-2.4.3). Feedback to assistive technologies is also essential: this is often already sufficiently ensured with good focus guidance. However, it can also be achieved by using live regions (e.g. `role="alert"`); but use these with caution so as not to overload the audio channel (see also 📜-4.1.3).
+**Note:** Keyboard focus guidance is often important for JavaScript widgets (see also **📜-2.1.1 Keyboard** and **📜-2.4.3 Focus Order**). Feedback to assistive technologies is also essential: this is often already sufficiently ensured with good focus guidance. However, it can also be achieved by using live regions (e.g. `role="alert"`); but use these with caution so as not to overload the audio channel (see also **📜-4.1.3 Status Messages**).
 
 ### Responsibilities
 

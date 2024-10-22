@@ -24,8 +24,8 @@ Absätze sind semantisch korrekt ausgezeichnet, nicht nur visuell (z.B. mittels 
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-44 ausführen (oder mit 🏷️-13 direkt mit `P` von Paragraf zu Paragraf springen)
-    - ⚠️ Um Probleme genauer zu evaluieren, ist der 🏷️-47 nützlich
+1. **🏷️-44 Inhalte gegliedert Bookmarklet** ausführen (oder mit **🏷️-13 NVDA Screenreader** direkt mit `P` von Paragraf zu Paragraf springen)
+    - ⚠️ Um Probleme genauer zu evaluieren, ist der **🏷️-47 DOM Inspektor** nützlich
 1. Sicherstellen, dass Textblöcke korrekt als `<p>` ausgezeichnet sind
     - **🙂 Beispiel:** Textblöcke auf einer Seite sind jeweils als eigene `<p>` ausgezeichnet
     - **😡 Beispiel:** Textblöcke sind als `<div>` (oder ähnlich) ausgezeichnet

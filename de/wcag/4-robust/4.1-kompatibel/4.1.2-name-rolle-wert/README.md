@@ -18,15 +18,15 @@ HTML bietet eine Fülle von Standard-Elementen, womit sich die meisten Arten von
 
 Im vorliegenden Erfolgskriterium wird die korrekte Umsetzung insbesondere von **interaktiven** Elementen gefordert. Für viele andere, **nicht-interaktive** HTML-Elemente siehe:
 
-- 📜-1.3.1a: Überschriften-Struktur
-- 📜-1.3.1b: Aufzählungen und Listen
-- 📜-1.3.1c: Formular-Beziehungen
-- 📜-1.3.1d: Tabellarische Daten
-- 📜-1.3.1e: Semantisch richtiges Markup
+- **📜-1.3.1a Überschriften-Struktur**: Überschriften-Struktur
+- **📜-1.3.1b Aufzählungen und Listen**: Aufzählungen und Listen
+- **📜-1.3.1c Formular-Beziehungen**: Formular-Beziehungen
+- **📜-1.3.1d Tabellarische Daten**: Tabellarische Daten
+- **📜-1.3.1e Semantisch richtiges Markup**: Semantisch richtiges Markup
 
 ### Enthält Sub-Erfolgskriterium
 
-Das vorliegende Erfolgskriterium 4.1.2 ist sehr umfangreich. Neben den Prüfpunkten, welche sich direkt darin befinden, existieren weitere Prüfpunkte im Sub-Erfolgskriterium 📜-4.1.2a.
+Das vorliegende Erfolgskriterium 4.1.2 ist sehr umfangreich. Neben den Prüfpunkten, welche sich direkt darin befinden, existieren weitere Prüfpunkte im Sub-Erfolgskriterium **📜-4.1.2a Erweiterte Steuerelemente (Widgets)**.
 
 **Wichtig:** Diese Aufteilung von Erfolgskriterien in Sub-Erfolgskriterien existiert **nicht** im WCAG-Original. Sie ist eine Massnahme, um die Übersichtlichkeit der WCAG zu fördern.
 

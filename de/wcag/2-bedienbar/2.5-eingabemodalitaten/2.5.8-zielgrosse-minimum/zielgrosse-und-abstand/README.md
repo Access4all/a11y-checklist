@@ -24,8 +24,8 @@ Aktivierbare Elemente weisen die geforderte Mindestgrösse oder genügend Abstan
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-48 ausführen
-    - ⚠️ Bei Grenzfällen kann via 🏷️-47 die genaue Grösse eines Elements angezeigt werden: einfach über ein Element hovern in der Baum-Ansicht!
+1. **🏷️-48 Target Size (Bookmarklet)** ausführen
+    - ⚠️ Bei Grenzfällen kann via **🏷️-47 DOM Inspektor** die genaue Grösse eines Elements angezeigt werden: einfach über ein Element hovern in der Baum-Ansicht!
 1. Sicherstellen, dass angezeigte Verstösse (blaue Kreise) **keine** Ausnahmen darstellen
     - **🙂 Beispiel:** Schalter und Links sind mind. `24x24px` gross
     - **🙄 Beispiel:** Ein Schalter ist `19x19px` gross, hat aber einen Abstand von mind. `5px` zu angrenzenden interaktiven Elementen

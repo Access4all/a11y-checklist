@@ -24,7 +24,7 @@ In umfangreichen Formularen werden inhaltlich zusammengehörige Formularfelder m
 ### Prüf-Schritte
 
 1. Seite mit Formular-Elementen öffnen
-1. 🏷️-44 ausführen (oder mit 🏷️-47 untersuchen)
+1. **🏷️-44 Inhalte gegliedert Bookmarklet** ausführen (oder mit **🏷️-47 DOM Inspektor** untersuchen)
 1. Sicherstellen, dass Gruppen von Formular-Elementen als `<fieldset>`/`<legend>` umgesetzt sind
     - **🙂 Beispiel:** Ein einfaches Kontaktformular (mit Name, Email und Nachricht) wird **nicht** mit `<fieldset>`/`<legend>` gruppiert.
         - ⚠️ Es besteht **kein** grundsätzlicher Zwang zum Einsatz von `<fieldset>`/`<legend>`
@@ -43,7 +43,7 @@ In umfangreichen Formularen werden inhaltlich zusammengehörige Formularfelder m
 
 ### Nachprüfen mit Screenreader
 
-Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `role="group"`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `role="group"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - `Tab` (oder auch `F` oder `I`) drücken, um erstes Eingabefeld in einem `<fieldset>` anzuspringen
 - Dann sicherstellen, dass der Screenreader nun auch dessen `<legend>` vorliest

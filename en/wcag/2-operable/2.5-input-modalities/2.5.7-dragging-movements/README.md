@@ -14,7 +14,7 @@ For content that is operated by **drag & drop**, **alternative input options** m
 
 ## Understanding (long)
 
-A **dragging movement** (drag & drop) is characterized by the fact that it has a **specific start and exact end point**. The path in between, however, is not relevant (compare with 📜-2.5.1).
+A **dragging movement** (drag & drop) is characterized by the fact that it has a **specific start and exact end point**. The path in between, however, is not relevant (compare with **📜-2.5.1 Pointer Gestures**).
 
 Pulling movements are demanding, which is why certain user groups cannot perform them (or can only do so imprecisely), e.g. people with Parkinson's disease or tetraplegia.
 
@@ -24,7 +24,7 @@ It is therefore important that functions that rely on dragging movements can als
 - A shopping list can be sorted by dragging; in addition, each element has a drop-down menu with options such as "Move element to start", "Move element to position X", etc.
 - In a project management tool with various columns, the work packages can be moved to any column by dragging them; in addition, a drop-down menu can be opened for each element and buttons such as "To previous column", "To column X" or "To last column" can be selected.
 
-**Note:** This success criterion can also be fulfilled by having an additional alternative operating element for such a complex function that fulfills the same purpose. Important: this must be operable with simple pointer inputs (a pure keyboard alternative is therefore **not** permitted, see 📜-2.1.1).
+**Note:** This success criterion can also be fulfilled by having an additional alternative operating element for such a complex function that fulfills the same purpose. Important: this must be operable with simple pointer inputs (a pure keyboard alternative is therefore **not** permitted, see **📜-2.1.1 Keyboard**).
 
 ### Responsibilities
 

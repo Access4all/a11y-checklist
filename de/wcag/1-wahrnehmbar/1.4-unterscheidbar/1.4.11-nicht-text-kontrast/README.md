@@ -22,9 +22,9 @@ Für Schalter wird empfohlen, den klickbaren Bereich ebenfalls ausreichend kontr
 
 Bei grafischen Elementen bedeuten ausreichende Kontraste, dass jeder visuelle Hinweis, der für die Wahrnehmung und die Interpretation erforderlich ist, einen Kontrastwert von mindestens `3:1` aufweisen muss. Gemeint sind damit z.B. Kurven und Linien eines Diagramms, darin enthaltene Symbole, Beschriftungen, etc.
 
-**Hinweis:** Die Anforderungen an den Mindestkontrast gelten nur für sinntragende, informative grafische Elemente; rein dekorative Grafiken sind also nicht gemeint. Siehe diesbezüglich auch 📜-1.4.3.
+**Hinweis:** Die Anforderungen an den Mindestkontrast gelten nur für sinntragende, informative grafische Elemente; rein dekorative Grafiken sind also nicht gemeint. Siehe diesbezüglich auch **📜-1.4.3 Kontrast (Minimum)**.
 
-**Ausnahme:** Ausgenommen sind inaktive Bedienelemente (`disabled`-Attribut). Insbesondere bei Schaltern empfehlen wir aber, den Einsatz von `disabled` zu unterlassen, da dies negative Seiteneffekte hat (z.B. ist der Schalter dann nicht mehr mit der Tastatur fokussierbar, siehe 📜-2.1.1).
+**Ausnahme:** Ausgenommen sind inaktive Bedienelemente (`disabled`-Attribut). Insbesondere bei Schaltern empfehlen wir aber, den Einsatz von `disabled` zu unterlassen, da dies negative Seiteneffekte hat (z.B. ist der Schalter dann nicht mehr mit der Tastatur fokussierbar, siehe **📜-2.1.1 Tastatur**).
 
 **Tipp:** Zerlegen Sie komplexe Grafiken in ihre kleinsten aussagekräftigen Teile. Prüfen Sie für jedes Teil dessen Kontrast zu den angrenzenden Farben.
 

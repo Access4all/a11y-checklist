@@ -31,15 +31,15 @@ Eine Überschrift (z.B. `<h1>`) am Anfang eines Formulars ist sinnvoll. Sollen s
 - Allgemeine einleitende Inhalte (Paragraphen, Listen...) können mit dem umgebenden `<fieldset>` verknüpft werden.
 - Spezifische Hinweise (z.B. die Format-Anforderungen an ein Passwort) können mit dem jeweiligen Eingabefeld verknüpft werden.
 - Dasselbe gilt bei Fehlermeldungen bei Falscheingabe (z.B. "Das Passwort benötigt mind. 1 Sonderzeichen").
-    - Nach Abschicken eines fehlerhaft ausgefüllten Formulars soll der Tastatur-Fokus zudem ins erste fehlerhafte Eingabefeld gesetzt werden; siehe dazu auch 📜-2.4.3.
+    - Nach Abschicken eines fehlerhaft ausgefüllten Formulars soll der Tastatur-Fokus zudem ins erste fehlerhafte Eingabefeld gesetzt werden; siehe dazu auch **📜-2.4.3 Fokus-Reihenfolge**.
 
-Wir empfehlen, mit Anweisungen in Formularen zurückhaltend zu sein; für ausführlichere Informationen kann z.B. auf eine separate Seite verlinkt oder diese per Dialog (✅-103) oder Akkordeon (✅-100) eingeblendet werden.
+Wir empfehlen, mit Anweisungen in Formularen zurückhaltend zu sein; für ausführlichere Informationen kann z.B. auf eine separate Seite verlinkt oder diese per Dialog (**✅-103 Dialoge**) oder Akkordeon (**✅-100 Akkordeons**) eingeblendet werden.
 
 ### Abgrenzung
 
 - Das vorliegende Erfolgskriterium stellt sicher, dass vorhandene Labels und Anweisungen in Formularen **korrekt umgesetzt** (und dadurch mit den Eingabefeldern verknüpft) sind.
-- Dass solche überhaupt **vorhanden** sind, wird von 📜-3.3.2 gefordert.
-- Dass sie **aussagekräftig** sind, wird von 📜-2.4.6 gefordert.
+- Dass solche überhaupt **vorhanden** sind, wird von **📜-3.3.2 Beschriftungen (Labels) oder Anweisungen** gefordert.
+- Dass sie **aussagekräftig** sind, wird von **📜-2.4.6 Überschriften und Beschriftungen (Labels)** gefordert.
 
 ### Verantwortlichkeiten
 

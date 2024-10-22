@@ -25,7 +25,7 @@ Sprachwechsel bei längeren Textpassagen werden angegeben: Anderssprachige Texta
 
 1. Seite öffnen
 1. Ausschau halten nach Inhalten, die in einer anderen Sprache als der Seitensprache sind
-1. Mittels 🏷️-47 sicherstellen, dass diese Inhalte ein korrektes `lang`-Attribut aufweisen
+1. Mittels **🏷️-47 DOM Inspektor** sicherstellen, dass diese Inhalte ein korrektes `lang`-Attribut aufweisen
     - **🙂 Beispiel:** Eine englischsprachige Webseite über John F. Kennedy zitiert seine bekannte Aussage "Ich bin ein Berliner!"; seine Aussage hat ein `lang="de"`-Attribut
         - **🙂 Beispiel:** Sie hat keinerlei `lang`-Attribut
             - ⚠️ Dies führt dazu, dass das deutsche Zitat in englischem Akzent vom Screenreader vorgetragen wird. Dies ist definitiv falsch - auch wenn es der tatsächlichen Aussprache von Kennedy erstaunlich nahe kommt! 😉

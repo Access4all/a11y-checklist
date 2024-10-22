@@ -24,7 +24,7 @@ Alternativtexte von Grafiken beinhalten keine redundanten Informationen, z.B. ei
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-32 ausführen (oder in 🏷️-51 unter "Images" → "Display Alt Attributes" wählen)
+1. **🏷️-32 Image Alt Text Viewer Extension** ausführen (oder in **🏷️-51 Web Developer Extension** unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass Alternativtexte keine Redundanz aufweisen
     - **🙂 Beispiel:** Ein Mitarbeiter-Foto hat den Alternativtext "Foto von Hans Muster"
         - **🙂 Beispiel:** "Hans Muster" reicht ebenfalls, aber etwas mehr Info kann sinnvoll sein

@@ -24,7 +24,7 @@ Grafische Symbole (z.B. Webfonts oder Emojis) sind so umgesetzt, dass sie nicht 
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit 🏷️-13 die Inhalte lesen
+1. Mit **🏷️-13 NVDA Screenreader** die Inhalte lesen
 1. Sicherstellen, dass symbolhafte Schriftzeichen sinnvoll ausgegeben werden
     - **🙂 Beispiel:** Ein per Webfont eingebundenes "User" Symbol wird als "Benutzer" o.ä. angesagt
         - **😡 Beispiel:** Es wird unverständlich ausgegeben, etwa ???

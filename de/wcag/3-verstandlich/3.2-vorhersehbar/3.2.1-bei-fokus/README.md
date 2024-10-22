@@ -14,7 +14,7 @@ created_at: "2015-08-04 14:36:00"
 
 ## Verstehen (ausführlich)
 
-Wenn ein Bestandteil der Seite den Fokus erhält, dann darf dies zu keiner Änderung des Kontexts führen: dazu gehört das Neuladen der aktuellen Seite (oder das Neuladen, Ersetzen oder Entfernen des Seitenteils, auf welchem sich das fokussierte Element befindet), sowie das Weiterleiten auf eine andere Seite. Solches Verhalten ist oft nicht vorhersehbar, stört den Interaktionsfluss und führt insbesondere bei der Bedienung von assistierender Technologie (etwa Screenreader, aber auch Tastatur, siehe 📜-2.1.1) zu Verwirrung.
+Wenn ein Bestandteil der Seite den Fokus erhält, dann darf dies zu keiner Änderung des Kontexts führen: dazu gehört das Neuladen der aktuellen Seite (oder das Neuladen, Ersetzen oder Entfernen des Seitenteils, auf welchem sich das fokussierte Element befindet), sowie das Weiterleiten auf eine andere Seite. Solches Verhalten ist oft nicht vorhersehbar, stört den Interaktionsfluss und führt insbesondere bei der Bedienung von assistierender Technologie (etwa Screenreader, aber auch Tastatur, siehe **📜-2.1.1 Tastatur**) zu Verwirrung.
 
 Stellen Sie etwa sicher, dass bei Fokus weder Links oder Schalter aktiviert noch Formulare abgeschickt werden; lassen Sie die Kontrolle bei den Nutzenden (indem diese z.B. einen Schalter aktivieren müssen). Korrekt programmierter HTML-Code sollte diese Anforderungen bereits erfüllen.
 

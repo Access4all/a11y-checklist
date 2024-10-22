@@ -14,9 +14,9 @@ created_at: "2015-08-04 14:36:00"
 
 ## Understanding (long)
 
-Headings must describe the corresponding web content in a sufficiently informative and correct way; this helps to differentiate and navigate the content. Common errors are, for example, buttons or headings on a page that are not very informative or have several of the same name. Please also note 📜-1.3.1a and 📜-2.5.3.
+Headings must describe the corresponding web content in a sufficiently informative and correct way; this helps to differentiate and navigate the content. Common errors are, for example, buttons or headings on a page that are not very informative or have several of the same name. Please also note **📜-1.3.1a Headings structure** and **📜-2.5.3 Label in Name**.
 
-Form elements must also be well labelled (using `<label>`, see 📜-1.3.1c). A common error is input fields marked as mandatory with asterisk (`*`) alone (without other techniques such as the `required` attribute): this visually common convention has no meaning for assistive technologies.
+Form elements must also be well labelled (using `<label>`, see **📜-1.3.1c Forms, Labels and Fieldsets**). A common error is input fields marked as mandatory with asterisk (`*`) alone (without other techniques such as the `required` attribute): this visually common convention has no meaning for assistive technologies.
 
 **Recommendation:** If possible, avoid using the `title` attribute. This is not consistently displayed by assistive technologies (e.g. screen readers).
 
@@ -29,8 +29,8 @@ Inaccessible, externally generated content must be pointed out! For example, by 
 ### Delimitation
 
 - The present success criterion ensures that existing headings and labels are **meaningful**.
-- It is not always necessary for headings to be **present** at all (however, headings are usually the best technique for naming and differentiating content); 📜-3.3.2 requires that labels are **present** at all.
-- That _headers_ are **semantically and hierarchically correctly implemented** is required by 📜-1.3.1a; that _labels_ are **semantically correctly implemented** (and thus linked to the input fields) is required by 📜-1.3.1c.
+- It is not always necessary for headings to be **present** at all (however, headings are usually the best technique for naming and differentiating content); **📜-3.3.2 Labels or Instructions** requires that labels are **present** at all.
+- That _headers_ are **semantically and hierarchically correctly implemented** is required by **📜-1.3.1a Headings structure**; that _labels_ are **semantically correctly implemented** (and thus linked to the input fields) is required by **📜-1.3.1c Forms, Labels and Fieldsets**.
 
 ### Responsibilities
 

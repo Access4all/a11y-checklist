@@ -31,7 +31,7 @@ Inhalte/Funktionalitäten (Seitenfunktionalitäten, Seitenelemente, Formularfeld
         - **🙄 Beispiel:** Ein custom Link oder Schalter (`<span onclick tabindex="0">`) ist fokussierbar.
             - ⚠️ Es sollten aber besser native HTML-Elemente eingesetzt werden!
         - **😡 Beispiel:** Ein JavaScript-Widget ist ggf. nicht fokussierbar.
-    - Falls Fokus schlecht (oder gar nicht) sichtbar → 🏷️-22 aktivieren
+    - Falls Fokus schlecht (oder gar nicht) sichtbar → **🏷️-22 NerdeFocus Extension** aktivieren
 1. Sicherstellen, dass alle interaktiven Elemente mit Tastatur alleine bedienbar sind:
     - Links und Schalter mit `Enter`-Taste aktivierbar?
         - **🙂 Beispiel:** Alle nativen interaktiven HTML-Elemente sind von Natur aus aktivierbar (z.B. `<button>` oder `<a href>`).
@@ -44,23 +44,23 @@ an-/abgewählt werden.
         - **😡 Beispiel:** Die custom Implementation einer ausklappbaren Liste von Werten kann mit `Hoch`/`Runter` nicht bedient werden.
     - JavaScript-Widgets erwartungsgemäss steuerbar?
         - Für Tastatur-Bedienung geläufiger JavaScript-Widgets siehe:
-            - Akkordeons: ✅-100
-            - Autocompletes: ✅-101
-            - Datepicker: ✅-102
-            - Dialoge: ✅-103
-            - Aufklapp-Elemente (Dropdowns): ✅-104
-            - Karusselle: ✅-105
-            - Tabs: ✅-106
-            - Tooltips: ✅-107
-            - Cards: ✅-112
-            - Weitere JavaScript-Widgets: ✅-108
+            - Akkordeons: **✅-100 Akkordeons**
+            - Autocompletes: **✅-101 Autocompletes (Comboboxen)**
+            - Datepicker: **✅-102 Datepicker / Timepicker**
+            - Dialoge: **✅-103 Dialoge**
+            - Aufklapp-Elemente (Dropdowns): **✅-104 Dropdowns (Aufklapp-Elemente)**
+            - Karusselle: **✅-105 Karusselle**
+            - Tabs: **✅-106 Tabs / Tablisten**
+            - Tooltips: **✅-107 Tooltips / Toggletips**
+            - Cards: [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}
+            - Weitere JavaScript-Widgets: [✅-108 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}
 
 ### Verwandte Prüfpunkte
 
-- Bei Tastatur-Fallen: ✅-66
-- Bei mangelhafter Fokus-Reihenfolge: ✅-73
-- Bei mangelhafter Fokus-Führung: ✅-74
-- Wenn Tastatur-Fokus nicht sichtbar: ✅-81
+- Bei Tastatur-Fallen: **✅-66 Tastaturfallen**
+- Bei mangelhafter Fokus-Reihenfolge: **✅-73 Fokus-Reihenfolge**
+- Bei mangelhafter Fokus-Führung: **✅-74 Fokus-Führung**
+- Wenn Tastatur-Fokus nicht sichtbar: **✅-81 Tastatur-Fokus sichtbar**
 
 ## Screenshots typischer Fälle
 

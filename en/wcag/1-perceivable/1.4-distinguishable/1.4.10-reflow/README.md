@@ -14,7 +14,7 @@ Content must adapt to the **viewport minimum dimensions** (so-called **reflow**)
 
 ## Understanding (long)
 
-People with visual impairments often work with low screen resolutions and/or a high zoom factor. Web content must therefore also be displayed correctly under these circumstances (without overlapping or other disruptive effects), whereby scrolling is only permitted in one direction (either horizontally or vertically, but not both). See also 📜-1.3.4.
+People with visual impairments often work with low screen resolutions and/or a high zoom factor. Web content must therefore also be displayed correctly under these circumstances (without overlapping or other disruptive effects), whereby scrolling is only permitted in one direction (either horizontally or vertically, but not both). See also **📜-1.3.4 Orientation**.
 
 The specified minimum resolution for this is `320`x`256` CSS pixels. A typical problem is words that are too long, which lead to a scrolling requirement in several directions or cause overlaps.
 

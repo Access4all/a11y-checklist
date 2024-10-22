@@ -24,7 +24,7 @@ Einzeltasten-Kurzbefehle (bestehend aus einer einzelnen Buchstaben-, Interpunkti
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-57 aktivieren
+1. **🏷️-57 Trigger Character Key Shortcuts Bookmarklet** aktivieren
 1. Prüfen, ob irgendeine Funktionalität ausgeführt wurde
     - ⚠️ Dies wird erkennbar, wenn sich visuell irgend etwas auf der Seite verändert, z.B. wenn der Fokus in ein Element gesetzt oder ein Element ausgeklappt wird
 1. Falls eine Funktionalität ausgeführt wurde: Können die entsprechenden Kurzbefehle irgendwie deaktiviert oder verändert werden?

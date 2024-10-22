@@ -24,7 +24,7 @@ Aufzählungen sind semantisch korrekt als Listen (`<ul>`, `<ol>`, `<dl>`) format
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-44 ausführen
+1. **🏷️-44 Inhalte gegliedert Bookmarklet** ausführen
 1. Sicherstellen, dass Listen semantisch korrekt umgesetzt
     - **🙂 Beispiel:** Eine vertikale Seiten-Navigation ist als `<ul>` oder `<ol>` ausgezeichnet
     - **🙂 Beispiel:** Eine horizontale Aneinander-Reihung von Social-Media-Links ist als `<ul>` oder `<ol>` ausgezeichnet
@@ -32,7 +32,7 @@ Aufzählungen sind semantisch korrekt als Listen (`<ul>`, `<ol>`, `<dl>`) format
 
 ### Nachprüfen mit Screenreader
 
-Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit 🏷️-13 nachprüft werden:
+Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachprüft werden:
 
 - `L` drücken, um Listen direkt anzuspringen
 - `I` drücken, um Punkte innerhalb einer Liste direkt anzuspringen

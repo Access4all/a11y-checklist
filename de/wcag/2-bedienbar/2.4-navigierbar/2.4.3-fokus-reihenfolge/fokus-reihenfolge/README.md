@@ -25,7 +25,7 @@ Die Fokus-Reihenfolge ist sinnvoll, d. h. intuitiv verständlich und nachvollzie
 
 1. Seite öffnen
 1. Mit `Tab`-Taste durch die Seite navigieren
-    - Falls Fokus schlecht (oder gar nicht) sichtbar → 🏷️-22 aktivieren
+    - Falls Fokus schlecht (oder gar nicht) sichtbar → **🏷️-22 NerdeFocus Extension** aktivieren
 1. Jeweils prüfen:
     - Ist die Reihenfolge der interaktiven Elemente sinnvoll?
         - **🙂 Beispiel:** Die Fokus-Reihenfolge deckt sich mehrheitlich mit der visuellen Lese-Reihefolge.

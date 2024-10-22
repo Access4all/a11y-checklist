@@ -28,7 +28,7 @@ Der Tastatur-Fokus ist genügend sichtbar, z.B. durch einen gut sichtbaren Rahme
     - Sind alle interaktiven Elemente bei Fokus gut als fokussiert erkennbar?
         - **🙂 Beispiel:** Umrandung, deutlich erkennbarer Farbwechsel, o.ä.
         - **😡 Beispiel:** Kaum oder gar nicht sichtbarer Fokus.
-            - ⚠️ Kann auch daran liegen, dass Elemente gar nicht fokussierbar sind (siehe ✅-63).
+            - ⚠️ Kann auch daran liegen, dass Elemente gar nicht fokussierbar sind (siehe **✅-63 Mit der Tastatur bedienbar**).
 
 ### ⚠️ WCAG 2.1 vs. 2.2
 

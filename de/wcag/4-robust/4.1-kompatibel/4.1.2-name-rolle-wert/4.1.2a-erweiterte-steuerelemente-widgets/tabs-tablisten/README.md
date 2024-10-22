@@ -29,7 +29,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 1. Seite öffnen
 1. Tabs mit Tastatur alleine bedienen und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter ✅-63 zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
     - Bedien-Elemente zum Wechseln des angezeigten Tab-Inhalts fokussieren und mit `Enter` aktivieren (z.B. "Montag")!
         - ⚠️ Manchmal kann mit `Links`/`Rechts` direkt zwischen Tab-Inhalten navigiert werden
     - Wird der Inhalt eingeblendet?
@@ -53,8 +53,8 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 ### Konventionen
 
-- Tabs ähneln Karussellen (✅-105), sind aber weniger komplex
-- Tabs ähneln Akkordeons (✅-100), ihre Kontroll-Elemente befinden sich aber alle zusammen oberhalb des Inhalts-Bereichs und es kann jeweils nur der Inhalt eines einzigen Tabs angezeigt werden
+- Tabs ähneln Karussellen (**✅-105 Karusselle**), sind aber weniger komplex
+- Tabs ähneln Akkordeons (**✅-100 Akkordeons**), ihre Kontroll-Elemente befinden sich aber alle zusammen oberhalb des Inhalts-Bereichs und es kann jeweils nur der Inhalt eines einzigen Tabs angezeigt werden
 - Tabs können auch **vertikal** ausgerichtet sein (übereinander, meist auf der linken Seite des Inhalts)
 - Oft wird eine ausgefeilte ARIA-Implementierung verwendet (siehe [APG: Tabs Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/tabs/)) → `role="tablist"` wird heutzutage gut unterstützt
     - Es kann aber auch ein einfaches `<div>` mit einer Link-Liste als Navigation sein; in Formularen können sogar Radiobuttons sinnvoll sein, siehe [ADG: Tabs](https://www.accessibility-developer-guide.com/examples/widgets/tabs/)

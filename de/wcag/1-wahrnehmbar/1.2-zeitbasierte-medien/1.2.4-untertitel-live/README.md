@@ -14,7 +14,7 @@ Für **live Videoinhalte mit Audio** müssen **Untertitel** zur Verfügung geste
 
 ## Verstehen (ausführlich)
 
-Fügen Sie Untertitel zu allen live Videos mit Sprache hinzu, so wie in 📜-1.2.2 beschrieben.
+Fügen Sie Untertitel zu allen live Videos mit Sprache hinzu, so wie in **📜-1.2.2 Untertitel (aufgezeichnet)** beschrieben.
 
 Diese Anforderung zu erfüllen ist anspruchsvoll. Sie benötigt entsprechende technische Hilfsmittel sowie deren professionelle Handhabung. Perfektion ist aufgrund des hohen Zeitdrucks kaum möglich.
 

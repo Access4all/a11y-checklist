@@ -24,7 +24,7 @@ Die Sprachdeklaration ist vorhanden und korrekt.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit 🏷️-47 das `<html>`-Tag der Seite inspizieren
+1. Mit **🏷️-47 DOM Inspektor** das `<html>`-Tag der Seite inspizieren
 1. Sicherstellen, dass ein korrektes `lang`-Attribut gesetzt ist:
     - **🙂 Beispiel:** Die Seite hat deutsche Inhalte; es ist `lang="de"`, `lang="de-CH"` o.ä. gesetzt
         - **😡 Beispiel:** Es ist ein falsches `lang`-Attribut gesetzt, z.B. `lang="en"` oder `lang="xx"`

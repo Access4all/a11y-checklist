@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 Wenn Texte als Grafiken (etwa mittels des `<img>`-Elements) eingebunden sind, dann erschwert dies das Lesen derselben für Menschen mit einer Sehbebeeinträchtigung, da sie diese nicht ihren individuellen Bedürfnissen anpassen können (z.B. Grösse skalieren ohne Qualitätseinbusse, Vorder- und Hintergrundfarben sowie Abstände oder Schriftart verändern, etc.).
 
-Ausgenommen sind Texte, bei welchen die besondere Art der Präsentation unentbehrlich ist für die vermittelte Information (z.B. bei Logos oder Markennamen), sowie Texte, die Teil eines Bildes oder Diagramms mit zusätzlichem visuellem Inhalt sind (etwa Labels eines Diagramms). Eine akkurate Beschriftung derselben ist dann notwendig, siehe 📜-1.1.1.
+Ausgenommen sind Texte, bei welchen die besondere Art der Präsentation unentbehrlich ist für die vermittelte Information (z.B. bei Logos oder Markennamen), sowie Texte, die Teil eines Bildes oder Diagramms mit zusätzlichem visuellem Inhalt sind (etwa Labels eines Diagramms). Eine akkurate Beschriftung derselben ist dann notwendig, siehe **📜-1.1.1 Nicht-Text-Inhalt**.
 
 **Hinweis:** Die Möglichkeiten von modernem HTML (etwa individuelle Schriftarten und SVG) machen den Einsatz von Schriftgrafiken kaum mehr notwendig.
 

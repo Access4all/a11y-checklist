@@ -24,7 +24,7 @@ created_at: "2024-03-14 12:26:50"
 ### Prüf-Schritte
 
 1. Seite mit Akkordeon öffnen
-1. 🏷️-1 ausführen
+1. **🏷️-1 H123 Bookmarklet** ausführen
 1. Sicherstellen, dass Akkordeon-Toggler als Überschriften ausgezeichnet sind:
     - ⚠️ Besonders wenn die Inhalte des Akkordeons ebenfalls Überschriften aufweisen, ist das wichtig. Bei sehr simplen Akkordeons mit nur wenig Inhalt kann dies überflüssig sein.
     - **🙂 Beispiel:** Bei einem Rezept sind "Zutaten", "Anleitung" und "Tipps" als Akkordeon-Toggler auf- und zuklappbar; sie sind als Überschrift ausgezeichnet.
@@ -34,7 +34,7 @@ created_at: "2024-03-14 12:26:50"
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - Überschriften mit `H` versuchen anzuspringen.
 

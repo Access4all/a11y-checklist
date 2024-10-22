@@ -22,11 +22,11 @@ Such visual cues must also be represented in the code by appropriate **semantics
 
 This success criterion 1.3.1 is very extensive. In addition to the checkpoints that are directly included, there are further checkpoints in the sub-success criteria:
 
-- 📜-1.3.1a: Headline structure
-- 📜-1.3.1b: Enumerations and lists
-- 📜-1.3.1c: Form relationships
-- 📜-1.3.1d: Tabular data
-- 📜-1.3.1e: Semantically correct markup
+- **📜-1.3.1a Headings structure**: Headline structure
+- **📜-1.3.1b Use of Lists**: Enumerations and lists
+- **📜-1.3.1c Forms, Labels and Fieldsets**: Form relationships
+- **📜-1.3.1d Tabular data**: Tabular data
+- **📜-1.3.1e Proper Semantic Markup**: Semantically correct markup
 
 **Important:** This division of success criteria into sub-success criteria does **not** exist in the original WCAG. It is a measure to promote the clarity of the WCAG.
 

@@ -24,8 +24,8 @@ Das Kontrastverhältnis bei Text und Bildern von Text zum Hintergrund beträgt m
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit 🏷️-39 jeweils die Vorder- und Hintergrundfarbe eines Texts wählen
-    - ⚠️ Das Nutzen der Farb-Pipette kann ungenau sein! Wenn Ergebnisse knapp sind (z.B. ein knapp ungenügendes `4.3:1` bei kleiner Schrift oder ein knapp genügendes `3.1:1` bei grosser), dann müssen die Farbwerte manuell eruiert (mittels 🏷️-47) und nochmal eingegeben werden
+1. Mit **🏷️-39 Color Contrast Analyzer** jeweils die Vorder- und Hintergrundfarbe eines Texts wählen
+    - ⚠️ Das Nutzen der Farb-Pipette kann ungenau sein! Wenn Ergebnisse knapp sind (z.B. ein knapp ungenügendes `4.3:1` bei kleiner Schrift oder ein knapp genügendes `3.1:1` bei grosser), dann müssen die Farbwerte manuell eruiert (mittels **🏷️-47 DOM Inspektor**) und nochmal eingegeben werden
 1. Sicherstellen, dass die Kontraste ausreichend sind
     - **🙂 Beispiel:** Ein grosser Schriftzug (ab `18pt` oder `14pt` + fett) hat einen Kontrastwert von mind. `3:1`
         - **😡 Beispiel:** Der Kontrastwert ist kleiner als `3:1`

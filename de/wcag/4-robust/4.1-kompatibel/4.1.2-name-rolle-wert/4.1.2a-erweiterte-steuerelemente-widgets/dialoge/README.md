@@ -29,7 +29,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 1. Seite öffnen
 1. Dialog **mit Tastatur** alleine bedienen und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter ✅-63 zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
     - Element zum Öffnen des Dialogs fokussieren und aktivieren (z.B. "AGBs lesen"-Link)!
     - Wird der Fokus in den Dialog hinein gesetzt?
         - **🙂 Beispiel:** Der Fokus wird auf ein interaktives Dialog-Element gesetzt (z.B. den "Schliessen"- oder "Bestätigen"-Schalter)
@@ -59,8 +59,8 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
         - Die Anforderungen an sie gelten sinngemäss, mit folgenden Eigenheiten:
             - Wenn der Dialog keine sofortige Interaktion fordert, muss der Fokus nicht automatisch in den Dialog gesetzt werden
                 - **🙂 Beispiel:** Auf einer Webseite poppt eine Einladung zu einem Fragebogen auf; der Nutzer kann ihn ignorieren, oder per mehrmaligem Drücken von `Tab` hinein navigieren und damit interagieren.
-            - Beim Schliessen kann der Fokus oft nicht sinnvoll zurück gesetzt werden, da es kein explizites **ursprüngliches** Element gibt, siehe auch ✅-74
-    - ⚠️ Wenn der Dialog ein reiner Hinweis ist (ohne Schaltfläche oder sonstige interaktive Elemente), so handelt es sich eher um eine Status-Nachricht, siehe ✅-111.
+            - Beim Schliessen kann der Fokus oft nicht sinnvoll zurück gesetzt werden, da es kein explizites **ursprüngliches** Element gibt, siehe auch **✅-74 Fokus-Führung**
+    - ⚠️ Wenn der Dialog ein reiner Hinweis ist (ohne Schaltfläche oder sonstige interaktive Elemente), so handelt es sich eher um eine Status-Nachricht, siehe **✅-111 Statusmeldungen**.
 1. Dialog wie zuvor bedienen, dieses mal **mit Screenreader** (ggf. Seite neu laden), und prüfen:
     - ⚠️ Bedienung dürfte in etwa gleich sein wie mit Tastatur alleine
     - Vermittelt der Screenreader beim Erreichen des aufrufenden Elements adäquat, dass sich ein Dialog öffnen wird?
@@ -89,7 +89,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
     - Das HTML5-Element [`<dialog>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/dialog) wird mittlerweile ebenfalls gut unterstützt
     - Es kann aber auch ein einfaches `<div>` o.ä. sein (siehe [ADG: Dialog](https://www.accessibility-developer-guide.com/examples/widgets/dialog/))
 
-⚠️ Dem gegenüber stehen die kleineren und simpleren **Tooltips** / **Toggletips**, siehe ✅-107.
+⚠️ Dem gegenüber stehen die kleineren und simpleren **Tooltips** / **Toggletips**, siehe **✅-107 Tooltips / Toggletips**.
 
 ## Screenshots typischer Fälle
 

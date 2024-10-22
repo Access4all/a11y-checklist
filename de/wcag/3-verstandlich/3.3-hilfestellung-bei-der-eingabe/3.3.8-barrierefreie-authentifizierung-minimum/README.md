@@ -18,7 +18,7 @@ Komplizierte Denkaufgaben überfordern gewisse Nutzenden; dies beinhaltet auch d
 
 ### Herkömmliches Login und Mehr-Faktor-Authentifizierung
 
-Herkömmliche Login-Formulare sind zulässig, wenn alle Eingabe-Felder korrekt verknüpfte Labels haben (siehe 📜-1.3.1c) und ein passender Eingabezweck ersichtlich ist (siehe 📜-1.3.5). Das Kopieren und Einfügen von Login-relevanter Information ins Login-Formular darf allerdings **nicht** unterbunden werden; dasselbe gilt für unterstützende Funktionalitäten wie Passwort-Manager.
+Herkömmliche Login-Formulare sind zulässig, wenn alle Eingabe-Felder korrekt verknüpfte Labels haben (siehe **📜-1.3.1c Formular-Beziehungen**) und ein passender Eingabezweck ersichtlich ist (siehe **📜-1.3.5 Eingabezweck bestimmen**). Das Kopieren und Einfügen von Login-relevanter Information ins Login-Formular darf allerdings **nicht** unterbunden werden; dasselbe gilt für unterstützende Funktionalitäten wie Passwort-Manager.
 
 Auch Mehr-Faktor-Authentifizierung, bei welcher z.B. ein Code oder Login-Link per Email zugeschickt wird, ist in Ordnung. Wichtig ist, dass alle bei der Authentifizierung notwendigen Schritte barrierefrei sind (z.B. auch solche, die durch Mobile-Apps von Drittanbietern angeboten werden).
 
@@ -30,7 +30,7 @@ CAPTCHAs, bei welchen etwa verzerrte Zahlen und Buchstaben erkannt werden müsse
 
 Hingegen Tests, bei welchen der Nutzer ein Objekt erkennen muss (etwa ein Tier oder Fahrzeug), sind in Ordnung - ausser es werden dabei zusätzliche Überlegungen gefordert (etwa: "Multipliziere die Anzahl Katzen mit der Anzahl Hunde").
 
-**Wichtig:** Solche Tests bringen eine ganze Menge zusätzlicher Herausforderungen mit sich: sie müssen etwa auch mit der Tastatur bedient und per Screenreader verstanden werden können, siehe auch ✅-14 und ✅-63.
+**Wichtig:** Solche Tests bringen eine ganze Menge zusätzlicher Herausforderungen mit sich: sie müssen etwa auch mit der Tastatur bedient und per Screenreader verstanden werden können, siehe auch **✅-14 Grafische CAPTCHAs** und **✅-63 Mit der Tastatur bedienbar**.
 
 ### Verantwortlichkeiten
 

@@ -24,15 +24,15 @@ Daten-Tabellen weisen keine leeren Spalten oder Zeilen auf.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-49 ausführen
+1. **🏷️-49 Tables (Bookmarklet)** ausführen
 1. Sicherstellen, dass keine leeren Zeilen und Spalten vorhanden sind
     - **🙂 Beispiel:** Eine Tabelle hat in jeder Zeile und Spalte mind. eine nicht-leere Zelle
     - **😡 Beispiel:** Eine Tabelle hat mind. eine leere Zeilen oder Spalte
-        - ⚠️ Probleme dieser Art rühren oft daher, dass Tabellen entweder nicht sinnvoll eingesetzt werden (z.B. Layout-Tabellen), dass ihre Inhalte nicht optimal aufbereitet sind, oder dass Inhalte zwar vorhanden **wären**, aber mit Screenreader nicht erfahren werden können (z.B. Icons ohne alt-Text, siehe ✅-1)
+        - ⚠️ Probleme dieser Art rühren oft daher, dass Tabellen entweder nicht sinnvoll eingesetzt werden (z.B. Layout-Tabellen), dass ihre Inhalte nicht optimal aufbereitet sind, oder dass Inhalte zwar vorhanden **wären**, aber mit Screenreader nicht erfahren werden können (z.B. Icons ohne alt-Text, siehe **✅-1 Informative Grafiken**)
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - Mit `T` zu Tabelle springen
 - Mit `Ctrl`+`Alt`+`Pfeile` durch die Zellen navigieren (quasi wie in Excel) und sicherstellen, dass jeweils die korrekten Zeilen-Header angesagt werden

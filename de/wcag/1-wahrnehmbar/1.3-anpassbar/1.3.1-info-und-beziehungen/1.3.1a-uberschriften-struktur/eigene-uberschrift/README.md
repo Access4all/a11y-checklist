@@ -24,7 +24,7 @@ Eigenständige Seitenbereiche weisen eine eigene Überschrift auf, da sie sonst 
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-1 ausführen
+1. **🏷️-1 H123 Bookmarklet** ausführen
 1. Sicherstellen, dass alle Seitenbereiche eine eigene Überschrift haben:
     - **🙂 Beispiel:** Der Kopf-Bereich hat eine visuell versteckte Überschrift `<h1>Kopfbereich</h1>` (oder auch `<h2>`, da die Seite nicht zwingend mit einer `<h1>` starten muss)
     - **🙂 Beispiel:** Haupt-Inhalt hat eine `<h1>Meine Hobbys</h1>`
@@ -36,7 +36,7 @@ Eigenständige Seitenbereiche weisen eine eigene Überschrift auf, da sie sonst 
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - Inhalte mit `Hoch`/`Runter` lesen und Vorhandensein von Überschriften prüfen.
 
@@ -44,7 +44,7 @@ Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit �
 
 ### Landmarks und `aria-label`
 
-Gemäss WCAG reichen für z.B. Kopf- und Fussbereich auch Landmarks (✅-22) mit `aria-label` (🏷️-15). Wir empfehlen aber stets dringend, alles mit (ggf. visuell versteckten, 🏷️-4) Überschriften zu strukturieren, da dies Screenreader-Nutzer am meisten verwenden.
+Gemäss WCAG reichen für z.B. Kopf- und Fussbereich auch Landmarks (**✅-22 Landmarks**) mit `aria-label` (**🏷️-15 aria-label, aria-labelledby**). Wir empfehlen aber stets dringend, alles mit (ggf. visuell versteckten, **🏷️-4 Inhalte rein visuell verstecken**) Überschriften zu strukturieren, da dies Screenreader-Nutzer am meisten verwenden.
 
 Zahlen vom [WebAIM Screen Reader Survey #10](https://webaim.org/projects/screenreadersurvey10/):
 

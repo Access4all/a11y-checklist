@@ -24,8 +24,8 @@ Inhalte müssen im Code (DOM) eine korrekte Reihenfolge aufweisen (unabhängig v
 ### Test-Schritte
 
 1. Seite öffnen
-1. Mit 🏷️-13 durch die Seite navigieren
-    - Auch der 🏷️-47 kann aufschlussreiche Informationen liefern
+1. Mit **🏷️-13 NVDA Screenreader** durch die Seite navigieren
+    - Auch der **🏷️-47 DOM Inspektor** kann aufschlussreiche Informationen liefern
 1. Sicherstellen, dass die Inhalte sinnvoll angeordnet sind:
     - Befinden sich Überschriften im DOM stets vor den zugehörigen Inhalten?
         - **🙂 Beispiel:** Ein News-Teaser startet visuell mit einer Überschrift, dann kommen weitere Inhalte wie z.B. ein Bild, Paragrafen, "Mehr lesen"-Link, etc. Die Reihenfolge im DOM ist entsprechend.

@@ -24,7 +24,7 @@ Daten, welche eindeutig tabellarischen Charakter aufweisen (also keine Layout-Ta
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-49 ausführen
+1. **🏷️-49 Tables (Bookmarklet)** ausführen
 1. Sicherstellen, dass Tabellen-artige Elemente auch tatsächlich als `<table>` umgesetzt sind
     - **🙂 Beispiel:** Eine Tabelle ist korrekt als `<table>` umgesetzt
     - **🙄 Beispiel:** Eine Tabelle ist als `<div role="table">` umgesetzt
@@ -33,7 +33,7 @@ Daten, welche eindeutig tabellarischen Charakter aufweisen (also keine Layout-Ta
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="table"` oder `role="grid"`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="table"` oder `role="grid"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - Mit `T` zu Tabelle springen
 - Mit `Ctrl`+`Alt`+`Pfeile` durch die Zellen navigieren (quasi wie in Excel) und sicherstellen, dass jeweils die korrekten Zeilen-Header angesagt werden

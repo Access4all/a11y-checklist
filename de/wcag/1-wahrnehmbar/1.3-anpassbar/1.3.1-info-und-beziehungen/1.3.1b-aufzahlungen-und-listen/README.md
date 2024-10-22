@@ -19,7 +19,7 @@ Listenelemente können sowohl horizontal (nebeneinander, z.B. Social-Media-Kanä
 
 Listen mit einem einzigen Eintrag sollten vermieden werden (ausser sie werden automatisch generiert). Listen können verschachtelt werden, etwa für Untermenüs.
 
-**Wichtig:** Listen eignen sich zum Gruppieren kleiner Elemente. Für umfangreichere Elemente eignen sich `<article>` oder `<section>` besser; wie etwa News-Teaser, die jeweils z.B. aus Titel, Datum, Bild, Text, etc. bestehen (siehe auch ✅-112).
+**Wichtig:** Listen eignen sich zum Gruppieren kleiner Elemente. Für umfangreichere Elemente eignen sich `<article>` oder `<section>` besser; wie etwa News-Teaser, die jeweils z.B. aus Titel, Datum, Bild, Text, etc. bestehen (siehe auch [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}).
 
 ### Verantwortlichkeiten
 

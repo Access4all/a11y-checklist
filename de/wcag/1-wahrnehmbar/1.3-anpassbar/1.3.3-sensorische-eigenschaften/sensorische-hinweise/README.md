@@ -27,7 +27,7 @@ Inhalte weisen nicht ausschliesslich auf sensorische Eigenschaften (rein visuell
 1. Inhalte genau lesen und ggf. mit Funktionalitäten interagieren, sowie auf auditive Signale achten
 1. Sicherstellen, dass keine Anweisungen vorhanden sind, die sich auf eine einzelne sensorische Wahrnehmungsfähigkeit beschränken
     - **🙂 Beispiel:** Ein fehlerhaftes Eingabefeld wird rot umrandet und mit einem Ausrufezeichen-Symbol dargestellt; oberhalb des Formulars steht die Anweisung "Korrigieren Sie die rot umrandeten und mit Ausrufezeichen gekennzeichneten Felder!"
-        - ⚠️ Natürlich müssen solche Felder auch für Screenreader als fehlerhaft erfahrbar sein! Diesbezüglich existieren ✅-93 und ✅-94.
+        - ⚠️ Natürlich müssen solche Felder auch für Screenreader als fehlerhaft erfahrbar sein! Diesbezüglich existieren **✅-93 Fehlermeldungen in Formularen** und **✅-94 Pflichtfelder**.
         - **😡 Beispiel:** Die Anweisung lautet "Korrigieren Sie die rot umrandeten Felder!"
     - **🙂 Beispiel:** Eine Hilfeseite schreibt: "Wählen Sie rechts in der Seiten-Navigation einen Eintrag", wobei diese Navigation z.B. durch eine entsprechende Überschrift klar als "Seiten-Navigation" betitelt wird
         - **🙄 Beispiel:** Die Hilfeseite schreibt: "Wählen Sie rechts einen Navigations-Eintrag" → hier kann man sich streiten, ob diese nicht ganz exakte Betitelung ausreicht oder nicht

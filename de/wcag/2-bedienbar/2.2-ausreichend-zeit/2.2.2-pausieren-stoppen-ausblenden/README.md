@@ -18,7 +18,7 @@ Dauerhaft animierte Elemente (etwa Werbebanner) erfordern zusätzliche Aufmerksa
 
 **Ausnahmen:** Wenn die Bewegung eine Animation ist, die läuft, um anzuzeigen, dass etwas geladen wird (ein "Spinner"); oder wenn die Animation nicht länger als 5 Sekunden dauert.
 
-**Hinweis:** Für Anforderungen in Bezug auf flackernden oder blitzenden Inhalt beachten Sie 📜-2.3.1.
+**Hinweis:** Für Anforderungen in Bezug auf flackernden oder blitzenden Inhalt beachten Sie **📜-2.3.1 Blitzen, dreimalig oder unterhalb Grenzwert**.
 
 ### Verantwortlichkeiten
 

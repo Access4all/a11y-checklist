@@ -16,7 +16,7 @@ For **recorded videos with audio** (such as feature films), an **audio descripti
 
 Add audio descriptions to all videos whose visual information is not already available in the audio track. An audio description is an edited version of the audio track that provides more information than the original. This is typically information that would otherwise only be conveyed visually.
 
-**Important:** The audio description makes a text transcript optional. This means that this success criterion also automatically fulfils 📜-1.2.3.
+**Important:** The audio description makes a text transcript optional. This means that this success criterion also automatically fulfils **📜-1.2.3 Audio Description or Media Alternative (Prerecorded)**.
 
 **Tip:** If the voice output of a video announces all relevant information (e.g. the commentator in a documentary), audio description becomes superfluous; this is significantly more cost-effective and could be included as a recommendation in any editorial guidelines. A feature film, on the other hand, often relies on subtle visual details, the meaning of which blind people miss without audio description.
 

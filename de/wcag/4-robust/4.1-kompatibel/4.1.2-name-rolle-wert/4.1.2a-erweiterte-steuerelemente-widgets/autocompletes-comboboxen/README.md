@@ -34,7 +34,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
     - Suchbegriff eingeben
     - Erneut Optionen an-/abwählen, Options-Liste zuklappen
 1. Autocomplete wie zuvor bedienen, dieses mal **mit Tastatur** alleine (ggf. Seite neu laden), und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter ✅-63 zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
     - Wird mit `Hoch`/`Runter` durch die Optionen navigiert (manchmal auch `Tab` / `Shift`-`Tab`)?
         - **🙂 Beispiel:** Die vorherige/nächste Option wird an-navigiert
             - ⚠️ Falls die Options-Liste zuvor noch zugeklappt war, so ist sie jetzt aufgeklappt
@@ -60,7 +60,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 1. Autocomplete wie zuvor bedienen, dieses mal **mit Screenreader** (ggf. Seite neu laden), und prüfen:
     - ⚠️ Bedienung dürfte in etwa gleich sein wie mit Tastatur alleine
     - Vermittelt der Screenreader das Element adäquat?
-        - **🙂 Beispiel:** "Eingabe mit Auto-Vervollständigung" oder ähnlich, in Verbindung mit ✅-37
+        - **🙂 Beispiel:** "Eingabe mit Auto-Vervollständigung" oder ähnlich, in Verbindung mit **✅-37 Formularfelder Labels**
         - **😡 Beispiel:** "Eingabe"
         - ⚠️ Screenreader-Nutzende benötigen keine zusätzliche Hilfe zur Bedienung einer Autocomplete (solange diese sich mit den genannten Tasten wie erwartet bedienen lässt)
     - Beim Erreichen des Elements: vermittelt der Screenreader den Ausklapp-Zustand der Options-Liste adäquat?
@@ -93,8 +93,8 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
         - **🙄 Beispiel:** "X"-Schalter wird als "Löschen" angesagt → ggf. nicht sehr eindeutig: wird der Suchbegriff gelöscht? Wird die aktuell gewählte Option gelöscht? Wird das gesamte Element zurück gesetzt?
         - **😡 Beispiel:** "X"-Schalter wird als "X" angesagt
     - Bei Navigation (z.B. Suchmaschine): vermittelt der Screenreader die angewählte Option?
-        - **🙂 Beispiel:** Neue Seite wird geladen → `<title>` wird automatisch ausgegeben (✅-72)
-        - **🙂 Beispiel:** "Der Herr der Ringe, Teil 1" → Fokus-Führung (✅-74) oder Status-Meldung (✅-111) bei In-Page-Änderung
+        - **🙂 Beispiel:** Neue Seite wird geladen → `<title>` wird automatisch ausgegeben (**✅-72 Aussagekräftiger Titel**)
+        - **🙂 Beispiel:** "Der Herr der Ringe, Teil 1" → Fokus-Führung (**✅-74 Fokus-Führung**) oder Status-Meldung (**✅-111 Statusmeldungen**) bei In-Page-Änderung
         - **😡 Beispiel:** Kein Hinweis
     - Vermittelt der Screenreader die Anzahl aktuell angezeigter Optionen beim Suchen?
         - **🙂 Beispiel:** "16 Ergebnisse"
@@ -117,7 +117,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
         - **🙂 Beispiel:** "Wähle drei Hobbys" → Anzahl im Label
         - **🙂 Beispiel:** "Hobbys (mindestens zwei, maximal fünf)" → expliziter Hinweis
         - **😡 Beispiel:** Kein Hinweis
-        - ⚠️ Ein solcher Hinweis kann auch als Fehler-Meldung implementiert werden, siehe ✅-93
+        - ⚠️ Ein solcher Hinweis kann auch als Fehler-Meldung implementiert werden, siehe **✅-93 Fehlermeldungen in Formularen**
     - Wenn eine noch nicht existierende Option mittels Suchbegriff und `Enter` erstellt werden kann: vermittelt dies der Screenreader und gibt ein entsprechendes Feedback?
         - **🙂 Beispiel:** "Drücke Enter, um 'Gärtnern' zu erstellen" → beim Fokussieren der Autocomplete
         - **😡 Beispiel:** Kein Hinweis auf Funktionalität
@@ -135,7 +135,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 #### Funktionalitäten
 
 - Bei **Einfach-Auswahl** kann ein einzelner Wert gewählt werden (z.B. eine Hotel-Bewertung zwischen "1 Stern" und "5 Sterne")
-    - Manchmal handelt es sich um ein **Pflicht-Feld** → siehe ✅-94
+    - Manchmal handelt es sich um ein **Pflicht-Feld** → siehe **✅-94 Pflichtfelder**
 - Bei **Mehrfach-Auswahl** können mehrere Werte gewählt werden (z.B. "Ihre Hobbys")
     - Manchmal wird eine **Mindest-** und/oder eine **maximale Anzahl** gewählter Werte gefordert (z.B. "Wählen Sie zwischen 2 und 5 Hobbys aus")
 - Manchmal wird ein **Suchbegriff gefordert**, damit Optionen angezeigt werden
@@ -157,9 +157,9 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 #### Visuelles Erscheinungs-Bild
 
-- Oft ähnelt die Darstellung einer klassischen, relativ kompakten Auswahl-Liste (`<select>` oder ✅-104), insbesondere wenn es sich um ein **Formular-Feld** handelt
+- Oft ähnelt die Darstellung einer klassischen, relativ kompakten Auswahl-Liste (`<select>` oder **✅-104 Dropdowns (Aufklapp-Elemente)**), insbesondere wenn es sich um ein **Formular-Feld** handelt
     - Oft mit einem zusätzlichen Schalter "Such-Begriff löschen" (visuell als "X" dargestellt)
-- Manchmal handelt es sich aber auch um recht komplexe, auch seitenbreite ausklappbare Elemente, welche eher einem Dialog (✅-103) ähneln, insbesondere wenn es sich um eine **Navigation** handelt
+- Manchmal handelt es sich aber auch um recht komplexe, auch seitenbreite ausklappbare Elemente, welche eher einem Dialog (**✅-103 Dialoge**) ähneln, insbesondere wenn es sich um eine **Navigation** handelt
     - Diese können zusätzliche Schaltflächen anbieten (etwa "Suchbegriff löschen" oder "Alle / keine auswählen"), welche typischerweise mit `Tab` erreicht werden
     - Aber auch Hinweise zum Status der Suche (etwa "12 Resultate verfügbar" oder "Ergebnisse werden geladen")
     - Sowie zusätzliche Informationen zu den einzelnen angezeigten Such-Resultaten (etwa die Beschreibung der Artikel in einem Online-Shop).

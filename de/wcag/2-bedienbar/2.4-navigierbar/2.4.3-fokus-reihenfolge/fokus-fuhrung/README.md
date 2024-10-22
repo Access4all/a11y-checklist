@@ -25,11 +25,11 @@ Der Tastatur-Fokus wird sinnvoll geführt, wenn jemand mit Elementen auf der Sei
 
 1. Seite öffnen
 1. Mit `Tab`-Taste durch die Seite navigieren:
-    - Falls Fokus schlecht (oder gar nicht) sichtbar → 🏷️-22 aktivieren
+    - Falls Fokus schlecht (oder gar nicht) sichtbar → **🏷️-22 NerdeFocus Extension** aktivieren
 1. Elemente aktivieren (`Enter`-Taste), welche potenziell In-Page-Änderungen (siehe unten) mit Interaktions-Aufforderung (siehe unten) bewirken und jeweils prüfen:
     - Wird der Fokus daraufhin an einen sinnvollen Ort gesetzt?
         - **🙂 Beispiel:** Ein Dialog öffnet sich und der Fokus wird auf dessen "Schliessen"-Schalter gesetzt
-            - Der Schalter muss sich im DOM vor dem eigentlichen Dialog-Inhalt befinden, damit Screenreader-Nutzende beim Weiterlesen den Inhalt nicht verpassen (siehe ✅-47)!
+            - Der Schalter muss sich im DOM vor dem eigentlichen Dialog-Inhalt befinden, damit Screenreader-Nutzende beim Weiterlesen den Inhalt nicht verpassen (siehe **✅-47 Korrekte Reihenfolge**)!
         - **🙄 Beispiel:** Der Fokus wird auf den gesamten Dialog gesetzt.
             - ⚠️ Verhindert die direkte Interaktion mit Tastatur (`Tab` muss erst gedrückt werden, um "Schliessen"-Schalter zu erreichen)
             - ⚠️ Der gesamte Dialog-Inhalt wird vom Screenreader automatisch vorgelesen (meistens nicht gewünscht)
@@ -42,7 +42,7 @@ Der Tastatur-Fokus wird sinnvoll geführt, wenn jemand mit Elementen auf der Sei
 
 Fokus-Führung ist dann wichtig, wenn sich etwas auf der **aktuellen Seite verändert** (In-Page) und sogleich die Aufmerksamkeit des Nutzenden fordert:
 
-- Dies kann auf eine Aktion des Nutzenden erfolgen, etwa wenn ein Klick auf "AGBs anzeigen" einen Dialog (✅-103) öffnet.
+- Dies kann auf eine Aktion des Nutzenden erfolgen, etwa wenn ein Klick auf "AGBs anzeigen" einen Dialog (**✅-103 Dialoge**) öffnet.
 - Es kann aber auch ein Ereignis aus heiterem Himmel sein, etwa wenn beim e-Banking plötzlich die Meldung "Ihre Sitzung wird in 2 Minuten aufgrund von Inaktivität beendet" angezeigt wird.
 
 Bei Neuladen der Seite (Reload) ist Fokus-Führung im Normalfall nicht notwendig (etwa wenn "AGBs anzeigen" keinen Dialog öffnet, sondern auf eine andere Seite verlinkt).
@@ -54,7 +54,7 @@ Fokus-Führung ist dann wichtig, wenn die In-Page-Änderung zu einer Interaktion
 - Der AGBs-Dialog muss über den "Schliessen"-Schalter geschlossen werden.
 - Die obige Meldung im e-Banking bietet eine Schaltfläche "Sitzung jetzt verlängern" an.
 
-Wenn es sich hingegen um einen reinen Hinweis handelt (etwa ohne Schaltfläche zur Verlängerung der Sitzung), so ist eine Status-Nachricht (ohne Fokus-Führung) sinnvoller, siehe ✅-111.
+Wenn es sich hingegen um einen reinen Hinweis handelt (etwa ohne Schaltfläche zur Verlängerung der Sitzung), so ist eine Status-Nachricht (ohne Fokus-Führung) sinnvoller, siehe **✅-111 Statusmeldungen**.
 
 ## Screenshots typischer Fälle
 

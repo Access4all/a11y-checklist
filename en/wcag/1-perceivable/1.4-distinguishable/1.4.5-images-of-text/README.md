@@ -16,7 +16,7 @@ created_at: "2015-08-04 14:36:00"
 
 If texts are integrated as graphics (e.g. using the `<img>` element), this makes it more difficult for people with visual impairments to read them, as they cannot adapt them to their individual needs (e.g. scaling the size without loss of quality, changing foreground and background colors, spacing or font, etc.).
 
-Exceptions are texts for which the particular type of presentation is indispensable for the information conveyed (e.g. logos or brand names), as well as texts that are part of an image or diagram with additional visual content (such as labels on a diagram). Accurate labeling of these is then necessary, see 📜-1.1.1.
+Exceptions are texts for which the particular type of presentation is indispensable for the information conveyed (e.g. logos or brand names), as well as texts that are part of an image or diagram with additional visual content (such as labels on a diagram). Accurate labeling of these is then necessary, see **📜-1.1.1 Non-text Content**.
 
 **Note:** The possibilities of modern HTML (such as individual fonts and SVG) make the use of font graphics hardly necessary anymore.
 

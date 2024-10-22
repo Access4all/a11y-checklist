@@ -24,7 +24,7 @@ Wenn Alternativtext nicht ausreicht (z.B. bei komplexen Grafiken wie Infografike
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-32 ausführen (oder in 🏷️-51 unter "Images" → "Display Alt Attributes" wählen)
+1. **🏷️-32 Image Alt Text Viewer Extension** ausführen (oder in **🏷️-51 Web Developer Extension** unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass komplexe Grafiken passende Alternativtexte aufweisen, ggf. mit Verweis auf weitere Information
     - ⚠️ Ein ungeschriebenes (?) Gesetz sagt, dass ein typischer `alt`-Text nicht viel länger als 100 Zeichen sein sollte, u.a. da ausführliche schriftliche Information (z.B. eine kurze Zusammenfassung einer Statistik) ja auch für Sehende interessant sein könnte
     - **🙂 Beispiel:** Ein statistisches Diagramm hat den Alternativtext "Screenreader-Nutzung von 2009 bis 2024, Details siehe unten", darunter befinden sich Text-Paragrafen mit weiteren Infos

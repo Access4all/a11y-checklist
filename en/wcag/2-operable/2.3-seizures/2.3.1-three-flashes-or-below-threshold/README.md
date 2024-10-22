@@ -16,7 +16,7 @@ Animations should **not flash more than three times per second**. This allows pe
 
 Web pages must not contain anything that flashes more than three times per second (unless the flash is below the general limit for this).
 
-**Note:** We recommend avoiding flashes in general. Remember that flashing is different from blinking (see 📜-2.2.2).
+**Note:** We recommend avoiding flashes in general. Remember that flashing is different from blinking (see **📜-2.2.2 Pause, Stop, Hide**).
 
 ### Responsibilities
 

@@ -19,7 +19,7 @@ List elements can be arranged both horizontally (next to each other, e.g. social
 
 Lists with a single entry should be avoided (unless they are generated automatically). Lists can be nested, for example for submenus.
 
-**Important:** Lists are suitable for grouping small elements. For more extensive elements, `<article>` or `<section>` are more suitable; such as news teasers, which consist of a title, date, image, text, etc. (see also ✅-112).
+**Important:** Lists are suitable for grouping small elements. For more extensive elements, `<article>` or `<section>` are more suitable; such as news teasers, which consist of a title, date, image, text, etc. (see also [✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}).
 
 ### Responsibilities
 

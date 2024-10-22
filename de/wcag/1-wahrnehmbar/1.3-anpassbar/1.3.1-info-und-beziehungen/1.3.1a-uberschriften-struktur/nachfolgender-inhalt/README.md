@@ -24,17 +24,17 @@ created_at: "2024-03-14 12:25:33"
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-1 ausführen
+1. **🏷️-1 H123 Bookmarklet** ausführen
 1. Sicherstellen, dass alle Überschriften einen nachfolgenden Inhalt haben:
-    - ⚠️ Inhalt kann fast alles sein: Paragraf, Link, Sub-Überschrift, Bild (ausser wenn bloss dekorativ, siehe ✅-13), Formular-Felder, etc. → Hauptsache, ein Screenreader gibt etwas aus!
+    - ⚠️ Inhalt kann fast alles sein: Paragraf, Link, Sub-Überschrift, Bild (ausser wenn bloss dekorativ, siehe **✅-13 Dekorative Grafiken**), Formular-Felder, etc. → Hauptsache, ein Screenreader gibt etwas aus!
     - **🙂 Beispiel:** In der Navigation nach `<h2>Navigation</h2>` folgt eine Liste mit Links zu Unterseiten.
     - **🙂 Beispiel:** Im Haupt-Inhalt nach `<h1>Meine Hobbys</h1>` folgen Paragrafen und Bilder, Sub-Überschriften (`<h2>`), Links etc. zum Thema Hobbys.
-    - **🙂 Beispiel:** In einer Auflistung von Cards (✅-112) verfügen die einzelnen Cards nach der Überschrift auch über z.B. einen Paragrafen und ein Bild.
-    - **😡 Beispiel:** Cards (✅-112) verfügen nur über eine Überschrift und ein dekoratives Bild.
+    - **🙂 Beispiel:** In einer Auflistung von Cards ([✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}) verfügen die einzelnen Cards nach der Überschrift auch über z.B. einen Paragrafen und ein Bild.
+    - **😡 Beispiel:** Cards ([✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}) verfügen nur über eine Überschrift und ein dekoratives Bild.
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - Überschriften mit `H` anspringen und sicherstellen, dass nachfolgender Inhalt vorhanden.
 

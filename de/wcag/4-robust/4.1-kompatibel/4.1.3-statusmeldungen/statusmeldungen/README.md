@@ -24,7 +24,7 @@ Statusmeldungen sind für assistierende Technologien zugänglich und überstrapa
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Sicherstellen, dass Status-Nachrichten in 🏷️-13 ausgegeben werden
+1. Sicherstellen, dass Status-Nachrichten in **🏷️-13 NVDA Screenreader** ausgegeben werden
     - **🙂 Beispiel:** Auf einer Such-Seite werden die Such-Filter angepasst, wodurch die Ergebnisse neu geladen werden (ohne Neuladen der Seite); der Hinweis "15 Such-Resultate gefunden" wird vom Screenreader angesagt.
         - **😡 Beispiel:** Es wird vom Screenreader nichts angesagt.
     - **🙂 Beispiel:** In einem Online-Shop wird ein Artikel in den Warenkorb gelegt, wodurch die Zahl beim Warenkorb-Symbol um 1 hochgezählt wird (ohne Neuladen der Seite); der Screenreader sagt "Artikel hinzugefügt", "4 Artikel im Warenkorb" oder ähnlich.

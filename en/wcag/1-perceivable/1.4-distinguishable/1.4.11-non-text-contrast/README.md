@@ -24,9 +24,9 @@ For switches, it is recommended that the clickable area is also labelled with su
 
 For graphic elements, sufficient contrast means that every visual cue required for perception and interpretation must have a contrast value of at least ‘3:1’. This means, for example, curves and lines of a diagram, symbols contained therein, labelling, etc.
 
-**Note:** The minimum contrast requirements only apply to meaningful, informative graphic elements; purely decorative graphics are therefore not meant. See also 📜-1.4.3 in this regard.
+**Note:** The minimum contrast requirements only apply to meaningful, informative graphic elements; purely decorative graphics are therefore not meant. See also **📜-1.4.3 Contrast (Minimum)** in this regard.
 
-**Exception:** Excluded are inactive control elements (`disabled` attribute). However, we recommend refraining from using `disabled` for switches in particular, as this has negative side effects (e.g. the switch can then no longer be focussed with the keyboard, see 📜-2.1.1).
+**Exception:** Excluded are inactive control elements (`disabled` attribute). However, we recommend refraining from using `disabled` for switches in particular, as this has negative side effects (e.g. the switch can then no longer be focussed with the keyboard, see **📜-2.1.1 Keyboard**).
 
 **Tip:** Break down complex graphics into their smallest meaningful parts. Check the contrast between each part and the adjacent colours.
 

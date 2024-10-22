@@ -29,7 +29,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 1. Seite öffnen
 1. Karussell mit Tastatur alleine bedienen und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter ✅-63 zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
     - Bedien-Elemente zum Wechseln der angezeigten Folie fokussieren und mit `Enter` aktivieren (z.B. "Nächste Folie"- oder "Folie 5: Costa Rica"-Schalter)!
         - ⚠️ Manchmal kann mit `Links`/`Rechts` direkt zwischen Folien navigiert werden
     - Wird der Inhalt eingeblendet?
@@ -42,9 +42,9 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
     - Bei Auto-Rotation: kann der Mechanismus gestoppt werden?
         - **🙂 Beispiel:** Ein "Pausieren"-Schalter stoppt die Rotation
         - **🙄 Beispiel:** Sobald mit dem Karussell interagiert (z.B. die Folie gewechselt) wurde, stoppt die Rotation
-        - **😡 Beispiel:** Die Rotation kann nicht gestoppt werden → unter ✅-69 zu bemängeln!
+        - **😡 Beispiel:** Die Rotation kann nicht gestoppt werden → unter **✅-69 Dauerhaft animierte Inhalte** zu bemängeln!
     - Bei Scroll-Karussell: müssen alle Inhalte mit `Tab` durchlaufen werden?
-        - **🙂 Beispiel:** Ein "Überspringen"-Schalter erlaubt das Überspringen der Inhalte → vgl. ✅-71
+        - **🙂 Beispiel:** Ein "Überspringen"-Schalter erlaubt das Überspringen der Inhalte → vgl. **✅-71 Sprunglinks**
         - **😡 Beispiel:** Alle Inhalte müssen durchlaufen werden
         - ⚠️ Screenreader sind hier im Vorteil, da sie diverse weitere Möglichkeiten haben, Inhalte zu überspringen, und nicht auf `Tab` angewiesen sind.
 1. Karussell wie zuvor bedienen, dieses mal **mit Screenreader** (ggf. Seite neu laden), und prüfen:
@@ -67,12 +67,12 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
     - Bei Auto-Rotation: kann der Mechanismus gestoppt werden?
         - **🙂 Beispiel:** Ein "Pausieren"-Schalter stoppt die Rotation
         - **🙄 Beispiel:** Sobald mit dem Karussell interagiert (z.B. die Folie gewechselt) wurde, stoppt die Rotation
-        - **😡 Beispiel:** Die Rotation kann nicht gestoppt werden → unter ✅-53 zu bemängeln!
-        - ⚠️ Automatische Rotation kann für Screenreader-Nutzer insbesondere dann anstrengend sein, wenn das Karussell beim Wechsel der angezeigten Folie diese automatisch via Status-Nachricht (✅-111) ansagt, da dies zu regelmässiger Belästigung im Audio-Kanal führt → davon ist generell stark abzuraten!
+        - **😡 Beispiel:** Die Rotation kann nicht gestoppt werden → unter **✅-53 Automatisch abspielender Audio-Inhalt** zu bemängeln!
+        - ⚠️ Automatische Rotation kann für Screenreader-Nutzer insbesondere dann anstrengend sein, wenn das Karussell beim Wechsel der angezeigten Folie diese automatisch via Status-Nachricht (**✅-111 Statusmeldungen**) ansagt, da dies zu regelmässiger Belästigung im Audio-Kanal führt → davon ist generell stark abzuraten!
 
 ### Konventionen
 
-- Karusselle ähneln Tabs (✅-106), sind aber oft komplexer und weniger standardisiert
+- Karusselle ähneln Tabs (**✅-106 Tabs / Tablisten**), sind aber oft komplexer und weniger standardisiert
 - Die meisten Karusselle haben "**Nächste/Vorherige Folie** anzeigen"-Schalter
     - Manche haben für jede Folie einen eigenen "Folie 1/2/3... anzeigen"-Schalter
 - Manche Karusselle haben eine **Auto-Rotation**, um die Folien in regelmässigem Abstand zu rotieren

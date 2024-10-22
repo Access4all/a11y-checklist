@@ -27,7 +27,7 @@ Ausnahme: Wenn der synchronisierte Video-Inhalt eine Medienalternative für bere
 
 ### Test-Schritte
 
-Siehe ✅-15 (Level A) bzw. ✅-20 (Level AA)
+Siehe **✅-15 Alternative für Audio-Inhalte** (Level A) bzw. **✅-20 Audiodeskription** (Level AA)
 
 ## Screenshots typischer Fälle
 

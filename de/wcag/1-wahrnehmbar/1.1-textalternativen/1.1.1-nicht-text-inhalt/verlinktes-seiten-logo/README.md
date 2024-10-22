@@ -24,9 +24,9 @@ Das Seiten-Logo (mit Link zur Startseite) verfügt über eine sinnvolle Textalte
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-32 ausführen (oder in 🏷️-51 unter "Images" → "Display Alt Attributes" wählen)
+1. **🏷️-32 Image Alt Text Viewer Extension** ausführen (oder in **🏷️-51 Web Developer Extension** unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass verlinkte Seiten-Logos einen passenden Alternativtext aufweisen
-    - ⚠️ Für sonstige verlinkte Grafiken existiert ✅-6!
+    - ⚠️ Für sonstige verlinkte Grafiken existiert **✅-6 Verlinkte Grafiken**!
     - **🙂 Beispiel:** Das Logo einer Firma verlinkt auf die Startseite; der Alternativtext ist "Logo ACME Inc., zur Startseite"
         - **😡 Beispiel:** Bei "ACME Inc." alleine fehlt das Linkziel
         - **😡 Beispiel:** Bei "Zur Startseite" alleine fehlt der Bildinhalt

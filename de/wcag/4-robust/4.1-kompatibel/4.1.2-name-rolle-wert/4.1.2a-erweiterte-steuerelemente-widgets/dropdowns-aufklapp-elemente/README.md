@@ -29,7 +29,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 1. Seite öffnen
 1. Dropdown mit **Tastatur** alleine bedienen und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter ✅-63 zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
     - Dropdown fokussieren und mit `Enter` und/oder `Hoch`/`Runter` öffnen
         - **🙂 Beispiel:** Das Element öffnet sich sowohl bei `Enter` als auch `Hoch/Runter`
         - **😡 Beispiel:** Das Element öffnet sich nicht
@@ -41,12 +41,12 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
         - **😡 Beispiel:** Die Optionen können **nicht** aktiviert werden
     - Kann das Dropdown mit `Esc` (oder einem "X"-Schalter) geschlossen werden?
         - **🙂 Beispiel:** Er wird geschlossen → Nice-to-Have
-        - **🙄 Beispiel:** Er wird nicht geschlossen → je nach Situation kann das dennoch inakzeptabel sein, siehe auch ✅-62
+        - **🙄 Beispiel:** Er wird nicht geschlossen → je nach Situation kann das dennoch inakzeptabel sein, siehe auch **✅-62 Inhalte per Hover oder Fokus**
     - ⚠️ Bei komplexeren Elementen wie verschachtelten Navigationen ("Angebote → Dienstleistungen") oder Menü-Leisten (z.B. "Bearbeiten → Einfügen → Text") wird sinngemäss vorgegangen; manchmal sind hier auch die Tasten `Links`/`Rechts` oder `Tab` zu verwenden
 1. Dropdown wie zuvor bedienen, dieses mal mit **Screenreader** (ggf. Seite neu laden), und prüfen:
     - Vermittelt der Screenreader die Rolle des Elements adäquat?
         - **🙂 Beispiel:** Es wird eine explizite Rolle ausgegeben, die einen Hinweis darauf gibt, dass das Element ausgeklappt werden kann, z.B. "Menü", "Menüleiste", "Menü-Eintrag", "Unter-Menü", "Kombinations-Feld" o.ä.
-        - **🙂 Beispiel:** Es wird nur ein Klapp-Status ("eingeklappt" oder "ausgeklappt") ausgegeben → ⚠️ Dies reicht meistens vollauf (ein einfaches `aria-expanded`-Attribut genügt hierzu, siehe 🏷️-17)
+        - **🙂 Beispiel:** Es wird nur ein Klapp-Status ("eingeklappt" oder "ausgeklappt") ausgegeben → ⚠️ Dies reicht meistens vollauf (ein einfaches `aria-expanded`-Attribut genügt hierzu, siehe **🏷️-17 aria-expanded**)
         - **😡 Beispiel:** Es wird weder ein Hinweis auf eine Rolle noch auf den Klapp-Status gegeben
     - Beim Öffnen/Schliessen: wird der Status vermittelt?
         - **🙂 Beispiel:** Es wird "Aufgeklappt" bzw. "Zugeklappt" ausgegeben
@@ -67,7 +67,7 @@ Die Nutzung des Begriffs "Dropdown" wird kontrovers diskutiert, da er zu allgeme
 
 - **Formular-Dropdowns** dienen dem Auswählen eines **Werts** (z.B. ob "Mann", "Frau" oder "Divers")
     - Sie sind meist ein Ersatz für traditionelle `<select>`-Elemente (denn diese können nur begrenzt visuell gestaltet werden)
-    - Wenn zusätzlich nach einer Option gesucht werden kann, handelt es sich hingegen um Autocompletes (siehe ✅-101)
+    - Wenn zusätzlich nach einer Option gesucht werden kann, handelt es sich hingegen um Autocompletes (siehe **✅-101 Autocompletes (Comboboxen)**)
 - **Navigations-Dropdowns** dienen dem Auswählen eines **Ziels** (z.B. "Gehe zu Login-Seite" oder "Gehe zu Startseite")
 - **Aktions-Dropdowns** dienen dem Auswählen einer **Aktion**
     - Typischerweise in einer Auflistung von Elementen, z.B. "Bearbeite Nutzer X" oder "Lösche Artikel Y"
@@ -88,7 +88,7 @@ Die Nutzung des Begriffs "Dropdown" wird kontrovers diskutiert, da er zu allgeme
 
 #### Abgrenzung
 
-Dropdowns können **Toggletips** (siehe ✅-107) stark ähneln, enthalten aber typischerweise vor allem interaktive Elemente, also Menü-Einträge (und nicht hauptsächlich lesbare Inhalte).
+Dropdowns können **Toggletips** (siehe **✅-107 Tooltips / Toggletips**) stark ähneln, enthalten aber typischerweise vor allem interaktive Elemente, also Menü-Einträge (und nicht hauptsächlich lesbare Inhalte).
 
 ## Screenshots typischer Fälle
 

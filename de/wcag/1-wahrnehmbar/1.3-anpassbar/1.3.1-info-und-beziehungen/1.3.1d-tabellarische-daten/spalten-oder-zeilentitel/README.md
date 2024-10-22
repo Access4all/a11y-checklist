@@ -24,7 +24,7 @@ Daten-Tabellen weisen Spalten- oder Zeilentitel (`<th>`) auf, idealerweise beide
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-49 ausführen
+1. **🏷️-49 Tables (Bookmarklet)** ausführen
 1. Sicherstellen, dass Zeilen- und Spalten-Header korrekt mit `<th>` ausgezeichnet sind
     - **🙂 Beispiel:** Eine Tabelle mit Adressen hat sowohl Spalten-Header (`<th>ID</th>`, <th>Vorname</th>, `<th>Nachname</th>`, `<th>PLZ</th>` etc.) als mind. ein Header pro Zeile, z.B. jeweils der Vor- und Nachname (<th>Hans</th> und `<th>Müller</th>`), und/oder die ID (`<th>1234</th>`), o.ä.
         - **😡 Beispiel:** Die Tabelle hat nur Spalten-Header (die Zeilen-Elemente sind alle nur als `<td>` ausgezeichnet, also `<td>Hans</td>`, `<td>Müller</td>`, `<td>1234</td>`, etc.)
@@ -35,7 +35,7 @@ Daten-Tabellen weisen Spalten- oder Zeilentitel (`<th>`) auf, idealerweise beide
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - Mit `T` zu Tabelle springen
 - Mit `Ctrl`+`Alt`+`Pfeile` durch die Zellen navigieren (quasi wie in Excel) und sicherstellen, dass jeweils die korrekten Zeilen-Header angesagt werden

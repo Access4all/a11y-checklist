@@ -24,8 +24,8 @@ Visuell erkennbare Zitate sind semantisch korrekt ausgezeichnet (z.B. als `<bloc
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-44 ausführen (oder mit 🏷️-13 direkt mit `Q` von Zitat zu Zitat springen)
-    - ⚠️ Um Probleme genauer zu evaluieren, ist der 🏷️-47 nützlich
+1. **🏷️-44 Inhalte gegliedert Bookmarklet** ausführen (oder mit **🏷️-13 NVDA Screenreader** direkt mit `Q` von Zitat zu Zitat springen)
+    - ⚠️ Um Probleme genauer zu evaluieren, ist der **🏷️-47 DOM Inspektor** nützlich
 1. Sicherstellen, dass Zitate korrekt als `<blockquote>` ausgezeichnet sind
     - **🙂 Beispiel:** Kennedy's Zitat "Ich bin ein Berliner!" ist als `<blockquote>` ausgezeichnet
         - ⚠️ Es dürfen weitere Elemente wie `<p>`, `<ul>`, etc. enthalten sein

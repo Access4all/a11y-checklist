@@ -31,7 +31,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 1. Seite öffnen
 1. Tooltip / Toggletip mit Tastatur alleine bedienen und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter ✅-63 zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
     - Element zum Öffnen des Tooltips / Toggletips fokussieren (z.B. visuell hervor gehobenes Akronym "WCAG" in einem Fliesstext)!
         - ⚠️ Tooltips werden bei Fokus automatisch eingeblendet; Toggletips müssen mit `Enter` aktiviert werden
     - Wird der Inhalt eingeblendet?
@@ -43,7 +43,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
         - **😡 Beispiel:** Ein solcher Link kann nur rückwärts (`Shift`-`Tab`) erreicht werden
     - Kann der Tooltip / Toogletip mit `Esc` (oder einem "X"-Schalter) geschlossen werden?
         - **🙂 Beispiel:** Er wird geschlossen → Nice-to-Have
-        - **🙄 Beispiel:** Er wird nicht geschlossen → je nach Situation kann das dennoch inakzeptabel sein, siehe auch ✅-62
+        - **🙄 Beispiel:** Er wird nicht geschlossen → je nach Situation kann das dennoch inakzeptabel sein, siehe auch **✅-62 Inhalte per Hover oder Fokus**
 1. Tooltip / Toggletip wie zuvor bedienen, dieses mal **mit Screenreader** (ggf. Seite neu laden), und prüfen:
     - ⚠️ Bedienung dürfte in etwa gleich sein wie mit Tastatur alleine
     - Bei Tooltip: Vermittelt der Screenreader beim Erreichen des Elements die zusätzlich angezeigte Information adäquat?
@@ -79,9 +79,9 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 - Sie beinhalten meist keine interaktiven Elemente, sondern nur einfachen Text.
 - Oft wird eine ausgefeilte ARIA-Implementierung verwendet (siehe [APG: Tooltip Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/tooltip/))
     - Es kann aber auch ein einfaches `<span>` o.ä. sein (siehe [ADG: Tooltip](https://www.accessibility-developer-guide.com/examples/widgets/tooltips/))
-- Toggletips können **Dropdowns** (siehe ✅-104) stark ähneln, enthalten aber typischerweise vor allem lesbare Inhalte (und nicht hauptsächlich interaktive Elemente, also Menü-Einträge)
+- Toggletips können **Dropdowns** (siehe **✅-104 Dropdowns (Aufklapp-Elemente)**) stark ähneln, enthalten aber typischerweise vor allem lesbare Inhalte (und nicht hauptsächlich interaktive Elemente, also Menü-Einträge)
 
-⚠️ Dem gegenüber stehen die grösseren und komplexeren **Dialoge**, siehe ✅-103.
+⚠️ Dem gegenüber stehen die grösseren und komplexeren **Dialoge**, siehe **✅-103 Dialoge**.
 
 ## Screenshots typischer Fälle
 

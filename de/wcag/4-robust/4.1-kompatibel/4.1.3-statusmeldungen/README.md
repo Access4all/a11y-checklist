@@ -24,7 +24,7 @@ Typischerweise handelt es sich um Status-Meldungen folgender Art:
 - "2 Produkte im Warenkorb" oder "Produkt in den Warenkorb gelegt", z.B. wenn per Schaltfläche die Zahl der Produkte in einem Warenkorb erhöht wird oder ein Produkt dem Warenkorb hinzugefügt wird.
 - "Buch auf der Merkliste hinzugefügt", z.B. wenn eine Merken-Funktion für Produkte zur Verfügung steht.
 - "Vorname ist ein Pflichtfeld" oder "2 Felder sind fehlerhaft", z.B. bei Client-seitiger Überprüfung eines Formulars (also ohne Neuladen der Seite).
-    - Dies ist nicht zu empfehlen bei Verlassen eines Felds, sondern erst bei Abschicken des Formulars (zur Umsetzung von Fehlermeldungen siehe auch 📜-3.3.1 sowie 📜-3.3.3).
+    - Dies ist nicht zu empfehlen bei Verlassen eines Felds, sondern erst bei Abschicken des Formulars (zur Umsetzung von Fehlermeldungen siehe auch **📜-3.3.1 Fehlerkennzeichnung** sowie **📜-3.3.3 Vorschlag bei Fehler**).
 - "Die Auktion läuft in 60 Sekunden ab", z.B. bei einer Online-Auktion.
 
 **Wichtig:** Wenn solche Meldungen **nicht** in die aktuelle Seite hineingeladen werden (via JavaScript), sondern jeweils die ganze Seite neu lädt, dann handelt es sich **nicht** um Status-Meldungen. In solchen Fällen sind keine zusätzlichen Vorkehrungen gefordert.
@@ -33,7 +33,7 @@ Typischerweise handelt es sich um Status-Meldungen folgender Art:
 
 Die Ausgabe eines Elements durch assistierende Technologien kann mit Live-Regions erfolgen (z.B. `aria-live="polite"` oder `role="alert"`). Setzen Sie diese aber mit Bedacht ein, um den Audiokanal nicht zu überstrapazieren: es ist z.B. unerwünscht, im Screenreader regelmässig scheinbar willkürliche Status-Meldungen zu hören, da dies zu unerwünschten Überlagerungen und Unterbrechungen im Audiokanal führen kann.
 
-**Hinweis:** Damit ein Element durch assistive Technologien angesagt wird, kann auch der Fokus darauf gesetzt werden (siehe ✅-47). Dies macht aber nur dann Sinn, wenn mit dem Element direkt interagiert werden soll (z.B. bei der Anzeige einer Meldung "Ihre Session läuft in 2 Minuten ab; klicken Sie hier, um zu verlängern!"). Bei blossen Hinweisen (ohne Handlungsbedarf) ist dies hingegen nicht angebracht.
+**Hinweis:** Damit ein Element durch assistive Technologien angesagt wird, kann auch der Fokus darauf gesetzt werden (siehe **✅-47 Korrekte Reihenfolge**). Dies macht aber nur dann Sinn, wenn mit dem Element direkt interagiert werden soll (z.B. bei der Anzeige einer Meldung "Ihre Session läuft in 2 Minuten ab; klicken Sie hier, um zu verlängern!"). Bei blossen Hinweisen (ohne Handlungsbedarf) ist dies hingegen nicht angebracht.
 
 ### Single-Page-Apps (SPAs)
 

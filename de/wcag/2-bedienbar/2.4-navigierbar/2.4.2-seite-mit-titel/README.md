@@ -21,7 +21,7 @@ Das `<title>`-Element ist das erste, was nach dem Laden einer Seite von assistie
 
 Dabei sollte der sich wiederholende Teil (die Betreiber-Information) an den Schluss gesetzt werden. Zudem sollen die einzelnen Bestandteile des Titels sinnvoll getrennt werden (bspw. mit einem Bindestrich).
 
-**Tipp:** Es bietet sich an, dringende Hinweise (etwa bei Falscheingabe nach Absenden eines Formulars) auch im Seitentitel unterzubringen, damit diese frühzeitig vermittelt werden. Siehe diesbezüglich auch 📜-3.3.1.
+**Tipp:** Es bietet sich an, dringende Hinweise (etwa bei Falscheingabe nach Absenden eines Formulars) auch im Seitentitel unterzubringen, damit diese frühzeitig vermittelt werden. Siehe diesbezüglich auch **📜-3.3.1 Fehlerkennzeichnung**.
 
 ### Verantwortlichkeiten
 

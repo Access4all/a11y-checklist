@@ -22,11 +22,11 @@ Solche visuellen Hinweise müssen auch im Code durch entsprechende **Semantik** 
 
 Das vorliegende Erfolgskriterium 1.3.1 ist sehr umfangreich. Neben den Prüfpunkten, welche sich direkt darin befinden, existieren weitere Prüfpunkte in den Sub-Erfolgskriterien:
 
-- 📜-1.3.1a: Überschriften-Struktur
-- 📜-1.3.1b: Aufzählungen und Listen
-- 📜-1.3.1c: Formular-Beziehungen
-- 📜-1.3.1d: Tabellarische Daten
-- 📜-1.3.1e: Semantisch richtiges Markup
+- **📜-1.3.1a Überschriften-Struktur**: Überschriften-Struktur
+- **📜-1.3.1b Aufzählungen und Listen**: Aufzählungen und Listen
+- **📜-1.3.1c Formular-Beziehungen**: Formular-Beziehungen
+- **📜-1.3.1d Tabellarische Daten**: Tabellarische Daten
+- **📜-1.3.1e Semantisch richtiges Markup**: Semantisch richtiges Markup
 
 **Wichtig:** Diese Aufteilung von Erfolgskriterien in Sub-Erfolgskriterien existiert **nicht** im WCAG-Original. Sie ist eine Massnahme, um die Übersichtlichkeit der WCAG zu fördern.
 

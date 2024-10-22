@@ -24,7 +24,7 @@ Fussnoten sind barrierefrei umgesetzt: Auch mit einem Screenreader ist beim Fuss
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit 🏷️-13 Fussnoten lesen und bedienen
+1. Mit **🏷️-13 NVDA Screenreader** Fussnoten lesen und bedienen
 1. Sicherstellen, dass Fussnoten funktionieren und man den Kontext nicht verliert
     - **🙂 Beispiel:** Eine Fussnote zum Begriff "Ländlermusik" wird als "Fussnote 1: Ländlermusik" angesagt: sie ist ein in-Page-Link und beim Aktivieren springt man zur Definition; dort hat es wiederum einen in-Page-Link zurück nach oben zur "Fussnote 1".
         - **🙄 Beispiel:** Die Fussnote wird als "Fussnote 1" angesagt; dies ist zwar ausreichend, aber z.B. ohne Kontext (z.B. in einer Link-Liste) ist es wenig aussagekräftig

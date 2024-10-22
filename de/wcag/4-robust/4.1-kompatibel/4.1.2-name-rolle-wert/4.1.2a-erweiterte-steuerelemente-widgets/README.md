@@ -15,7 +15,7 @@ created_at: "2016-01-28 13:28:43"
 
 ### Standard-HTML vs. JavaScript-Widgets
 
-Auch wenn Standard-HTML viele nützliche Steuerelemente anbietet, so fehlen doch einige etwas anspruchsvollere Steuerelemente (JavaScript-Widgets), welche in aktuellen interaktiven Websites oft benötigt werden: Beispiele sind etwa Tabs (✅-106), Akkordeons (✅-100), Dropdowns (✅-104), Tooltips (✅-107), etc.
+Auch wenn Standard-HTML viele nützliche Steuerelemente anbietet, so fehlen doch einige etwas anspruchsvollere Steuerelemente (JavaScript-Widgets), welche in aktuellen interaktiven Websites oft benötigt werden: Beispiele sind etwa Tabs (**✅-106 Tabs / Tablisten**), Akkordeons (**✅-100 Akkordeons**), Dropdowns (**✅-104 Dropdowns (Aufklapp-Elemente)**), Tooltips (**✅-107 Tooltips / Toggletips**), etc.
 
 **Wichtig:** Wir empfehlen, wenn möglich Standard-HTML-Elemente einzusetzen, und JavaScript-Widgets nur dann einzusetzen, wenn HTML keine entsprechende Funktionalität anbietet. Entsprechend ist ein `<button>` einem `<div role="button">` vorzuziehen; dasselbe gilt für ein `<select>` anstelle eines JavaScript-Dropdowns.
 
@@ -23,7 +23,7 @@ HTML-Standardelemente werden von allen Browsern "von Haus aus" barrierefrei ange
 
 ### ARIA (Accessible Rich Internet Applications)
 
-ARIA bietet diverse Rollen (z.B. `role="tablist"`), Attribute und Zustände (z.B. `aria-selected="true"`) an. Damit können sowohl Standard- als auch diverse Nicht-Standard-Steuerelemente semantisch so angereichert werden, dass sie durch assistierende Technologien (z.B. Screenreader) zugänglich vermittelt werden und bedienbar sind. Grundlage hierfür ist stets eine solide Tastatur-Bedienbarkeit, siehe 📜-2.1.1.
+ARIA bietet diverse Rollen (z.B. `role="tablist"`), Attribute und Zustände (z.B. `aria-selected="true"`) an. Damit können sowohl Standard- als auch diverse Nicht-Standard-Steuerelemente semantisch so angereichert werden, dass sie durch assistierende Technologien (z.B. Screenreader) zugänglich vermittelt werden und bedienbar sind. Grundlage hierfür ist stets eine solide Tastatur-Bedienbarkeit, siehe **📜-2.1.1 Tastatur**.
 
 Die [ARIA Spezifikation](https://www.w3.org/WAI/standards-guidelines/aria/) für zugängliche Webanwendungen der Web Accessibility Initiative (WAI) beschreibt die vorhandenen Möglichkeiten; im [ARIA Authoring Practices Guide (APG)](https://www.w3.org/WAI/ARIA/apg/patterns/) werden konkrete Anwendungsfälle demonstriert.
 
@@ -31,13 +31,13 @@ Die Implementierung von Steuerelementen mittels ARIA ist nicht trivial, denn die
 
 Zusätzlich kennen die aktuellen Browser und assistierenden Technologien nicht alle verfügbaren Rollen, Zustände und Attribute. Teilweise werden sie unterschiedlich (oder auch fehlerhaft) interpretiert. Dies macht es machmal schwierig, ein Steuerelement auf allen gängigen Kombinationen von Ein- und Ausgabegeräten durchgängig zugänglich umzusetzen. Schnell sind solche Elemente auf anderen Plattformen (z.B. auf Mobilgeräten) nicht mehr barrierefrei bedienbar.
 
-Wir empfehlen deshalb, bereits bei der Spezifizierung einer Benutzeroberfläche genau zu überlegen, ob die gewünschte Funktionalität tatsächlich den Einsatz solcher Widgets erfordert. Es sollte auf jeden Fall nach Möglichkeiten gesucht werden, angedachte Funktionalitäten zu vereinfachen, so dass sie mit den von HTML standardmässig angebotenen Steuerelementen umgesetzt werden können. Viele scheinbar komplexe Anforderungen, welche auf den ersten Blick den Einsatz von Widgets notwendig erscheinen lassen, können in einfachere Teilanforderungen zerstückelt werden: ein Autocomplete (✅-101) etwa kann ein einfaches Textfeld sein, welches eine Gruppe von darunter liegenden Radiobuttons filtert.
+Wir empfehlen deshalb, bereits bei der Spezifizierung einer Benutzeroberfläche genau zu überlegen, ob die gewünschte Funktionalität tatsächlich den Einsatz solcher Widgets erfordert. Es sollte auf jeden Fall nach Möglichkeiten gesucht werden, angedachte Funktionalitäten zu vereinfachen, so dass sie mit den von HTML standardmässig angebotenen Steuerelementen umgesetzt werden können. Viele scheinbar komplexe Anforderungen, welche auf den ersten Blick den Einsatz von Widgets notwendig erscheinen lassen, können in einfachere Teilanforderungen zerstückelt werden: ein Autocomplete (**✅-101 Autocompletes (Comboboxen)**) etwa kann ein einfaches Textfeld sein, welches eine Gruppe von darunter liegenden Radiobuttons filtert.
 
 Zudem versuchen viele Implementierungen, die Funktionalität von bereits existierenden Standard HTML-Steuerelementen exakt zu imitieren, meist aufgrund von speziellen Anforderungen an das visuelle Design. Ob für solche visuellen Details der zu erwartende Implementierungs-Aufwand gerechtfertigt ist, muss abgewogen werden.
 
 **Vorsicht:** Viele angebotene JavaScript-Widget-Bibliotheken behaupten, auf Zugänglichkeit hin optimiert zu sein. Dies ist oft irreführend, da Ansichten über Zugänglichkeit sowie Zielplattformen sich unterscheiden können. Stellen Sie die Zugänglichkeit solcher Bibliotheken deshalb immer im Voraus selber sicher.
 
-**Hinweis:** Führung des Tastaturfokus ist oft wichtig bei JavaScript-Widgets (siehe dazu auch 📜-2.1.1 und 📜-2.4.3). Rückmeldungen an assistierende Technologien sind ebenso essenziell: Mit einer guten Fokusführung wird dies oft bereits ausreichend sichergestellt. Es kann aber auch durch Verwendung von Live Regions (z.B. `role="alert"`) erfolgen; setzen Sie diese aber mit Bedacht ein, um den Audiokanal nicht zu überstrapazieren (siehe dazu auch 📜-4.1.3).
+**Hinweis:** Führung des Tastaturfokus ist oft wichtig bei JavaScript-Widgets (siehe dazu auch **📜-2.1.1 Tastatur** und **📜-2.4.3 Fokus-Reihenfolge**). Rückmeldungen an assistierende Technologien sind ebenso essenziell: Mit einer guten Fokusführung wird dies oft bereits ausreichend sichergestellt. Es kann aber auch durch Verwendung von Live Regions (z.B. `role="alert"`) erfolgen; setzen Sie diese aber mit Bedacht ein, um den Audiokanal nicht zu überstrapazieren (siehe dazu auch **📜-4.1.3 Statusmeldungen**).
 
 ### Verantwortlichkeiten
 

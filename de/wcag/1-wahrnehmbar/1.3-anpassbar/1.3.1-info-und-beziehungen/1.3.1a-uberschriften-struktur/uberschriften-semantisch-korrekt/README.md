@@ -24,7 +24,7 @@ created_at: "2024-03-14 12:27:30"
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-1 ausführen
+1. **🏷️-1 H123 Bookmarklet** ausführen
 1. Sicherstellen, dass alle Elemente, die wie Überschriften aussehen, auch als solche ausgezeichnet sind:
     - **🙂 Beispiel:** `<h1>Meine Hobbys</h1>`
     - **🙂 Beispiel:** `<h2>Inhalts-Navigation</h2>`
@@ -34,7 +34,7 @@ created_at: "2024-03-14 12:27:30"
     - **😡 Beispiel:** `<div style="text-size: 2em; font-weight: bold">Meine Hobbys</div>`
     - **😡 Beispiel:** `<strong>Meine Hobbys</strong>`
 
-⚠️ Dies kann auch über den 🏷️-47 geprüft werden:
+⚠️ Dies kann auch über den **🏷️-47 DOM Inspektor** geprüft werden:
 
 - `Rechtsklick` auf Überschrift → `Untersuchen`
 - In der DOM-Baumansicht werden entsprechende Infos über das Element angezeigt

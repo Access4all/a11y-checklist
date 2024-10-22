@@ -26,7 +26,7 @@ Seiten haben einen eindeutigen, aussagekräftigen Titel, der Thema oder Zweck de
 1. Startseite öffnen
 1. Ihren Titel ermitteln:
     - Chrome zeigt den Titel im Tab an (ggf. mit Maus drüber hovern, falls Titel abgeschnitten)
-        - Alternativ kann via 🏷️-47 im `<head>` das `<title>`-Attribut untersucht werden
+        - Alternativ kann via **🏷️-47 DOM Inspektor** im `<head>` das `<title>`-Attribut untersucht werden
 2. Sicherstellen, dass der Titel den Erwartungen entspricht:
     - Hauptthema vorhanden? Name des Betreibers vorhanden?
         - **🙂 Beispiel:** "Willkommen bei der Bernasconi AG!"

@@ -29,7 +29,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 1. Seite öffnen
 1. Akkordeon mit Tastatur alleine bedienen und prüfen:
-    - ⚠️ Probleme mit Tastatur alleine sind unter ✅-63 zu bemängeln!
+    - ⚠️ Probleme mit Tastatur alleine sind unter **✅-63 Mit der Tastatur bedienbar** zu bemängeln!
     - Bedien-Elemente zum Öffnen/Schliessen eines Inhalts fokussieren und mit `Enter` aktivieren (z.B. "Liefer-Adresse")!
     - Wird der Inhalt eingeblendet?
         - **🙂 Beispiel:** Der gewünschte Akkordeon-Inhalt wird angezeigt, z.B. Eingabe-Felder für Liefer-Adresse
@@ -55,7 +55,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 ### Konventionen
 
-- Akkordeons ähneln Tabs (✅-106), ihre Kontroll-Elemente befinden sich aber aufgeteilt zwischen den einzelnen Inhalts-Bereichen
+- Akkordeons ähneln Tabs (**✅-106 Tabs / Tablisten**), ihre Kontroll-Elemente befinden sich aber aufgeteilt zwischen den einzelnen Inhalts-Bereichen
 - Manche Akkordeons erlauben das **Öffnen mehrerer Inhalts-Bereiche gleichzeitig** → es braucht keinen Hinweis darauf; der Nutzer findet das Verhalten selber heraus
 - Manche Akkordeons bieten Schalter zum **Öffnen/Schliessen aller Inhalts-Bereiche** an
 - Oft wird eine ausgefeilte ARIA-Implementierung verwendet (siehe [APG: Accordion Pattern (Sections With Show/Hide Functionality)

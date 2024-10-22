@@ -24,7 +24,7 @@ Informative Grafiken und grafische Elemente (z.B. Häkchen in einer aktivierten 
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-36 aktivieren
+1. **🏷️-36 Hochkontrast-Modus (Forced-Colors)** aktivieren
 1. Sicherstellen, dass informative Grafiken und grafische Elemente weiterhin sichtbar sind
     - **🙂 Beispiel:** Ein Mitarbeiter-Foto ist im Hochkontrast-Modus weiterhin sichtbar
         - **😡 Beispiel:** Das Foto ist nicht mehr sichtbar (weil es z.B. mit CSS `background-image` umgesetzt wurde)
@@ -36,7 +36,7 @@ Informative Grafiken und grafische Elemente (z.B. Häkchen in einer aktivierten 
             - ⚠️ Dies ist abhängig davon, welche Standard-Farben der Forced-Colors-Modus aktiviert - und ein Hinweis darauf, dass keine fixe Hintergrundfarbe für den Hoch-Kontrast-Modus definiert wurde (z.B. mittels `@media (forced-colors: active)`
     - **🙂 Beispiel:** Ein Formular bietet Checkboxen in eigenem (custom) Design an; auch bei Hochkontrast sind die Checkboxen und ihr Zustand (gewählt / nicht gewählt) gut erkennbar
         - **😡 Beispiel:** Die Checkboxen sind nicht mehr erkennbar, und/oder ihr Zustand ist nicht mehr erkennbar
-    - **🙂 Beispiel:** Eine Tabliste (✅-106) zeigt alle Tabs mit schwarzem Schriftzug und weissem Hintergrund an, wobei das ausgewählte Tab diese Farben invertiert; im Hochkontrast-Modus wird ein anderes grafisches Merkmal verwendet, um das aktive Tab zu kennzeichnen (z.B. Unterstreichung, Fettsetzung, ein Listen-Bullet, o.ä.)
+    - **🙂 Beispiel:** Eine Tabliste (**✅-106 Tabs / Tablisten**) zeigt alle Tabs mit schwarzem Schriftzug und weissem Hintergrund an, wobei das ausgewählte Tab diese Farben invertiert; im Hochkontrast-Modus wird ein anderes grafisches Merkmal verwendet, um das aktive Tab zu kennzeichnen (z.B. Unterstreichung, Fettsetzung, ein Listen-Bullet, o.ä.)
         - **😡 Beispiel:** Im Hochkontrast-Modus ist nicht mehr erkennbar, welches Tab aktiv ist (weil alle Farben auf den System-Standard gesetzt werden und Invertieren der Farben keinen Effekt mehr hat)
     - **🙂 Beispiel:** Ein Textfeld hat keine Umrandung (CSS `border`), sondern wird nur durch die Hintergrundfarbe erkennbar; im Hochkontrast-Modus wird zusätzlich eine Umrandung angezeigt
         - **😡 Beispiel:** Im Hochkontrast-Modus wird keine zusätzliche Umrandung angezeigt, deshalb ist das Textfeld nicht mehr erkennbar

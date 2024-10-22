@@ -24,8 +24,8 @@ Leere bedeutungstragende Elemente werden vermieden.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. 🏷️-44 ausführen (oder mit 🏷️-13 direkt mit `P` von Paragraf zu Paragraf springen)
-    - ⚠️ Um Probleme genauer zu evaluieren, ist der 🏷️-47 nützlich
+1. **🏷️-44 Inhalte gegliedert Bookmarklet** ausführen (oder mit **🏷️-13 NVDA Screenreader** direkt mit `P` von Paragraf zu Paragraf springen)
+    - ⚠️ Um Probleme genauer zu evaluieren, ist der **🏷️-47 DOM Inspektor** nützlich
 1. Sicherstellen, dass keine leeren `<p>` vorhanden sind
     - **🙂 Beispiel:** Es sind keine leeren `<p>` vorhanden
     - **😡 Beispiel:** Es sind leere `<p>` vorhanden (z.B. um Abstand zwischen zwei Textblöcken zu generieren, oder einfach weil sie "vergessen" wurden)

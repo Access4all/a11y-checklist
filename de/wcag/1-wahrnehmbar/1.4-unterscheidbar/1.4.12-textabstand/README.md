@@ -23,7 +23,7 @@ Bei Textinhalten müssen die Abstände von Zeilen, Absätzen, Wörtern und Buchs
 - Wortabstand (`word-spacing`) ist zu mindestens dem `0.16`-fachen der Schriftgrösse veränderbar.
 - Zeichenabstand (`letter-spacing`) ist zu mindestens dem `0.12`-fachen der Schriftgrösse veränderbar.
 
-**Hinweis:** Das gilt nur für "echten" Text; Texte auf Grafiken sind nicht betroffen. Für Anforderungen in Bezug auf Bilder eines Textes, beachten Sie 📜-1.4.5.
+**Hinweis:** Das gilt nur für "echten" Text; Texte auf Grafiken sind nicht betroffen. Für Anforderungen in Bezug auf Bilder eines Textes, beachten Sie **📜-1.4.5 Bilder von Text**.
 
 **Wichtig:** Die Anforderung verlangt nicht, dass die genannten Änderungsmöglichkeiten in der Programmierung umgesetzt werden (etwa durch einen Style-Switcher). Sie verlangt lediglich, dass nachträglich im Browser vorgenommene Anpassungen nicht zum Abschneiden bzw. Überlappen von Text oder Verlust von Funktionalitäten führt.
 

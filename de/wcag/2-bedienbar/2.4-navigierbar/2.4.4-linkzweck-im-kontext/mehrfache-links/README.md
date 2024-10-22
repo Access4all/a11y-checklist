@@ -25,7 +25,7 @@ Mehrfache, unterschiedliche Links (z.B. eine Überschrift, eine Grafik und ein z
 
 1. Seite öffnen
 1. Ausschau halten nach mehreren Links, die auf dasselbe Ziel zeigen (mit Maus drüber hovern, im Zweifelsfall die Links besuchen):
-    - **🙂 Beispiel:** Eine Card (✅-12) ist so umgesetzt, dass sie vom Screenreader 🏷️-13 als ein einziger Link angesagt wird
+    - **🙂 Beispiel:** Eine Card (**✅-12 Komplexe Grafiken**) ist so umgesetzt, dass sie vom Screenreader **🏷️-13 NVDA Screenreader** als ein einziger Link angesagt wird
     - **🙄 Beispiel:** Eine Card ist zwar als einziger Link umgesetzt, die einzelnen Inhalts-Elemente werden aber vom Screenreader als einzelne Links angesagt (z.B. "Link News Überschrift Ebene 3", "Link Bild X", "Link ...")
     - **😡 Beispiel:** Mehrere Inhalts-Elemente einer Card sind jeweils als Link umgesetzt
 

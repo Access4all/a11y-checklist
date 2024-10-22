@@ -24,7 +24,7 @@ Typically, these are status messages of the following type:
 - "2 products in shopping basket" or "Product added to shopping basket", e.g. when the number of products in a shopping basket is increased by clicking a button or a product is added to the shopping basket.
 - "Book added to watchlist", e.g. if a bookmark function is available for products.
 - "First name is a mandatory field" or "2 fields are incorrect", e.g. when checking a form on the client side (i.e. without reloading the page).
-    - This is not recommended when leaving a field, but only when submitting the form (for the implementation of error messages, see also 📜-3.3.1 and 📜-3.3.3).
+    - This is not recommended when leaving a field, but only when submitting the form (for the implementation of error messages, see also **📜-3.3.1 Error Identification** and **📜-3.3.3 Error Suggestion**).
 - "The auction runs in 60 seconds", e.g. for an online auction.
 
 **Important:** If such messages are **not** loaded into the current page (via JavaScript), but the entire page is reloaded, then these are **not** status messages. In such cases, no additional precautions are required.
@@ -33,7 +33,7 @@ Typically, these are status messages of the following type:
 
 An element can be output by assistive technologies using live regions (e.g. `aria-live=‘polite’` or `role=‘alert’`). However, use these with caution so as not to overload the audio channel: it is undesirable, for example, to regularly hear seemingly random status messages in the screen reader, as this can lead to undesirable overlapping and interruptions in the audio channel.
 
-**Note:** In order for an element to be announced by assistive technologies, the focus can also be set on it (see ✅-47). However, this only makes sense if the element is to be interacted with directly (e.g. when displaying a message "Your session will expire in 2 minutes; click here to extend!"). However, this is not appropriate for simple notifications (without any need for action).
+**Note:** In order for an element to be announced by assistive technologies, the focus can also be set on it (see **✅-47 Correct order**). However, this only makes sense if the element is to be interacted with directly (e.g. when displaying a message "Your session will expire in 2 minutes; click here to extend!"). However, this is not appropriate for simple notifications (without any need for action).
 
 ### Single-page apps (SPAs)
 

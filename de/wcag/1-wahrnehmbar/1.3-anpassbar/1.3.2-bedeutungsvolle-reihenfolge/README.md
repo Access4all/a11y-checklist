@@ -18,7 +18,7 @@ Sehende nehmen eine Webseite als zweidimensionalen, grafischen Bereich wahr. Bli
 
 Wird etwa das Foto einer News-Meldung visuell vor deren Überschrift platziert, so muss im DOM trotzdem die Überschrift an erster Stelle stehen. Mittels CSS (z.B. Flexbox oder Grid) kann die Anordnung dann visuell beliebig verändert werden.
 
-**Wichtig:** Generell sollte das visuelle Erscheinungsbild nur in gut begründeten Fällen von der Reihenfolge im DOM abweichen. Beispielsweise ist es ungünstig, in einem Formular unterhalb des Abschicken-Schalters noch weitere relevante Informationen anzuzeigen: diese wird visuell leicht übersehen, insbesondere aber Screenreader-Nutzende werden sie im Normalfall nicht finden, da sie beim Antreffen des Abschicken-Schalters diesen aktivieren (und nicht darunter nach weiterer Information suchen). Zudem kann durch so etwas auch die intuitive Fokus-Führung bei Tastatur-Nutzung beeinträchtigt werden (siehe dazu 📜-2.1.1 und 📜-2.4.3).
+**Wichtig:** Generell sollte das visuelle Erscheinungsbild nur in gut begründeten Fällen von der Reihenfolge im DOM abweichen. Beispielsweise ist es ungünstig, in einem Formular unterhalb des Abschicken-Schalters noch weitere relevante Informationen anzuzeigen: diese wird visuell leicht übersehen, insbesondere aber Screenreader-Nutzende werden sie im Normalfall nicht finden, da sie beim Antreffen des Abschicken-Schalters diesen aktivieren (und nicht darunter nach weiterer Information suchen). Zudem kann durch so etwas auch die intuitive Fokus-Führung bei Tastatur-Nutzung beeinträchtigt werden (siehe dazu **📜-2.1.1 Tastatur** und **📜-2.4.3 Fokus-Reihenfolge**).
 
 ### Verantwortlichkeiten
 
@@ -28,7 +28,7 @@ Wird etwa das Foto einer News-Meldung visuell vor deren Überschrift platziert, 
 ### Abgrenzung
 
 - Das vorliegende Erfolgskriterium stellt sicher, dass die DOM-Reihenfolge **an sich sinnvoll** ist.
-- Dass eine **manuelle Übersteuerung** der DOM-Reihenfolge für die Fokus-Reihenfolge sinnvoll passiert, wird von 📜-2.4.3 gefordert.
+- Dass eine **manuelle Übersteuerung** der DOM-Reihenfolge für die Fokus-Reihenfolge sinnvoll passiert, wird von **📜-2.4.3 Fokus-Reihenfolge** gefordert.
 
 ## Beispiele
 

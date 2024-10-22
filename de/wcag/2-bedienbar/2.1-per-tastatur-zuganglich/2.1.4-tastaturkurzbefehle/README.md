@@ -20,7 +20,7 @@ Typische Anwendungsfälle sind etwa wenn beim Drücken von `S` oder `/` das Such
 
 Einzeltasten-Kurzbefehle können auch Menschen mit motorischen Behinderungen vor Probleme stellen, insbesondere wenn deren Hände betroffen sind. Es können aus Versehen Tasten gedrückt und damit unbeabsichtigt Aktionen ausgelöst werden. Der Nutzungskontext geht dadurch verloren ("Wo bin ich? Was ist gerade passiert? Warum?").
 
-**Wichtig:** Dieses Erfolgskriterium hat keine Auswirkungen auf die Tastatur-Bedienbarkeit von nativen HTML-Elementen (z.B. werden `<select>`s natürlich weiterhin durch einzelne Tasten bedient), siehe 📜-2.1.1. Durch das `accesskey`-Attribut implementierte Tastaturkürzel sind ebenfalls nicht betroffen.
+**Wichtig:** Dieses Erfolgskriterium hat keine Auswirkungen auf die Tastatur-Bedienbarkeit von nativen HTML-Elementen (z.B. werden `<select>`s natürlich weiterhin durch einzelne Tasten bedient), siehe **📜-2.1.1 Tastatur**. Durch das `accesskey`-Attribut implementierte Tastaturkürzel sind ebenfalls nicht betroffen.
 
 ### Verantwortlichkeiten
 

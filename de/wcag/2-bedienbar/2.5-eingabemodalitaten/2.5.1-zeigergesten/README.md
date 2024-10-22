@@ -14,7 +14,7 @@ Für Inhalte, die über **pfadbasierte oder Mehrpunkt-Zeigergesten** bedient wer
 
 ## Verstehen (ausführlich)
 
-Eine **Pfad-Zeigergeste** zeichnet sich dadurch aus, dass sie einen **bestimmten Start-Punkt sowie eine Richtung** aufweist (z.B. von links nach rechts), zudem machmal eine Richtungs-Änderung (z.B. von links nach rechts, dann nach oben). Der exakte End-Punkt der Bewegung hingegen ist nicht relevant: z.B. eine Wischgeste kann über die ganze Bildschirmbreite erfolgen, aber auch sehr begrenzt sein (deshalb gilt Ziehen-und-Bewegen nicht als pfadbasiert, vergleiche mit 📜-2.5.7).
+Eine **Pfad-Zeigergeste** zeichnet sich dadurch aus, dass sie einen **bestimmten Start-Punkt sowie eine Richtung** aufweist (z.B. von links nach rechts), zudem machmal eine Richtungs-Änderung (z.B. von links nach rechts, dann nach oben). Der exakte End-Punkt der Bewegung hingegen ist nicht relevant: z.B. eine Wischgeste kann über die ganze Bildschirmbreite erfolgen, aber auch sehr begrenzt sein (deshalb gilt Ziehen-und-Bewegen nicht als pfadbasiert, vergleiche mit **📜-2.5.7 Ziehende Bewegungen**).
 
 Pfad-Zeigergesten sind anspruchsvoll, weshalb gewisse User-Gruppen diese nicht (oder nur ungenau) ausführen können, z.B. Menschen mit Parkinson oder Tetraplegie. Dasselbe gilt für **Mehrpunkt-Zeigergesten**, wie etwa die Spreizgeste zum Vergrössern eines Kartenausschnitts.
 
@@ -28,7 +28,7 @@ Es ist deshalb wichtig, dass Funktionen, die auf Pfad- und/oder Mehrpunkt-Zeiger
 
 **Ausnahmen:** Ausgenommen von diesem Kriterium sind Fälle, in denen die Mehrpunkt- oder pfadbasierte Zeigergeste essenziell wichtig ist - etwa bei einem Zeichenprogramm.
 
-**Hinweis:** Dieses Erfolgskriterium kann auch erfüllt werden, indem für eine solche komplexe Funktion zusätzlich ein alternatives Bedien-Element besteht, welches denselben Zweck erfüllt. Wichtig: dieses muss mit einfachen Zeigereingaben bedienbar sein (eine reine Tastatur-Alternative ist also **nicht** zulässig, siehe 📜-2.1.1).
+**Hinweis:** Dieses Erfolgskriterium kann auch erfüllt werden, indem für eine solche komplexe Funktion zusätzlich ein alternatives Bedien-Element besteht, welches denselben Zweck erfüllt. Wichtig: dieses muss mit einfachen Zeigereingaben bedienbar sein (eine reine Tastatur-Alternative ist also **nicht** zulässig, siehe **📜-2.1.1 Tastatur**).
 
 ### Verantwortlichkeiten
 

@@ -16,7 +16,7 @@ Animationen dürfen **höchstens dreimal blitzen pro Sekunde**. Dies ermöglicht
 
 Webseiten dürfen nichts enthalten, was mehr als dreimal pro Sekunde blitzt (ausser der Blitz liegt unterhalb der allgemeinen Grenzwerte hierfür).
 
-**Hinweis:** Wir empfehlen, auf Blitzen generell zu verzichten. Denken Sie daran, dass Blitzen etwas anderes ist als Blinken (siehe 📜-2.2.2).
+**Hinweis:** Wir empfehlen, auf Blitzen generell zu verzichten. Denken Sie daran, dass Blitzen etwas anderes ist als Blinken (siehe **📜-2.2.2 Pausieren, stoppen, ausblenden**).
 
 ### Verantwortlichkeiten
 

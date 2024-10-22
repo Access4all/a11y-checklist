@@ -37,7 +37,7 @@ Folgende grafische Elemente sollen so implementiert werden, dass sie von assisti
 ### Andere Nicht-Text-Inhalte
 
 - Für Video oder Audio fügen Sie eine kurze Beschreibung des Themas hinzu, so dass deren Zweck bereits vor dem Abspielen erkennbar ist (z.B. "Interview mit der Bundesrätin"). Beachten Sie zudem 📜-1.2.
-- Für Steuerelemente (Formulare, JavaScript-Widgets) stellen Sie ein aussagekräftiges Label zur Verfügung (z.B. "Vorname"). Beachten Sie zudem 📜-4.1.2.
+- Für Steuerelemente (Formulare, JavaScript-Widgets) stellen Sie ein aussagekräftiges Label zur Verfügung (z.B. "Vorname"). Beachten Sie zudem **📜-4.1.2 Name, Rolle, Wert**.
 
 ### Verantwortlichkeiten
 

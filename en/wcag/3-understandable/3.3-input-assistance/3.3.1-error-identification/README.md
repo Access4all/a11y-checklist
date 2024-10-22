@@ -16,22 +16,22 @@ created_at: "2015-08-04 14:36:00"
 
 If the system recognizes input errors when a form is filled out, the corresponding error messages must be visible to all users and the corresponding input fields must be identifiable.
 
-For color highlighting, the usual requirements for contrasts apply, see 📜-1.4.3, or for color use see 📜-1.4.1. But a purely visual change (e.g. red or thicker border around an incorrect input field, addition of an error symbol) is not sufficient, but always requires a note **in text form** so that cognitively impaired people can also understand it. Depending on the situation, best practices are:
+For color highlighting, the usual requirements for contrasts apply, see **📜-1.4.3 Contrast (Minimum)**, or for color use see **📜-1.4.1 Use of Color**. But a purely visual change (e.g. red or thicker border around an incorrect input field, addition of an error symbol) is not sufficient, but always requires a note **in text form** so that cognitively impaired people can also understand it. Depending on the situation, best practices are:
 
 - A general error message at the beginning of the form, e.g. "3 errors have occurred".
 - Specific error messages directly at the incorrect input fields, e.g. "First name must be filled in".
     - These can also be placed as a list at the beginning of the form (preferably linked to the corresponding input fields).
 
-**Important:** For screen reader users, spatial grouping is not sufficient to link an error message to the corresponding input field; there must be a link in the code. The simplest solution is to place the error messages (if possible) directly in the `<label>` element. Alternatively, they can be linked to the respective input field (or a surrounding `<fieldset>` element) using `aria-describedby`. The error message is then automatically output by the screen reader (in addition to the `<label>` element) as soon as the input field is focused on. For general information on handling forms, see also 📜-1.3.1c.
+**Important:** For screen reader users, spatial grouping is not sufficient to link an error message to the corresponding input field; there must be a link in the code. The simplest solution is to place the error messages (if possible) directly in the `<label>` element. Alternatively, they can be linked to the respective input field (or a surrounding `<fieldset>` element) using `aria-describedby`. The error message is then automatically output by the screen reader (in addition to the `<label>` element) as soon as the input field is focused on. For general information on handling forms, see also **📜-1.3.1c Forms, Labels and Fieldsets**.
 
-Screen readers must also be informed that error messages are displayed at all. To do this, set the focus directly to the first incorrect field after submitting the form, see 📜-2.4.3. You can also place a corresponding note in the `<title>` element (page title), see 📜-2.4.2. Sometimes a status message is also helpful, see 📜-4.1.3.
+Screen readers must also be informed that error messages are displayed at all. To do this, set the focus directly to the first incorrect field after submitting the form, see **📜-2.4.3 Focus Order**. You can also place a corresponding note in the `<title>` element (page title), see **📜-2.4.2 Page Titled**. Sometimes a status message is also helpful, see **📜-4.1.3 Status Messages**.
 
-Client-side form validation can also be used, but is often not sufficient on its own, see 📜-3.3.3.
+Client-side form validation can also be used, but is often not sufficient on its own, see **📜-3.3.3 Error Suggestion**.
 
 ### Delimitation
 
 - This success criterion ensures that errors can be **experienced** on different perception channels and that the associated input fields are **identifiable**.
-- That they are **meaningful** (i.e. helpful for troubleshooting) is required by 📜-3.3.3.
+- That they are **meaningful** (i.e. helpful for troubleshooting) is required by **📜-3.3.3 Error Suggestion**.
 
 ### Responsibilities
 

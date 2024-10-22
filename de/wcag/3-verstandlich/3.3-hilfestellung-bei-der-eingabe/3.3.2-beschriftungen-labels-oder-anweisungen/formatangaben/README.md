@@ -29,13 +29,13 @@ Formatangaben bei Formularfeldern sind zugänglich und mit den zugehörigen Eing
     - **🙂 Beispiel:** Unter einem Datums-Feld befindet sich ein `<p>` mit Angaben zum Format (z.B. "Format: DD.MM.YYYY"). Der Paragraf ist via `aria-describedby` mit dem Text-Feld verbunden.
         - **😡 Beispiel:** Der Paragraf ist **nicht** verbunden.
     - **🙂 Beispiel:** Bei einem Datums-Feld befindet sich zuerst keine Angabe zum Format; erst nach Abschicken eines fehlerhaften Datums wird eine entsprechende Meldung angezeigt (z.B. "Das Datum muss das Format DD.MM.YYYY aufweisen")
-        - ⚠️ Wenn stattdessen eine wenig aufschlussreiche Meldung angesagt wird (z.B. "Das Datumsformat ist nicht korrekt"), dann ist dies eher ein Fall für ✅-97
+        - ⚠️ Wenn stattdessen eine wenig aufschlussreiche Meldung angesagt wird (z.B. "Das Datumsformat ist nicht korrekt"), dann ist dies eher ein Fall für **✅-97 Informative Fehlermeldungen**
     - **🙂 Beispiel:** Unter einem Passwort-Feld befindet sich eine Liste (`<ul>`) mit Anforderungen (z.B. dass es mind. 8 Buchstaben haben muss, mind. 1 Sonderzeichen, etc.). Die Liste ist via `aria-describedby` mit dem Passwort-Feld verbunden.
         - **😡 Beispiel:** Die Liste ist **nicht** verbunden.
 
 ### Nachprüfen mit Screenreader
 
-Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit 🏷️-13 nachgeprüft werden:
+Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit **🏷️-13 NVDA Screenreader** nachgeprüft werden:
 
 - `Tab` (oder auch `F` oder `I`) drücken, um von Eingabefeld zu Eingabefeld zu springen
 - Dann sicherstellen, dass der Screenreader alle relevante Information für's Feld vorliest
@@ -44,7 +44,7 @@ Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`)
 
 ### Nur Plain-Text via aria-describedby
 
-Elemente, die via `aria-describedby` (🏷️-29) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
+Elemente, die via `aria-describedby` (**🏷️-29 aria-describedby**) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
 
 ## Screenshots typischer Fälle
 
