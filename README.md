@@ -29,16 +29,6 @@ The folder structure reflects the WCAG.
 
 All multi-line content is written in [Markdown](https://www.markdownguide.org/). We use only default syntax, so no additional extensions should be needed.
 
-#### Internal references
-
-Inside multi-line content, there are internal references to other elements, i. e.:
-
-- `📜-1.3.1` is a reference to success criterion "1.3.1 - Info and Relationships"
-- `✅-27` is a reference to checkpoint "Own heading"
-- `🏷️-13` is a reference to tag "NVDA Screen Reader"
-
-When generating any documentation (i. e. a website or PDF) from these contents, all references must be replaced with links pointing to the referenced elements.
-
 ### Screenshots
 
 - Due to technical limitations, screenshots currently are in (highly compressed) PNG format.
@@ -49,9 +39,9 @@ When generating any documentation (i. e. a website or PDF) from these contents, 
 - The **Accessibility Checklist** is currently available in German and English
 - The **Test Specification** is currently only available in German
 - German translations for success criteria names were taken from:
-		- WCAG 2.0: Official German translation, see <https://www.w3.org/Translations/WCAG20-de/>
-		- WCAG 2.1: DIN-EN 301549, see <https://www.w3.org/Translations/WCAG20-de/>
-		- WCAG 2.2: Jan Hellbusch, see <https://www.hellbusch.de/wcag-2-2-vor-der-tuer/>
+    - WCAG 2.0: Official German translation, see <https://www.w3.org/Translations/WCAG20-de/>
+    - WCAG 2.1: DIN-EN 301549, see <https://www.w3.org/Translations/WCAG20-de/>
+    - WCAG 2.2: Jan Hellbusch, see <https://www.hellbusch.de/wcag-2-2-vor-der-tuer/>
 
 ## History
 
