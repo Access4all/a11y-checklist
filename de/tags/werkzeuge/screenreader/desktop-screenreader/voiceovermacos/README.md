@@ -8,3 +8,4 @@ created_at: "2024-10-14 07:36:50"
 
 ## Beschreibung
 
+Auf macOS Desktops standardmässig installierter Screenreader. Funktioniert deutlich anders als die beiden Windows-Platzhirsche NVDA und JAWS.

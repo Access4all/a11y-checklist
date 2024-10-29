@@ -26,7 +26,7 @@ Daten-Tabellen weisen keine leeren Spalten oder Zeilen auf.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Tables (Bookmarklet)](/de/tags/werkzeuge/bookmarklets/tables-bookmarklet) ausführen
+1. [🏷️ Tables Bookmarklet](/de/tags/werkzeuge/bookmarklets/tables-bookmarklet) ausführen
 1. Sicherstellen, dass keine leeren Zeilen und Spalten vorhanden sind
     - **🙂 Beispiel:** Eine Tabelle hat in jeder Zeile und Spalte mind. eine nicht-leere Zelle
     - **😡 Beispiel:** Eine Tabelle hat mind. eine leere Zeilen oder Spalte

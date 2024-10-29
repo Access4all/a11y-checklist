@@ -26,7 +26,7 @@ Video- und Audio-Inhalte weisen einen Alternativtext auf, der den Titel und/oder
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Title (Bookmarklet)](/de/tags/werkzeuge/bookmarklets/title-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) untersuchen)
+1. [🏷️ Title Bookmarklet](/de/tags/werkzeuge/bookmarklets/title-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) untersuchen)
 1. Sicherstellen, dass eingebettete Videos und Audios passende Alternativtexte aufweisen
     - **🙂 Beispiel:** Ein per `<iframe>` eingebettetes Video hat den Titel "Rückschau Geschäftsausflug 2023 ACME Inc."
         - **🙂 Beispiel:** "Geschäftsausflug 2023" reicht ebenfalls, aber etwas mehr Info kann sinnvoll sein

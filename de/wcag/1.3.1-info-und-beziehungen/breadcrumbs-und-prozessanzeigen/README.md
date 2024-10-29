@@ -26,7 +26,7 @@ Breadcrumbs oder Prozessanzeigen sind auch nicht-visuell als solche erkennbar.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) Breadcrumbs und Prozessanzeigen lesen und bedienen (oder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) direkt untersuchen)
+1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) Breadcrumbs und Prozessanzeigen lesen und bedienen (oder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) direkt untersuchen)
 1. Sicherstellen, dass die Elemente als solches verstanden werden können
     - **🙂 Beispiel:** Der Breadcrumb wird als solches Angesagt, z.B. "Sie befinden sich hier" o.ä. (etwa durch einen Text, eine Überschrift oder `aria-label`)
         - **🙄 Beispiel:** Auch "Breadcrumb" wäre okay, aber diesen Begriff kennt lange nicht jeder Nutzer!

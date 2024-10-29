@@ -8,3 +8,4 @@ created_at: "2024-03-09 11:06:22"
 
 ## Beschreibung
 
+Siehe [✅ Tooltips / Toggletips](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/tooltips-toggletips).

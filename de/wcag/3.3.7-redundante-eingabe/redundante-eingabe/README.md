@@ -31,7 +31,7 @@ Persönliche Daten müssen nicht mehrfach eingegeben werden, sondern sind bei me
     - **🙂 Beispiel:** Nach Eingabe der Lieferadresse bietet ein Onlineshop an, dieselbe auch als Rechnungsadresse zu verwenden
         - **😡 Beispiel:** Die Rechnungsadresse muss erneut manuell eingegeben werden
     - **🙂 Beispiel:** Beim Registrieren eines neuen Nutzers muss das Passwort doppelt eingegeben werden
-        - **⚠️ Erlaubte Ausnahme:** Aus Gründen der Sicherheit macht das durchaus Sinn
+        - ⚠️ Erlaubte Ausnahme: Aus Gründen der Sicherheit macht das durchaus Sinn
     - **🙂 Beispiel:** Nach Abschicken eines Suchformulars wird das erneut angezeigte Suchfeld wieder mit dem Suchbegriff vor-ausgefüllt
 
 ## Screenshots typischer Fälle

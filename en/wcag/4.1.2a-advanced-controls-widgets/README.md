@@ -15,7 +15,7 @@ created_at: "2016-01-28 13:28:43"
 
 ### Standard HTML vs. JavaScript widgets
 
-Even though standard HTML offers many useful controls, some more sophisticated controls (JavaScript widgets), which are often required in current interactive websites, are missing: Examples include tabs ([✅ Tabs / tablists](/en/wcag/4.1.2a-advanced-controls-widgets/tabs-tablists)), accordions ([✅ TRANSLATION MISSING](/en/wcag/4.1.2a-advanced-controls-widgets/translation-missing)), dropdowns ([✅ Disclosure (pop-up elements)](/en/wcag/4.1.2a-advanced-controls-widgets/disclosure-pop-up-elements)), tooltips ([✅ QuickInfos / Toggletips](/en/wcag/4.1.2a-advanced-controls-widgets/quickinfos-toggletips)), etc.
+Even though standard HTML offers many useful controls, some more sophisticated controls (JavaScript widgets), which are often required in current interactive websites, are missing: Examples include tabs ([✅ Tabs / tablists](/en/wcag/4.1.2a-advanced-controls-widgets/tabs-tablists)), accordions ([✅ Accordions](/en/wcag/4.1.2a-advanced-controls-widgets/accordions)), dropdowns ([✅ Disclosure (pop-up elements)](/en/wcag/4.1.2a-advanced-controls-widgets/disclosure-pop-up-elements)), tooltips ([✅ QuickInfos / Toggletips](/en/wcag/4.1.2a-advanced-controls-widgets/quickinfos-toggletips)), etc.
 
 **Important:** We recommend using standard HTML elements whenever possible and resorting to JavaScript widgets only when HTML does not offer the required functionality. Accordingly, a `<button>` is preferable to a `<div role="button">`, and the same applies to a `<select>` instead of a JavaScript dropdown.
 
@@ -48,7 +48,7 @@ In addition, many implementations attempt to exactly imitate the functionality o
 
 ## ✅ Checkpoints
 
-- [✅ TRANSLATION MISSING](translation-missing)
+- [✅ Accordions](accordions)
 - [✅ Autocompletes (comboboxes)](autocompletes-comboboxes)
 - [✅ Date picker / time picker](date-picker-time-picker)
 - [✅ Dialogs](dialogs)

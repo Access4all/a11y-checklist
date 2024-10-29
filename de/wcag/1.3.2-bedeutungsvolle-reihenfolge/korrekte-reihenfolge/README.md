@@ -27,7 +27,7 @@ Inhalte müssen im Code (DOM) eine korrekte Reihenfolge aufweisen (unabhängig v
 
 1. Seite öffnen
 1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) durch die Seite navigieren
-    - Auch der [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) kann aufschlussreiche Informationen liefern
+    - Auch der [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) kann aufschlussreiche Informationen liefern
 1. Sicherstellen, dass die Inhalte sinnvoll angeordnet sind:
     - Befinden sich Überschriften im DOM stets vor den zugehörigen Inhalten?
         - **🙂 Beispiel:** Ein News-Teaser startet visuell mit einer Überschrift, dann kommen weitere Inhalte wie z.B. ein Bild, Paragrafen, "Mehr lesen"-Link, etc. Die Reihenfolge im DOM ist entsprechend.
@@ -47,3 +47,7 @@ Inhalte müssen im Code (DOM) eine korrekte Reihenfolge aufweisen (unabhängig v
 ## Screenshots typischer Fälle
 
 ![Überschrift befindet sich im DOM über dem Bild, visuell ist es umgekehrt (ETH)](images/berschrift-befindet-sich-im-dom-ber-dem-bild-visuell-ist-es-umgekehrt-eth.png)
+
+![Völlig unerwartete Reihenfolge in Menü bei Stiftung Bühl](images/vllig-unerwartete-reihenfolge-in-men-bei-stiftung-bhl.png)
+
+![Intuitive Reihenfolge bei Stiftung Bühl](images/intuitive-reihenfolge-bei-stiftung-bhl.png)

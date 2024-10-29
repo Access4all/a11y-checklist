@@ -14,11 +14,11 @@ Informative **graphic elements** must be described with an **alternative text** 
 
 ## Understanding (long)
 
-Write descriptions in a helpful, short and concise way; avoid redundancy. If the description exceeds the intended scope (e.g. the length of the `alt` attribute when describing an organization chart), you can refer to the surrounding text or linked content (e.g. the `longdesc` attribute) and point this out. The `alt` attribute should not significantly exceed the length of approx. 100 characters.
+Write descriptions in a helpful, short and concise way; avoid redundancy. If the description exceeds the intended scope (e.g. the length of the `alt` attribute when describing an organization chart), you can refer to the surrounding text or linked content and point this out (the `longdesc` attribute is now obsolete though). The `alt` attribute should not significantly exceed the length of approx. 100 characters.
 
 **Important:** Informative images must be implemented in such a way that they remain visible even if the CSS is changed or removed (e.g. when user styles are applied): `background: url(...)` is therefore not an option, whereas `<img src="...">` is.
 
-**Note:** Individual characters are sometimes used as symbols (e.g. "-10%" in a discount advertisement); there are even special symbol fonts (web fonts) for this purpose. Such characters must also be output by screen readers in a meaningful way (it may be advisable to explicitly overwrite them with an `aria-label`). The same applies to the use of emojis.
+**Note:** Individual characters are sometimes used as symbols (e.g. "-10%" in a discount advertisement); there are even special symbol fonts (web fonts) for this purpose. Such characters must also be output by screen readers in a meaningful way (it may be advisable to explicitly overwrite them with an `aria-label`). The same applies to emojis.
 
 ### Exceptions
 

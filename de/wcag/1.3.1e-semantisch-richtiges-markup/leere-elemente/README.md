@@ -27,7 +27,7 @@ Leere bedeutungstragende Elemente werden vermieden.
 
 1. Seite öffnen
 1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/werkzeuge/bookmarklets/inhalte-gegliedert-bookmarklet) ausführen (oder mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) direkt mit `P` von Paragraf zu Paragraf springen)
-    - ⚠️ Um Probleme genauer zu evaluieren, ist der [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) nützlich
+    - ⚠️ Um Probleme genauer zu evaluieren, ist der [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) nützlich
 1. Sicherstellen, dass keine leeren `<p>` vorhanden sind
     - **🙂 Beispiel:** Es sind keine leeren `<p>` vorhanden
     - **😡 Beispiel:** Es sind leere `<p>` vorhanden (z.B. um Abstand zwischen zwei Textblöcken zu generieren, oder einfach weil sie "vergessen" wurden)

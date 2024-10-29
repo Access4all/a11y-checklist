@@ -8,3 +8,6 @@ created_at: "2024-03-09 14:06:31"
 
 ## Beschreibung
 
+Zeichnet einen dicken Rand um das aktuell fokussierte Element. Praktisch z.B. bei einem Fokus-Reset ([🏷️ Fokus-Reset (Design)](/de/tags/techniken/tastatur-fokus/fokus-reset-design)).
+
+Siehe <https://chromewebstore.google.com/detail/nerdefocus/lpfiljldhgjecfepfljnbjnbjfhennpd>

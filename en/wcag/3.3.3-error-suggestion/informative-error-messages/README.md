@@ -30,3 +30,5 @@ Error messages are informative and clearly linked to the associated input fields
 ![Fehlermeldung in A4AA](images/fehlermeldung-in-a4aa.png)
 
 ![Wenig aussagekräftiger Login-Fehler](images/wenig-aussagekrftiger-login-fehler.png)
+
+![Wenig informative Fehlermeldung bei IBM SPSS](images/wenig-informative-fehlermeldung-bei-ibm-spss.png)

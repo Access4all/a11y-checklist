@@ -26,7 +26,7 @@ Pflichtfelder sind zugänglich ausgezeichnet, sowohl auf visueller wie nicht-vis
 ### Prüf-Schritte
 
 1. Seite mit Formular-Elementen öffnen
-1. Pflichtfelder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) untersuchen
+1. Pflichtfelder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) untersuchen
 1. Sicherstellen, dass Pflichtfelder korrekt ausgezeichnet sind
     - **🙂 Beispiel:** Ein Pflichtfeld hat ein Label "Vorname (Pflichtfeld)"
     - **🙂 Beispiel:** Ein Pflichtfeld hat ein `required`- oder `aria-required`-Attribut

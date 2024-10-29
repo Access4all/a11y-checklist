@@ -8,3 +8,4 @@ created_at: "2024-10-08 17:09:54"
 
 ## Description
 
+Viele Erfolgskriterien der WCAG können auch auf PDF-Dokumente angewendet werden. Neben Screenreadern ([🏷️ Screenreader](/en/tags/werkzeuge/screenreader)) gibt es einige spezifische Tools, welche beim Testen von PDFs auf Barrierefreiheit eingesetzt werden.

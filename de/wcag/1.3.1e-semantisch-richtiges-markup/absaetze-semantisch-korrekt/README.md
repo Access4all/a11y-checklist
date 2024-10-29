@@ -27,7 +27,7 @@ Absätze sind semantisch korrekt ausgezeichnet, nicht nur visuell (z.B. mittels 
 
 1. Seite öffnen
 1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/werkzeuge/bookmarklets/inhalte-gegliedert-bookmarklet) ausführen (oder mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) direkt mit `P` von Paragraf zu Paragraf springen)
-    - ⚠️ Um Probleme genauer zu evaluieren, ist der [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) nützlich
+    - ⚠️ Um Probleme genauer zu evaluieren, ist der [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) nützlich
 1. Sicherstellen, dass Textblöcke korrekt als `<p>` ausgezeichnet sind
     - **🙂 Beispiel:** Textblöcke auf einer Seite sind jeweils als eigene `<p>` ausgezeichnet
     - **😡 Beispiel:** Textblöcke sind als `<div>` (oder ähnlich) ausgezeichnet

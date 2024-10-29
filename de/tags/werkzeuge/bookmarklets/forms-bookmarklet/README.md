@@ -8,4 +8,6 @@ created_at: "2024-06-12 11:04:59"
 
 ## Beschreibung
 
+Zeigt ganz viele Infos zu Formularen an.
+
 Siehe <https://pauljadam.com/bookmarklets/forms.html>

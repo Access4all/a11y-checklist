@@ -26,7 +26,7 @@ Text-Elemente, die sich zwischen den Eingabefeldern befinden (z.B. ein `<h3>` od
 ### Prüf-Schritte
 
 1. Seite mit Formular-Elementen öffnen
-1. [🏷️ Forms Bookmarklet](/de/tags/werkzeuge/bookmarklets/forms-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) untersuchen)
+1. [🏷️ Forms Bookmarklet](/de/tags/werkzeuge/bookmarklets/forms-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) untersuchen)
 1. Sicherstellen, dass Text-Elemente zwischen Formular-Elementen korrekt mit diesen verbunden sind
     - ⚠️ Jedes Eingabefeld benötigt ein `<label>`; dies wird aber nicht hier, sondern unter [✅ Formularfelder Labels](/de/wcag/1.3.1c-formular-beziehungen/formularfelder-labels) geprüft!
     - ⚠️ Meldungen bei fehlerhaften Formular-Eingaben werden auch mit `aria-describedby` umgesetzt; dies wird aber nicht hier, sondern unter [✅ Fehlermeldungen in Formularen](/de/wcag/3.3.1-fehlerkennzeichnung/fehlermeldungen-in-formularen) geprüft!

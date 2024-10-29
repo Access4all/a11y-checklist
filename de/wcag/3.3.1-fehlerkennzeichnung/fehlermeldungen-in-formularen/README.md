@@ -27,7 +27,7 @@ Mit Formular interagieren und prüfen, ob Fehler auch mit Screenreader erfahrbar
 
 1. Seite mit Formular-Elementen öffnen
 1. Formular fehlerhaft abschicken (z.B. Pflichtfeld leer lassen, Email falsch eingeben, etc.)
-1. [🏷️ Forms Bookmarklet](/de/tags/werkzeuge/bookmarklets/forms-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) untersuchen)
+1. [🏷️ Forms Bookmarklet](/de/tags/werkzeuge/bookmarklets/forms-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) untersuchen)
 1. Sicherstellen, dass Fehler-Meldungen wahrnehmbar sind
     - **🙂 Beispiel:** Eingabefelder in einem Formular sind schwarz umrandet (`1px black`); wenn sie fehlerhaft sind, sind sie dicker und rot umrandet (`2px red`)
         - **🙂 Beispiel:** Wenn sie fehlerhaft sind, weisen wird ein zusätzliches Symbol daneben angezeigt (z.B. ein Ausrufezeichen).

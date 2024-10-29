@@ -28,3 +28,7 @@ Content must be in the correct order in the code (DOM) (independent of CSS).
 ## Screenshots
 
 ![Überschrift befindet sich im DOM über dem Bild, visuell ist es umgekehrt (ETH)](images/berschrift-befindet-sich-im-dom-ber-dem-bild-visuell-ist-es-umgekehrt-eth.png)
+
+![Völlig unerwartete Reihenfolge in Menü bei Stiftung Bühl](images/vllig-unerwartete-reihenfolge-in-men-bei-stiftung-bhl.png)
+
+![Intuitive Reihenfolge bei Stiftung Bühl](images/intuitive-reihenfolge-bei-stiftung-bhl.png)

@@ -15,11 +15,11 @@ Wcag criterion: [📜 3.3.1 Error Identification - A](..)
 
 ## Description
 
-Error messages in forms are implemented barrier-free: Automatically recognized input errors provide a clear indication (in text form) of the incorrect element in the error message and are clearly linked to it.
+Error messages in forms are implemented barrier-free: input errors can be experienced on different perception channels (e.g. not only visually, but also with a screen reader) and the corresponding input fields can be identified.
 
 ## Method
 
-Interact with the form and check whether error messages are displayed as expected.
+Interact with the form and check whether errors can also be experienced with a screen reader and whether faulty elements can be identified.
 
 ## Details on web applicability (specific test steps)
 

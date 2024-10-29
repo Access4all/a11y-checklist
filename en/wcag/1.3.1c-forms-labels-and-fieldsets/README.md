@@ -32,7 +32,7 @@ A heading (e.g. `<h1>`) at the beginning of a form makes sense. However, if ther
 - The same applies to error messages for incorrect input (e.g. "The password requires at least 1 special character").
     - After submitting an incorrectly completed form, the keyboard focus should also be set to the first incorrect input field; see also [📜-2.4.3 Focus Order](/en/wcag/2.4.3-focus-order).
 
-We recommend being cautious with instructions in forms; for more detailed information, for example, you can link to a separate page or display it via dialog ([✅ Dialogs](/en/wcag/4.1.2a-advanced-controls-widgets/dialogs)) or accordion ([✅ TRANSLATION MISSING](/en/wcag/4.1.2a-advanced-controls-widgets/translation-missing)).
+We recommend being cautious with instructions in forms; for more detailed information, for example, you can link to a separate page or display it via dialog ([✅ Dialogs](/en/wcag/4.1.2a-advanced-controls-widgets/dialogs)) or accordion ([✅ Accordions](/en/wcag/4.1.2a-advanced-controls-widgets/accordions)).
 
 ### Delimitation
 

@@ -8,4 +8,6 @@ created_at: "2024-03-09 10:52:58"
 
 ## Beschreibung
 
-HTML gibt ganz viele Standard-Container vor für Inhalte, z.B. `<h1>` bis `<h6>` für Überschriften oder `<button>` für klickbare Elemente.
+Semantik ist die Bedeutung von HTML-Elementen. Es gibt ganz viele Standard-Container für unterschiedlichste Inhalte, z.B. `<h1>` bis `<h6>` für Überschriften oder `<button>` für klickbare Elemente.
+
+Die Semantik kann mittels ARIA ([🏷️ ARIA Attribute](/de/tags//aria-attribute)) verändert werden, insb. mit `role` ([🏷️ role](/de/tags/aria-attribute/role)). Dies tun wir aber nur wenn nicht anders möglich, ganz gemäss dem Grundsatz [🏷️ Nutze stets Standard-HTML!](/de/tags/umsetzungs-kodex/nutze-stets-standard-html).

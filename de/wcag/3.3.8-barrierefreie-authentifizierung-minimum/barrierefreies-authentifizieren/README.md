@@ -49,3 +49,5 @@ Mindestens eine der angebotenen Möglichkeiten zur Authentifizierung ist für di
 ![Rein visuell lösbares CAPTCHA](images/rein-visuell-lsbares-captcha.png)
 
 ![Noch ein visuelles CAPTCHA](images/noch-ein-visuelles-captcha.png)
+
+![Visuelles, Puzzle-artiges Captcha](images/visuelles-puzzle-artiges-captcha.png)

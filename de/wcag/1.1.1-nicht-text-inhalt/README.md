@@ -14,11 +14,11 @@ Informative **grafische Elemente** müssen mit einem möglichst gleichwertigen *
 
 ## Verstehen (ausführlich)
 
-Formulieren Sie Beschreibungen hilfreich, kurz und prägnant; vermeiden Sie Redundanz. Sprengt die Beschreibung den vorgesehenen Rahmen (etwa die Länge des `alt`-Attributs beim Beschreiben eines Organigramms), so kann auf den umgebenden Text oder verlinkte Inhalte (z.B. das `longdesc`-Attribut) ausgewichen und darauf hingewiesen werden. Das `alt`-Attribut sollte die Länge von ca. 100 Zeichen nicht deutlich überschreiten.
+Formulieren Sie Beschreibungen hilfreich, kurz und prägnant; vermeiden Sie Redundanz. Sprengt die Beschreibung den vorgesehenen Rahmen (etwa die Länge des `alt`-Attributs beim Beschreiben eines Organigramms), so kann auf den umgebenden Text oder verlinkte Inhalte ausgewichen und darauf hingewiesen werden (das `longdesc`-Attribut ist mittlerweile aber veraltet). Das `alt`-Attribut sollte die Länge von ca. 100 Zeichen nicht deutlich überschreiten.
 
 **Wichtig:** Informative Bilder müssen so umgesetzt sein, dass sie auch bei geändertem oder entferntem CSS (z.B. angewandten Nutzerstyles) sichtbar bleiben: `background: url(...)` ist entsprechend keine Option, `<img src="...">` hingegen schon.
 
-**Hinweis:** Einzelne Schriftzeichen werden manchmal als Symbole eingesetzt (z.B. "-10%" bei einer Rabatt-Werbung); es existieren hierfür sogar spezielle Symbol-Schriftarten (Webfonts). Solche Schriftzeichen müssen durch Screenreader ebenfalls sinnvoll ausgegeben werden (ggf. empfiehlt es sich, diese explizit mit einem `aria-label` zu überschreiben).
+**Hinweis:** Einzelne Schriftzeichen werden manchmal als Symbole eingesetzt (z.B. "-10%" bei einer Rabatt-Werbung); es existieren hierfür sogar spezielle Symbol-Schriftarten (Webfonts). Solche Schriftzeichen müssen durch Screenreader ebenfalls sinnvoll ausgegeben werden (ggf. empfiehlt es sich, diese explizit mit einem `aria-label` zu überschreiben). Dasselbe gilt für Emojis.
 
 ### Ausnahmen
 

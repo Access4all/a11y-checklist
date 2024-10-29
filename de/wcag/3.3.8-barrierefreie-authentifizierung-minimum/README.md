@@ -71,6 +71,5 @@ Hingegen Tests, bei welchen der Nutzer ein Objekt erkennen muss (etwa ein Tier o
 
 - Intopia 3.3.8: <https://youtu.be/WJgc-goUhS0>
 - <https://www.tpgi.com/how-to-test-3-3-8-accessible-authentication-minimum/>
-- <https://www.wcag.com/developers/3-3-7-accessible-authentication-level-aa/>
 - <https://www.digitala11y.com/understanding-sc-3-3-8-accessible-authentication-method-minimum/>
 - <https://www.hellbusch.de/barrierefreie-authentifizierung/>

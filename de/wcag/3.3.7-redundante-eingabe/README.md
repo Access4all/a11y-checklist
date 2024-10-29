@@ -54,7 +54,7 @@ Zuvor eingegebene Nutzer-Daten müssen also in einem nachfolgenden Prozess-Schri
 
 - Intopia 3.3.7: <https://youtu.be/jKirEdlHMao>
 - <https://www.tpgi.com/how-to-test-3-3-7-redundant-entry/>
-- <https://www.wcag.com/developers/success-criterion-3-3-9-redundant-entry-level-a/>
+- <https://www.wcag.com/developers/3-3-7-accessible-authentication-level-aa/>
 - <https://www.wuhcag.com/redundant-entry/>
 - <https://www.digitala11y.com/understanding-wcag-sc-3-3-7-redundant-entry-level-a/>
 - <https://www.hellbusch.de/redundante-eingabe/>

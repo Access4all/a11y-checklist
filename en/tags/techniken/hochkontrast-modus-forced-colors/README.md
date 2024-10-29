@@ -8,7 +8,11 @@ created_at: "2024-03-09 14:56:12"
 
 ## Description
 
-Testen wir typischerweise mit Windows High Contrast Mode (HCM): `Alt` + `Shift + `PrtScn` oder in den Systemeinstellungen unter "Barrierefreiheit" → "Kontrast-Designs" anwählen.
+Der Hochkontrast-Modus aktiviert eine spezifische Farbpalette für das gesamte System, inkl. Webseiten. Dadurch verlieren alle in CSS definierten Farben ihre Gültigkeit und werden durch die Hochkontrast-Farbpalette überschrieben. Zudem werden rein dekorative CSS-Angaben entfernt, z.B. `background` (weshalb auch per CSS eingebundene Bilder nicht mehr angezeigt werden), `box-shadow`, etc.
+
+Wichtig ist, dass trotz dieser sehr reduzierten Anzeige-Modalitäten die Webseite weiterhin problemlos bedienbar ist.
+
+Getestet wird typischerweise mit Windows High Contrast Mode (HCM): `Alt` + `Shift + `PrtScn` oder in den Systemeinstellungen unter "Barrierefreiheit" → "Kontrast-Designs" anwählen.
 
 Man kann aber auch ["Forced-Colors" aktivieren in Chrome](https://developer.chrome.com/docs/devtools/rendering/emulate-css?hl=de#emulate_css_media_feature_forced-colors).
 

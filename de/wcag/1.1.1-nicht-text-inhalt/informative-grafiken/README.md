@@ -34,7 +34,7 @@ Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informati
             - **😡 Beispiel:** Wenn es sich um eine Auflistung mehrerer Mitarbeiter handelt, reicht das nicht (Fotos nicht eindeutig zuordenbar)
         - **😡 Beispiel:** Es hat gar keinen Alternativtext
     - **🙂 Beispiel:** Ein Firmenlogo hat den Alternativtext "ACME Inc." oder "Logo von ACME Inc."
-        - **😡 Beispiel:** "Logo" (siehe **🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB**)
+        - **😡 Beispiel:** "Logo"
         - **😡 Beispiel:** Das Logo ist nicht als Bild (`<img>`, `<svg role="img">` o.ä.) umgesetzt, sondern nur per CSS (z.B. `background-image`)
     - **🙂 Beispiel:** Ein allein stehendes Warenkorb-Symbol hat den Alternativtext "Warenkorb"
         - **🙄 Beispiel:** Das Warenkorb-Symbol steht neben einem zusätzlichen Text "Warenkorb" o.ä. → damit wird das Symbol redundant und sollte besser als dekorativ markiert werden (siehe [✅ Dekorative Grafiken](/de/wcag/1.1.1-nicht-text-inhalt/dekorative-grafiken))

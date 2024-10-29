@@ -36,7 +36,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
     - **😡 Beispiel:** `<div style="text-size: 2em; font-weight: bold">Meine Hobbys</div>`
     - **😡 Beispiel:** `<strong>Meine Hobbys</strong>`
 
-⚠️ Dies kann auch über den [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) geprüft werden:
+⚠️ Dies kann auch über den [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) geprüft werden:
 
 - `Rechtsklick` auf Überschrift → `Untersuchen`
 - In der DOM-Baumansicht werden entsprechende Infos über das Element angezeigt

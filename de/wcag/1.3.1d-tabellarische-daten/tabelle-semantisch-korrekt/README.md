@@ -26,7 +26,7 @@ Daten, welche eindeutig tabellarischen Charakter aufweisen (also keine Layout-Ta
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Tables (Bookmarklet)](/de/tags/werkzeuge/bookmarklets/tables-bookmarklet) ausführen
+1. [🏷️ Tables Bookmarklet](/de/tags/werkzeuge/bookmarklets/tables-bookmarklet) ausführen
 1. Sicherstellen, dass Tabellen-artige Elemente auch tatsächlich als `<table>` umgesetzt sind
     - **🙂 Beispiel:** Eine Tabelle ist korrekt als `<table>` umgesetzt
     - **🙄 Beispiel:** Eine Tabelle ist als `<div role="table">` umgesetzt

@@ -26,7 +26,7 @@ Insbesondere komplexe Daten-Tabellen weisen Tabellenüberschriften (`<caption>`)
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Tables (Bookmarklet)](/de/tags/werkzeuge/bookmarklets/tables-bookmarklet) ausführen
+1. [🏷️ Tables Bookmarklet](/de/tags/werkzeuge/bookmarklets/tables-bookmarklet) ausführen
 1. Sicherstellen, dass (insbesondere ausführliche) Tabellen eine Beschriftung (`<caption>`) haben
     - **🙂 Beispiel:** Eine ausführliche Tabelle hat die Beschriftung "Mitgliedstaaten der UNO"
     - **🙄 Beispiel:** Eine relativ kleine Tabelle hat eine Beschriftung mit `aria-label`

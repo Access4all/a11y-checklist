@@ -26,7 +26,7 @@ Aktive Elemente (z.B. der aktive Menüpunkt in einer Navigation) sind semantisch
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) Navigationen und ähnliche Elemente lesen und bedienen (oder mit [🏷️ DOM Inspektor](/de/tags/werkzeuge/dom-inspektor) direkt untersuchen)
+1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) Navigationen und ähnliche Elemente lesen und bedienen (oder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) direkt untersuchen)
 1. Sicherstellen, dass aktive Navigations-Punkte als solche angesagt werden
     - **🙂 Beispiel:** Eine Seite hat eine Navigation im Kopfbereich; das aktuell gewählte Navigations-Element wird als "aktuelle Seite", "aktiv", "gewählt" o.ä. angesagt
         - ⚠️ Es geht hier **nicht** darum, dass beim aktiven Wählen eines Eintrags der Screenreader ein Feedback gibt!

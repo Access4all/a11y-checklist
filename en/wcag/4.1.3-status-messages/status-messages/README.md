@@ -28,3 +28,5 @@ Status messages are accessible to assistive technologies and do not overload the
 ## Screenshots
 
 ![Meldung über Speicherung des Dokuments in Word 365](images/meldung-ber-speicherung-des-dokuments-in-word-365.png)
+
+![Hinweis nach Bewertung einer Prüfung in Moodle](images/hinweis-nach-bewertung-einer-prfung-in-moodle.png)
