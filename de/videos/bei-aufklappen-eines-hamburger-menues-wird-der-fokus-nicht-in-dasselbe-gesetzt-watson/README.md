@@ -22,6 +22,6 @@ created_at: "2024-03-06 14:27:26"
 
 ## Tags
 
-- [🏷️ Fokus-Management](/tags/techniken/tastatur-fokus/fokus-management)
-- [🏷️ Hamburger-Menü](/tags/javascript-widgets/navigation-menue/hamburger-menue)
-- [🏷️ Rückmeldung durch Screenreader](/tags/techniken/rueckmeldung-durch-screenreader)
+- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ Hamburger-Menü](/tags/hamburger-menue)
+- [🏷️ Rückmeldung durch Screenreader](/tags/rueckmeldung-durch-screenreader)

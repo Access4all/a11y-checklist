@@ -20,7 +20,7 @@ created_at: "2024-03-06 10:40:33"
 
 ## Tags
 
-- [🏷️ Desktop und Mobile Viewports (Zoom)](/tags/techniken/desktop-und-mobile-viewports-zoom)
-- [🏷️ Hamburger-Menü](/tags/javascript-widgets/navigation-menue/hamburger-menue)
-- [🏷️ Korrekte Links und Schalter](/tags/techniken/semantik/korrekte-links-und-schalter)
-- [🏷️ Semantik](/tags/techniken/semantik)
+- [🏷️ Desktop und Mobile Viewports (Zoom)](/tags/desktop-und-mobile-viewports-zoom)
+- [🏷️ Hamburger-Menü](/tags/hamburger-menue)
+- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
+- [🏷️ Semantik](/tags/semantik)

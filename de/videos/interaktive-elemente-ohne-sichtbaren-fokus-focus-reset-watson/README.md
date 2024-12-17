@@ -20,5 +20,5 @@ created_at: "2024-03-06 13:24:05"
 
 ## Tags
 
-- [🏷️ Fokus-Reset (Design)](/tags/techniken/tastatur-fokus/fokus-reset-design)
-- [🏷️ NerdeFocus Extension](/tags/werkzeuge/extensions/nerdefocus-extension)
+- [🏷️ Fokus-Reset (Design)](/tags/fokus-reset-design)
+- [🏷️ NerdeFocus Extension](/tags/nerdefocus-extension)

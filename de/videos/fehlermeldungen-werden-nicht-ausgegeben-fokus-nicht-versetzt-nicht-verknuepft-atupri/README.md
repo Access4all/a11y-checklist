@@ -20,8 +20,8 @@ created_at: "2024-03-06 13:26:19"
 
 ## Tags
 
-- [🏷️ aria-describedby](/tags/aria-attribute/aria-describedby)
-- [🏷️ Fokus-Management](/tags/techniken/tastatur-fokus/fokus-management)
-- [🏷️ NVDA Screenreader](/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader)
-- [🏷️ Rückmeldung durch Screenreader](/tags/techniken/rueckmeldung-durch-screenreader)
-- [🏷️ Validierungen und Fehlermeldungen](/tags/techniken/validierungen-und-fehlermeldungen)
+- [🏷️ aria-describedby](/tags/aria-describedby)
+- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ NVDA Screenreader](/tags/nvda-screenreader)
+- [🏷️ Rückmeldung durch Screenreader](/tags/rueckmeldung-durch-screenreader)
+- [🏷️ Validierungen und Fehlermeldungen](/tags/validierungen-und-fehlermeldungen)

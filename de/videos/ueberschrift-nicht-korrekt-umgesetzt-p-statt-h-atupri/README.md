@@ -20,5 +20,5 @@ created_at: "2024-03-05 16:28:58"
 
 ## Tags
 
-- [🏷️ Semantik](/tags/techniken/semantik)
-- [🏷️ Überschrift erster Ebene](/tags/techniken/ueberschriften/ueberschrift-erster-ebene)
+- [🏷️ Semantik](/tags/semantik)
+- [🏷️ Überschrift erster Ebene](/tags/ueberschrift-erster-ebene)

@@ -33,7 +33,7 @@ Inhalte/Funktionalitäten (Seitenfunktionalitäten, Seitenelemente, Formularfeld
         - **🙄 Beispiel:** Ein custom Link oder Schalter (`<span onclick tabindex="0">`) ist fokussierbar.
             - ⚠️ Es sollten aber besser native HTML-Elemente eingesetzt werden!
         - **😡 Beispiel:** Ein JavaScript-Widget ist ggf. nicht fokussierbar.
-    - Falls Fokus schlecht (oder gar nicht) sichtbar → [🏷️ NerdeFocus Extension](/de/tags/werkzeuge/extensions/nerdefocus-extension) aktivieren
+    - Falls Fokus schlecht (oder gar nicht) sichtbar → [🏷️ NerdeFocus Extension](/de/tags/nerdefocus-extension) aktivieren
 1. Sicherstellen, dass alle interaktiven Elemente mit Tastatur alleine bedienbar sind:
     - Links und Schalter mit `Enter`-Taste aktivierbar?
         - **🙂 Beispiel:** Alle nativen interaktiven HTML-Elemente sind von Natur aus aktivierbar (z.B. `<button>` oder `<a href>`).

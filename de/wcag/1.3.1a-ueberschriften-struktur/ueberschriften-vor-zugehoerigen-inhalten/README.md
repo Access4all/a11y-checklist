@@ -26,7 +26,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) ausführen
+1. [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) ausführen
 1. Mit `H` zu Überschriften navigieren und mit `Runter` sicherstellen, dass sich Überschriften vor den ihnen zugehörenden Inhalten befinden:
     - ⚠️ Konkret bedeutet das, dass die Überschrift sich im DOM vor den Inhalten befinden muss; visuell kann dies anders sein (mittels CSS leicht änderbar z.B. via Flexbox oder Grid)
     - **🙂 Beispiel:** Im Haupt-Inhalt nach `<h1>Meine Hobbys</h1>` folgen Paragrafen und Bilder, Sub-Überschriften (`<h2>`), Links etc. zum Thema Hobbys.
@@ -36,7 +36,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
         - **🙂 Beispiel:** Das Datum befindet sich im DOM unterhalb der Überschrift (und wird via CSS darüber gesetzt)
         - **😡 Beispiel:** Das Datum befindet sich ausserhalb und oberhalb der Überschrift
 
-⚠️ Dies kann auch über den [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) geprüft werden:
+⚠️ Dies kann auch über den [🏷️ DOM Inspektor](/de/tags/dom-inspektor) geprüft werden:
 
 - `Rechtsklick` auf Überschrift → `Untersuchen`
 - In der DOM-Baumansicht die Reihenfolge der Elemente prüfen

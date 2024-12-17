@@ -21,5 +21,5 @@ created_at: "2024-03-05 16:30:52"
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/werkzeuge/bookmarklets/h123-bookmarklet)
-- [🏷️ Inhalte rein visuell verstecken](/tags/techniken/inhalte-verstecken/inhalte-rein-visuell-verstecken)
+- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
+- [🏷️ Inhalte rein visuell verstecken](/tags/inhalte-rein-visuell-verstecken)

@@ -27,7 +27,7 @@ Mit Formular interagieren und prüfen, ob Fehler auch mit Screenreader erfahrbar
 
 1. Seite mit Formular-Elementen öffnen
 1. Formular fehlerhaft abschicken (z.B. Pflichtfeld leer lassen, Email falsch eingeben, etc.)
-1. [🏷️ Forms Bookmarklet](/de/tags/werkzeuge/bookmarklets/forms-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) untersuchen)
+1. [🏷️ Forms Bookmarklet](/de/tags/forms-bookmarklet) ausführen (oder mit [🏷️ DOM Inspektor](/de/tags/dom-inspektor) untersuchen)
 1. Sicherstellen, dass Fehler-Meldungen wahrnehmbar sind
     - **🙂 Beispiel:** Eingabefelder in einem Formular sind schwarz umrandet (`1px black`); wenn sie fehlerhaft sind, sind sie dicker und rot umrandet (`2px red`)
         - **🙂 Beispiel:** Wenn sie fehlerhaft sind, weisen wird ein zusätzliches Symbol daneben angezeigt (z.B. ein Ausrufezeichen).
@@ -51,7 +51,7 @@ Mit Formular interagieren und prüfen, ob Fehler auch mit Screenreader erfahrbar
 
 ### Nachprüfen mit Screenreader
 
-Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
+Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachgeprüft werden:
 
 - `Tab` (oder auch `F` oder `I`) drücken, um von Eingabefeld zu Eingabefeld zu springen
 - Dann sicherstellen, dass der Screenreader alle Fehlermeldungen für's Feld vorliest
@@ -60,7 +60,7 @@ Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`)
 
 ### Nur Plain-Text via aria-describedby
 
-Elemente, die via `aria-describedby` ([🏷️ aria-describedby](/de/tags/aria-attribute/aria-describedby)) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
+Elemente, die via `aria-describedby` ([🏷️ aria-describedby](/de/tags/aria-describedby)) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
 
 ## Screenshots typischer Fälle
 

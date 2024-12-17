@@ -20,6 +20,6 @@ created_at: "2024-03-06 11:02:37"
 
 ## Tags
 
-- [🏷️ Cookie-Banner](/tags/javascript-widgets/cookie-banner)
-- [🏷️ Fokus-Management](/tags/techniken/tastatur-fokus/fokus-management)
-- [🏷️ Fokussierbarkeit](/tags/techniken/tastatur-fokus/fokussierbarkeit)
+- [🏷️ Cookie-Banner](/tags/cookie-banner)
+- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)

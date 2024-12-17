@@ -21,10 +21,10 @@ created_at: "2024-03-06 08:54:59"
 
 ## Tags
 
-- [🏷️ aria-expanded](/tags/aria-attribute/aria-expanded)
-- [🏷️ Fokus-Management](/tags/techniken/tastatur-fokus/fokus-management)
-- [🏷️ Hamburger-Menü](/tags/javascript-widgets/navigation-menue/hamburger-menue)
-- [🏷️ Korrekte Links und Schalter](/tags/techniken/semantik/korrekte-links-und-schalter)
-- [🏷️ NVDA Screenreader](/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader)
-- [🏷️ Semantik](/tags/techniken/semantik)
-- [🏷️ Zugänglicher Name](/tags/techniken/zugaenglicher-name)
+- [🏷️ aria-expanded](/tags/aria-expanded)
+- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ Hamburger-Menü](/tags/hamburger-menue)
+- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
+- [🏷️ NVDA Screenreader](/tags/nvda-screenreader)
+- [🏷️ Semantik](/tags/semantik)
+- [🏷️ Zugänglicher Name](/tags/zugaenglicher-name)

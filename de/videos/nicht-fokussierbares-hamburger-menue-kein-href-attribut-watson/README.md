@@ -20,7 +20,7 @@ created_at: "2024-03-06 10:39:16"
 
 ## Tags
 
-- [🏷️ Fokussierbarkeit](/tags/techniken/tastatur-fokus/fokussierbarkeit)
-- [🏷️ Hamburger-Menü](/tags/javascript-widgets/navigation-menue/hamburger-menue)
-- [🏷️ Korrekte Links und Schalter](/tags/techniken/semantik/korrekte-links-und-schalter)
-- [🏷️ NerdeFocus Extension](/tags/werkzeuge/extensions/nerdefocus-extension)
+- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
+- [🏷️ Hamburger-Menü](/tags/hamburger-menue)
+- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
+- [🏷️ NerdeFocus Extension](/tags/nerdefocus-extension)

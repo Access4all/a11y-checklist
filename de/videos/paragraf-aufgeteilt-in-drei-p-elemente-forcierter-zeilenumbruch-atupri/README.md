@@ -21,7 +21,7 @@ created_at: "2024-03-06 10:36:48"
 
 ## Tags
 
-- [🏷️ aria-hidden](/tags/aria-attribute/aria-hidden)
-- [🏷️ NVDA Screenreader](/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader)
-- [🏷️ Semantik](/tags/techniken/semantik)
-- [🏷️ Zerstückelte Screenreader-Ansagen (Zeilenumbrüche)](/tags/techniken/zerstueckelte-screenreader-ansagen-zeilenumbrueche)
+- [🏷️ aria-hidden](/tags/aria-hidden)
+- [🏷️ NVDA Screenreader](/tags/nvda-screenreader)
+- [🏷️ Semantik](/tags/semantik)
+- [🏷️ Zerstückelte Screenreader-Ansagen (Zeilenumbrüche)](/tags/zerstueckelte-screenreader-ansagen-zeilenumbrueche)

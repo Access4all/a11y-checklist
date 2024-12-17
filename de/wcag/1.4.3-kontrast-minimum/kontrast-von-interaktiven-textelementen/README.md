@@ -26,8 +26,8 @@ Interaktive Textelemente (z.B. Schalterbeschriftungen) erfüllen die Kontrastanf
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit [🏷️ Color Contrast Analyzer](/de/tags/werkzeuge/color-contrast-analyzer) jeweils die Vorder- und Hintergrundfarbe eines interaktiven Elements wählen
-    - ⚠️ Das Nutzen der Farb-Pipette kann ungenau sein! Wenn Ergebnisse knapp sind (z.B. ein knapp ungenügendes `4.3:1` bei kleiner Schrift oder ein knapp genügendes `3.1:1` bei grosser), dann müssen die Farbwerte manuell eruiert (mittels [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor)) und nochmal eingegeben werden
+1. Mit [🏷️ Color Contrast Analyzer](/de/tags/color-contrast-analyzer) jeweils die Vorder- und Hintergrundfarbe eines interaktiven Elements wählen
+    - ⚠️ Das Nutzen der Farb-Pipette kann ungenau sein! Wenn Ergebnisse knapp sind (z.B. ein knapp ungenügendes `4.3:1` bei kleiner Schrift oder ein knapp genügendes `3.1:1` bei grosser), dann müssen die Farbwerte manuell eruiert (mittels [🏷️ DOM Inspektor](/de/tags/dom-inspektor)) und nochmal eingegeben werden
 1. Sicherstellen, dass die Kontraste ausreichend sind
     - **🙂 Beispiel:** Ein grosser Schalter (ab `18pt` oder `14pt` + fett) hat einen Kontrastwert von mind. `3:1`
         - **😡 Beispiel:** Der Kontrastwert ist kleiner als `3:1`

@@ -26,7 +26,7 @@ Die Hierarchie der Überschriften-Ebenen ist inhaltlich-logisch korrekt und verm
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ H123 Bookmarklet](/de/tags/werkzeuge/bookmarklets/h123-bookmarklet) ausführen
+1. [🏷️ H123 Bookmarklet](/de/tags/h123-bookmarklet) ausführen
 1. Sicherstellen, dass Hierarchie der Überschriften inhaltlich korrekt
     - ⚠️ Es geht hier darum, dass die **existierende** Überschriften-Struktur Sinn macht (und nicht, ob z.B. Überschriften fehlen o.ä. → auch wenn fehlende Überschriften natürlich schnell zu sinnfreien Überschriften-Strukturen führen)
     - **🙂 Beispiel:** Auf `<h1>Meine Hobbys</h1>` folgen `<h2>Fussball spielen</h2>` und `<h2>Kochen</h2>`
@@ -36,7 +36,7 @@ Die Hierarchie der Überschriften-Ebenen ist inhaltlich-logisch korrekt und verm
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachgeprüft werden:
 
 - `Insert`+`F7` zum Anzeigen der Elementliste
 - Dann `Alt`+`H` für Überschriften

@@ -26,7 +26,7 @@ Eingabefelder zu Nutzerdaten können automatisch ausgefüllt werden.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Formulare für persönliche Daten mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) untersuchen
+1. Formulare für persönliche Daten mit [🏷️ DOM Inspektor](/de/tags/dom-inspektor) untersuchen
 1. Sicherstellen, dass alle Eingabefelder ein sinnvolles und korrektes `autocomplete`-Attribut haben
     - ⚠️ Die Liste an möglichen Werten findet sich hier: <https://www.w3.org/TR/WCAG22/#input-purposes>
     - **🙂 Beispiel:** Das Eingabefeld für den Vornamen hat `autocomplete="given-name"`

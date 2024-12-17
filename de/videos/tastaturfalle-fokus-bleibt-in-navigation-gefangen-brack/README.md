@@ -20,5 +20,5 @@ created_at: "2024-03-06 08:52:43"
 
 ## Tags
 
-- [🏷️ Fokus-Management](/tags/techniken/tastatur-fokus/fokus-management)
-- [🏷️ Fokussierbarkeit](/tags/techniken/tastatur-fokus/fokussierbarkeit)
+- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)

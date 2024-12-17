@@ -12,4 +12,4 @@ Das Document Object Model (DOM) ist die Browser-interne Struktur einer gerendert
 
 Der Browser interpretiert das HTML und erstellt eine interne Repräsentation davon. Zusammen mit CSS wird der DOM dann visuell am Bildschirm angezeigt. JavaScript kann den DOM verändern, woraufhin der Browser auch die visuelle Anzeige entsprechend aktualisiert.
 
-Vgl. mit [🏷️ Accessibility Tree](/de/tags/document-object-model-dom/accessibility-tree).
+Vgl. mit [🏷️ Accessibility Tree](/de/tags/accessibility-tree).

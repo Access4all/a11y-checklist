@@ -28,7 +28,7 @@ Sensorische Inhalte, die zwingend aus Nicht-Text-Inhalt bestehen, weil sie durch
 #### Bilder
 
 1. Seite öffnen
-1. [🏷️ Image Alt Text Viewer Extension](/de/tags/werkzeuge/extensions/image-alt-text-viewer-extension) ausführen (oder in [🏷️ Web Developer Extension](/de/tags/werkzeuge/extensions/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
+1. [🏷️ Image Alt Text Viewer Extension](/de/tags/image-alt-text-viewer-extension) ausführen (oder in [🏷️ Web Developer Extension](/de/tags/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass Grafiken mit rein sensorischem Inhalt einen passenden Alternativtext aufweisen
     - **🙂 Beispiel:** Ein abstraktes Gemälde hat den Alternativtext "Abstrakter Expressionismus: Gemälde mit blauen Farbklecksen und -schlieren auf weissem Hintergrund"
         - ⚠️ Die Beschreibung eines solchen Bildes kann herausfordernd sein und ist oft auch vom Kontext abhängig. Generell sollte nicht zu viel Interpretation vorweg genommen werden, sondern dem Nutzer die Interpretation überlassen werden.

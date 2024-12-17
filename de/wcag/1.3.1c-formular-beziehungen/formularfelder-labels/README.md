@@ -38,7 +38,7 @@ Formularfelder weisen korrekt verknüpfte Labels auf.
 
 ### Nachprüfen mit Screenreader
 
-Bei visuell ungewöhnlichen Formularen (z.B. teilweise keine visuell sichtbaren Labels) oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
+Bei visuell ungewöhnlichen Formularen (z.B. teilweise keine visuell sichtbaren Labels) oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachgeprüft werden:
 
 - `Tab` (oder auch `F` oder `I`) drücken, um von Eingabefeld zu Eingabefeld zu springen
 - Dann sicherstellen, dass der Screenreader das Label des Felds vorliest

@@ -22,4 +22,4 @@ created_at: "2024-03-05 16:21:11"
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/werkzeuge/bookmarklets/h123-bookmarklet)
+- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)

@@ -20,6 +20,6 @@ created_at: "2024-03-06 11:01:42"
 
 ## Tags
 
-- [🏷️ Fokussierbarkeit](/tags/techniken/tastatur-fokus/fokussierbarkeit)
-- [🏷️ Hover (Inhalte einblenden)](/tags/techniken/hover-inhalte-einblenden)
-- [🏷️ Tooltip](/tags/javascript-widgets/tooltip)
+- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
+- [🏷️ Hover (Inhalte einblenden)](/tags/hover-inhalte-einblenden)
+- [🏷️ Tooltip](/tags/tooltip)

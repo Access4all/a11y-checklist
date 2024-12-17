@@ -26,8 +26,8 @@ Aktivierbare Elemente weisen die geforderte Mindestgrösse oder genügend Abstan
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Target Size Bookmarklet](/de/tags/werkzeuge/bookmarklets/target-size-bookmarklet) ausführen
-    - ⚠️ Bei Grenzfällen kann via [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) die genaue Grösse eines Elements angezeigt werden: einfach über ein Element hovern in der Baum-Ansicht!
+1. [🏷️ Target Size Bookmarklet](/de/tags/target-size-bookmarklet) ausführen
+    - ⚠️ Bei Grenzfällen kann via [🏷️ DOM Inspektor](/de/tags/dom-inspektor) die genaue Grösse eines Elements angezeigt werden: einfach über ein Element hovern in der Baum-Ansicht!
 1. Sicherstellen, dass angezeigte Verstösse (blaue Kreise) **keine** Ausnahmen darstellen
     - **🙂 Beispiel:** Schalter und Links sind mind. `24x24px` gross
     - **🙄 Beispiel:** Ein Schalter ist `19x19px` gross, hat aber einen Abstand von mind. `5px` zu angrenzenden interaktiven Elementen

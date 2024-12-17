@@ -26,7 +26,7 @@ Listen mit nur einem Eintrag werden vermieden (ausser sie werden automatisch gen
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/werkzeuge/bookmarklets/inhalte-gegliedert-bookmarklet) ausführen
+1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/inhalte-gegliedert-bookmarklet) ausführen
 1. Sicherstellen, dass keine Listen mit nur einem Eintrag existieren
     - **🙂 Beispiel:** Eine automatisch generierte Liste mit Stichworten zu einem Video enthält nur ein einziges Stichwort
         - ⚠️ In solchen Fällen, wo mehrere Elemente ausgegeben werden können, aber manchmal auch nur ein einzelnes Element ausgegeben wird (eben z.B. mehrere Stichwörter, aber mal auch nur eines oder gar keines) ist es okay, eine Liste mit nur einem einzigen Eintrag anzuzeigen.
@@ -35,7 +35,7 @@ Listen mit nur einem Eintrag werden vermieden (ausser sie werden automatisch gen
 
 ### Nachprüfen mit Screenreader
 
-Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachprüft werden:
+Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachprüft werden:
 
 - `L` drücken, um Listen direkt anzuspringen
 - `I` drücken, um Punkte innerhalb einer Liste direkt anzuspringen
