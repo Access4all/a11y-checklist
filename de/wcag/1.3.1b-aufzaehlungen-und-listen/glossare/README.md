@@ -26,14 +26,14 @@ Glossare und ähnliche Informationslisten sind als Definitionslisten formatiert.
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/werkzeuge/bookmarklets/inhalte-gegliedert-bookmarklet) ausführen
+1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/inhalte-gegliedert-bookmarklet) ausführen
 1. Sicherstellen, dass Definitions-Listen als `<dl>` umgesetzt sind
     - **🙂 Beispiel:** Ein Glossar ist als `<dl>` umgesetzt: der Begriff (Term) ist als `<dt>`, die Erläuterung (Definition) als `<dd>` ausgezeichnet
     - **🙂 Beispiel:** Ein Glossar ist als `<ul>` umgesetzt: der Begriff ist mittels `<strong>` rein visuell von der Erläuterung abgesetzt
 
 ### Nachprüfen mit Screenreader
 
-⚠️ Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
+⚠️ Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachgeprüft werden:
 
 - `L` drücken, um Listen (auch Definitions-Listen) direkt anzuspringen
 - `I` drücken, um Punkte innerhalb einer Liste direkt anzuspringen

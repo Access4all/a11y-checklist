@@ -27,7 +27,7 @@ Der Tastatur-Fokus wird sinnvoll geführt, wenn jemand mit Elementen auf der Sei
 
 1. Seite öffnen
 1. Mit `Tab`-Taste durch die Seite navigieren:
-    - Falls Fokus schlecht (oder gar nicht) sichtbar → [🏷️ NerdeFocus Extension](/de/tags/werkzeuge/extensions/nerdefocus-extension) aktivieren
+    - Falls Fokus schlecht (oder gar nicht) sichtbar → [🏷️ NerdeFocus Extension](/de/tags/nerdefocus-extension) aktivieren
 1. Elemente aktivieren (`Enter`-Taste), welche potenziell In-Page-Änderungen (siehe unten) mit Interaktions-Aufforderung (siehe unten) bewirken und jeweils prüfen:
     - Wird der Fokus daraufhin an einen sinnvollen Ort gesetzt?
         - **🙂 Beispiel:** Ein Dialog öffnet sich und der Fokus wird auf dessen "Schliessen"-Schalter gesetzt

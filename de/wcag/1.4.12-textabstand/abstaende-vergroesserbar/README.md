@@ -26,7 +26,7 @@ Abstände zwischen Zeilen, Wörtern und Buchstaben sowie nach Absätzen sind ohn
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Text Spacing Bookmarklet](/de/tags/werkzeuge/bookmarklets/text-spacing-bookmarklet) ausführen
+1. [🏷️ Text Spacing Bookmarklet](/de/tags/text-spacing-bookmarklet) ausführen
 1. Sicherstellen, dass Inhalte weiterhin gut lesbar dargestellt werden
     - **🙂 Beispiel:** Die Inhalte werden weiterhin gut lesbar dargestellt
     - **😡 Beispiel:** Es kommt zu Überlappungen von Text (z.B. aufgrund langer Wörter) oder anderen Elementen

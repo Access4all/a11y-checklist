@@ -51,3 +51,5 @@ Mindestens eine der angebotenen Möglichkeiten zur Authentifizierung ist für di
 ![Noch ein visuelles CAPTCHA](images/noch-ein-visuelles-captcha.png)
 
 ![Visuelles, Puzzle-artiges Captcha](images/visuelles-puzzle-artiges-captcha.png)
+
+![Captcha, wo visuell ein Gegenstand erkannt und gewählt werden muss](images/captcha-wo-visuell-ein-gegenstand-erkannt-und-gewhlt-werden-muss.png)

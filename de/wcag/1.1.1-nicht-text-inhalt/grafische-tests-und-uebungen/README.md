@@ -26,7 +26,7 @@ Tests und Übungen, deren Inhalt zwingend aus Nicht-Text-Inhalt bestehen muss, w
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Image Alt Text Viewer Extension](/de/tags/werkzeuge/extensions/image-alt-text-viewer-extension) ausführen (oder in [🏷️ Web Developer Extension](/de/tags/werkzeuge/extensions/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
+1. [🏷️ Image Alt Text Viewer Extension](/de/tags/image-alt-text-viewer-extension) ausführen (oder in [🏷️ Web Developer Extension](/de/tags/web-developer-extension) unter "Images" → "Display Alt Attributes" wählen)
 1. Sicherstellen, dass solche Grafiken einen passenden Alternativtext aufweisen
     - **🙂 Beispiel:** Bei einem Farbenblindheit-Test hat eine Farbtafel den Alternativtext "Ishihara Farbenblindheit-Test: Welche Zahl sehen Sie auf diesem Bild?"
         - ⚠️ Ausserhalb eines Test-Settings macht es natürlich Sinn, die Farbtafel genauer zu beschreiben, z.B. "Farbenblindheit-Test: Ishihara-Farbtafel 45"

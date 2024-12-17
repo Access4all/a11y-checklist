@@ -48,7 +48,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 1. Dropdown wie zuvor bedienen, dieses mal mit **Screenreader** (ggf. Seite neu laden), und prüfen:
     - Vermittelt der Screenreader die Rolle des Elements adäquat?
         - **🙂 Beispiel:** Es wird eine explizite Rolle ausgegeben, die einen Hinweis darauf gibt, dass das Element ausgeklappt werden kann, z.B. "Menü", "Menüleiste", "Menü-Eintrag", "Unter-Menü", "Kombinations-Feld" o.ä.
-        - **🙂 Beispiel:** Es wird nur ein Klapp-Status ("eingeklappt" oder "ausgeklappt") ausgegeben → ⚠️ Dies reicht meistens vollauf (ein einfaches `aria-expanded`-Attribut genügt hierzu, siehe [🏷️ aria-expanded](/de/tags/aria-attribute/aria-expanded))
+        - **🙂 Beispiel:** Es wird nur ein Klapp-Status ("eingeklappt" oder "ausgeklappt") ausgegeben → ⚠️ Dies reicht meistens vollauf (ein einfaches `aria-expanded`-Attribut genügt hierzu, siehe [🏷️ aria-expanded](/de/tags/aria-expanded))
         - **😡 Beispiel:** Es wird weder ein Hinweis auf eine Rolle noch auf den Klapp-Status gegeben
     - Beim Öffnen/Schliessen: wird der Status vermittelt?
         - **🙂 Beispiel:** Es wird "Aufgeklappt" bzw. "Zugeklappt" ausgegeben

@@ -26,7 +26,7 @@ Tabellen, deren Zellen mehrere Spalten und/oder Zeilen überspannen, sind für S
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) ausführen
+1. [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) ausführen
 1. Mit `T` zu Tabelle springen
 1. Mit `Ctrl`+`Alt`+`Pfeile` durch die Zellen navigieren (quasi wie in Excel) und sicherstellen, dass jeweils die korrekten Zeilen-Header angesagt werden
     - **🙂 Beispiel:** Bei einer Länder-Tabelle überspannt die Header-Zeile `<th colspan="2">Kontinent</th>` die beiden darunter liegenden Header-Zeilen `<th>Europa</th>` und `<th>Afrika</th>`. Beim Erreichen der Zeile "Schweiz" wird sowohl "Kontinent" wie auch "Europa" angesagt (ausser man bewegte sich davor schon in diesen beiden Spalten); beim Erreichen der Zeile "Kenia" wird sowohl "Kontinent" wie auch "Afrika" angesagt (ausser man bewegte sich davor schon in diesen beiden Spalten).

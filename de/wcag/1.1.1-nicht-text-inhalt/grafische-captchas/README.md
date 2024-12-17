@@ -36,3 +36,5 @@ Vergleiche auch [📜-3.3.8 Barrierefreie Authentifizierung (Minimum)](/de/wcag/
 ![Grafisches CAPTCHA](images/grafisches-captcha.png)
 
 ![Noch ein CAPTCHA](images/noch-ein-captcha.png)
+
+![Ein CAPTCHA, bei dem man Tiere erkennen muss](images/ein-captcha-bei-dem-man-tiere-erkennen-muss.png)

@@ -26,7 +26,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ H123 Bookmarklet](/de/tags/werkzeuge/bookmarklets/h123-bookmarklet) ausführen
+1. [🏷️ H123 Bookmarklet](/de/tags/h123-bookmarklet) ausführen
 1. Sicherstellen, dass alle Elemente, die wie Überschriften aussehen, auch als solche ausgezeichnet sind:
     - **🙂 Beispiel:** `<h1>Meine Hobbys</h1>`
     - **🙂 Beispiel:** `<h2>Inhalts-Navigation</h2>`
@@ -36,7 +36,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
     - **😡 Beispiel:** `<div style="text-size: 2em; font-weight: bold">Meine Hobbys</div>`
     - **😡 Beispiel:** `<strong>Meine Hobbys</strong>`
 
-⚠️ Dies kann auch über den [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) geprüft werden:
+⚠️ Dies kann auch über den [🏷️ DOM Inspektor](/de/tags/dom-inspektor) geprüft werden:
 
 - `Rechtsklick` auf Überschrift → `Untersuchen`
 - In der DOM-Baumansicht werden entsprechende Infos über das Element angezeigt

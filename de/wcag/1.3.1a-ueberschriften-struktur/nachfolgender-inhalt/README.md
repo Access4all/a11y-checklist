@@ -26,7 +26,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ H123 Bookmarklet](/de/tags/werkzeuge/bookmarklets/h123-bookmarklet) ausführen
+1. [🏷️ H123 Bookmarklet](/de/tags/h123-bookmarklet) ausführen
 1. Sicherstellen, dass alle Überschriften einen nachfolgenden Inhalt haben:
     - ⚠️ Inhalt kann fast alles sein: Paragraf, Link, Sub-Überschrift, Bild (ausser wenn bloss dekorativ, siehe [✅ Dekorative Grafiken](/de/wcag/1.1.1-nicht-text-inhalt/dekorative-grafiken)), Formular-Felder, etc. → Hauptsache, ein Screenreader gibt etwas aus!
     - **🙂 Beispiel:** In der Navigation nach `<h2>Navigation</h2>` folgt eine Liste mit Links zu Unterseiten.
@@ -36,7 +36,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachgeprüft werden:
 
 - Überschriften mit `H` anspringen und sicherstellen, dass nachfolgender Inhalt vorhanden.
 

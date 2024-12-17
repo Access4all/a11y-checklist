@@ -26,11 +26,11 @@ Pflichtfelder sind zugänglich ausgezeichnet, sowohl auf visueller wie nicht-vis
 ### Prüf-Schritte
 
 1. Seite mit Formular-Elementen öffnen
-1. Pflichtfelder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) untersuchen
+1. Pflichtfelder mit [🏷️ DOM Inspektor](/de/tags/dom-inspektor) untersuchen
 1. Sicherstellen, dass Pflichtfelder korrekt ausgezeichnet sind
     - **🙂 Beispiel:** Ein Pflichtfeld hat ein Label "Vorname (Pflichtfeld)"
     - **🙂 Beispiel:** Ein Pflichtfeld hat ein `required`- oder `aria-required`-Attribut
-    - **🙂 Beispiel:** Ein Pflichtfeld hat ein Label "Vorname *", wobei der Asterisk erklärt wird (z.B. über ein `aria-describedby` oder einen visuell versteckten Text, siehe [🏷️ Inhalte rein visuell verstecken](/de/tags/techniken/inhalte-verstecken/inhalte-rein-visuell-verstecken)), sodass der Screenreader z.B. "Vorname Eingabe erforderlich" ansagt
+    - **🙂 Beispiel:** Ein Pflichtfeld hat ein Label "Vorname *", wobei der Asterisk erklärt wird (z.B. über ein `aria-describedby` oder einen visuell versteckten Text, siehe [🏷️ Inhalte rein visuell verstecken](/de/tags/inhalte-rein-visuell-verstecken)), sodass der Screenreader z.B. "Vorname Eingabe erforderlich" ansagt
         - ⚠️ Der Asterisk kann vom Screenreader als solcher angesagt werden; noch schöner aber ist, wenn er **nicht** angesagt wird
         - ⚠️ Auch visuelle Nutzer freuen sich über eine Erklärung des Asterisk (z.B. via Fussnote); dies ist aber keine strikte Anforderung
         - **😡 Beispiel:** Ein Label "Vorname *" hat zwar eine Erklärung, diese ist aber nicht korrekt mit dem Eingabefeld verbunden (z.B. fehlendes `aria-describedby`, siehe [✅ Text-Elemente zwischen Eingabefeldern](/de/wcag/1.3.1c-formular-beziehungen/text-elemente-zwischen-eingabefeldern) sowie [✅ Fehlermeldungen in Formularen](/de/wcag/3.3.1-fehlerkennzeichnung/fehlermeldungen-in-formularen))
@@ -40,7 +40,7 @@ Pflichtfelder sind zugänglich ausgezeichnet, sowohl auf visueller wie nicht-vis
 
 ### Nachprüfen mit Screenreader
 
-Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
+Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachgeprüft werden:
 
 - `Tab` (oder auch `F` oder `I`) drücken, um von Eingabefeld zu Eingabefeld zu springen
 - Dann sicherstellen, dass der Screenreader alle Pflichtfelder als solche ansagt

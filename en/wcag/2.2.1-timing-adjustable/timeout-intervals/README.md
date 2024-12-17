@@ -31,6 +31,8 @@ Timeout intervals are customizable or can be deactivated. A clear indication of 
 
 ![Meldung, dass aktuelle Session bereits abgelaufen ist](images/meldung-dass-aktuelle-session-bereits-abgelaufen-ist.png)
 
+![Eine weitere solche Meldung, dass die Sitzung abgelaufen ist](images/eine-weitere-solche-meldung-dass-die-sitzung-abgelaufen-ist.png)
+
 ![Möglichkeiten um Anpassen der Dauer einer Session](images/mglichkeiten-um-anpassen-der-dauer-einer-session.png)
 
 ![Restdauer bei einer Online-Auktion](images/restdauer-bei-einer-online-auktion.png)

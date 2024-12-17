@@ -26,7 +26,7 @@ Informative Grafiken und grafische Elemente (z.B. Häkchen in einer aktivierten 
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Hochkontrast-Modus (Forced-Colors)](/de/tags/techniken/hochkontrast-modus-forced-colors) aktivieren
+1. [🏷️ Hochkontrast-Modus (Forced-Colors)](/de/tags/hochkontrast-modus-forced-colors) aktivieren
 1. Sicherstellen, dass informative Grafiken und grafische Elemente weiterhin sichtbar sind
     - **🙂 Beispiel:** Ein Mitarbeiter-Foto ist im Hochkontrast-Modus weiterhin sichtbar
         - **😡 Beispiel:** Das Foto ist nicht mehr sichtbar (weil es z.B. mit CSS `background-image` umgesetzt wurde)

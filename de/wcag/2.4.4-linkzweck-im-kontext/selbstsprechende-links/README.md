@@ -26,7 +26,7 @@ Link-Texte sind selbstsprechend, d.h. aus sich selbst heraus oder über den Kont
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Link-Liste in Screenreader [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) anzeigen lassen (`Insert`-`F7`, dann `Alt`-`L`)
+1. Link-Liste in Screenreader [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) anzeigen lassen (`Insert`-`F7`, dann `Alt`-`L`)
 1. Sicherstellen, dass Links selbstsprechend sind:
     - **🙂 Beispiel:** "Mehr zum Thema X"
     - **🙂 Beispiel:** "Kontakt"

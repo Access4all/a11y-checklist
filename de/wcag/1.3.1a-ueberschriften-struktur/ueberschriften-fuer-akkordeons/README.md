@@ -26,7 +26,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 ### Prüf-Schritte
 
 1. Seite mit Akkordeon öffnen
-1. [🏷️ H123 Bookmarklet](/de/tags/werkzeuge/bookmarklets/h123-bookmarklet) ausführen
+1. [🏷️ H123 Bookmarklet](/de/tags/h123-bookmarklet) ausführen
 1. Sicherstellen, dass Akkordeon-Toggler als Überschriften ausgezeichnet sind:
     - ⚠️ Besonders wenn die Inhalte des Akkordeons ebenfalls Überschriften aufweisen, ist das wichtig. Bei sehr simplen Akkordeons mit nur wenig Inhalt kann dies überflüssig sein.
     - **🙂 Beispiel:** Bei einem Rezept sind "Zutaten", "Anleitung" und "Tipps" als Akkordeon-Toggler auf- und zuklappbar; sie sind als Überschrift ausgezeichnet.
@@ -36,7 +36,7 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 
 ### Nachprüfen mit Screenreader
 
-Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachgeprüft werden:
+Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachgeprüft werden:
 
 - Überschriften mit `H` versuchen anzuspringen.
 

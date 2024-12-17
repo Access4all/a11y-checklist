@@ -26,7 +26,7 @@ Schriftformatierungen mit Informationsgehalt (z.B. durchgestrichen) sind auch ni
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. Mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) Inhalte lesen (oder mit [🏷️ DOM Inspektor](/de/tags/document-object-model-dom/dom-inspektor) direkt untersuchen)
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) Inhalte lesen (oder mit [🏷️ DOM Inspektor](/de/tags/dom-inspektor) direkt untersuchen)
 1. Sicherstellen, dass Schriftformatierungen mit spezifischer Bedeutung vom Screenreader angesagt werden
     - **🙂 Beispiel:** In einem Produkt-Angebot ist der alte Preis mittels `<del>CHF 35.-</del>` durchgestrichen; dies alleine führt aber zu keiner besonderen Ausgabe in den meisten Screenreadern, deshalb wird ein `aria-label="Alter Preis: CHF 35.-"` gesetzt (oder visuell versteckter Text verwendet).
         - **😡 Beispiel:** Es wird kein `aria-label` (oder visuell versteckter Text) verwendet

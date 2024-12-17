@@ -26,7 +26,7 @@ Aufzählungen sind semantisch korrekt als Listen (`<ul>`, `<ol>`, `<dl>`) format
 ### Prüf-Schritte
 
 1. Seite öffnen
-1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/werkzeuge/bookmarklets/inhalte-gegliedert-bookmarklet) ausführen
+1. [🏷️ Inhalte gegliedert Bookmarklet](/de/tags/inhalte-gegliedert-bookmarklet) ausführen
 1. Sicherstellen, dass Listen semantisch korrekt umgesetzt
     - **🙂 Beispiel:** Eine vertikale Seiten-Navigation ist als `<ul>` oder `<ol>` ausgezeichnet
     - **🙂 Beispiel:** Eine horizontale Aneinander-Reihung von Social-Media-Links ist als `<ul>` oder `<ol>` ausgezeichnet
@@ -34,7 +34,7 @@ Aufzählungen sind semantisch korrekt als Listen (`<ul>`, `<ol>`, `<dl>`) format
 
 ### Nachprüfen mit Screenreader
 
-Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader/nvda-screenreader) nachprüft werden:
+Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf als direkte Kind-Elemente nur `<li>` beinhalten! Bei zweifelhaftem Code (z.B. Einsatz von `role="list"`) sollte besser mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) nachprüft werden:
 
 - `L` drücken, um Listen direkt anzuspringen
 - `I` drücken, um Punkte innerhalb einer Liste direkt anzuspringen
