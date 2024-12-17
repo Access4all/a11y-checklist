@@ -52,3 +52,9 @@ Statusmeldungen sind für assistierende Technologien zugänglich und überstrapa
 ![Meldung über Speicherung des Dokuments in Word 365](images/meldung-ber-speicherung-des-dokuments-in-word-365.png)
 
 ![Hinweis nach Bewertung einer Prüfung in Moodle](images/hinweis-nach-bewertung-einer-prfung-in-moodle.png)
+
+## Videos
+
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/videos/bei-aufklappen-eines-hamburger-menues-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
+- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/videos/bei-auswaehlen-eines-menue-eintrags-erfolgt-keine-rueckmeldung-durch-screenreader-ewb)
+- [🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ](/videos/hamburger-menue-mit-aria-expanded-und-direkt-darunter-liegendem-menue-inhalt-woz)

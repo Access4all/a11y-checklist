@@ -40,3 +40,8 @@ Es treten keine Tastaturfallen auf. Alle Bedienelemente können mit der Tastatur
 ![Fokus bleibt gefangen in Unter-Navigation (Brack)](images/fokus-bleibt-gefangen-in-unter-navigation-brack.png)
 
 Nach dem letzten Element "Ausverkauf" springt man direkt zurück zum ersten Element "IT & Multimedia".
+
+## Videos
+
+- [🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack](/videos/tastaturfalle-fokus-bleibt-in-navigation-gefangen-brack)
+- [🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen](/videos/tastaturfalle-tab-erzeugt-leerzeichen-in-code-editor-codepen)

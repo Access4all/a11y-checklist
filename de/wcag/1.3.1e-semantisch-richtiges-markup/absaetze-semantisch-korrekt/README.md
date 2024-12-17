@@ -40,3 +40,7 @@ Absätze sind semantisch korrekt ausgezeichnet, nicht nur visuell (z.B. mittels 
 ![Absatz mit doppelten BR vorgegaukelt](images/absatz-mit-doppelten-br-vorgegaukelt.png)
 
 ![Absätze nur als DIV formatiert](images/abstze-nur-als-div-formatiert.png)
+
+## Videos
+
+- [🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri](/videos/paragraf-aufgeteilt-in-drei-p-elemente-forcierter-zeilenumbruch-atupri)

@@ -61,3 +61,7 @@ Wenn es sich hingegen um einen reinen Hinweis handelt (etwa ohne Schaltfläche z
 ## Screenshots typischer Fälle
 
 ![Fokus sollte direkt in Cookie-Banner gesetzt werden](images/fokus-sollte-direkt-in-cookie-banner-gesetzt-werden.png)
+
+## Videos
+
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/videos/bei-aufklappen-eines-hamburger-menues-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)

@@ -30,3 +30,9 @@ Status messages are accessible to assistive technologies and do not overload the
 ![Meldung über Speicherung des Dokuments in Word 365](images/meldung-ber-speicherung-des-dokuments-in-word-365.png)
 
 ![Hinweis nach Bewertung einer Prüfung in Moodle](images/hinweis-nach-bewertung-einer-prfung-in-moodle.png)
+
+## Videos
+
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
+- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/videos/bei-auswahlen-eines-menu-eintrags-erfolgt-keine-ruckmeldung-durch-screenreader-ewb)
+- [🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ](/videos/hamburger-menu-mit-aria-expanded-und-direkt-darunter-liegendem-menu-inhalt-woz)

@@ -27,3 +27,9 @@ Headings are placed in the code before their associated content.
 
 ## Screenshots
 
+
+
+## Videos
+
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-uberschriften-inkl-versteckte-woz)

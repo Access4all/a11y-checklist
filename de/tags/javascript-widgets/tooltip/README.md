@@ -9,3 +9,8 @@ created_at: "2024-03-09 11:06:22"
 ## Beschreibung
 
 Siehe [✅ Tooltips / Toggletips](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/tooltips-toggletips).
+
+## Videos
+
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
+- [🎬 Tooltips erscheinen bei Fokus - Brack](/videos/tooltips-erscheinen-bei-fokus-brack)

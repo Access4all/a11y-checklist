@@ -37,3 +37,7 @@ Manchmal möchte man den zugänglichen Namen verändern. Dies kann man mittels `
 ```
 
 Damit sagt der Screenreader nun also etwas anderes an, als visuell zu sehen ist. Dies widerspricht dem Prinzip, dass alle Nutzenden möglichst dasselbe Nutzer-Erlebnis haben sollen (siehe [🏷️ Alle Nutzer haben möglichst dasselbe Erlebnis!](/de/tags/umsetzungs-kodex/alle-nutzer-haben-moeglichst-dasselbe-erlebnis)). Deshalb darf man das nur in gut begründeten Fällen tun.
+
+## Videos
+
+- [🎬 Schalter ohne Namen - EWB](/videos/schalter-ohne-namen-ewb)

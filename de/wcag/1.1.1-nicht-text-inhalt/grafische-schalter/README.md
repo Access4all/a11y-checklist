@@ -45,3 +45,8 @@ Grafische Schalter sind korrekt beschriftet.
 ![Schalter-Elementliste in NVDA](images/schalter-elementliste-in-nvda.png)
 
 ![Schalter ohne erkennbare Beschriftung](images/schalter-ohne-erkennbare-beschriftung.png)
+
+## Videos
+
+- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
+- [🎬 Schalter ohne Namen - EWB](/videos/schalter-ohne-namen-ewb)

@@ -13,3 +13,7 @@ Ganz gemäss dem Grundsatz [🏷️ Auf Interaktion folgt stets Rückmeldung!](/
 Siehe [📜-4.1.3 Statusmeldungen](/de/wcag/4.1.3-statusmeldungen).
 
 Manchmal kann es stattdessen auch sinnvoll sein, den Fokus sinnvoll neu zu setzen, um ein Element vom Screenreader ansagen zu lassen. (Siehe [✅ Fokus-Führung](/de/wcag/2.4.3-fokus-reihenfolge/fokus-fuehrung))
+
+## Videos
+
+- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/videos/bei-auswaehlen-eines-menue-eintrags-erfolgt-keine-rueckmeldung-durch-screenreader-ewb)

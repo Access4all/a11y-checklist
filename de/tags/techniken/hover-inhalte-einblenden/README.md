@@ -13,3 +13,8 @@ Der Hover-Status eines Elements war ursprünglich dazu gedacht, rein **dekorativ
 Manchmal wird das Hovern aber auch als Trigger für **funktionale** Anpassungen verwendet. So kann beim Hovern über ein Dropdown-Menü dasselbe gleich aufklappen. Dies kann als benutzerfreundlich empfunden werden, weil es einen zusätzlichen Klick erspart. Es kann aber problematisch sein, wenn die bei Hover getriggerte Funktionalität unerwartet ist: wenn beim Hovern über einen kleinen Link ein riesiges Mega-Menü sich öffnet, dann kann das erschrecken und verwirren.
 
 Deshalb raten wir eher vor solchen Hover-Triggern ab, insbesondere bei grossen Inhalten wie eben z.B. Mega-Menüs (da sie oft andere Inhalte plötzlich und unbeabsichtigt verdecken). Wir empfehlen, nur bei Klick Inhalte ein- und auszublenden (dies stellt auch die Tastaturbedienung sicher).
+
+## Videos
+
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
+- [🎬 Tooltips erscheinen bei Fokus - Brack](/videos/tooltips-erscheinen-bei-fokus-brack)

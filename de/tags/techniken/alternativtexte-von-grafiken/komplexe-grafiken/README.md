@@ -36,3 +36,7 @@ Manchmal macht es Sinn, zusätzliche Informationen per Download anzubieten. Dies
 ```
 
 Das [`longdesc`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/longDesc)-Attribut hingegen ist deprecated.
+
+## Videos
+
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)

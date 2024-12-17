@@ -94,3 +94,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 ![Tooltip aus dem ADG](images/tooltip-aus-dem-adg.png)
 
 ![Tooltip mit fokussierbaren Inhalten](images/tooltip-mit-fokussierbaren-inhalten.png)
+
+## Videos
+
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)

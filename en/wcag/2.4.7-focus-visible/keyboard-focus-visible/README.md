@@ -38,3 +38,7 @@ The keyboard focus is sufficiently visible, e.g. through a clearly visible frame
 ![Kaum sichtbare Umrandung](images/kaum-sichtbare-umrandung.png)
 
 ![Kaum sichtbare Hintergrundfarbe](images/kaum-sichtbare-hintergrundfarbe.png)
+
+## Videos
+
+- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)

@@ -44,3 +44,9 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 
 ## Screenshots typischer Fälle
 
+
+
+## Videos
+
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

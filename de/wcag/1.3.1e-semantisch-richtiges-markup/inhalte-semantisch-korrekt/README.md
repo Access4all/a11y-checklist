@@ -41,3 +41,7 @@ Inhalte befinden sich innerhalb semantisch bedeutsamer HTML-Elemente (z.B. `<h#>
 ## Screenshots typischer Fälle
 
 ![Block-Zitat korrekt als BLOCKQUOTE formatiert](images/block-zitat-korrekt-als-blockquote-formatiert.png)
+
+## Videos
+
+- [🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri](/videos/paragraf-aufgeteilt-in-drei-p-elemente-forcierter-zeilenumbruch-atupri)

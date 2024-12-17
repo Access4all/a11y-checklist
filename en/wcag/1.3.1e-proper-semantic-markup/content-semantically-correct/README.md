@@ -28,3 +28,7 @@ Content is placed within semantically meaningful HTML elements (e.g. <h#>, <p>, 
 ## Screenshots
 
 ![Block-Zitat korrekt als BLOCKQUOTE formatiert](images/block-zitat-korrekt-als-blockquote-formatiert.png)
+
+## Videos
+
+- [🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri](/videos/paragraf-aufgeteilt-in-drei-p-elemente-forcierter-zeilenumbruch-atupri)

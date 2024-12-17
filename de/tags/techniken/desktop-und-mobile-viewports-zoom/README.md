@@ -13,3 +13,7 @@ Viele moderne Webseiten bieten unterschiedliche Ansichten für grosse Bildschirm
 In modernen Browsern ist es möglich, bewusst die Mobile-Version einer Webseite anzufordern. Z.B. tun dies manche Screenreader-Nutzer explizit, da die die Mobile-Version oft aufs Wesentliche reduziert und einfacher zu benutzen ist. Andere sehbeeinträchtigte Nutzer zoomen die Webseite derart stark, dass dadurch ebenfalls die Mobile-Version aktiviert wird. Insofern ist es wichtig, dass jede Version der Webseite auf jedem Gerät gut funktioniert (und nicht nur auf den "üblichen Verdächtigen").
 
 Beim Testen einer Mobile-Version reicht es allerdings nicht, dieselbe nur auf einem Desktop und mit Desktop-Screenreader ([🏷️ Desktop Screenreader](/de/tags/werkzeuge/screenreader/desktop-screenreader)) zu testen. Mit etwas Erfahrung kann damit grundlegend zwar vieles bereits sinnvoll geprüft werden, aber es gibt doch wesentliche Unterschiede zu Mobile Screenreadern ([🏷️ Mobile Screenreader](/de/tags/werkzeuge/screenreader/mobile-screenreader)), weshalb ein spezifischer Test auf Mobile unerlässlich ist.
+
+## Videos
+
+- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri](/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)

@@ -43,3 +43,12 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 
 ## Screenshots typischer Fälle
 
+
+
+## Videos
+
+- [🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri](/videos/ueberschrift-nicht-korrekt-umgesetzt-p-statt-h-atupri)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-blick)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

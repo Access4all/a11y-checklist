@@ -34,3 +34,7 @@ Tooltips are implemented barrier-free. Simple, short content is immediately anno
 ![Tooltip aus dem ADG](images/tooltip-aus-dem-adg.png)
 
 ![Tooltip mit fokussierbaren Inhalten](images/tooltip-mit-fokussierbaren-inhalten.png)
+
+## Videos
+
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fur-tastatur-und-screenreader-unzuganglich-ewb)

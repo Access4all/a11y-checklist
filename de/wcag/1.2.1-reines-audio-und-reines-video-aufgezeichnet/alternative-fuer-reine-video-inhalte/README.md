@@ -40,3 +40,8 @@ Ausnahme: Wenn der reine Video-Inhalt bereits eine Alternative für bestehenden 
 
 ## Screenshots typischer Fälle
 
+
+
+## Videos
+
+- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

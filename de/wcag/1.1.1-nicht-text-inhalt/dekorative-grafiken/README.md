@@ -37,3 +37,8 @@ Dekorative Grafiken, welche als `<img>` umgesetzt sind, weisen ein leeres `alt`-
 ## Screenshots typischer Fälle
 
 ![Dekorative Grafik](images/dekorative-grafik.png)
+
+## Videos
+
+- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal](/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)

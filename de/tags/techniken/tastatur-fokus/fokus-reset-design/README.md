@@ -15,3 +15,7 @@ Manchmal wird die visuelle Anzeige des aktuell fokussierten Elements komplett de
 ```
 
 Das ist sehr problematisch, da dadurch nicht mehr erkennbar ist, welches interaktive Element gerade den Tastatur-Fokus hat.
+
+## Videos
+
+- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)

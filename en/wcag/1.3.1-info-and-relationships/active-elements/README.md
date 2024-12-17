@@ -30,3 +30,8 @@ Active elements (e.g. the active menu item in a navigation) are semantically rec
 ![Versteckter Text macht aktuellen Menüpunkt erkennbar im A4AA](images/versteckter-text-macht-aktuellen-menpunkt-erkennbar-im-a4aa.png)
 
 ![Markierung des aktuellen Menüpunkts mittels aria-current="page"](images/markierung-des-aktuellen-menpunkts-mittels-aria-currentpage.png)
+
+## Videos
+
+- [🎬 Aktiver Menü-Eintrag bei Hochkontrast nicht mehr erkennbar - EWB](/videos/aktiver-menu-eintrag-bei-hochkontrast-nicht-mehr-erkennbar-ewb)
+- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB](/videos/aktiver-menu-eintrag-wird-nicht-angesagt-ewb)

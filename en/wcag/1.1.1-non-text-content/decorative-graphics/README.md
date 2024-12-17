@@ -28,3 +28,8 @@ Decorative graphics that are implemented as `<img>` have an empty `alt` attribut
 ## Screenshots
 
 ![Dekorative Grafik](images/dekorative-grafik.png)
+
+## Videos
+
+- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal](/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)

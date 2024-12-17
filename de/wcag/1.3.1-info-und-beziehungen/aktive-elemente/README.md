@@ -40,3 +40,8 @@ Aktive Elemente (z.B. der aktive Menüpunkt in einer Navigation) sind semantisch
 ![Versteckter Text macht aktuellen Menüpunkt erkennbar im A4AA](images/versteckter-text-macht-aktuellen-menpunkt-erkennbar-im-a4aa.png)
 
 ![Markierung des aktuellen Menüpunkts mittels aria-current="page"](images/markierung-des-aktuellen-menpunkts-mittels-aria-currentpage.png)
+
+## Videos
+
+- [🎬 Aktiver Menü-Eintrag bei Hochkontrast nicht mehr erkennbar - EWB](/videos/aktiver-menue-eintrag-bei-hochkontrast-nicht-mehr-erkennbar-ewb)
+- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB](/videos/aktiver-menue-eintrag-wird-nicht-angesagt-ewb)

@@ -50,3 +50,7 @@ Wenn Alternativtext nicht ausreicht (z.B. bei komplexen Grafiken wie Infografike
 ![Linienpläne sind sehr schwierig zu beschreiben](images/linienplne-sind-sehr-schwierig-zu-beschreiben.png)
 
 ![Auch Übersichten von Wettervorhersagen sind sehr komplex](images/auch-bersichten-von-wettervorhersagen-sind-sehr-komplex.png)
+
+## Videos
+
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)

@@ -48,3 +48,7 @@ Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informati
 ![Beispiel-Bild auf WebAIM (mit Web Developer Tools aktiv)](images/beispiel-bild-auf-webaim.png)
 
 ![Dasselbe Beispiel auf WebAIM (mit Image Alt Text Viewer aktiv)](images/dasselbe-beispiel-auf-webaim.png)
+
+## Videos
+
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)
