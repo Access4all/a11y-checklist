@@ -12,5 +12,5 @@ Siehe [✅ QuickInfos / Toggletips](/en/wcag/4.1.2a-advanced-controls-widgets/qu
 
 ## Videos
 
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fur-tastatur-und-screenreader-unzuganglich-ewb)
-- [🎬 Tooltips erscheinen bei Fokus - Brack](/videos/tooltips-erscheinen-bei-fokus-brack)
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/en/videos/tooltip-fur-tastatur-und-screenreader-unzuganglich-ewb)
+- [🎬 Tooltips erscheinen bei Fokus - Brack](/en/videos/tooltips-erscheinen-bei-fokus-brack)

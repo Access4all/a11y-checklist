@@ -20,4 +20,4 @@ Man kann aber auch ["Forced-Colors" aktivieren in Chrome](https://developer.chro
 
 ## Videos
 
-- [🎬 Aktiver Menü-Eintrag bei Hochkontrast nicht mehr erkennbar - EWB](/videos/aktiver-menu-eintrag-bei-hochkontrast-nicht-mehr-erkennbar-ewb)
+- [🎬 Aktiver Menü-Eintrag bei Hochkontrast nicht mehr erkennbar - EWB](/en/videos/aktiver-menu-eintrag-bei-hochkontrast-nicht-mehr-erkennbar-ewb)

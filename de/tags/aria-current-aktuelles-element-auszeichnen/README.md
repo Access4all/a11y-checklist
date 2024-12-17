@@ -12,5 +12,5 @@ Z.B. um das aktuell aktive Element in einer Navigation zu kennzeichnen (`<a href
 
 ## Videos
 
-- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB](/videos/aktiver-menue-eintrag-wird-nicht-angesagt-ewb)
-- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/videos/bei-auswaehlen-eines-menue-eintrags-erfolgt-keine-rueckmeldung-durch-screenreader-ewb)
+- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB](/de/videos/aktiver-menue-eintrag-wird-nicht-angesagt-ewb)
+- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/de/videos/bei-auswaehlen-eines-menue-eintrags-erfolgt-keine-rueckmeldung-durch-screenreader-ewb)

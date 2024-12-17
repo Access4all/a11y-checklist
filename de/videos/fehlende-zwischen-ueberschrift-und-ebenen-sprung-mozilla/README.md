@@ -16,10 +16,10 @@ created_at: "2024-03-05 16:30:52"
 
 ## Prüfpunkte
 
-- [✅ Sprünge zwischen Überschriften-Ebenen](/wcag/1.3.1a-ueberschriften-struktur/spruenge-zwischen-ueberschriften-ebenen)
-- [✅ Eigene Überschrift](/wcag/1.3.1a-ueberschriften-struktur/eigene-ueberschrift)
+- [✅ Sprünge zwischen Überschriften-Ebenen](/de/wcag/1.3.1a-ueberschriften-struktur/spruenge-zwischen-ueberschriften-ebenen)
+- [✅ Eigene Überschrift](/de/wcag/1.3.1a-ueberschriften-struktur/eigene-ueberschrift)
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
-- [🏷️ Inhalte rein visuell verstecken](/tags/inhalte-rein-visuell-verstecken)
+- [🏷️ H123 Bookmarklet](/de/tags/h123-bookmarklet)
+- [🏷️ Inhalte rein visuell verstecken](/de/tags/inhalte-rein-visuell-verstecken)

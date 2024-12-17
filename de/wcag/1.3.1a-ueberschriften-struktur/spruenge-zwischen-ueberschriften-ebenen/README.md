@@ -54,7 +54,7 @@ Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [�
 
 ## Videos
 
-- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/videos/fehlende-zwischen-ueberschrift-und-ebenen-sprung-mozilla)
-- [🎬 Sprünge zwischen Überschriften-Ebenen - Atupri](/videos/spruenge-zwischen-ueberschriften-ebenen-atupri)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)
+- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/de/videos/fehlende-zwischen-ueberschrift-und-ebenen-sprung-mozilla)
+- [🎬 Sprünge zwischen Überschriften-Ebenen - Atupri](/de/videos/spruenge-zwischen-ueberschriften-ebenen-atupri)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

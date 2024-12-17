@@ -16,9 +16,9 @@ created_at: "2024-03-06 13:24:05"
 
 ## Checkpoints
 
-- [✅ Keyboard-Focus visible](/wcag/2.4.7-focus-visible/keyboard-focus-visible)
+- [✅ Keyboard-Focus visible](/en/wcag/2.4.7-focus-visible/keyboard-focus-visible)
 
 ## Tags
 
-- [🏷️ Fokus-Reset (Design)](/tags/fokus-reset-design)
-- [🏷️ NerdeFocus Extension](/tags/nerdefocus-extension)
+- [🏷️ Fokus-Reset (Design)](/en/tags/fokus-reset-design)
+- [🏷️ NerdeFocus Extension](/en/tags/nerdefocus-extension)

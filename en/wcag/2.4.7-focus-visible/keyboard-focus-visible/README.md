@@ -41,4 +41,4 @@ The keyboard focus is sufficiently visible, e.g. through a clearly visible frame
 
 ## Videos
 
-- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)
+- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/en/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)

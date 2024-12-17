@@ -16,11 +16,11 @@ created_at: "2024-03-06 10:40:33"
 
 ## Prüfpunkte
 
-- [✅ Mit der Tastatur bedienbar](/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
+- [✅ Mit der Tastatur bedienbar](/de/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
 
 ## Tags
 
-- [🏷️ Desktop und Mobile Viewports (Zoom)](/tags/desktop-und-mobile-viewports-zoom)
-- [🏷️ Hamburger-Menü](/tags/hamburger-menue)
-- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
-- [🏷️ Semantik](/tags/semantik)
+- [🏷️ Desktop und Mobile Viewports (Zoom)](/de/tags/desktop-und-mobile-viewports-zoom)
+- [🏷️ Hamburger-Menü](/de/tags/hamburger-menue)
+- [🏷️ Korrekte Links und Schalter](/de/tags/korrekte-links-und-schalter)
+- [🏷️ Semantik](/de/tags/semantik)

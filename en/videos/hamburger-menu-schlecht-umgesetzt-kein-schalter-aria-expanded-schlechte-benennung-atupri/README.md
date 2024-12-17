@@ -16,15 +16,15 @@ created_at: "2024-03-06 08:54:59"
 
 ## Checkpoints
 
-- [✅ Graphic buttons](/wcag/1.1.1-non-text-content/graphic-buttons)
-- [✅ Disclosure (pop-up elements)](/wcag/4.1.2a-advanced-controls-widgets/disclosure-pop-up-elements)
+- [✅ Graphic buttons](/en/wcag/1.1.1-non-text-content/graphic-buttons)
+- [✅ Disclosure (pop-up elements)](/en/wcag/4.1.2a-advanced-controls-widgets/disclosure-pop-up-elements)
 
 ## Tags
 
-- [🏷️ aria-expanded](/tags/aria-expanded)
-- [🏷️ Fokus-Management](/tags/fokus-management)
-- [🏷️ Hamburger-Menü](/tags/hamburger-menu)
-- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
-- [🏷️ NVDA Screenreader](/tags/nvda-screenreader)
-- [🏷️ Semantik](/tags/semantik)
-- [🏷️ Zugänglicher Name](/tags/zuganglicher-name)
+- [🏷️ aria-expanded](/en/tags/aria-expanded)
+- [🏷️ Fokus-Management](/en/tags/fokus-management)
+- [🏷️ Hamburger-Menü](/en/tags/hamburger-menu)
+- [🏷️ Korrekte Links und Schalter](/en/tags/korrekte-links-und-schalter)
+- [🏷️ NVDA Screenreader](/en/tags/nvda-screenreader)
+- [🏷️ Semantik](/en/tags/semantik)
+- [🏷️ Zugänglicher Name](/en/tags/zuganglicher-name)

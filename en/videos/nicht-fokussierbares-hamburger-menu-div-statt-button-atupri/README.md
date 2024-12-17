@@ -16,11 +16,11 @@ created_at: "2024-03-06 10:40:33"
 
 ## Checkpoints
 
-- [✅ Operable with the keyboard](/wcag/2.1.1-keyboard/operable-with-the-keyboard)
+- [✅ Operable with the keyboard](/en/wcag/2.1.1-keyboard/operable-with-the-keyboard)
 
 ## Tags
 
-- [🏷️ Desktop und Mobile Viewports (Zoom)](/tags/desktop-und-mobile-viewports-zoom)
-- [🏷️ Hamburger-Menü](/tags/hamburger-menu)
-- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
-- [🏷️ Semantik](/tags/semantik)
+- [🏷️ Desktop und Mobile Viewports (Zoom)](/en/tags/desktop-und-mobile-viewports-zoom)
+- [🏷️ Hamburger-Menü](/en/tags/hamburger-menu)
+- [🏷️ Korrekte Links und Schalter](/en/tags/korrekte-links-und-schalter)
+- [🏷️ Semantik](/en/tags/semantik)

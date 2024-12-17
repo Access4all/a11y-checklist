@@ -16,8 +16,8 @@ created_at: "2024-03-11 17:02:20"
 
 ## Prüfpunkte
 
-- [✅ Tastaturfallen](/wcag/2.1.2-keine-tastaturfalle/tastaturfallen)
+- [✅ Tastaturfallen](/de/wcag/2.1.2-keine-tastaturfalle/tastaturfallen)
 
 ## Tags
 
-- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ Fokus-Management](/de/tags/fokus-management)

@@ -16,8 +16,8 @@ created_at: "2024-03-06 14:24:53"
 
 ## Prüfpunkte
 
-- [✅ Sprünge zwischen Überschriften-Ebenen](/wcag/1.3.1a-ueberschriften-struktur/spruenge-zwischen-ueberschriften-ebenen)
+- [✅ Sprünge zwischen Überschriften-Ebenen](/de/wcag/1.3.1a-ueberschriften-struktur/spruenge-zwischen-ueberschriften-ebenen)
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
+- [🏷️ H123 Bookmarklet](/de/tags/h123-bookmarklet)

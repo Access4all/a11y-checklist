@@ -16,9 +16,9 @@ created_at: "2024-03-05 16:28:58"
 
 ## Checkpoints
 
-- [✅ Headings semantically correct](/wcag/1.3.1a-headings-structure/headings-semantically-correct)
+- [✅ Headings semantically correct](/en/wcag/1.3.1a-headings-structure/headings-semantically-correct)
 
 ## Tags
 
-- [🏷️ Semantik](/tags/semantik)
-- [🏷️ Überschrift erster Ebene](/tags/uberschrift-erster-ebene)
+- [🏷️ Semantik](/en/tags/semantik)
+- [🏷️ Überschrift erster Ebene](/en/tags/uberschrift-erster-ebene)

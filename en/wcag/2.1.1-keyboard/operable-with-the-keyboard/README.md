@@ -35,9 +35,9 @@ Das Element zum Ausklappen des Hamburger-Menüs kann nicht fokussiert werden.
 
 ## Videos
 
-- [🎬 Cookie-Banner wird direkt fokussiert - Brack](/videos/cookie-banner-wird-direkt-fokussiert-brack)
-- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB](/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri](/videos/nicht-fokussierbares-hamburger-menu-div-statt-button-atupri)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson](/videos/nicht-fokussierbares-hamburger-menu-kein-href-attribut-watson)
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fur-tastatur-und-screenreader-unzuganglich-ewb)
-- [🎬 Tooltips erscheinen bei Fokus - Brack](/videos/tooltips-erscheinen-bei-fokus-brack)
+- [🎬 Cookie-Banner wird direkt fokussiert - Brack](/en/videos/cookie-banner-wird-direkt-fokussiert-brack)
+- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB](/en/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri](/en/videos/nicht-fokussierbares-hamburger-menu-div-statt-button-atupri)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson](/en/videos/nicht-fokussierbares-hamburger-menu-kein-href-attribut-watson)
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/en/videos/tooltip-fur-tastatur-und-screenreader-unzuganglich-ewb)
+- [🎬 Tooltips erscheinen bei Fokus - Brack](/en/videos/tooltips-erscheinen-bei-fokus-brack)

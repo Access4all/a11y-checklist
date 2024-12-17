@@ -33,4 +33,4 @@ Exception: If the video-only content is already an alternative for existing text
 
 ## Videos
 
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)
+- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/en/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

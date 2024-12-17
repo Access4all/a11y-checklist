@@ -37,4 +37,4 @@ Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reine
 
 ## Videos
 
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)
+- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/de/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

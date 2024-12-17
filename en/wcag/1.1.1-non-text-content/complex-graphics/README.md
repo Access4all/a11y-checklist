@@ -39,4 +39,4 @@ If alternative text is not sufficient (e.g. for complex graphics such as infogra
 
 ## Videos
 
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/en/videos/diagramm-ohne-alt-attribut-ewb-portal)

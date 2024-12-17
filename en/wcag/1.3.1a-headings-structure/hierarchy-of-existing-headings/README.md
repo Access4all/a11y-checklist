@@ -33,7 +33,7 @@ The hierarchy of the heading levels is logically correct in terms of content and
 
 ## Videos
 
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-blick)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-uberschriften-inkl-versteckte-woz)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/en/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-blick)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/en/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/en/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/en/videos/vorbildliche-uberschriften-inkl-versteckte-woz)

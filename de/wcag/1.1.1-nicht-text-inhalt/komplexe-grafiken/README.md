@@ -53,4 +53,4 @@ Wenn Alternativtext nicht ausreicht (z.B. bei komplexen Grafiken wie Infografike
 
 ## Videos
 
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/de/videos/diagramm-ohne-alt-attribut-ewb-portal)

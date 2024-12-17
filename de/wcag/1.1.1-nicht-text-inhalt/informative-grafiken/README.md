@@ -51,4 +51,4 @@ Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informati
 
 ## Videos
 
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/de/videos/diagramm-ohne-alt-attribut-ewb-portal)

@@ -16,10 +16,10 @@ created_at: "2024-03-06 11:02:37"
 
 ## Prüfpunkte
 
-- [✅ Mit der Tastatur bedienbar](/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
+- [✅ Mit der Tastatur bedienbar](/de/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
 
 ## Tags
 
-- [🏷️ Cookie-Banner](/tags/cookie-banner)
-- [🏷️ Fokus-Management](/tags/fokus-management)
-- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
+- [🏷️ Cookie-Banner](/de/tags/cookie-banner)
+- [🏷️ Fokus-Management](/de/tags/fokus-management)
+- [🏷️ Fokussierbarkeit](/de/tags/fokussierbarkeit)

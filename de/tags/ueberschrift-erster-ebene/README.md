@@ -12,7 +12,7 @@ Es ist wichtig, dass mind. eine Überschrift erster Ebene existiert (`<h1>`). Es
 
 ## Videos
 
-- [🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri](/videos/ueberschrift-nicht-korrekt-umgesetzt-p-statt-h-atupri)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)
+- [🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri](/de/videos/ueberschrift-nicht-korrekt-umgesetzt-p-statt-h-atupri)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

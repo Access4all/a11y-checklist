@@ -14,6 +14,6 @@ Siehe <https://chromewebstore.google.com/detail/nerdefocus/lpfiljldhgjecfepfljnb
 
 ## Videos
 
-- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)
-- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB](/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson](/videos/nicht-fokussierbares-hamburger-menu-kein-href-attribut-watson)
+- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/en/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)
+- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB](/en/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson](/en/videos/nicht-fokussierbares-hamburger-menu-kein-href-attribut-watson)

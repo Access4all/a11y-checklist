@@ -21,4 +21,4 @@ In solchen Fällen kann man [`aria-expanded`](https://developer.mozilla.org/en-U
 
 ## Videos
 
-- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/videos/hamburger-menu-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
+- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/en/videos/hamburger-menu-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)

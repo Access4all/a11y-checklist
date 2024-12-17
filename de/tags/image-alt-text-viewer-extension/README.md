@@ -14,5 +14,5 @@ Siehe <https://chromewebstore.google.com/detail/image-alt-text-viewer/nhmihbneen
 
 ## Videos
 
-- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal](/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)
+- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal](/de/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/de/videos/diagramm-ohne-alt-attribut-ewb-portal)

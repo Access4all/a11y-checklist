@@ -16,10 +16,10 @@ created_at: "2024-03-06 11:02:37"
 
 ## Checkpoints
 
-- [✅ Operable with the keyboard](/wcag/2.1.1-keyboard/operable-with-the-keyboard)
+- [✅ Operable with the keyboard](/en/wcag/2.1.1-keyboard/operable-with-the-keyboard)
 
 ## Tags
 
-- [🏷️ Cookie-Banner](/tags/cookie-banner)
-- [🏷️ Fokus-Management](/tags/fokus-management)
-- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
+- [🏷️ Cookie-Banner](/en/tags/cookie-banner)
+- [🏷️ Fokus-Management](/en/tags/fokus-management)
+- [🏷️ Fokussierbarkeit](/en/tags/fokussierbarkeit)

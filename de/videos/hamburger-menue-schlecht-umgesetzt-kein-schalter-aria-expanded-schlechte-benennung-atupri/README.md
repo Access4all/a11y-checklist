@@ -16,15 +16,15 @@ created_at: "2024-03-06 08:54:59"
 
 ## Prüfpunkte
 
-- [✅ Grafische Schalter](/wcag/1.1.1-nicht-text-inhalt/grafische-schalter)
-- [✅ Dropdowns (Aufklapp-Elemente)](/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dropdowns-aufklapp-elemente)
+- [✅ Grafische Schalter](/de/wcag/1.1.1-nicht-text-inhalt/grafische-schalter)
+- [✅ Dropdowns (Aufklapp-Elemente)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dropdowns-aufklapp-elemente)
 
 ## Tags
 
-- [🏷️ aria-expanded](/tags/aria-expanded)
-- [🏷️ Fokus-Management](/tags/fokus-management)
-- [🏷️ Hamburger-Menü](/tags/hamburger-menue)
-- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
-- [🏷️ NVDA Screenreader](/tags/nvda-screenreader)
-- [🏷️ Semantik](/tags/semantik)
-- [🏷️ Zugänglicher Name](/tags/zugaenglicher-name)
+- [🏷️ aria-expanded](/de/tags/aria-expanded)
+- [🏷️ Fokus-Management](/de/tags/fokus-management)
+- [🏷️ Hamburger-Menü](/de/tags/hamburger-menue)
+- [🏷️ Korrekte Links und Schalter](/de/tags/korrekte-links-und-schalter)
+- [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader)
+- [🏷️ Semantik](/de/tags/semantik)
+- [🏷️ Zugänglicher Name](/de/tags/zugaenglicher-name)

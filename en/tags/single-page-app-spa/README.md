@@ -16,5 +16,5 @@ Eine solche Rückmeldung mit einer ARIA Live-Region ([🏷️ ARIA Live Regions]
 
 ## Videos
 
-- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB](/videos/aktiver-menu-eintrag-wird-nicht-angesagt-ewb)
-- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/videos/bei-auswahlen-eines-menu-eintrags-erfolgt-keine-ruckmeldung-durch-screenreader-ewb)
+- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB](/en/videos/aktiver-menu-eintrag-wird-nicht-angesagt-ewb)
+- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/en/videos/bei-auswahlen-eines-menu-eintrags-erfolgt-keine-ruckmeldung-durch-screenreader-ewb)

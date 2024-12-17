@@ -39,4 +39,4 @@ Das [`longdesc`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageEleme
 
 ## Videos
 
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/en/videos/diagramm-ohne-alt-attribut-ewb-portal)

@@ -16,12 +16,12 @@ created_at: "2024-03-06 10:36:48"
 
 ## Checkpoints
 
-- [✅ Paragraphs semantically correct](/wcag/1.3.1e-proper-semantic-markup/paragraphs-semantically-correct)
-- [✅ Content semantically correct](/wcag/1.3.1e-proper-semantic-markup/content-semantically-correct)
+- [✅ Paragraphs semantically correct](/en/wcag/1.3.1e-proper-semantic-markup/paragraphs-semantically-correct)
+- [✅ Content semantically correct](/en/wcag/1.3.1e-proper-semantic-markup/content-semantically-correct)
 
 ## Tags
 
-- [🏷️ aria-hidden](/tags/aria-hidden)
-- [🏷️ NVDA Screenreader](/tags/nvda-screenreader)
-- [🏷️ Semantik](/tags/semantik)
-- [🏷️ Zerstückelte Screenreader-Ansagen (Zeilenumbrüche)](/tags/zerstuckelte-screenreader-ansagen-zeilenumbruche)
+- [🏷️ aria-hidden](/en/tags/aria-hidden)
+- [🏷️ NVDA Screenreader](/en/tags/nvda-screenreader)
+- [🏷️ Semantik](/en/tags/semantik)
+- [🏷️ Zerstückelte Screenreader-Ansagen (Zeilenumbrüche)](/en/tags/zerstuckelte-screenreader-ansagen-zeilenumbruche)

@@ -16,14 +16,14 @@ created_at: "2024-03-05 16:26:17"
 
 ## Prüfpunkte
 
-- [✅ Hierarchie existierender Überschriften](/wcag/1.3.1a-ueberschriften-struktur/hierarchie-existierender-ueberschriften)
-- [✅ Eigene Überschrift](/wcag/1.3.1a-ueberschriften-struktur/eigene-ueberschrift)
-- [✅ Überschriften semantisch korrekt](/wcag/1.3.1a-ueberschriften-struktur/ueberschriften-semantisch-korrekt)
+- [✅ Hierarchie existierender Überschriften](/de/wcag/1.3.1a-ueberschriften-struktur/hierarchie-existierender-ueberschriften)
+- [✅ Eigene Überschrift](/de/wcag/1.3.1a-ueberschriften-struktur/eigene-ueberschrift)
+- [✅ Überschriften semantisch korrekt](/de/wcag/1.3.1a-ueberschriften-struktur/ueberschriften-semantisch-korrekt)
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
-- [🏷️ Inhalte rein visuell verstecken](/tags/inhalte-rein-visuell-verstecken)
-- [🏷️ Landmarks](/tags/landmarks)
-- [🏷️ Semantik](/tags/semantik)
-- [🏷️ Überschrift erster Ebene](/tags/ueberschrift-erster-ebene)
+- [🏷️ H123 Bookmarklet](/de/tags/h123-bookmarklet)
+- [🏷️ Inhalte rein visuell verstecken](/de/tags/inhalte-rein-visuell-verstecken)
+- [🏷️ Landmarks](/de/tags/landmarks)
+- [🏷️ Semantik](/de/tags/semantik)
+- [🏷️ Überschrift erster Ebene](/de/tags/ueberschrift-erster-ebene)

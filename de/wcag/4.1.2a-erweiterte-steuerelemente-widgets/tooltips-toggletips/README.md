@@ -97,4 +97,4 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 ## Videos
 
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/de/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)

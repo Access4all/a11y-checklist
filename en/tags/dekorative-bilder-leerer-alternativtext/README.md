@@ -33,5 +33,5 @@ Ganz gemäss dem Grundsatz [🏷️ Alle Nutzer haben möglichst dasselbe Erlebn
 
 ## Videos
 
-- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal](/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/videos/diagramm-ohne-alt-attribut-ewb-portal)
+- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal](/en/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/en/videos/diagramm-ohne-alt-attribut-ewb-portal)

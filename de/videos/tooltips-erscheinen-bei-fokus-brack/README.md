@@ -16,10 +16,10 @@ created_at: "2024-03-06 11:01:42"
 
 ## Prüfpunkte
 
-- [✅ Mit der Tastatur bedienbar](/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
+- [✅ Mit der Tastatur bedienbar](/de/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
 
 ## Tags
 
-- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
-- [🏷️ Hover (Inhalte einblenden)](/tags/hover-inhalte-einblenden)
-- [🏷️ Tooltip](/tags/tooltip)
+- [🏷️ Fokussierbarkeit](/de/tags/fokussierbarkeit)
+- [🏷️ Hover (Inhalte einblenden)](/de/tags/hover-inhalte-einblenden)
+- [🏷️ Tooltip](/de/tags/tooltip)

@@ -31,4 +31,4 @@ The keyboard focus is guided sensibly when someone interacts with elements on th
 
 ## Videos
 
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/en/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)

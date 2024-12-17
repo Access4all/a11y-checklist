@@ -17,8 +17,8 @@ Der Einsatz von `display: none` o.ä. ([🏷️ Inhalte komplett verstecken (dis
 
 ## Videos
 
-- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/videos/fehlende-zwischen-uberschrift-und-ebenen-sprung-mozilla)
-- [🎬 Schalter ohne Namen - EWB](/videos/schalter-ohne-namen-ewb)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-uberschriften-inkl-versteckte-woz)
+- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/en/videos/fehlende-zwischen-uberschrift-und-ebenen-sprung-mozilla)
+- [🎬 Schalter ohne Namen - EWB](/en/videos/schalter-ohne-namen-ewb)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/en/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/en/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/en/videos/vorbildliche-uberschriften-inkl-versteckte-woz)

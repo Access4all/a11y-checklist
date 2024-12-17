@@ -16,9 +16,9 @@ created_at: "2024-03-06 14:28:57"
 
 ## Prüfpunkte
 
-- [✅ Dropdowns (Aufklapp-Elemente)](/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dropdowns-aufklapp-elemente)
-- [✅ Statusmeldungen](/wcag/4.1.3-statusmeldungen/statusmeldungen)
+- [✅ Dropdowns (Aufklapp-Elemente)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dropdowns-aufklapp-elemente)
+- [✅ Statusmeldungen](/de/wcag/4.1.3-statusmeldungen/statusmeldungen)
 
 ## Tags
 
-- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ Fokus-Management](/de/tags/fokus-management)

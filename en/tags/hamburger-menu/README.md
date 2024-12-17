@@ -14,7 +14,7 @@ Fun Fact: Ein blinder Nutzer wird wohl heftig irritiert sein, wenn er ein "Hambu
 
 ## Videos
 
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
-- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/videos/hamburger-menu-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri](/videos/nicht-fokussierbares-hamburger-menu-div-statt-button-atupri)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson](/videos/nicht-fokussierbares-hamburger-menu-kein-href-attribut-watson)
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/en/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
+- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/en/videos/hamburger-menu-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri](/en/videos/nicht-fokussierbares-hamburger-menu-div-statt-button-atupri)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson](/en/videos/nicht-fokussierbares-hamburger-menu-kein-href-attribut-watson)

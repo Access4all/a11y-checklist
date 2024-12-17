@@ -16,9 +16,9 @@ created_at: "2024-03-06 08:52:43"
 
 ## Checkpoints
 
-- [✅ Keyboard traps](/wcag/2.1.2-no-keyboard-trap/keyboard-traps)
+- [✅ Keyboard traps](/en/wcag/2.1.2-no-keyboard-trap/keyboard-traps)
 
 ## Tags
 
-- [🏷️ Fokus-Management](/tags/fokus-management)
-- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
+- [🏷️ Fokus-Management](/en/tags/fokus-management)
+- [🏷️ Fokussierbarkeit](/en/tags/fokussierbarkeit)

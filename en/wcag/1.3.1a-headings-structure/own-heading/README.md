@@ -31,8 +31,8 @@ Independent page areas have their own heading, otherwise they will be incorrectl
 
 ## Videos
 
-- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/videos/fehlende-zwischen-uberschrift-und-ebenen-sprung-mozilla)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-blick)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-uberschriften-inkl-versteckte-woz)
+- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/en/videos/fehlende-zwischen-uberschrift-und-ebenen-sprung-mozilla)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/en/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-blick)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/en/videos/unvollstandige-uberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/en/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/en/videos/vorbildliche-uberschriften-inkl-versteckte-woz)

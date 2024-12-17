@@ -33,5 +33,5 @@ Headings and labels (e.g. in input fields, for buttons, etc.) are sufficiently i
 
 ## Videos
 
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-uberschriften-inkl-versteckte-woz)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/en/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/en/videos/vorbildliche-uberschriften-inkl-versteckte-woz)

@@ -16,10 +16,10 @@ created_at: "2024-03-06 11:01:42"
 
 ## Checkpoints
 
-- [✅ Operable with the keyboard](/wcag/2.1.1-keyboard/operable-with-the-keyboard)
+- [✅ Operable with the keyboard](/en/wcag/2.1.1-keyboard/operable-with-the-keyboard)
 
 ## Tags
 
-- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
-- [🏷️ Hover (Inhalte einblenden)](/tags/hover-inhalte-einblenden)
-- [🏷️ Tooltip](/tags/tooltip)
+- [🏷️ Fokussierbarkeit](/en/tags/fokussierbarkeit)
+- [🏷️ Hover (Inhalte einblenden)](/en/tags/hover-inhalte-einblenden)
+- [🏷️ Tooltip](/en/tags/tooltip)

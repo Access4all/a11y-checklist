@@ -40,4 +40,4 @@ Damit sagt der Screenreader nun also etwas anderes an, als visuell zu sehen ist.
 
 ## Videos
 
-- [🎬 Schalter ohne Namen - EWB](/videos/schalter-ohne-namen-ewb)
+- [🎬 Schalter ohne Namen - EWB](/de/videos/schalter-ohne-namen-ewb)

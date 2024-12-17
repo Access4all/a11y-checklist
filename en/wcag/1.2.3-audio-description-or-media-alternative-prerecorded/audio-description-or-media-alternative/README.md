@@ -35,4 +35,4 @@ Exception: If the synchronised video content is a media alternative for existing
 
 ## Videos
 
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)
+- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/en/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

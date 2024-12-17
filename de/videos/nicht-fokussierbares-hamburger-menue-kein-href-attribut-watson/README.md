@@ -16,11 +16,11 @@ created_at: "2024-03-06 10:39:16"
 
 ## Prüfpunkte
 
-- [✅ Mit der Tastatur bedienbar](/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
+- [✅ Mit der Tastatur bedienbar](/de/wcag/2.1.1-tastatur/mit-der-tastatur-bedienbar)
 
 ## Tags
 
-- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
-- [🏷️ Hamburger-Menü](/tags/hamburger-menue)
-- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
-- [🏷️ NerdeFocus Extension](/tags/nerdefocus-extension)
+- [🏷️ Fokussierbarkeit](/de/tags/fokussierbarkeit)
+- [🏷️ Hamburger-Menü](/de/tags/hamburger-menue)
+- [🏷️ Korrekte Links und Schalter](/de/tags/korrekte-links-und-schalter)
+- [🏷️ NerdeFocus Extension](/de/tags/nerdefocus-extension)

@@ -16,8 +16,8 @@ created_at: "2024-03-06 14:24:53"
 
 ## Checkpoints
 
-- [✅ Jumps between heading levels](/wcag/1.3.1a-headings-structure/jumps-between-heading-levels)
+- [✅ Jumps between heading levels](/en/wcag/1.3.1a-headings-structure/jumps-between-heading-levels)
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
+- [🏷️ H123 Bookmarklet](/en/tags/h123-bookmarklet)

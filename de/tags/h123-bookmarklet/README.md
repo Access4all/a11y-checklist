@@ -21,9 +21,9 @@ Nachteile:
 
 ## Videos
 
-- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/videos/fehlende-zwischen-ueberschrift-und-ebenen-sprung-mozilla)
-- [🎬 Sprünge zwischen Überschriften-Ebenen - Atupri](/videos/spruenge-zwischen-ueberschriften-ebenen-atupri)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-blick)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)
+- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/de/videos/fehlende-zwischen-ueberschrift-und-ebenen-sprung-mozilla)
+- [🎬 Sprünge zwischen Überschriften-Ebenen - Atupri](/de/videos/spruenge-zwischen-ueberschriften-ebenen-atupri)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-blick)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

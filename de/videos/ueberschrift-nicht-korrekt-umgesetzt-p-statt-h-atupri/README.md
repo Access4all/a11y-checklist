@@ -16,9 +16,9 @@ created_at: "2024-03-05 16:28:58"
 
 ## Prüfpunkte
 
-- [✅ Überschriften semantisch korrekt](/wcag/1.3.1a-ueberschriften-struktur/ueberschriften-semantisch-korrekt)
+- [✅ Überschriften semantisch korrekt](/de/wcag/1.3.1a-ueberschriften-struktur/ueberschriften-semantisch-korrekt)
 
 ## Tags
 
-- [🏷️ Semantik](/tags/semantik)
-- [🏷️ Überschrift erster Ebene](/tags/ueberschrift-erster-ebene)
+- [🏷️ Semantik](/de/tags/semantik)
+- [🏷️ Überschrift erster Ebene](/de/tags/ueberschrift-erster-ebene)

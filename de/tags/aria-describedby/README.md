@@ -52,4 +52,4 @@ Man kann nicht nur eine ID übergeben (`aria-describedby="help-text"`), sondern 
 
 ## Videos
 
-- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknuepft-atupri)
+- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/de/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknuepft-atupri)

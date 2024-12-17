@@ -16,16 +16,16 @@ created_at: "2024-03-06 15:45:44"
 
 ## Checkpoints
 
-- [✅ Hierarchy of existing headings](/wcag/1.3.1a-headings-structure/hierarchy-of-existing-headings)
-- [✅ Jumps between heading levels](/wcag/1.3.1a-headings-structure/jumps-between-heading-levels)
-- [✅ Own heading](/wcag/1.3.1a-headings-structure/own-heading)
-- [✅ The following content](/wcag/1.3.1a-headings-structure/the-following-content)
-- [✅ Headings before related content](/wcag/1.3.1a-headings-structure/headings-before-related-content)
-- [✅ Headings semantically correct](/wcag/1.3.1a-headings-structure/headings-semantically-correct)
-- [✅ Headings and labels](/wcag/2.4.6-headings-and-labels/headings-and-labels)
+- [✅ Hierarchy of existing headings](/en/wcag/1.3.1a-headings-structure/hierarchy-of-existing-headings)
+- [✅ Jumps between heading levels](/en/wcag/1.3.1a-headings-structure/jumps-between-heading-levels)
+- [✅ Own heading](/en/wcag/1.3.1a-headings-structure/own-heading)
+- [✅ The following content](/en/wcag/1.3.1a-headings-structure/the-following-content)
+- [✅ Headings before related content](/en/wcag/1.3.1a-headings-structure/headings-before-related-content)
+- [✅ Headings semantically correct](/en/wcag/1.3.1a-headings-structure/headings-semantically-correct)
+- [✅ Headings and labels](/en/wcag/2.4.6-headings-and-labels/headings-and-labels)
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
-- [🏷️ Inhalte rein visuell verstecken](/tags/inhalte-rein-visuell-verstecken)
-- [🏷️ Überschrift erster Ebene](/tags/uberschrift-erster-ebene)
+- [🏷️ H123 Bookmarklet](/en/tags/h123-bookmarklet)
+- [🏷️ Inhalte rein visuell verstecken](/en/tags/inhalte-rein-visuell-verstecken)
+- [🏷️ Überschrift erster Ebene](/en/tags/uberschrift-erster-ebene)

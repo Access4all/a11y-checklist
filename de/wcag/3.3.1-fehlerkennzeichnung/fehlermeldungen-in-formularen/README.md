@@ -68,4 +68,4 @@ Elemente, die via `aria-describedby` ([🏷️ aria-describedby](/de/tags/aria-d
 
 ## Videos
 
-- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknuepft-atupri)
+- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/de/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknuepft-atupri)

@@ -37,4 +37,4 @@ Tooltips are implemented barrier-free. Simple, short content is immediately anno
 
 ## Videos
 
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/videos/tooltip-fur-tastatur-und-screenreader-unzuganglich-ewb)
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/en/videos/tooltip-fur-tastatur-und-screenreader-unzuganglich-ewb)

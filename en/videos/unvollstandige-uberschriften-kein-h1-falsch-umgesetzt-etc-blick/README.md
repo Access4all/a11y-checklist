@@ -16,10 +16,10 @@ created_at: "2024-03-05 16:21:11"
 
 ## Checkpoints
 
-- [✅ Hierarchy of existing headings](/wcag/1.3.1a-headings-structure/hierarchy-of-existing-headings)
-- [✅ Own heading](/wcag/1.3.1a-headings-structure/own-heading)
-- [✅ Headings semantically correct](/wcag/1.3.1a-headings-structure/headings-semantically-correct)
+- [✅ Hierarchy of existing headings](/en/wcag/1.3.1a-headings-structure/hierarchy-of-existing-headings)
+- [✅ Own heading](/en/wcag/1.3.1a-headings-structure/own-heading)
+- [✅ Headings semantically correct](/en/wcag/1.3.1a-headings-structure/headings-semantically-correct)
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
+- [🏷️ H123 Bookmarklet](/en/tags/h123-bookmarklet)

@@ -16,9 +16,9 @@ created_at: "2024-03-05 13:06:09"
 
 ## Checkpoints
 
-- [✅ Alternative for video-only content](/wcag/1.2.1-audio-only-and-video-only-prerecorded/alternative-for-video-only-content)
-- [✅ Audio description or media alternative](/wcag/1.2.3-audio-description-or-media-alternative-prerecorded/audio-description-or-media-alternative)
+- [✅ Alternative for video-only content](/en/wcag/1.2.1-audio-only-and-video-only-prerecorded/alternative-for-video-only-content)
+- [✅ Audio description or media alternative](/en/wcag/1.2.3-audio-description-or-media-alternative-prerecorded/audio-description-or-media-alternative)
 
 ## Tags
 
-- [🏷️ Audiodeskription](/tags/audiodeskription)
+- [🏷️ Audiodeskription](/en/tags/audiodeskription)

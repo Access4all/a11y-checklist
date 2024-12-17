@@ -25,6 +25,6 @@ Beachte auch [🏷️ Auf Interaktion folgt stets Rückmeldung!](/en/tags/auf-in
 
 ## Videos
 
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
-- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/videos/bei-auswahlen-eines-menu-eintrags-erfolgt-keine-ruckmeldung-durch-screenreader-ewb)
-- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknupft-atupri)
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/en/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
+- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/en/videos/bei-auswahlen-eines-menu-eintrags-erfolgt-keine-ruckmeldung-durch-screenreader-ewb)
+- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/en/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknupft-atupri)

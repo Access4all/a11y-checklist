@@ -16,10 +16,10 @@ created_at: "2024-03-05 16:30:52"
 
 ## Checkpoints
 
-- [✅ Jumps between heading levels](/wcag/1.3.1a-headings-structure/jumps-between-heading-levels)
-- [✅ Own heading](/wcag/1.3.1a-headings-structure/own-heading)
+- [✅ Jumps between heading levels](/en/wcag/1.3.1a-headings-structure/jumps-between-heading-levels)
+- [✅ Own heading](/en/wcag/1.3.1a-headings-structure/own-heading)
 
 ## Tags
 
-- [🏷️ H123 Bookmarklet](/tags/h123-bookmarklet)
-- [🏷️ Inhalte rein visuell verstecken](/tags/inhalte-rein-visuell-verstecken)
+- [🏷️ H123 Bookmarklet](/en/tags/h123-bookmarklet)
+- [🏷️ Inhalte rein visuell verstecken](/en/tags/inhalte-rein-visuell-verstecken)

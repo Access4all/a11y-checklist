@@ -16,11 +16,11 @@ created_at: "2024-03-06 10:39:16"
 
 ## Checkpoints
 
-- [✅ Operable with the keyboard](/wcag/2.1.1-keyboard/operable-with-the-keyboard)
+- [✅ Operable with the keyboard](/en/wcag/2.1.1-keyboard/operable-with-the-keyboard)
 
 ## Tags
 
-- [🏷️ Fokussierbarkeit](/tags/fokussierbarkeit)
-- [🏷️ Hamburger-Menü](/tags/hamburger-menu)
-- [🏷️ Korrekte Links und Schalter](/tags/korrekte-links-und-schalter)
-- [🏷️ NerdeFocus Extension](/tags/nerdefocus-extension)
+- [🏷️ Fokussierbarkeit](/en/tags/fokussierbarkeit)
+- [🏷️ Hamburger-Menü](/en/tags/hamburger-menu)
+- [🏷️ Korrekte Links und Schalter](/en/tags/korrekte-links-und-schalter)
+- [🏷️ NerdeFocus Extension](/en/tags/nerdefocus-extension)

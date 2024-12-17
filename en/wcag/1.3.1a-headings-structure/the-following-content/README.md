@@ -31,5 +31,5 @@ Headings have the following content (or underlying headings).
 
 ## Videos
 
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/videos/vorbildliche-uberschriften-inkl-versteckte-woz)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/en/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/en/videos/vorbildliche-uberschriften-inkl-versteckte-woz)

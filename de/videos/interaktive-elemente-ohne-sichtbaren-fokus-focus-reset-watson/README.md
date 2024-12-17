@@ -16,9 +16,9 @@ created_at: "2024-03-06 13:24:05"
 
 ## Prüfpunkte
 
-- [✅ Tastatur-Fokus sichtbar](/wcag/2.4.7-fokus-sichtbar/tastatur-fokus-sichtbar)
+- [✅ Tastatur-Fokus sichtbar](/de/wcag/2.4.7-fokus-sichtbar/tastatur-fokus-sichtbar)
 
 ## Tags
 
-- [🏷️ Fokus-Reset (Design)](/tags/fokus-reset-design)
-- [🏷️ NerdeFocus Extension](/tags/nerdefocus-extension)
+- [🏷️ Fokus-Reset (Design)](/de/tags/fokus-reset-design)
+- [🏷️ NerdeFocus Extension](/de/tags/nerdefocus-extension)

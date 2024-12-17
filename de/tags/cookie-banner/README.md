@@ -16,4 +16,4 @@ Wichtig ist, dass dieser Dialog sowohl mit Tastatur als auch Screenreader sofort
 
 ## Videos
 
-- [🎬 Cookie-Banner wird direkt fokussiert - Brack](/videos/cookie-banner-wird-direkt-fokussiert-brack)
+- [🎬 Cookie-Banner wird direkt fokussiert - Brack](/de/videos/cookie-banner-wird-direkt-fokussiert-brack)

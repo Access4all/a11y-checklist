@@ -52,4 +52,4 @@ Mindest-Kontrast bei Fokus-Styles wird erst ab WCAG 2.2 und nur ab Level AAA gef
 
 ## Videos
 
-- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)
+- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/de/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)

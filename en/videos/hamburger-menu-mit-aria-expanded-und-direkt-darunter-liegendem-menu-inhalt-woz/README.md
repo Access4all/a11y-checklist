@@ -16,9 +16,9 @@ created_at: "2024-03-06 14:28:57"
 
 ## Checkpoints
 
-- [✅ Disclosure (pop-up elements)](/wcag/4.1.2a-advanced-controls-widgets/disclosure-pop-up-elements)
-- [✅ Status messages](/wcag/4.1.3-status-messages/status-messages)
+- [✅ Disclosure (pop-up elements)](/en/wcag/4.1.2a-advanced-controls-widgets/disclosure-pop-up-elements)
+- [✅ Status messages](/en/wcag/4.1.3-status-messages/status-messages)
 
 ## Tags
 
-- [🏷️ Fokus-Management](/tags/fokus-management)
+- [🏷️ Fokus-Management](/en/tags/fokus-management)

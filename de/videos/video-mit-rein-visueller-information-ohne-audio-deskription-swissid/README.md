@@ -16,9 +16,9 @@ created_at: "2024-03-05 13:06:09"
 
 ## Prüfpunkte
 
-- [✅ Alternative für reine Video-Inhalte](/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet/alternative-fuer-reine-video-inhalte)
-- [✅ Audiodeskription oder Medienalternative](/wcag/1.2.3-audiodeskription-oder-medienalternative-aufgezeichnet/audiodeskription-oder-medienalternative)
+- [✅ Alternative für reine Video-Inhalte](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet/alternative-fuer-reine-video-inhalte)
+- [✅ Audiodeskription oder Medienalternative](/de/wcag/1.2.3-audiodeskription-oder-medienalternative-aufgezeichnet/audiodeskription-oder-medienalternative)
 
 ## Tags
 
-- [🏷️ Audiodeskription](/tags/audiodeskription)
+- [🏷️ Audiodeskription](/de/tags/audiodeskription)

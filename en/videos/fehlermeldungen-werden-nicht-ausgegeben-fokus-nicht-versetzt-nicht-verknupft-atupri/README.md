@@ -16,12 +16,12 @@ created_at: "2024-03-06 13:26:19"
 
 ## Checkpoints
 
-- [✅ Error messages in forms](/wcag/3.3.1-error-identification/error-messages-in-forms)
+- [✅ Error messages in forms](/en/wcag/3.3.1-error-identification/error-messages-in-forms)
 
 ## Tags
 
-- [🏷️ aria-describedby](/tags/aria-describedby)
-- [🏷️ Fokus-Management](/tags/fokus-management)
-- [🏷️ NVDA Screenreader](/tags/nvda-screenreader)
-- [🏷️ Rückmeldung durch Screenreader](/tags/ruckmeldung-durch-screenreader)
-- [🏷️ Validierungen und Fehlermeldungen](/tags/validierungen-und-fehlermeldungen)
+- [🏷️ aria-describedby](/en/tags/aria-describedby)
+- [🏷️ Fokus-Management](/en/tags/fokus-management)
+- [🏷️ NVDA Screenreader](/en/tags/nvda-screenreader)
+- [🏷️ Rückmeldung durch Screenreader](/en/tags/ruckmeldung-durch-screenreader)
+- [🏷️ Validierungen und Fehlermeldungen](/en/tags/validierungen-und-fehlermeldungen)
