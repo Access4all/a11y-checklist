@@ -43,3 +43,13 @@ Im DOM kann zwischen der "normalen" Ansicht und dem Accessibility Tree ([🏷️
 
 - [Anleitung für Chrome](https://developer.chrome.com/blog/full-accessibility-tree?hl=de)
 - [Anleitung für Firefox](https://firefox-source-docs.mozilla.org/devtools-user/accessibility_inspector/index.html)
+
+### Mit Screenreader benutzen
+
+- Mit Screenreader zum gewünschten Element navigieren, z.B. eine Grafik
+- `Shift`-`F10` öffnet das Kontextmenü (wie Rechtsklick)
+- `Untersuchen` wählen
+- In der DOM-Baumansicht kann man nun mit Pfeiltasten weiter navigieren
+- `F2` drücken um den HTML-Code des aktuellen Elements zu bearbeiten, dann `Ctrl`-`Enter` um zu bestätigen
+    - Alternativ: Wieder Kontextmenü öffnen (`Shift`-`F10`) und z.B. "Attribut hinzufügen" wählen
+- `F12` drücken um Dev-Tools zu schliessen und zurück zu kehren zur Webseite
