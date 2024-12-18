@@ -1,4 +1,11 @@
 ---
+id: "113"
+wcag_criterion_id: "108"
+applies_to_pdf: ""
+applies_to_design: ""
+applies_to_development: ""
+applies_to_content: ""
+applies_to_quality_assurance: ""
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
