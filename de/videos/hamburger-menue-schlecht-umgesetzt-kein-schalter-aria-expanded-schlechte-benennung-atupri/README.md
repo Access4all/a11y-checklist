@@ -14,7 +14,7 @@ tag_ids: "[17, 18, 16, 14, 13, 6, 12]"
 
 ## Beschreibung
 
-
+Keine Beschreibung verfügbar.
 
 ## Prüfpunkte
 
