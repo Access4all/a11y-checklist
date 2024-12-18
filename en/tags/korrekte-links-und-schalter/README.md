@@ -8,4 +8,4 @@ created_at: "2024-03-09 12:22:01"
 
 ## Description
 
-Link verwendet man, wenn man auf eine neue Seite zeigt. Button nimmt man, wenn innerhalb der aktuellen Seite etwas passieren soll (oder man ein Formular abschicken soll).🇩🇪 Currently only available in German.
+🇩🇪 Currently only available in German.

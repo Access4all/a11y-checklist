@@ -8,6 +8,4 @@ created_at: "2024-06-10 10:01:51"
 
 ## Description
 
-Zeigt Infos zu Tabellen an.
-
-Siehe <https://pauljadam.com/bookmarklets/tables.html>🇩🇪 Currently only available in German.
+🇩🇪 Currently only available in German.

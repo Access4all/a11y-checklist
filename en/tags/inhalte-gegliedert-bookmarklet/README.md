@@ -8,8 +8,4 @@ created_at: "2024-05-27 07:11:31"
 
 ## Description
 
-Zeigt viele Infos zu gebräuchlichen semantischen Inhaltstypen an.
-
-Siehe <https://www.accessibility-developer-guide.com/setup/helper-tools/bookmarklets/contents-structured/>
-
-Original: <https://bitvtest.de/test-methodik/web/werkzeugliste#c359> → zeigt aber z.B. keine `<ul>` und `<li>` an!🇩🇪 Currently only available in German.
+🇩🇪 Currently only available in German.

@@ -8,4 +8,4 @@ created_at: "2024-03-09 14:02:39"
 
 ## Description
 
-Typischerweise eine (horizontale oder vertikale) Liste von Links, welche dem Nutzer ermöglichen, sich schnell einen Überblick über die Unterseiten einer Webseite zu verschaffen, und diese per Klick zu erreichen.🇩🇪 Currently only available in German.
+🇩🇪 Currently only available in German.

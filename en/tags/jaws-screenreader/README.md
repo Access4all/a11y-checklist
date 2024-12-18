@@ -8,6 +8,4 @@ created_at: "2024-10-14 07:36:39"
 
 ## Description
 
-Der am weitesten verbreitete Desktop Screenreader. Kommerziell und sehr teuer.
-
-<https://www.freedomscientific.com/products/software/jaws/>🇩🇪 Currently only available in German.
+🇩🇪 Currently only available in German.

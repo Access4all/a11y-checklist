@@ -8,6 +8,4 @@ created_at: "2024-04-01 13:07:02"
 
 ## Description
 
-Gibt das aktuell fokussierte Element in der JavaScript-Konsole aus. Praktisch, wenn man herausfinden will, was für ein Element gerade fokussiert ist (und es sich aber bspw. ausserhalb des sichtbaren Bereichs befindet, weil es "falsch" versteckt worden ist).
-
-<https://codepen.io/svinkle/pen/WgYRxq>🇩🇪 Currently only available in German.
+🇩🇪 Currently only available in German.

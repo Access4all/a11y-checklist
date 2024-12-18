@@ -8,4 +8,4 @@ created_at: "2024-10-08 17:04:38"
 
 ## Description
 
-Mobile Screenreader sind weniger komplex als Desktop Screenreader ([🏷️ Desktop Screenreader](/en/tags/desktop-screenreader)).🇩🇪 Currently only available in German.
+🇩🇪 Currently only available in German.
