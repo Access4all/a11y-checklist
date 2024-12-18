@@ -8,7 +8,7 @@ checkpoint_ids: "[93]"
 tag_ids: "[29, 18, 13, 27, 28]"
 ---
 
-# 🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri (🚨💻)
+# 🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

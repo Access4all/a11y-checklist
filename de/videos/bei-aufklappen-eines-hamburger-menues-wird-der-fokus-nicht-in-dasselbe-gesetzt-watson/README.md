@@ -8,7 +8,7 @@ checkpoint_ids: "[74, 104, 111]"
 tag_ids: "[18, 16, 27]"
 ---
 
-# 🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson (🚨💻)
+# 🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

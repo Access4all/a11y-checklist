@@ -17,5 +17,4 @@ Deshalb raten wir eher vor solchen Hover-Triggern ab, insbesondere bei grossen I
 
 ## Videos
 
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB (🚨💻)](/de/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
 - [🎬 Tooltips erscheinen bei Fokus - Brack (💚💻)](/de/videos/tooltips-erscheinen-bei-fokus-brack)

@@ -114,4 +114,4 @@ Tooltips / Toggletips **müssen** sogar mit einem Screenreader wie [🏷️ NVDA
 
 ## Videos
 
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB (🚨💻)](/de/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
+Keine Videos verfügbar.

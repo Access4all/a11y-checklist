@@ -8,7 +8,7 @@ checkpoint_ids: "[25, 27, 31]"
 tag_ids: "[1, 4, 8, 6, 7]"
 ---
 
-# 🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack (🚨💻)
+# 🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

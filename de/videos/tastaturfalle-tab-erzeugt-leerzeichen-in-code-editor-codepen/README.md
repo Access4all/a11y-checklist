@@ -8,7 +8,7 @@ checkpoint_ids: "[66]"
 tag_ids: "[18]"
 ---
 
-# 🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen (🚨💻)
+# 🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

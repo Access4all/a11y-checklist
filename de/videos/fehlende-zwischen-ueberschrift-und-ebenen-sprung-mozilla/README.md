@@ -8,7 +8,7 @@ checkpoint_ids: "[26, 27]"
 tag_ids: "[1, 4]"
 ---
 
-# 🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla (🚨💻)
+# 🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

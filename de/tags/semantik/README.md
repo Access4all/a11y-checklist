@@ -16,7 +16,6 @@ Die Semantik kann mittels ARIA ([🏷️ ARIA Attribute](/de/tags/aria-attribute
 ## Videos
 
 - [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
-- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB (🚨💻)](/de/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
 - [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)
 - [🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri (🚨💻)](/de/videos/paragraf-aufgeteilt-in-drei-p-elemente-forcierter-zeilenumbruch-atupri)
 - [🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri (🚨💻)](/de/videos/ueberschrift-nicht-korrekt-umgesetzt-p-statt-h-atupri)

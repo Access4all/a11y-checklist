@@ -8,7 +8,7 @@ checkpoint_ids: "[31]"
 tag_ids: "[6, 7]"
 ---
 
-# 🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri (🚨💻)
+# 🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

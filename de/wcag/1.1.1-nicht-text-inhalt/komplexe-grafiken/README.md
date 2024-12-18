@@ -74,4 +74,4 @@ Wenn, dann nur sehr beschränkt testbar: oft weiss man ja nicht, wie detailliert
 
 ## Videos
 
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal (🚨💻)](/de/videos/diagramm-ohne-alt-attribut-ewb-portal)
+Keine Videos verfügbar.

@@ -8,7 +8,7 @@ checkpoint_ids: "[63]"
 tag_ids: "[11, 9, 10]"
 ---
 
-# 🎬 Tooltips erscheinen bei Fokus - Brack (💚💻)
+# 🎬 Tooltips erscheinen bei Fokus - Brack
 
 - **Gut oder schlecht?** 💚 Gut
 - **Webseite oder Mobile App?** 💻 Webseite

@@ -8,7 +8,7 @@ checkpoint_ids: "[81]"
 tag_ids: "[23, 22]"
 ---
 
-# 🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson (🚨💻)
+# 🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

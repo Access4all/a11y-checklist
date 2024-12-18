@@ -96,8 +96,6 @@ Das Element zum Ausklappen des Hamburger-Menüs kann nicht fokussiert werden.
 ## Videos
 
 - [🎬 Cookie-Banner wird direkt fokussiert - Brack (💚💻)](/de/videos/cookie-banner-wird-direkt-fokussiert-brack)
-- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB (🚨💻)](/de/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
 - [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)
 - [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-kein-href-attribut-watson)
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB (🚨💻)](/de/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
 - [🎬 Tooltips erscheinen bei Fokus - Brack (💚💻)](/de/videos/tooltips-erscheinen-bei-fokus-brack)

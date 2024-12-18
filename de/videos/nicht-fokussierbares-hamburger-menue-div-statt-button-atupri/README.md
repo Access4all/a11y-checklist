@@ -8,7 +8,7 @@ checkpoint_ids: "[63]"
 tag_ids: "[24, 16, 14, 6]"
 ---
 
-# 🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri (🚨💻)
+# 🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

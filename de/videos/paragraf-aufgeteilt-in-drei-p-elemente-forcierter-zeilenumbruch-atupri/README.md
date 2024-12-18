@@ -8,7 +8,7 @@ checkpoint_ids: "[42, 43]"
 tag_ids: "[20, 13, 6, 19]"
 ---
 
-# 🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri (🚨💻)
+# 🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri
 
 - **Gut oder schlecht?** 🚨 Schlecht
 - **Webseite oder Mobile App?** 💻 Webseite

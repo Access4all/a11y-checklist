@@ -8,7 +8,7 @@ checkpoint_ids: "[25, 26, 27, 28, 29, 31, 80]"
 tag_ids: "[1, 4, 7]"
 ---
 
-# 🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)
+# 🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland
 
 - **Gut oder schlecht?** 💚 Gut
 - **Webseite oder Mobile App?** 💻 Webseite

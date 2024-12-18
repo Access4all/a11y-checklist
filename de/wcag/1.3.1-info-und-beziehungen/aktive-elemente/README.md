@@ -60,5 +60,4 @@ Ja (falls das Element insgesamt überhaupt als Prozessanzeige erkannt wird).
 
 ## Videos
 
-- [🎬 Aktiver Menü-Eintrag bei Hochkontrast nicht mehr erkennbar - EWB (🚨💻)](/de/videos/aktiver-menue-eintrag-bei-hochkontrast-nicht-mehr-erkennbar-ewb)
-- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB (🚨💻)](/de/videos/aktiver-menue-eintrag-wird-nicht-angesagt-ewb)
+Keine Videos verfügbar.

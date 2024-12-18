@@ -61,5 +61,4 @@ Beschränkt testbar: vielleicht stolpert man mal über ein Bild mit Alternativte
 
 ## Videos
 
-- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal (🚨💻)](/de/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal (🚨💻)](/de/videos/diagramm-ohne-alt-attribut-ewb-portal)
+Keine Videos verfügbar.

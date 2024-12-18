@@ -16,8 +16,6 @@ Zu `tabindex="0"` raten wir nur in einigen wenigen Sonderfällen.
 ## Videos
 
 - [🎬 Cookie-Banner wird direkt fokussiert - Brack (💚💻)](/de/videos/cookie-banner-wird-direkt-fokussiert-brack)
-- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB (🚨💻)](/de/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
 - [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-kein-href-attribut-watson)
 - [🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack (🚨💻)](/de/videos/tastaturfalle-fokus-bleibt-in-navigation-gefangen-brack)
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB (🚨💻)](/de/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
 - [🎬 Tooltips erscheinen bei Fokus - Brack (💚💻)](/de/videos/tooltips-erscheinen-bei-fokus-brack)
