@@ -1,16 +1,10 @@
 ---
-id: "77"
-wcag_criterion_id: "37"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 13:56:46"
+video_ids: "[]"
 ---
 
 # ✅ Selbstsprechende Links
@@ -58,3 +52,7 @@ Das **muss** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/ta
 ## Screenshots typischer Fälle
 
 ![Mehr erfahren Links bei EGK](images/mehr-erfahren-links-bei-egk.png)
+
+## Videos
+
+Keine Videos verfügbar.

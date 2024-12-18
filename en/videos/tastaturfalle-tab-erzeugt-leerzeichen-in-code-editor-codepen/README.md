@@ -4,6 +4,8 @@ youtube_id: "mGbmBqi7sUg"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-11 17:02:20"
+checkpoint_ids: "[66]"
+tag_ids: "[18]"
 ---
 
 # 🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen

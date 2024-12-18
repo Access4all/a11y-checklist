@@ -2,6 +2,7 @@
 id: "85"
 parent_id: "59"
 created_at: "2024-10-28 16:48:07"
+video_ids: "[]"
 ---
 
 # 🏷️ aria-pressed
@@ -17,3 +18,7 @@ Zum Beispiel eine Art Filter bei Suchergebnissen:
 ```
 
 Dadurch erhält der Screenreader beim Aktivieren ein Feedback "Gedrückt" (bzw. "Nicht gedrückt" beim nochmaligen Aktivieren), ganz gemäss dem Prinzip: [🏷️ Auf Interaktion folgt stets Rückmeldung!](/de/tags/auf-interaktion-folgt-stets-rueckmeldung)
+
+## Videos
+
+Keine Videos verfügbar.

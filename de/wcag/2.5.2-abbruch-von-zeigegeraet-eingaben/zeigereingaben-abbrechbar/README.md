@@ -1,16 +1,10 @@
 ---
-id: "84"
-wcag_criterion_id: "100"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:02:01"
+video_ids: "[]"
 ---
 
 # ✅ Zeigereingaben abbrechbar
@@ -54,3 +48,7 @@ Nein.
 ## Screenshots typischer Fälle
 
 ![Zittrige Hände können die Bedienung eines Smartphones stark erschweren - gut wenn man fehlerhaftes Tippen abbrechen kann!](images/zittrige-hnde-knnen-die-bedienung-eines-smartphones-stark-erschweren.png)
+
+## Videos
+
+Keine Videos verfügbar.

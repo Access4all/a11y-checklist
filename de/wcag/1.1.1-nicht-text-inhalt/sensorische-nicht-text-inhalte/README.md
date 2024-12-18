@@ -1,16 +1,10 @@
 ---
-id: "4"
-wcag_criterion_id: "1"
-applies_to_pdf: "false"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-13 16:14:00"
+video_ids: "[]"
 ---
 
 # ✅ Sensorische Nicht-Text-Inhalte
@@ -65,3 +59,7 @@ Kaum: zumindest Bildinhalte sind durch Blinde natürlich nicht erfahrbar bzw. be
 ![Abstraktes Gemälde mit Alternativtext](images/abstraktes-gemlde-mit-alternativtext.png)
 
 ![Ein Audio-Player mit klassischen Stücken - hier fehlen Text-Alternativen](images/ein-audio-player-mit-klassischen-stcken-hier-fehlen-text-alternativen.png)
+
+## Videos
+
+Keine Videos verfügbar.

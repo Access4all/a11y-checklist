@@ -1,16 +1,10 @@
 ---
-id: "86"
-wcag_criterion_id: "102"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:02:56"
+video_ids: "[]"
 ---
 
 # ✅ Alternativen für Bewegungsaktivierung
@@ -53,3 +47,7 @@ Schwierig testbar: wenn man von der Funktionalität weiss, kann man aber zuminde
 ![Undo-Funktion bei Schütteln in iOS](images/undo-funktion-bei-schtteln-in-ios.png)
 
 ![Gesten-Erkennung per Video-Kamera](images/gesten-erkennung-per-video-kamera.png)
+
+## Videos
+
+Keine Videos verfügbar.

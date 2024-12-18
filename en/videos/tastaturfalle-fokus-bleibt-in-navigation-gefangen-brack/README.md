@@ -4,6 +4,8 @@ youtube_id: "4UKGzxR1Bc0"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-06 08:52:43"
+checkpoint_ids: "[66]"
+tag_ids: "[18, 11]"
 ---
 
 # 🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack

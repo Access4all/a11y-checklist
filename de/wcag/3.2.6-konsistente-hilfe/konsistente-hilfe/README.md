@@ -1,16 +1,10 @@
 ---
-id: "115"
-wcag_criterion_id: "113"
-applies_to_pdf: ""
-applies_to_design: ""
-applies_to_development: ""
-applies_to_content: ""
-applies_to_quality_assurance: ""
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-04-16 08:30:41"
+video_ids: "[]"
 ---
 
 # ✅ Konsistente Hilfe
@@ -55,3 +49,7 @@ Selbst wenn etwas visuell über mehrere Seiten gleich aussieht, kann die Semanti
 ![Hilfe-Angebot im Header der Swiss](images/hilfe-angebot-im-header-der-swiss.png)
 
 ![Chat-Möglichkeit immer an derselben Position](images/chat-mglichkeit-immer-an-derselben-position.png)
+
+## Videos
+
+Keine Videos verfügbar.

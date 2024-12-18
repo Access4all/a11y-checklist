@@ -1,16 +1,10 @@
 ---
-id: "18"
-wcag_criterion_id: "4"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-14 12:15:28"
+video_ids: "[1]"
 ---
 
 # ✅ Audiodeskription oder Medienalternative
@@ -49,7 +43,7 @@ Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reine
 
 ## Screenshots typischer Fälle
 
-
+Keine Screenshots verfügbar.
 
 ## Videos
 

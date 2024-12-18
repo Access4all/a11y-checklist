@@ -1,16 +1,10 @@
 ---
-id: "18"
-wcag_criterion_id: "4"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-14 12:15:28"
+video_ids: "[1]"
 ---
 
 # ✅ Audio description or media alternative
@@ -47,7 +41,7 @@ Exception: If the synchronised video content is a media alternative for existing
 
 ## Screenshots
 
-
+No screenshots available.
 
 ## Videos
 

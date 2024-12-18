@@ -1,16 +1,10 @@
 ---
-id: "101"
-wcag_criterion_id: "87"
-applies_to_pdf: "false"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:13:38"
+video_ids: "[]"
 ---
 
 # ✅ Autocompletes (Comboboxen)
@@ -198,3 +192,7 @@ Autocompletes **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenr
 ![Autocomplete mit Pills](images/autocomplete-mit-pills.png)
 
 ![Multi-Select mit Pills](images/multi-select-mit-pills.png)
+
+## Videos
+
+Keine Videos verfügbar.

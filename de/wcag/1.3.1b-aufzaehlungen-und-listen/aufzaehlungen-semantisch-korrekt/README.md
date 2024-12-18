@@ -1,16 +1,10 @@
 ---
-id: "32"
-wcag_criterion_id: "78"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:59:27"
+video_ids: "[]"
 ---
 
 # ✅ Aufzählungen semantisch korrekt
@@ -74,3 +68,7 @@ Listen sind für Blinde besonders wichtig!
 ![Navigations-Liste in A4AA](images/navigations-liste-in-a4aa.png)
 
 ![Diverse Listen in A4AA](images/diverse-listen-in-a4aa.png)
+
+## Videos
+
+Keine Videos verfügbar.

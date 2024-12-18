@@ -1,16 +1,10 @@
 ---
-id: "72"
-wcag_criterion_id: "35"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "false"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 13:51:00"
+video_ids: "[]"
 ---
 
 # ✅ Meaningful title
@@ -58,3 +52,7 @@ Auch für visuelle Nutzer ist es hier sinnvoll, dass der Thema der Seite am Anfa
 Als Vergleich:
 
 ![Viele Tabs, deren Titel identisch anfangen](images/viele-tabs-deren-titel-identisch-anfangen.png)
+
+## Videos
+
+No videos available.

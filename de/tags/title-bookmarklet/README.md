@@ -2,6 +2,7 @@
 id: "53"
 parent_id: "67"
 created_at: "2024-06-21 07:00:23"
+video_ids: "[]"
 ---
 
 # 🏷️ Title Bookmarklet
@@ -11,3 +12,7 @@ created_at: "2024-06-21 07:00:23"
 Zeigt `title`-Attribute an, z.B. von `<iframe>`s.
 
 Von <https://pauljadam.com/bookmarklets/title.html>
+
+## Videos
+
+Keine Videos verfügbar.

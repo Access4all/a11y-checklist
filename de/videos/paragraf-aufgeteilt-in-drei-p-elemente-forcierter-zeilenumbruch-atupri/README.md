@@ -4,6 +4,8 @@ youtube_id: "VB2vnX0TABs"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-06 10:36:48"
+checkpoint_ids: "[42, 43]"
+tag_ids: "[20, 13, 6, 19]"
 ---
 
 # 🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri

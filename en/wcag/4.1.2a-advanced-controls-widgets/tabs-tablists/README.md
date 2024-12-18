@@ -1,16 +1,10 @@
 ---
-id: "106"
-wcag_criterion_id: "87"
-applies_to_pdf: "false"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:16:04"
+video_ids: "[]"
 ---
 
 # ✅ Tabs / tablists
@@ -48,3 +42,7 @@ Tabs are implemented barrier-free. They are correctly announced by screen reader
 ![Tabs aus dem ADG](images/tabs-aus-dem-adg.png)
 
 ![Tabs von Switch Cast](images/tabs-von-switch-cast.png)
+
+## Videos
+
+No videos available.

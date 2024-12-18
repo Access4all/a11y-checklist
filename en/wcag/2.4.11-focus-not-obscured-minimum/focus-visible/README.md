@@ -1,16 +1,10 @@
 ---
-id: "113"
-wcag_criterion_id: "108"
-applies_to_pdf: ""
-applies_to_design: ""
-applies_to_development: ""
-applies_to_content: ""
-applies_to_quality_assurance: ""
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-04-16 08:17:49"
+video_ids: "[]"
 ---
 
 # ✅ Focus visible
@@ -50,3 +44,7 @@ The keyboard focus is always clearly visible when navigating and is at most part
 ![Ein Cookie-Banner verdeckt fast die komplette Mobile-Ansicht](images/ein-cookie-banner-verdeckt-fast-die-komplette-mobile-ansicht.png)
 
 ![Sticky Header und Footer können fokussierte Elemente verdecken](images/sticky-header-und-footer-knnen-fokussierte-elemente-verdecken.png)
+
+## Videos
+
+No videos available.

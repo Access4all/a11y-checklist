@@ -2,6 +2,7 @@
 id: "86"
 parent_id: "77"
 created_at: "2024-10-29 07:20:56"
+video_ids: "[]"
 ---
 
 # 🏷️ Mind. 2 Kanäle bedienen (2-Sinne-Prinzip)
@@ -9,3 +10,7 @@ created_at: "2024-10-29 07:20:56"
 ## Description
 
 🇩🇪 Currently only available in German.
+
+## Videos
+
+No videos available.

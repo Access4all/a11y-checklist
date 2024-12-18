@@ -2,6 +2,7 @@
 id: "61"
 parent_id: ""
 created_at: "2024-10-08 17:02:35"
+video_ids: "[]"
 ---
 
 # 🏷️ JavaScript Widgets
@@ -9,3 +10,7 @@ created_at: "2024-10-08 17:02:35"
 ## Description
 
 🇩🇪 Currently only available in German.
+
+## Videos
+
+No videos available.

@@ -1,16 +1,10 @@
 ---
-id: "35"
-wcag_criterion_id: "80"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 13:11:30"
+video_ids: "[]"
 ---
 
 # ✅ Feldset / Legend
@@ -44,3 +38,7 @@ In extensive forms, form fields with related content are grouped using the `<fie
 ## Screenshots
 
 ![Fieldset/Legends in A4AA](images/fieldsetlegends-in-a4aa.png)
+
+## Videos
+
+No videos available.

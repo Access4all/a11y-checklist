@@ -1,16 +1,10 @@
 ---
-id: "69"
-wcag_criterion_id: "27"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:48:53"
+video_ids: "[]"
 ---
 
 # ✅ Dauerhaft animierte Inhalte
@@ -60,3 +54,7 @@ Wenn, dann nur sehr beschränkt testbar: Animationen sind durch und durch visuel
 ![Ein horizontal scrollender Werbe-Text](images/ein-horizontal-scrollender-werbe-text.png)
 
 ![Ein Karussell mit Autoplay- und entsprechender Stop-Funktion](images/ein-karussell-mit-autoplay-und-entsprechender-stop-funktion.png)
+
+## Videos
+
+Keine Videos verfügbar.

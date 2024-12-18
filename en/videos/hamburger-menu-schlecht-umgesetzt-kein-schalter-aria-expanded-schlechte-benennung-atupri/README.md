@@ -4,6 +4,8 @@ youtube_id: "RzVKLavZYHU"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-06 08:54:59"
+checkpoint_ids: "[8, 104]"
+tag_ids: "[17, 18, 16, 14, 13, 6, 12]"
 ---
 
 # 🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri

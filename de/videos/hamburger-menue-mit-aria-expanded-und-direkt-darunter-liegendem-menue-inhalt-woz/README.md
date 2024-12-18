@@ -4,6 +4,8 @@ youtube_id: "DIgrv5Xaqrg"
 good_or_bad: "good"
 web_or_app: "web"
 created_at: "2024-03-06 14:28:57"
+checkpoint_ids: "[104, 111]"
+tag_ids: "[18]"
 ---
 
 # 🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ

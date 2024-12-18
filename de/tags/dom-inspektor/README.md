@@ -2,6 +2,7 @@
 id: "47"
 parent_id: "75"
 created_at: "2024-06-01 08:51:34"
+video_ids: "[]"
 ---
 
 # 🏷️ DOM Inspektor
@@ -53,3 +54,7 @@ Im DOM kann zwischen der "normalen" Ansicht und dem Accessibility Tree ([🏷️
 - `F2` drücken um den HTML-Code des aktuellen Elements zu bearbeiten, dann `Ctrl`-`Enter` um zu bestätigen
     - Alternativ: Wieder Kontextmenü öffnen (`Shift`-`F10`) und z.B. "Attribut hinzufügen" wählen
 - `F12` drücken um Dev-Tools zu schliessen und zurück zu kehren zur Webseite
+
+## Videos
+
+Keine Videos verfügbar.

@@ -1,16 +1,10 @@
 ---
-id: "94"
-wcag_criterion_id: "55"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:08:12"
+video_ids: "[]"
 ---
 
 # ✅ Pflichtfelder
@@ -69,3 +63,7 @@ Pflichtangaben für Formular-Elemente sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Pflichtfeld in A4AA](images/pflichtfeld-in-a4aa.png)
+
+## Videos
+
+Keine Videos verfügbar.

@@ -1,16 +1,10 @@
 ---
-id: "119"
-wcag_criterion_id: "83"
-applies_to_pdf: ""
-applies_to_design: ""
-applies_to_development: ""
-applies_to_content: ""
-applies_to_quality_assurance: ""
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-06-10 11:25:18"
+video_ids: "[]"
 ---
 
 # ✅ Überspannende Zellen
@@ -58,3 +52,7 @@ Korrekte Umsetzung von Tabellen ist für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Komplese Tabelle mit colspan und rowspan](images/komplese-tabelle-mit-colspan-und-rowspan.png)
+
+## Videos
+
+Keine Videos verfügbar.

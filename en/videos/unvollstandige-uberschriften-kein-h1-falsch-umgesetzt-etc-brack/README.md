@@ -4,6 +4,8 @@ youtube_id: "D2OsNaI27c0"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-05 16:26:17"
+checkpoint_ids: "[25, 27, 31]"
+tag_ids: "[1, 4, 8, 6, 7]"
 ---
 
 # 🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack

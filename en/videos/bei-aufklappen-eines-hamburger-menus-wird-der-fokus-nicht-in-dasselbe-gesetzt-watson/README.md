@@ -4,6 +4,8 @@ youtube_id: "DuhlJcdOryE"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-06 14:27:26"
+checkpoint_ids: "[74, 104, 111]"
+tag_ids: "[18, 16, 27]"
 ---
 
 # 🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson

@@ -1,16 +1,10 @@
 ---
-id: "12"
-wcag_criterion_id: "1"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-13 16:24:25"
+video_ids: "[21]"
 ---
 
 # ✅ Complex graphics

@@ -1,16 +1,10 @@
 ---
-id: "61"
-wcag_criterion_id: "93"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 07:50:30"
+video_ids: "[]"
 ---
 
 # ✅ Abstände vergrösserbar
@@ -55,3 +49,7 @@ Nein.
 ![Seite mit Anwendung von zusätzlichem Text-Spacing etc.](images/seite-mit-anwendung-von-zustzlichem-text-spacing-etc.png)
 
 ![Unschöne Überlappung von Bild und Schrift, was den Text praktisch unlesbar macht](images/unschne-berlappung-von-bild-und-schrift-was-den-text-praktisch-unlesbar-macht.png)
+
+## Videos
+
+Keine Videos verfügbar.

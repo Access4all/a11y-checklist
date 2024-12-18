@@ -1,16 +1,10 @@
 ---
-id: "51"
-wcag_criterion_id: "14"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 07:36:23"
+video_ids: "[]"
 ---
 
 # ✅ Not just colour alone
@@ -56,3 +50,7 @@ Information is not conveyed by colour alone. This is also true for hover and foc
 ![Kuchen-Diagramm zusätzlich mit Muster codiert](images/kuchen-diagramm-zustzlich-mit-muster-codiert.png)
 
 ![Fokus-Zustand durch Umrandung gut erkennbar](images/fokus-zustand-durch-umrandung-gut-erkennbar.png)
+
+## Videos
+
+No videos available.

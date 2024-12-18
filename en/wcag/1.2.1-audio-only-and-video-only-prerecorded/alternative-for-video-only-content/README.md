@@ -1,16 +1,10 @@
 ---
-id: "16"
-wcag_criterion_id: "2"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-13 17:04:08"
+video_ids: "[1]"
 ---
 
 # ✅ Alternative for video-only content
@@ -45,7 +39,7 @@ Exception: If the video-only content is already an alternative for existing text
 
 ## Screenshots
 
-
+No screenshots available.
 
 ## Videos
 

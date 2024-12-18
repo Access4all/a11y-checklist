@@ -1,16 +1,10 @@
 ---
-id: "81"
-wcag_criterion_id: "40"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 13:59:23"
+video_ids: "[17]"
 ---
 
 # ✅ Tastatur-Fokus sichtbar

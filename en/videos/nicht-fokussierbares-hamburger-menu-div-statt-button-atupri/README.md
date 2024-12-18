@@ -4,6 +4,8 @@ youtube_id: "midOxwCGMD0"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-06 10:40:33"
+checkpoint_ids: "[63]"
+tag_ids: "[24, 16, 14, 6]"
 ---
 
 # 🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri

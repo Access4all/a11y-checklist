@@ -4,6 +4,8 @@ youtube_id: "cLi4XW_WXxI"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-05 16:21:11"
+checkpoint_ids: "[25, 27, 31]"
+tag_ids: "[1]"
 ---
 
 # 🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick

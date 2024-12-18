@@ -1,16 +1,10 @@
 ---
-id: "85"
-wcag_criterion_id: "101"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:02:31"
+video_ids: "[]"
 ---
 
 # ✅ Zugängliche Beschriftung
@@ -58,3 +52,7 @@ Nein.
 ![Die zugängliche Beschriftung beinhaltet die visuell sichtbare Beschriftung](images/die-zugngliche-beschriftung-beinhaltet-die-visuell-sichtbare-beschriftung.png)
 
 ![Schalter mit Symbol und sinnvoller zugänglicher Beschriftung](images/schalter-mit-symbol-und-sinnvoller-zugnglicher-beschriftung.png)
+
+## Videos
+
+Keine Videos verfügbar.

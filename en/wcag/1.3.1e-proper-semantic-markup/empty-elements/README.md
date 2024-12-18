@@ -1,16 +1,10 @@
 ---
-id: "44"
-wcag_criterion_id: "106"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 07:29:59"
+video_ids: "[]"
 ---
 
 # ✅ Empty elements
@@ -44,3 +38,7 @@ Empty meaningful elements are avoided.
 ## Screenshots
 
 ![Ein leerer Paragraf](images/ein-leerer-paragraf.png)
+
+## Videos
+
+No videos available.

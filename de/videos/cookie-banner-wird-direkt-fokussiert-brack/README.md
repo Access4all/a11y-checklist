@@ -4,6 +4,8 @@ youtube_id: "cSno0w3wdK4"
 good_or_bad: "good"
 web_or_app: "web"
 created_at: "2024-03-06 11:02:37"
+checkpoint_ids: "[63]"
+tag_ids: "[25, 18, 11]"
 ---
 
 # 🎬 Cookie-Banner wird direkt fokussiert - Brack

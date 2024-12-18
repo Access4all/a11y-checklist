@@ -1,16 +1,10 @@
 ---
-id: "109"
-wcag_criterion_id: "61"
-applies_to_pdf: "false"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:18:08"
+video_ids: "[]"
 ---
 
 # ✅ Use of ARIA
@@ -43,3 +37,8 @@ The use of ARIA is reasonable and correct. Wherever possible, standard HTML elem
 
 ## Screenshots
 
+No screenshots available.
+
+## Videos
+
+No videos available.

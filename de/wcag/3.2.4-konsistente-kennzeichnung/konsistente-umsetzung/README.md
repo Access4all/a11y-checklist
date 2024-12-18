@@ -1,16 +1,10 @@
 ---
-id: "92"
-wcag_criterion_id: "52"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:06:21"
+video_ids: "[]"
 ---
 
 # ✅ Konsistente Umsetzung
@@ -52,3 +46,8 @@ Ja, auch wenn es hier noch schwieriger sein kann, festzustellen, ob unterschiedl
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.
+
+## Videos
+
+Keine Videos verfügbar.

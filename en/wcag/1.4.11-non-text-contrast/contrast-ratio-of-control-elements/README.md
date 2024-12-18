@@ -1,16 +1,10 @@
 ---
-id: "59"
-wcag_criterion_id: "92"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:45:10"
+video_ids: "[]"
 ---
 
 # ✅ Contrast ratio of control elements
@@ -66,3 +60,7 @@ The contrast ratio of control elements (e.g. text fields, radio buttons, checkbo
 ![Besser sichtbare Begrenzungslinien bei der Tabliste](images/besser-sichtbare-begrenzungslinien-bei-der-tabliste.png)
 
 ![Zusätzliche Begrenzungslinien bei der Tabliste](images/zustzliche-begrenzungslinien-bei-der-tabliste.png)
+
+## Videos
+
+No videos available.

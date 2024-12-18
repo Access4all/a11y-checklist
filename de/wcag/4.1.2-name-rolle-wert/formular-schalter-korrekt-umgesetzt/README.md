@@ -1,16 +1,10 @@
 ---
-id: "110"
-wcag_criterion_id: "61"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:19:20"
+video_ids: "[]"
 ---
 
 # ✅ Formular-Schalter korrekt umgesetzt
@@ -53,3 +47,7 @@ Teilweise.
 ![Ein korrekt umgesetzter Schalter](images/ein-korrekt-umgesetzter-schalter.png)
 
 ![Ein mit ARIA umgesetzter Schalter](images/ein-mit-aria-umgesetzter-schalter.png)
+
+## Videos
+
+Keine Videos verfügbar.

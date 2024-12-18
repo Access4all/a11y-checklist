@@ -1,16 +1,10 @@
 ---
-id: "66"
-wcag_criterion_id: "24"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:46:37"
+video_ids: "[7, 31]"
 ---
 
 # ✅ Tastaturfallen

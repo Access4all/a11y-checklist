@@ -1,16 +1,10 @@
 ---
-id: "97"
-wcag_criterion_id: "56"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:11:04"
+video_ids: "[]"
 ---
 
 # ✅ Informative Fehlermeldungen
@@ -70,3 +64,7 @@ Wenn die Fehlermeldungen korrekt mit den Eingabefeldern verknüpft sind, ist die
 ![Wenig aussagekräftiger Login-Fehler](images/wenig-aussagekrftiger-login-fehler.png)
 
 ![Wenig informative Fehlermeldung bei IBM SPSS](images/wenig-informative-fehlermeldung-bei-ibm-spss.png)
+
+## Videos
+
+Keine Videos verfügbar.

@@ -1,16 +1,10 @@
 ---
-id: "17"
-wcag_criterion_id: "3"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-14 12:14:33"
+video_ids: "[]"
 ---
 
 # ✅ Subtitle
@@ -60,3 +54,7 @@ Das Video von SwissID benötigt keine spezifische Untertitelung, da alle Texte s
 ![Cabinet of Curiosities](images/cabinet-of-curiosities.png)
 
 Ein Horrorfilm lebt stark von teils sehr subtilen Audio-Effekten, ohne dass man deren Ursprung sieht (etwa "laufende Schritte im Flur", während die Kamera auf eine Person im Bett gerichtet ist).
+
+## Videos
+
+No videos available.

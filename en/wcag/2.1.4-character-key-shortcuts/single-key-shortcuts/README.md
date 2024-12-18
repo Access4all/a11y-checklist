@@ -1,16 +1,10 @@
 ---
-id: "67"
-wcag_criterion_id: "95"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:47:27"
+video_ids: "[]"
 ---
 
 # ✅ Single-key shortcuts
@@ -46,3 +40,7 @@ Single-key shortcuts (consisting of a single letter, punctuation, number or symb
 ![Github fokussiert das Suchfeld mit Tastenkürzel "/"](images/github-fokussiert-das-suchfeld-mit-tastenkrzel.png)
 
 ![Github erlaubt das Deaktivieren dieser Tastenkürzel](images/github-erlaubt-das-deaktivieren-dieser-tastenkrzel.png)
+
+## Videos
+
+No videos available.

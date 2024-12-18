@@ -4,6 +4,8 @@ youtube_id: "tzWmKrABe6w"
 good_or_bad: "good"
 web_or_app: "web"
 created_at: "2024-03-06 19:45:02"
+checkpoint_ids: "[25, 26, 27, 28, 29, 31, 80]"
+tag_ids: "[1, 4, 7]"
 ---
 
 # 🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ

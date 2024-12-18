@@ -1,16 +1,10 @@
 ---
-id: "83"
-wcag_criterion_id: "99"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:01:06"
+video_ids: "[]"
 ---
 
 # ✅ Alternative for path and multi-point pointer gestures
@@ -46,3 +40,7 @@ Alternatives exist for path-based or multi-point pointer gestures that can be op
 ![Slider, welcher neben Wischgesten auch Weiter/Zurück-Schalter anbietet](images/slider-welcher-neben-wischgesten-auch-weiterzurck-schalter-anbietet.png)
 
 ![Per Swipe angezeigtes Chat-Kontextmenü in WhatsApp](images/per-swipe-angezeigtes-chat-kontextmen-in-whatsapp.png)
+
+## Videos
+
+No videos available.

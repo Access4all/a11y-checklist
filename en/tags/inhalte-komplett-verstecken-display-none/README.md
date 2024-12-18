@@ -2,6 +2,7 @@
 id: "26"
 parent_id: "70"
 created_at: "2024-03-09 14:27:22"
+video_ids: "[]"
 ---
 
 # 🏷️ Inhalte komplett verstecken (display: none)
@@ -9,3 +10,7 @@ created_at: "2024-03-09 14:27:22"
 ## Description
 
 🇩🇪 Currently only available in German.
+
+## Videos
+
+No videos available.

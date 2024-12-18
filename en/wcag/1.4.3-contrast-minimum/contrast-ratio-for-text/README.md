@@ -1,16 +1,10 @@
 ---
-id: "54"
-wcag_criterion_id: "16"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:39:19"
+video_ids: "[]"
 ---
 
 # ✅ Contrast ratio for text
@@ -44,3 +38,7 @@ The contrast ratio for text and images from text to background is at least `4.5:
 ## Screenshots
 
 ![Colour Contrast Analyser in Aktion](images/colour-contrast-analyser-in-aktion.png)
+
+## Videos
+
+No videos available.

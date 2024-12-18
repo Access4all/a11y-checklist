@@ -1,16 +1,10 @@
 ---
-id: "3"
-wcag_criterion_id: "1"
-applies_to_pdf: "false"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-13 16:11:33"
+video_ids: "[]"
 ---
 
 # ✅ Grafische Tests und Übungen
@@ -50,3 +44,7 @@ Sehr eingeschränkt: es kann zwar evaluiert werden, ob eine Grafik einen Alterna
 ## Screenshots typischer Fälle
 
 ![Farbenblindheit-Test](images/farbenblindheit-test.png)
+
+## Videos
+
+Keine Videos verfügbar.

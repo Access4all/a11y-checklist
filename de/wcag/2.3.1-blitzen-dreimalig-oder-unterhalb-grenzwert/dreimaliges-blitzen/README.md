@@ -1,16 +1,10 @@
 ---
-id: "70"
-wcag_criterion_id: "31"
-applies_to_pdf: "false"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:49:31"
+video_ids: "[]"
 ---
 
 # ✅ Dreimaliges Blitzen
@@ -52,3 +46,7 @@ Nein.
 ## Screenshots typischer Fälle
 
 ![Darstellung eines stroboskopischen Lichteffekts in einer Diskothek](images/darstellung-eines-stroboskopischen-lichteffekts-in-einer-diskothek.png)
+
+## Videos
+
+Keine Videos verfügbar.

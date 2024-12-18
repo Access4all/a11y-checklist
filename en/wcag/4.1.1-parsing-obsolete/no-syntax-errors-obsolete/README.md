@@ -1,16 +1,10 @@
 ---
-id: "99"
-wcag_criterion_id: "60"
-applies_to_pdf: "false"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "false"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "false"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:12:15"
+video_ids: "[]"
 ---
 
 # ✅ No syntax errors (obsolete)
@@ -45,3 +39,8 @@ The HTML code does not contain any errors relevant to accessibility.
 
 ## Screenshots
 
+No screenshots available.
+
+## Videos
+
+No videos available.

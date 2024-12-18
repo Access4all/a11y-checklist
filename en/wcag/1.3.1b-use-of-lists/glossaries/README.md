@@ -1,16 +1,10 @@
 ---
-id: "34"
-wcag_criterion_id: "78"
-applies_to_pdf: "true"
-applies_to_design: "false"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 13:00:51"
+video_ids: "[]"
 ---
 
 # ✅ Glossaries
@@ -44,3 +38,7 @@ Glossaries and similar information lists are formatted as definition lists.
 ## Screenshots
 
 ![Definitions-Liste in A4AA](images/definitions-liste-in-a4aa.png)
+
+## Videos
+
+No videos available.

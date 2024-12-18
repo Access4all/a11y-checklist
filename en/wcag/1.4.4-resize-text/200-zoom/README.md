@@ -1,16 +1,10 @@
 ---
-id: "56"
-wcag_criterion_id: "17"
-applies_to_pdf: "true"
-applies_to_design: "true"
-applies_to_development: "true"
-applies_to_content: "true"
-applies_to_quality_assurance: "true"
 applicable_to_web: "true"
 applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 07:42:11"
+video_ids: "[]"
 ---
 
 # ✅ 200% zoom
@@ -48,3 +42,7 @@ Elements are zoomable to at least 200%, either the text alone or the entire page
 ![Firefox erlaubt auch, nur den Text zu zoomen](images/firefox-erlaubt-auch-nur-den-text-zu-zoomen.png)
 
 ![Text-Vergrösserung in iOS](images/text-vergrsserung-in-ios.png)
+
+## Videos
+
+No videos available.

@@ -4,6 +4,8 @@ youtube_id: "ywblOwlWbyg"
 good_or_bad: "bad"
 web_or_app: "web"
 created_at: "2024-03-05 16:30:52"
+checkpoint_ids: "[26, 27]"
+tag_ids: "[1, 4]"
 ---
 
 # 🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla
