@@ -10,4 +10,4 @@ created_at: "2024-06-21 07:00:23"
 
 Zeigt `title`-Attribute an, z.B. von `<iframe>`s.
 
-Von <https://pauljadam.com/bookmarklets/title.html>
+Von <https://pauljadam.com/bookmarklets/title.html>🇩🇪 Currently only available in German.

@@ -36,3 +36,4 @@ Bestandteile mit gleicher Funktion sind konsistent umgesetzt, sowohl auf visuell
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

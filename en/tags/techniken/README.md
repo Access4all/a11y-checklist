@@ -8,4 +8,4 @@ created_at: "2024-10-08 16:59:55"
 
 ## Description
 
-Eine Sammlung von häufig eingesetzten Techniken, um Inhalte und Funktionalitäten barrierefrei umzusetzen.
+Eine Sammlung von häufig eingesetzten Techniken, um Inhalte und Funktionalitäten barrierefrei umzusetzen.🇩🇪 Currently only available in German.

@@ -13,4 +13,4 @@ Manchmal möchte man Inhalte rein visuell verstecken, sodass sie am Bildschirm n
 Der Einsatz von `display: none` o.ä. ([🏷️ Inhalte komplett verstecken (display: none)](/en/tags/inhalte-komplett-verstecken-display-none)) wäre hier fehl am Platz, weil Elemente dadurch auch aus dem Accessibility-Tree ([🏷️ Accessibility Tree](/en/tags/accessibility-tree)) entfernt werden und Screenreader nicht mehr darauf zugreifen können. Leider gibt es aber nach wie vor keine "offizielle" Lösung für dieses Problem. Es wird deshalb seit jeher eine Art "Hack" verwendet, indem der Inhalt aus dem Viewport hinaus geschoben wird:
 
 - [WebAIM: Invisible Content Just for Screen Reader Users](https://webaim.org/techniques/css/invisiblecontent/)
-- [CSS-Tricks: Inclusively Hidden](https://css-tricks.com/inclusively-hidden/)
+- [CSS-Tricks: Inclusively Hidden](https://css-tricks.com/inclusively-hidden/)🇩🇪 Currently only available in German.

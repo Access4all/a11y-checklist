@@ -14,4 +14,4 @@ Manchmal wird die visuelle Anzeige des aktuell fokussierten Elements komplett de
 * { outline: none; }
 ```
 
-Das ist sehr problematisch, da dadurch nicht mehr erkennbar ist, welches interaktive Element gerade den Tastatur-Fokus hat.
+Das ist sehr problematisch, da dadurch nicht mehr erkennbar ist, welches interaktive Element gerade den Tastatur-Fokus hat.🇩🇪 Currently only available in German.

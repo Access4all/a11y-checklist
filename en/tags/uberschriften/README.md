@@ -8,4 +8,4 @@ created_at: "2024-10-28 16:30:37"
 
 ## Description
 
-Überschriften (`<h1>`, `<h2>`, etc.) werden vor allem von Screenreader-Nutzern eingesetzt, um schnell zwischen Inhalts-Blöcken zu navigieren.
+Überschriften (`<h1>`, `<h2>`, etc.) werden vor allem von Screenreader-Nutzern eingesetzt, um schnell zwischen Inhalts-Blöcken zu navigieren.🇩🇪 Currently only available in German.

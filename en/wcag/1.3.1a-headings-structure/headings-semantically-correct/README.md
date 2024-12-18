@@ -27,3 +27,4 @@ Headings are semantically correctly marked with the heading element (`<h1>` to `
 
 ## Screenshots
 
+No screenshots available.

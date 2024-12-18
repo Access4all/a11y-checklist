@@ -40,3 +40,4 @@ Ausnahme: Wenn der reine Video-Inhalt bereits eine Alternative für bestehenden 
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

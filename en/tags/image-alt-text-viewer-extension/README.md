@@ -10,4 +10,4 @@ created_at: "2024-03-09 14:43:17"
 
 Zeigt die Alternativtexte von Bildern an.
 
-Siehe <https://chromewebstore.google.com/detail/image-alt-text-viewer/nhmihbneenlkbjjpbimhegikadfleccd?pli=1>
+Siehe <https://chromewebstore.google.com/detail/image-alt-text-viewer/nhmihbneenlkbjjpbimhegikadfleccd?pli=1>🇩🇪 Currently only available in German.

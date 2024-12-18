@@ -12,4 +12,4 @@ Ganz gemäss dem Grundsatz [🏷️ Auf Interaktion folgt stets Rückmeldung!](/
 
 Siehe [📜-4.1.3 Status Messages](/en/wcag/4.1.3-status-messages).
 
-Manchmal kann es stattdessen auch sinnvoll sein, den Fokus sinnvoll neu zu setzen, um ein Element vom Screenreader ansagen zu lassen. (Siehe [✅ Focus-Guidance](/en/wcag/2.4.3-focus-order/focus-guidance))
+Manchmal kann es stattdessen auch sinnvoll sein, den Fokus sinnvoll neu zu setzen, um ein Element vom Screenreader ansagen zu lassen. (Siehe [✅ Focus-Guidance](/en/wcag/2.4.3-focus-order/focus-guidance))🇩🇪 Currently only available in German.

@@ -27,3 +27,4 @@ Headings have the following content (or underlying headings).
 
 ## Screenshots
 
+No screenshots available.

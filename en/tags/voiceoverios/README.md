@@ -8,4 +8,4 @@ created_at: "2024-06-21 06:53:25"
 
 ## Description
 
-Apple's Mobile Screenreader. Relativ einfach zu bedienen, funktioniert seit Jahren recht stabil.
+Apple's Mobile Screenreader. Relativ einfach zu bedienen, funktioniert seit Jahren recht stabil.🇩🇪 Currently only available in German.

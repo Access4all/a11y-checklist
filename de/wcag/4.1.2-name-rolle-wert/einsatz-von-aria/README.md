@@ -49,3 +49,4 @@ Es soll hier also nicht darum gehen, ARIA per se zu verteufeln, aber wir testen 
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

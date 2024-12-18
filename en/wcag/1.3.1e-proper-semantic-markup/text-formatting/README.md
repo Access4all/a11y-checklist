@@ -27,3 +27,4 @@ Text formatting with informational content (e.g., crossed out) is also accessibl
 
 ## Screenshots
 
+No screenshots available.

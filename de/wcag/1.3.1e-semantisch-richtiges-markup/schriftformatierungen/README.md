@@ -35,3 +35,4 @@ Schriftformatierungen mit Informationsgehalt (z.B. durchgestrichen) sind auch ni
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

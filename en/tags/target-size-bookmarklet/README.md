@@ -18,4 +18,4 @@ Notizen aus Emails vom 17. April 2024 (Petra, Nicole, Josua):
 
 - <https://cdpn.io/aardrian/debug/OJBZyjL> → gute Test-Cases
 - <https://adrianroselli.com/2022/05/24x24-pixel-cursor-bookmarklet.html> → ersetzt den Maus-Cursor durch ein 24x24px Symbol, mit welchem dann manuell getestet werden soll
-- <https://halfaccessible.com/tool/accessibility-tools-target-size-checker/> → Extension, deutlich "behäbiger" zum Einsetzen
+- <https://halfaccessible.com/tool/accessibility-tools-target-size-checker/> → Extension, deutlich "behäbiger" zum Einsetzen🇩🇪 Currently only available in German.

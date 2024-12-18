@@ -29,4 +29,4 @@ Es gibt kein natives HTML-Attribut für den Ausklapp-Zustand eines Elements. Des
 <div role="button">Nachricht Abschicken</div>
 ```
 
-Stattdessen besser ein natives [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)-Element verwenden!
+Stattdessen besser ein natives [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)-Element verwenden!🇩🇪 Currently only available in German.

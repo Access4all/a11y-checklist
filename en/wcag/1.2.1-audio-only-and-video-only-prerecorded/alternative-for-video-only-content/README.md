@@ -29,3 +29,4 @@ Exception: If the video-only content is already an alternative for existing text
 
 ## Screenshots
 
+No screenshots available.

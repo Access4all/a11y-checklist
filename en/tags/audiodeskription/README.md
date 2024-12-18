@@ -12,4 +12,4 @@ Eine Audiodeskription ist die sprachliche Erläuterung von rein visueller Inform
 
 Audiodeskription ist meistens ein zusätzlicher Audiokanal, welcher gewählt werden kann. In diesem werden (neben dem "normalen" Audio) weitere Informationen zur Handlung gegeben, z.B. "Der Assassine schleicht sich von hinten an den Kommissar an".
 
-Videos, in welchen ein Kommentator alle wichtigen Infos bereits gut verständlich ansagt, benötigt keine Audiodeskription.
+Videos, in welchen ein Kommentator alle wichtigen Infos bereits gut verständlich ansagt, benötigt keine Audiodeskription.🇩🇪 Currently only available in German.

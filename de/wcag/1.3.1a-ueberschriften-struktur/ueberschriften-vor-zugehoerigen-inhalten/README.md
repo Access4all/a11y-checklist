@@ -44,3 +44,4 @@ WCAG-Kriterium: [📜 1.3.1a Überschriften-Struktur](..)
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

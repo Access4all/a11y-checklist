@@ -16,4 +16,4 @@ Der Tastatur-Fokus muss gut sichtbar gestaltet sein:
 button:focus {
   outline: 2px solid black;
 }
-```
+```🇩🇪 Currently only available in German.

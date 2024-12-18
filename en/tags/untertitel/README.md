@@ -12,4 +12,4 @@ Untertitel sind wichtig für Gehörlose, damit sie gesprochene Information in Vi
 
 Es gibt "eingebrannte" Untertitel (Open Captions) und ein/ausschaltbare (Closed Captions, CC).
 
-Sie ermöglichen es Menschen, die nicht gut hören, gesprochene Information zu lesen.
+Sie ermöglichen es Menschen, die nicht gut hören, gesprochene Information zu lesen.🇩🇪 Currently only available in German.

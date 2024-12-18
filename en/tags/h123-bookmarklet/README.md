@@ -17,4 +17,4 @@ Vorteile:
 
 Nachteile:
 
-- Weniger genau als Screenreader (beachtet gewisse "Edge Cases" u.U. nicht)
+- Weniger genau als Screenreader (beachtet gewisse "Edge Cases" u.U. nicht)🇩🇪 Currently only available in German.

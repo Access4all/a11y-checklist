@@ -40,3 +40,4 @@ Die Fokus-Reihenfolge ist sinnvoll, d. h. intuitiv verständlich und nachvollzie
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

@@ -10,4 +10,4 @@ created_at: "2024-07-10 12:33:37"
 
 Triggert nacheinander gebräuchliche Single-Key-Shortcuts auf einer Webseite. Ausführen und schauen, ob irgendeine Funktionalität dadurch getriggert wird!
 
-<http://3needs.org/en/testing/code/kb-shortcuts.html>
+<http://3needs.org/en/testing/code/kb-shortcuts.html>🇩🇪 Currently only available in German.

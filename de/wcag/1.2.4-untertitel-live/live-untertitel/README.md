@@ -39,3 +39,4 @@ Für Live Video-Inhalte mit Audio (z.B. Nachrichtensendung) existieren gleichwer
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

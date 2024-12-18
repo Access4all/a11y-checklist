@@ -27,3 +27,4 @@ Special characters (such as "-10%", "CHF 20.35.-" or "23.11.2023") convey inform
 
 ## Screenshots
 
+No screenshots available.

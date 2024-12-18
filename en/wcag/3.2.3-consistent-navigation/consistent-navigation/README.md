@@ -27,3 +27,4 @@ The navigation is consistent, i.e. it is arranged and structured in the same way
 
 ## Screenshots
 
+No screenshots available.

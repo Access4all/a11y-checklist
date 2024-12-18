@@ -35,4 +35,4 @@ Manchmal macht es Sinn, zusätzliche Informationen per Download anzubieten. Dies
 </p>
 ```
 
-Das [`longdesc`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/longDesc)-Attribut hingegen ist deprecated.
+Das [`longdesc`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/longDesc)-Attribut hingegen ist deprecated.🇩🇪 Currently only available in German.

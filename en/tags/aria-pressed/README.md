@@ -16,4 +16,4 @@ Zum Beispiel eine Art Filter bei Suchergebnissen:
 <button aria-pressed="false">Nur aktuelle Ergebnisse anzeigen</button><!-- Beim Aktivieren wird aria-pressed="true" gesetzt -->
 ```
 
-Dadurch erhält der Screenreader beim Aktivieren ein Feedback "Gedrückt" (bzw. "Nicht gedrückt" beim nochmaligen Aktivieren), ganz gemäss dem Prinzip: [🏷️ Auf Interaktion folgt stets Rückmeldung!](/en/tags/auf-interaktion-folgt-stets-ruckmeldung)
+Dadurch erhält der Screenreader beim Aktivieren ein Feedback "Gedrückt" (bzw. "Nicht gedrückt" beim nochmaligen Aktivieren), ganz gemäss dem Prinzip: [🏷️ Auf Interaktion folgt stets Rückmeldung!](/en/tags/auf-interaktion-folgt-stets-ruckmeldung)🇩🇪 Currently only available in German.

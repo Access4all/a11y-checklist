@@ -29,3 +29,4 @@ The HTML code does not contain any errors relevant to accessibility.
 
 ## Screenshots
 
+No screenshots available.

@@ -36,4 +36,4 @@ Manchmal möchte man den zugänglichen Namen verändern. Dies kann man mittels `
 <input id="first-name" aria-label="Papperlapapp"><!-- "Papperlapapp" -->
 ```
 
-Damit sagt der Screenreader nun also etwas anderes an, als visuell zu sehen ist. Dies widerspricht dem Prinzip, dass alle Nutzenden möglichst dasselbe Nutzer-Erlebnis haben sollen (siehe [🏷️ Alle Nutzer haben möglichst dasselbe Erlebnis!](/en/tags/alle-nutzer-haben-moglichst-dasselbe-erlebnis)). Deshalb darf man das nur in gut begründeten Fällen tun.
+Damit sagt der Screenreader nun also etwas anderes an, als visuell zu sehen ist. Dies widerspricht dem Prinzip, dass alle Nutzenden möglichst dasselbe Nutzer-Erlebnis haben sollen (siehe [🏷️ Alle Nutzer haben möglichst dasselbe Erlebnis!](/en/tags/alle-nutzer-haben-moglichst-dasselbe-erlebnis)). Deshalb darf man das nur in gut begründeten Fällen tun.🇩🇪 Currently only available in German.

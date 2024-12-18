@@ -43,3 +43,4 @@ Sonderzeichen (etwa "-10%", "CHF 20.35.-" oder "23.11.2023") vermitteln Informat
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

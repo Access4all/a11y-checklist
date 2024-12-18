@@ -21,4 +21,4 @@ In anderen Fällen muss man spezifisch etwas dafür tun:
     - Oder den Titel der nun angezeigten Seite mittels Live-Region ([🏷️ ARIA Live Regions](/en/tags/aria-live-regions))
 - Wenn man einen Dialog per Klick auf einen Schalter geöffnet hat, wird der Fokus in den Dialog verschoben ([🏷️ Fokus-Management](/en/tags/fokus-management)) und das fokussierte Element wird angesagt
 
-Beachte auch [🏷️ Auf Interaktion folgt stets Rückmeldung!](/en/tags/auf-interaktion-folgt-stets-ruckmeldung)!
+Beachte auch [🏷️ Auf Interaktion folgt stets Rückmeldung!](/en/tags/auf-interaktion-folgt-stets-ruckmeldung)!🇩🇪 Currently only available in German.

@@ -10,4 +10,4 @@ created_at: "2024-04-01 13:02:54"
 
 Quasi-Standard-Tool für Kontrast-Prüfung. Win und Mac.
 
-<https://www.tpgi.com/color-contrast-checker/>
+<https://www.tpgi.com/color-contrast-checker/>🇩🇪 Currently only available in German.

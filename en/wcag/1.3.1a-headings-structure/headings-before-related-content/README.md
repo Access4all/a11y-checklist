@@ -27,3 +27,4 @@ Headings are placed in the code before their associated content.
 
 ## Screenshots
 
+No screenshots available.

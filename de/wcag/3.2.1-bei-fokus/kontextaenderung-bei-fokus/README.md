@@ -32,3 +32,4 @@ Der Kontext ändert sich nicht automatisch bei Fokus (z.B. Weiterleitung auf ein
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

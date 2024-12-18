@@ -29,3 +29,4 @@ _**Obsolet:** Dieses Kriterium hat keinen Nutzen mehr und wurde aus den WCAG ges
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

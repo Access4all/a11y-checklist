@@ -37,3 +37,4 @@ Elemente sind korrekt versteckt und zwar so, dass sie auch durch assistierende T
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

@@ -29,3 +29,4 @@ Headings and labels (e.g. in input fields, for buttons, etc.) are sufficiently i
 
 ## Screenshots
 
+No screenshots available.

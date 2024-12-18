@@ -27,3 +27,4 @@ Data tables have no empty columns or rows.
 
 ## Screenshots
 
+No screenshots available.

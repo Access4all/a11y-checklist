@@ -35,3 +35,4 @@ Der Kontext ändert sich nicht automatisch bei Eingabe (z.B. Weiterleitung auf e
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

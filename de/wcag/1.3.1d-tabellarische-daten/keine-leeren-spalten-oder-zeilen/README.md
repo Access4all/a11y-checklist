@@ -43,3 +43,4 @@ Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit [🏷
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

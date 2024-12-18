@@ -10,4 +10,4 @@ created_at: "2024-06-24 17:38:52"
 
 Zeigt Landmarks einer Webseite an.
 
-Siehe <https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp>
+Siehe <https://chromewebstore.google.com/detail/landmark-navigation-via-k/ddpokpbjopmeeiiolheejjpkonlkklgp>🇩🇪 Currently only available in German.

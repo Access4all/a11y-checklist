@@ -48,4 +48,4 @@ Vgl. z.B. [✅ Text elements between input fields](/en/wcag/1.3.1c-forms-labels-
 
 ### Mehrere IDs möglich
 
-Man kann nicht nur eine ID übergeben (`aria-describedby="help-text"`), sondern mehrere durch Leerzeichen getrennt (`aria-describedby="help-text another-help-text"`).
+Man kann nicht nur eine ID übergeben (`aria-describedby="help-text"`), sondern mehrere durch Leerzeichen getrennt (`aria-describedby="help-text another-help-text"`).🇩🇪 Currently only available in German.

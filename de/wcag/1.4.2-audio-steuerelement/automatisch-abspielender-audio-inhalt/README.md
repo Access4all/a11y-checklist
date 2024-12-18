@@ -37,3 +37,4 @@ Automatisch abspielender Audio-Inhalt von mehr als 3 Sekunden wird nach Möglich
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

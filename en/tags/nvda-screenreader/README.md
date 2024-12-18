@@ -12,4 +12,4 @@ Sehr weit verbreiteter Desktop Screenreader. Open Source. Standardkonform.
 
 Das unserer Meinung nach beste Test-Tool auf Desktops!
 
-<https://www.nvaccess.org/download/>
+<https://www.nvaccess.org/download/>🇩🇪 Currently only available in German.

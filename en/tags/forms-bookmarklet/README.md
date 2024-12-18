@@ -10,4 +10,4 @@ created_at: "2024-06-12 11:04:59"
 
 Zeigt ganz viele Infos zu Formularen an.
 
-Siehe <https://pauljadam.com/bookmarklets/forms.html>
+Siehe <https://pauljadam.com/bookmarklets/forms.html>🇩🇪 Currently only available in German.

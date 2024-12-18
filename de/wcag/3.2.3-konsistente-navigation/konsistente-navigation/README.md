@@ -36,3 +36,4 @@ Die Navigation ist konsistent, d.h. innerhalb einer Anwendung gleichbleibend ang
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

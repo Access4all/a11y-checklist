@@ -43,3 +43,4 @@ Ausnahme: Wenn der reine Audio-Inhalt bereits eine Alternative für bestehenden 
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

@@ -12,4 +12,4 @@ Mit der `Tab`-Taste vorwärts von fokussierbarem zu fokussierbarem Element sprin
 
 Dies ermöglicht das schnelle Anspringen von interaktiven Elementen. Alle interaktiven Elemente sind standardmässig fokussierbar ([🏷️ Fokussierbarkeit](/en/tags/fokussierbarkeit)). Der Fokus-Modus wird hauptsächlich innerhalb von Formularen benutzt.
 
-Nicht-fokussierbare Elemente werden übersprungen. Um diese zu erreichen, muss der Browse-Modus ([🏷️ Browse-Modus](/en/tags/browse-modus)) benutzt werden.
+Nicht-fokussierbare Elemente werden übersprungen. Um diese zu erreichen, muss der Browse-Modus ([🏷️ Browse-Modus](/en/tags/browse-modus)) benutzt werden.🇩🇪 Currently only available in German.

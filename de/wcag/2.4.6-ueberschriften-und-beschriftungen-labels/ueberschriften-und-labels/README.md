@@ -45,3 +45,4 @@ WCAG-Kriterium: [📜 2.4.6 Überschriften und Beschriftungen (Labels) - AA](..)
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.

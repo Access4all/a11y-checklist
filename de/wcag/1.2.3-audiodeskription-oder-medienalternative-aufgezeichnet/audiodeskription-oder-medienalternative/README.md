@@ -33,3 +33,4 @@ Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reine
 
 ## Screenshots typischer Fälle
 
+Keine Screenshots verfügbar.
