@@ -8,8 +8,4 @@ created_at: "2024-03-09 10:10:21"
 
 ## Description
 
-Untertitel sind wichtig für Gehörlose, damit sie gesprochene Information in Videos ebenfalls wahrnehmen können.
-
-Es gibt "eingebrannte" Untertitel (Open Captions) und ein/ausschaltbare (Closed Captions, CC).
-
-Sie ermöglichen es Menschen, die nicht gut hören, gesprochene Information zu lesen.
+🇩🇪 Currently only available in German.

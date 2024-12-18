@@ -8,7 +8,7 @@ created_at: "2024-03-09 14:46:31"
 
 ## Description
 
-Z.B. um das aktuell aktive Element in einer Navigation zu kennzeichnen (`<a href ="..." aria-current="page">Kontakt</a>`).
+🇩🇪 Currently only available in German.
 
 ## Videos
 

@@ -8,4 +8,4 @@ created_at: "2024-10-08 17:04:06"
 
 ## Description
 
-Software, welche Blinde und sehbeeinträchtige Menschen benutzen, um sich Inhalte am Computer oder Mobile-Phone vorlesen zu lassen und mit ihnen zu interagieren.
+🇩🇪 Currently only available in German.

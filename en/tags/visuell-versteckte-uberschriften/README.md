@@ -8,4 +8,4 @@ created_at: "2024-10-28 16:31:06"
 
 ## Description
 
-Manchmal gibt es Inhaltsbereiche, welche visuell klar erkennbar sind und deshalb keine sichtbare Überschrift benötigen. Screenreader-Nutzer benötigen aber dennoch für jeden Inhaltsbereich eine Überschrift. Deshalb kann man Überschriften visuell verstecken ([🏷️ Inhalte rein visuell verstecken](/en/tags/inhalte-rein-visuell-verstecken)).
+🇩🇪 Currently only available in German.

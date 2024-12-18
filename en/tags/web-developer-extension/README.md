@@ -8,6 +8,4 @@ created_at: "2024-06-20 10:57:34"
 
 ## Description
 
-Sammlung an div. praktischen Tools, um Informationen über eine Webseite anzuzeigen. Etwa um Alternativtexte anzuzeigen.
-
-Siehe <https://chromewebstore.google.com/detail/web-developer/bfbameneiokkgbdmiekhjnmfkcnldhhm>
+🇩🇪 Currently only available in German.
