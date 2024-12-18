@@ -17,4 +17,4 @@ Beim Testen einer Mobile-Version reicht es allerdings nicht, dieselbe nur auf ei
 
 ## Videos
 
-- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri](/de/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)

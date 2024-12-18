@@ -50,4 +50,4 @@ Sensory content that necessarily consists of non-text content because it cannot 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

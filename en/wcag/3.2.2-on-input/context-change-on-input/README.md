@@ -48,4 +48,4 @@ No screenshots available.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

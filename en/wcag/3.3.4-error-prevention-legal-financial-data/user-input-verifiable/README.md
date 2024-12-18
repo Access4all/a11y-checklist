@@ -48,4 +48,4 @@ User input must be verifiable before process completion with financial/legal con
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

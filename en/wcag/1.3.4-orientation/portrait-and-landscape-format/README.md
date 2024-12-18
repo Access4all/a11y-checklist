@@ -52,4 +52,4 @@ Content is correctly displayed and usable in both screen orientations (portrait 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

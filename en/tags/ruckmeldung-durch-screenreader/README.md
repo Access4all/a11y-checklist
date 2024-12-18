@@ -2,7 +2,6 @@
 id: "27"
 parent_id: "60"
 created_at: "2024-03-09 14:31:55"
-video_ids: "[24, 23, 19]"
 ---
 
 # 🏷️ Rückmeldung durch Screenreader
@@ -13,6 +12,4 @@ video_ids: "[24, 23, 19]"
 
 ## Videos
 
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/en/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
-- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/en/videos/bei-auswahlen-eines-menu-eintrags-erfolgt-keine-ruckmeldung-durch-screenreader-ewb)
-- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/en/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknupft-atupri)
+🇩🇪 Currently only available in German.

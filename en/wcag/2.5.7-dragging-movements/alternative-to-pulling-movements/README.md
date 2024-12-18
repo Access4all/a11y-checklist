@@ -58,4 +58,4 @@ There are alternatives for drag & drop movements that can be operated with simpl
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

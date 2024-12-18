@@ -52,4 +52,4 @@ Dialogs (also called modals, overlays, lightboxes, etc.) are implemented barrier
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

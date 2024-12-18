@@ -56,4 +56,4 @@ Activate **Windows High Contrast Mode** (up to Windows 10: `Alt` + `Shift` + `Pr
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

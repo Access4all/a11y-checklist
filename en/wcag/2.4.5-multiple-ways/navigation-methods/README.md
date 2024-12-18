@@ -52,4 +52,4 @@ There are at least two of the following three methods for accessing content: Nav
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -48,5 +48,4 @@ Decorative graphics that are implemented as `<img>` have an empty `alt` attribut
 
 ## Videos
 
-- [🎬 Dekoratives Bild ohne Alt-Attribut - EWB Portal](/en/videos/dekoratives-bild-ohne-alt-attribut-ewb-portal)
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/en/videos/diagramm-ohne-alt-attribut-ewb-portal)
+🇩🇪 Currently only available in German.

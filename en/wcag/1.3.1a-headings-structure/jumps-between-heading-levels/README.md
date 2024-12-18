@@ -48,7 +48,4 @@ Execute **Bookmarklet h123:** and search for jumps in the hierarchy.
 
 ## Videos
 
-- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla](/en/videos/fehlende-zwischen-uberschrift-und-ebenen-sprung-mozilla)
-- [🎬 Sprünge zwischen Überschriften-Ebenen - Atupri](/en/videos/sprunge-zwischen-uberschriften-ebenen-atupri)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/en/videos/vorbildliche-uberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/en/videos/vorbildliche-uberschriften-inkl-versteckte-woz)
+🇩🇪 Currently only available in German.

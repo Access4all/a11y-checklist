@@ -48,4 +48,4 @@ Graphic symbols (e.g. web fonts or emojis) are implemented in such a way that th
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

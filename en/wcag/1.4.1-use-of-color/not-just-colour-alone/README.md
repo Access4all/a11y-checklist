@@ -60,4 +60,4 @@ Information is not conveyed by colour alone. This is also true for hover and foc
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

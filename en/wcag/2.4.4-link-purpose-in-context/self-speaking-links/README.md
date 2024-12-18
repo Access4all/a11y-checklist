@@ -48,4 +48,4 @@ Link texts are self-explanatory, i.e. understandable by themselves or via contex
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

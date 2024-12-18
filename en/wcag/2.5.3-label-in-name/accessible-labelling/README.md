@@ -50,4 +50,4 @@ The accessible labelling of a control element corresponds exactly to the visual 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

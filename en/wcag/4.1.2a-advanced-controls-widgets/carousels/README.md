@@ -50,4 +50,4 @@ Carousels (sliders) are implemented barrier-free. They are correctly announced b
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

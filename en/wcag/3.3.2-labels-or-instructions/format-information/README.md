@@ -50,4 +50,4 @@ Format information for form fields is accessible and clearly linked to the assoc
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

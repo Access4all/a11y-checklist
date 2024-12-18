@@ -56,4 +56,4 @@ Timeout intervals are customizable or can be deactivated. A clear indication of 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

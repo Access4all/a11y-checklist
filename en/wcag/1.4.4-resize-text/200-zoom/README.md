@@ -52,4 +52,4 @@ Elements are zoomable to at least 200%, either the text alone or the entire page
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

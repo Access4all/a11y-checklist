@@ -48,4 +48,4 @@ Content does not refer exclusively to sensory properties (purely visually recogn
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

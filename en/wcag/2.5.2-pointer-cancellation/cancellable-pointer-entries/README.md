@@ -48,4 +48,4 @@ Pointer entries can be cancelled or undone.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

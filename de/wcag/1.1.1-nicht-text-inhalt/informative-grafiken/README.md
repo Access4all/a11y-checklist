@@ -74,4 +74,4 @@ Teilweise: es kann zwar evaluiert werden, ob eine Grafik einen Alternativtext ha
 
 ## Videos
 
-- [🎬 Diagramm ohne Alt-Attribut - EWB Portal](/de/videos/diagramm-ohne-alt-attribut-ewb-portal)
+- [🎬 Diagramm ohne Alt-Attribut - EWB Portal (🚨💻)](/de/videos/diagramm-ohne-alt-attribut-ewb-portal)

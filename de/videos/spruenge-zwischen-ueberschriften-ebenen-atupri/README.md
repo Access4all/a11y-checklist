@@ -8,7 +8,10 @@ checkpoint_ids: "[26]"
 tag_ids: "[1]"
 ---
 
-# 🎬 Sprünge zwischen Überschriften-Ebenen - Atupri
+# 🎬 Sprünge zwischen Überschriften-Ebenen - Atupri (🚨💻)
+
+- **Gut oder schlecht?** 🚨 Schlecht
+- **Webseite oder Mobile App?** 💻 Webseite
 
 [![Auf YouTube anschauen](https://img.youtube.com/vi/AsGXWiYYy3g/sddefault.jpg)](https://youtu.be/AsGXWiYYy3g)
 

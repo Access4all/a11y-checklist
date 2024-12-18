@@ -60,6 +60,4 @@ Discolsure (also mega disclosure) are implemented barrier-free. They are correct
 
 ## Videos
 
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/en/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
-- [🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ](/en/videos/hamburger-menu-mit-aria-expanded-und-direkt-darunter-liegendem-menu-inhalt-woz)
-- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/en/videos/hamburger-menu-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
+🇩🇪 Currently only available in German.

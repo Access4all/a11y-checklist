@@ -13,5 +13,5 @@ Der zugängliche Name eines Elements wird aus unterschiedlichen Häppchen berech
 
 ## Videos
 
-- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
-- [🎬 Schalter ohne Namen - EWB](/de/videos/schalter-ohne-namen-ewb)
+- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
+- [🎬 Schalter ohne Namen - EWB (🚨💻)](/de/videos/schalter-ohne-namen-ewb)

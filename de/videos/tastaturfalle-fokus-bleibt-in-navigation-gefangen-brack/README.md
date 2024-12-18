@@ -8,7 +8,10 @@ checkpoint_ids: "[66]"
 tag_ids: "[18, 11]"
 ---
 
-# 🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack
+# 🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack (🚨💻)
+
+- **Gut oder schlecht?** 🚨 Schlecht
+- **Webseite oder Mobile App?** 💻 Webseite
 
 [![Auf YouTube anschauen](https://img.youtube.com/vi/4UKGzxR1Bc0/sddefault.jpg)](https://youtu.be/4UKGzxR1Bc0)
 

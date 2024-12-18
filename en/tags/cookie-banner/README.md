@@ -2,7 +2,6 @@
 id: "25"
 parent_id: "61"
 created_at: "2024-03-09 14:19:26"
-video_ids: "[16]"
 ---
 
 # 🏷️ Cookie-Banner
@@ -13,4 +12,4 @@ video_ids: "[16]"
 
 ## Videos
 
-- [🎬 Cookie-Banner wird direkt fokussiert - Brack](/en/videos/cookie-banner-wird-direkt-fokussiert-brack)
+🇩🇪 Currently only available in German.

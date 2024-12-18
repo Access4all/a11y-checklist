@@ -54,4 +54,4 @@ Graphical CAPTCHAs offer an alternative (e.g. audio CAPTCHA).
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

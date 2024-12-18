@@ -50,4 +50,4 @@ Landmark roles (HTML5 elements such as `<header>`, `<main>`, etc. as well as ARI
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

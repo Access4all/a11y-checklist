@@ -50,4 +50,4 @@ Personal data does not have to be entered multiple times, but can be selected vi
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

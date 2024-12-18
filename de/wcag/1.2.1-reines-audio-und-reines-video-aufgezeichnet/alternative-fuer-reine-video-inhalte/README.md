@@ -61,4 +61,4 @@ Keine Screenshots verfügbar.
 
 ## Videos
 
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/de/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)
+- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID (🚨💻)](/de/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

@@ -2,7 +2,6 @@
 id: "65"
 parent_id: "60"
 created_at: "2024-10-08 17:09:08"
-video_ids: "[]"
 ---
 
 # 🏷️ Tastatur-Fokus
@@ -13,4 +12,4 @@ video_ids: "[]"
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

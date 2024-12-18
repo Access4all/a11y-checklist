@@ -50,4 +50,4 @@ Multiple, different links (e.g. a headline, a graphic and an additional text lin
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

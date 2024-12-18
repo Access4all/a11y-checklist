@@ -50,4 +50,4 @@ Form fields have correctly linked labels.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

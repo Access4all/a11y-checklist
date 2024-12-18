@@ -52,4 +52,4 @@ Jump links make it easy to skip repeating blocks of information (e.g. navigation
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -2,7 +2,6 @@
 id: "3"
 parent_id: "60"
 created_at: "2024-03-09 10:22:07"
-video_ids: "[1]"
 ---
 
 # 🏷️ Audiodeskription
@@ -13,4 +12,4 @@ video_ids: "[1]"
 
 ## Videos
 
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/en/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)
+🇩🇪 Currently only available in German.

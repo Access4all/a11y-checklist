@@ -50,4 +50,4 @@ Alternatives exist for path-based or multi-point pointer gestures that can be op
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

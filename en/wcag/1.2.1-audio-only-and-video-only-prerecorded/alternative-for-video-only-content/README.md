@@ -50,4 +50,4 @@ No screenshots available.
 
 ## Videos
 
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID](/en/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)
+🇩🇪 Currently only available in German.

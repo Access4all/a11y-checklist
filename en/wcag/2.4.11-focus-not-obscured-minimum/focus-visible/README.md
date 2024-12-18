@@ -54,4 +54,4 @@ The keyboard focus is always clearly visible when navigating and is at most part
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

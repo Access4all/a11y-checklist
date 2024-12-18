@@ -50,4 +50,4 @@ Assistance is offered consistently across processes and sub-pages.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

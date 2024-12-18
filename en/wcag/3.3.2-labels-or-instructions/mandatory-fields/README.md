@@ -48,4 +48,4 @@ Mandatory fields are marked as accessible, both on a visual and non-visual level
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -48,4 +48,4 @@ Texts are not only integrated as graphics, as these do not allow any adjustments
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

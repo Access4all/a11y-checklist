@@ -52,4 +52,4 @@ Spacing between lines, words and letters as well as after paragraphs can be incr
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

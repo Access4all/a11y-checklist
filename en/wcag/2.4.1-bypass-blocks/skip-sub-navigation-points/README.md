@@ -50,4 +50,4 @@ Sub-navigation points can be skipped using the keyboard. Sub-navigation points a
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

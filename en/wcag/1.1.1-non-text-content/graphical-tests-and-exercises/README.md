@@ -48,4 +48,4 @@ Tests and exercises whose content must consist of non-text content have an alter
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

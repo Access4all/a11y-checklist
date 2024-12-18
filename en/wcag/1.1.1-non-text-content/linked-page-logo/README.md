@@ -50,4 +50,4 @@ The page logo (with link to the homepage) has a meaningful text alternative (pat
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

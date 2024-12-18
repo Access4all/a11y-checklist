@@ -48,4 +48,4 @@ There are no elements that flash more than three times in one second or the flas
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

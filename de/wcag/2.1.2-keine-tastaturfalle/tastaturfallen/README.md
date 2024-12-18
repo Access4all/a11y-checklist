@@ -60,5 +60,5 @@ Nach dem letzten Element "Ausverkauf" springt man direkt zurück zum ersten Elem
 
 ## Videos
 
-- [🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack](/de/videos/tastaturfalle-fokus-bleibt-in-navigation-gefangen-brack)
-- [🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen](/de/videos/tastaturfalle-tab-erzeugt-leerzeichen-in-code-editor-codepen)
+- [🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack (🚨💻)](/de/videos/tastaturfalle-fokus-bleibt-in-navigation-gefangen-brack)
+- [🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen (🚨💻)](/de/videos/tastaturfalle-tab-erzeugt-leerzeichen-in-code-editor-codepen)

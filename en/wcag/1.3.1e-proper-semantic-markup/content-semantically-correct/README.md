@@ -48,4 +48,4 @@ Content is placed within semantically meaningful HTML elements (e.g. <h#>, <p>, 
 
 ## Videos
 
-- [🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri](/en/videos/paragraf-aufgeteilt-in-drei-p-elemente-forcierter-zeilenumbruch-atupri)
+🇩🇪 Currently only available in German.

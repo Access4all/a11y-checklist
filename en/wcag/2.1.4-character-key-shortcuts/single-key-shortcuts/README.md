@@ -50,4 +50,4 @@ Single-key shortcuts (consisting of a single letter, punctuation, number or symb
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

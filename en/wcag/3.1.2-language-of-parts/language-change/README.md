@@ -50,4 +50,4 @@ Language changes for longer text passages are indicated: Text passages in other 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -8,7 +8,10 @@ checkpoint_ids: "[63]"
 tag_ids: "[25, 18, 11]"
 ---
 
-# 🎬 Cookie-Banner wird direkt fokussiert - Brack
+# 🎬 Cookie-Banner wird direkt fokussiert - Brack (💚💻)
+
+- **Gut oder schlecht?** 💚 Gut
+- **Webseite oder Mobile App?** 💻 Webseite
 
 [![Auf YouTube anschauen](https://img.youtube.com/vi/cSno0w3wdK4/sddefault.jpg)](https://youtu.be/cSno0w3wdK4)
 

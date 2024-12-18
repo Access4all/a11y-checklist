@@ -8,7 +8,10 @@ checkpoint_ids: "[8, 104]"
 tag_ids: "[17, 18, 16, 14, 13, 6, 12]"
 ---
 
-# 🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri
+# 🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)
+
+- **Gut oder schlecht?** 🚨 Schlecht
+- **Webseite oder Mobile App?** 💻 Webseite
 
 [![Auf YouTube anschauen](https://img.youtube.com/vi/RzVKLavZYHU/sddefault.jpg)](https://youtu.be/RzVKLavZYHU)
 

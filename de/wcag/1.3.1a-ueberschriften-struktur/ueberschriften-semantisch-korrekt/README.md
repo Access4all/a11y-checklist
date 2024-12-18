@@ -69,8 +69,8 @@ Keine Screenshots verfügbar.
 
 ## Videos
 
-- [🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri](/de/videos/ueberschrift-nicht-korrekt-umgesetzt-p-statt-h-atupri)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-blick)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)
+- [🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri (🚨💻)](/de/videos/ueberschrift-nicht-korrekt-umgesetzt-p-statt-h-atupri)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick (🚨💻)](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-blick)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack (🚨💻)](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

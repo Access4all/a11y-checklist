@@ -50,4 +50,4 @@ Input fields for user data can be filled in automatically.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

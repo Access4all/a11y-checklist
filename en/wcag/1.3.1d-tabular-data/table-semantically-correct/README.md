@@ -48,4 +48,4 @@ Data that is clearly tabular in nature (i.e. no layout tables) is semantically c
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -13,8 +13,8 @@ Link verwendet man, wenn man auf eine neue Seite zeigt. Button nimmt man, wenn i
 
 ## Videos
 
-- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
-- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB](/de/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri](/de/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson](/de/videos/nicht-fokussierbares-hamburger-menue-kein-href-attribut-watson)
-- [🎬 Schalter ohne Namen - EWB](/de/videos/schalter-ohne-namen-ewb)
+- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)
+- [🎬 Nicht fokussierbare Links (kein href-Attribut) - EWB (🚨💻)](/de/videos/nicht-fokussierbare-links-kein-href-attribut-ewb)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)
+- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-kein-href-attribut-watson)
+- [🎬 Schalter ohne Namen - EWB (🚨💻)](/de/videos/schalter-ohne-namen-ewb)

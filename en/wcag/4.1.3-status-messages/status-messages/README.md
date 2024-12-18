@@ -50,6 +50,4 @@ Status messages are accessible to assistive technologies and do not overload the
 
 ## Videos
 
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson](/en/videos/bei-aufklappen-eines-hamburger-menus-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
-- [🎬 Bei Auswählen eines Menü-Eintrags erfolgt keine Rückmeldung durch Screenreader - EWB](/en/videos/bei-auswahlen-eines-menu-eintrags-erfolgt-keine-ruckmeldung-durch-screenreader-ewb)
-- [🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ](/en/videos/hamburger-menu-mit-aria-expanded-und-direkt-darunter-liegendem-menu-inhalt-woz)
+🇩🇪 Currently only available in German.

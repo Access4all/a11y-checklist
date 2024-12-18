@@ -48,4 +48,4 @@ Tables whose cells span several columns and/or rows are still easy to understand
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

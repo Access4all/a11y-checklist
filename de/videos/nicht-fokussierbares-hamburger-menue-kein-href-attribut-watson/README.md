@@ -8,7 +8,10 @@ checkpoint_ids: "[63]"
 tag_ids: "[11, 16, 14, 22]"
 ---
 
-# 🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson
+# 🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson (🚨💻)
+
+- **Gut oder schlecht?** 🚨 Schlecht
+- **Webseite oder Mobile App?** 💻 Webseite
 
 [![Auf YouTube anschauen](https://img.youtube.com/vi/5zkrQL-Ybog/sddefault.jpg)](https://youtu.be/5zkrQL-Ybog)
 

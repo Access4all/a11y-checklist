@@ -48,4 +48,4 @@ Lists with only one entry are avoided (unless they are generated automatically: 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

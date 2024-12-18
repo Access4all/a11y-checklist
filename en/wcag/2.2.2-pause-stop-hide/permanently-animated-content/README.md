@@ -50,4 +50,4 @@ Permanently animated content (longer than five seconds) can be paused, stopped o
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

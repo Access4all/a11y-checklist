@@ -13,5 +13,5 @@ Siehe [✅ Tooltips / Toggletips](/de/wcag/4.1.2a-erweiterte-steuerelemente-widg
 
 ## Videos
 
-- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB](/de/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
-- [🎬 Tooltips erscheinen bei Fokus - Brack](/de/videos/tooltips-erscheinen-bei-fokus-brack)
+- [🎬 Tooltip für Tastatur und Screenreader unzugänglich - EWB (🚨💻)](/de/videos/tooltip-fuer-tastatur-und-screenreader-unzugaenglich-ewb)
+- [🎬 Tooltips erscheinen bei Fokus - Brack (💚💻)](/de/videos/tooltips-erscheinen-bei-fokus-brack)

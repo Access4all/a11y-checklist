@@ -70,4 +70,4 @@ The contrast ratio of control elements (e.g. text fields, radio buttons, checkbo
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

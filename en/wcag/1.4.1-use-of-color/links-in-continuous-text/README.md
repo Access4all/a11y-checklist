@@ -52,4 +52,4 @@ If links within continuous text are distinguished from the continuous text only 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

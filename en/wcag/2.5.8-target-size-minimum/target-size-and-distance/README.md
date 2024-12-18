@@ -60,4 +60,4 @@ Activatable elements have the required minimum size or sufficient spacing.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -2,7 +2,6 @@
 id: "78"
 parent_id: "77"
 created_at: "2024-10-28 14:25:27"
-video_ids: "[]"
 ---
 
 # 🏷️ Nutze stets Standard-HTML!
@@ -13,4 +12,4 @@ video_ids: "[]"
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

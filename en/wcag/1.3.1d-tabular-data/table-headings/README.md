@@ -48,4 +48,4 @@ Complex data tables in particular have table headings (`<caption>`).
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

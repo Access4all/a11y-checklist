@@ -52,4 +52,4 @@ The language declaration is available and correct.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

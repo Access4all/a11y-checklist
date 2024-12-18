@@ -64,4 +64,4 @@ Ein Horrorfilm lebt stark von teils sehr subtilen Audio-Effekten, ohne dass man 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

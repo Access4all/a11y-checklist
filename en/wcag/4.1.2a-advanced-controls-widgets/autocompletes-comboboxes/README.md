@@ -52,4 +52,4 @@ Autocompletes are implemented barrier-free. They are correctly announced by scre
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

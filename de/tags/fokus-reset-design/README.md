@@ -19,4 +19,4 @@ Das ist sehr problematisch, da dadurch nicht mehr erkennbar ist, welches interak
 
 ## Videos
 
-- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson](/de/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)
+- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson (🚨💻)](/de/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)

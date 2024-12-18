@@ -2,7 +2,6 @@
 id: "55"
 parent_id: "58"
 created_at: "2024-07-08 10:32:10"
-video_ids: "[]"
 ---
 
 # 🏷️ Screen Mirroring
@@ -13,4 +12,4 @@ video_ids: "[]"
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

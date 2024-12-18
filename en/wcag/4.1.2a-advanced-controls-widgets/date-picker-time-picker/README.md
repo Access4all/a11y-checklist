@@ -48,4 +48,4 @@ Date pickers are implemented barrier-free unless there is no alternative (e.g. m
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

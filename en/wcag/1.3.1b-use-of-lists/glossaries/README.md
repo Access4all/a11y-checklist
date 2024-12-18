@@ -48,4 +48,4 @@ Glossaries and similar information lists are formatted as definition lists.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

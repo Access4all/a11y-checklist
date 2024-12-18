@@ -2,7 +2,6 @@
 id: "38"
 parent_id: "68"
 created_at: "2024-04-01 13:00:23"
-video_ids: "[]"
 ---
 
 # 🏷️ Web Disability Simulator
@@ -13,4 +12,4 @@ video_ids: "[]"
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

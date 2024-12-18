@@ -62,4 +62,4 @@ Als Vergleich:
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

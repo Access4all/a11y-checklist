@@ -52,4 +52,4 @@ Content can be displayed without restrictions (e.g. overlapping) and without hor
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -52,4 +52,4 @@ Linked graphics have an alternative text that describes the link target or purpo
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

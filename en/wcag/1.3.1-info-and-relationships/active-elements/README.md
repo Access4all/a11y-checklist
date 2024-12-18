@@ -50,5 +50,4 @@ Active elements (e.g. the active menu item in a navigation) are semantically rec
 
 ## Videos
 
-- [🎬 Aktiver Menü-Eintrag bei Hochkontrast nicht mehr erkennbar - EWB](/en/videos/aktiver-menu-eintrag-bei-hochkontrast-nicht-mehr-erkennbar-ewb)
-- [🎬 Aktiver Menü-Eintrag wird nicht angesagt - EWB](/en/videos/aktiver-menu-eintrag-wird-nicht-angesagt-ewb)
+🇩🇪 Currently only available in German.

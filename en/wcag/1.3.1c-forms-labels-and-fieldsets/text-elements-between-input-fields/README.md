@@ -48,4 +48,4 @@ Text elements that are located between the input fields (e.g. an `<h3>` or `<p>`
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

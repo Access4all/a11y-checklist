@@ -52,4 +52,4 @@ Content must be in the correct order in the code (DOM) (independent of CSS).
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

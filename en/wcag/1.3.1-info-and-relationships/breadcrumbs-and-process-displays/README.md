@@ -50,4 +50,4 @@ Breadcrumbs or process displays can also be recognised as such non-visually.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

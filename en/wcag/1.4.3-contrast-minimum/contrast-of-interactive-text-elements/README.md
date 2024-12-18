@@ -48,4 +48,4 @@ Interactive text elements (e.g. button labels) fulfill the contrast requirement 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -48,4 +48,4 @@ The contrast ratio for text and images from text to background is at least `4.5:
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

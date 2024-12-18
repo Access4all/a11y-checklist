@@ -48,4 +48,4 @@ Headings for accordions are implemented as such.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

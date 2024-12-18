@@ -50,4 +50,4 @@ Visually recognizable quotations are semantically correctly marked (e.g. as `<bl
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

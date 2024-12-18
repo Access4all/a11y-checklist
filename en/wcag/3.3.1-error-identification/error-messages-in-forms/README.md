@@ -48,4 +48,4 @@ Interact with the form and check whether errors can also be experienced with a s
 
 ## Videos
 
-- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri](/en/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknupft-atupri)
+🇩🇪 Currently only available in German.

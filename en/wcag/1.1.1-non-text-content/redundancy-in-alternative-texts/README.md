@@ -50,4 +50,4 @@ Alternative texts for graphics do not contain any redundant information, e.g. in
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -8,7 +8,10 @@ checkpoint_ids: "[104, 111]"
 tag_ids: "[18]"
 ---
 
-# 🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ
+# 🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ (💚💻)
+
+- **Gut oder schlecht?** 💚 Gut
+- **Webseite oder Mobile App?** 💻 Webseite
 
 [![Auf YouTube anschauen](https://img.youtube.com/vi/DIgrv5Xaqrg/sddefault.jpg)](https://youtu.be/DIgrv5Xaqrg)
 

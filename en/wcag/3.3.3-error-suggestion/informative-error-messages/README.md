@@ -52,4 +52,4 @@ Error messages are informative and clearly linked to the associated input fields
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

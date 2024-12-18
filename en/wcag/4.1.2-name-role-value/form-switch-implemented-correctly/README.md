@@ -50,4 +50,4 @@ List form elements and check whether switches have been implemented correctly.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

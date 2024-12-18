@@ -62,4 +62,4 @@ At least one of the authentication options provided is accessible to different u
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -56,4 +56,4 @@ Content that is displayed via hover or focus is not distracting and can be inter
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

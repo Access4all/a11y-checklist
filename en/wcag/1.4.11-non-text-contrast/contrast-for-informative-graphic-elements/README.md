@@ -64,4 +64,4 @@ The contrast ratio of informative graphic elements (e.g. lines and curves in dia
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

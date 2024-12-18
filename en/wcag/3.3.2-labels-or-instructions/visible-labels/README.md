@@ -50,4 +50,4 @@ Form fields have visually visible labels. The sole use of `placeholder` attribut
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

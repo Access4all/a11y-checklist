@@ -8,7 +8,10 @@ checkpoint_ids: "[16, 18]"
 tag_ids: "[3]"
 ---
 
-# 🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID
+# 🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID (🚨💻)
+
+- **Gut oder schlecht?** 🚨 Schlecht
+- **Webseite oder Mobile App?** 💻 Webseite
 
 [![Auf YouTube anschauen](https://img.youtube.com/vi/aP7yF0j-NFM/sddefault.jpg)](https://youtu.be/aP7yF0j-NFM)
 

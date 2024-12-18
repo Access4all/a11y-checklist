@@ -50,4 +50,4 @@ Data tables have column or row titles (`<th>`), ideally both.
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

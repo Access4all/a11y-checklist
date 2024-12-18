@@ -50,4 +50,4 @@ Functionality executed by motion activation (e.g. device movement or recognition
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.

@@ -48,4 +48,4 @@ Video and audio content has an alternative text that conveys the title and/or a 
 
 ## Videos
 
-No videos available.
+🇩🇪 Currently only available in German.
