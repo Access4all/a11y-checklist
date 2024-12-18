@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-14 12:14:33"
 ---
 
@@ -42,6 +46,20 @@ Für aufgezeichnete Video-Inhalte mit Audio (z.B. Spielfilme) existieren gleichw
     - Keine Rechtschreib- oder Übersetzungs-Fehler?
         - ⚠️ Insb. bei automatischer Übersetzung!
         - **😡 Beispiel:** "You have all the fun" wird automatisiert übersetzt zu "You have all the fine"
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Video-Inhalte gibt's sowohl in hybriden wie auch in nativen Apps.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Grundsätzlich ist es möglich, in PDFs Multimedia-Inhalte wie Audio und Videos einzubetten. Solche Dokumente sind in der Praxis eher selten anzutreffen und bringen andere Accessibility-Probleme mit sich, da die Videos je nach Screenreader, PDF-Programm und Betriebssystem nicht abspielbar sind.
+
+Bei PDFs können nur Open Captions und keine Closed Captions eingesetzt werden.
+
+## Details zum blinden Testen
+
+Prinzipiell könnte eine Untertitel-Datei zwar via Screenreader gelesen und ihr Inhalt mit dem Gehörten verglichen werden, aber das ist wenig praktikabel (und die Synchronität kann dabei ebenfalls kaum sicher gestellt werden).
 
 ## Screenshots typischer Fälle
 

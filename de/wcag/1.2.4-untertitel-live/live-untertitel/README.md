@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-14 12:16:03"
 ---
 
@@ -36,6 +40,18 @@ Für Live Video-Inhalte mit Audio (z.B. Nachrichtensendung) existieren gleichwer
     - Alle relevanten Infos vorhanden?
     - Synchron mit Gesprochenem?
     - Keine Rechtschreib- oder Übersetzungs-Fehler?
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Live-Video-Inhalte gibt's sowohl in hybriden wie auch in nativen Apps.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Ist für PDFs nicht anwendbar.
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

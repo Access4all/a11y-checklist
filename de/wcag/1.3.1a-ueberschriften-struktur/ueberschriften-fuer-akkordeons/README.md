@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 12:26:50"
 ---
 
@@ -41,6 +45,18 @@ Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [�
 - Überschriften mit `H` versuchen anzuspringen.
 
 ⚠️ Denn: viele Fehler findet man oft auch ohne Screenreader, z.B. wenn die Semantik komplett fehlt oder offensichtlich falsch ist. Wenn Semantik aber grundsätzlich **vorhanden scheint**, lässt sich deren Korrektheit und Sinnhaftigkeit oft nur mit Screenreader final beurteilen.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zu Prüfen mittels Überschriften-Navigation (im [🏷️ Rotor](/de/tags/rotor) aktivieren).
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Es gibt keine Akkordeons in PDFs.
+
+## Details zum blinden Testen
+
+Überschriften sind für Blinde besonders wichtig! Voraussetzung zum Testen ist, dass das Akkordeon als solches auch vom Screenreader-Nutzer erkannt und bedient werden kann (siehe [✅ Akkordeons](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/akkordeons)).
 
 ## Screenshots typischer Fälle
 

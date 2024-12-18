@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:55:43"
 ---
 
@@ -63,6 +67,22 @@ an-/abgewählt werden.
 - Bei mangelhafter Fokus-Reihenfolge: [✅ Fokus-Reihenfolge](/de/wcag/2.4.3-fokus-reihenfolge/fokus-reihenfolge)
 - Bei mangelhafter Fokus-Führung: [✅ Fokus-Führung](/de/wcag/2.4.3-fokus-reihenfolge/fokus-fuehrung)
 - Wenn Tastatur-Fokus nicht sichtbar: [✅ Tastatur-Fokus sichtbar](/de/wcag/2.4.7-fokus-sichtbar/tastatur-fokus-sichtbar)
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Wird oft vergessen, aber auch Mobile Apps müssen komplett mit Tastatur gesteuert werden können.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Verlinkungen, Schalter und Formularelemente in einem PDF müssen mit der Tastatur bedienbar sein. Interaktive Elemente müssen mit Tabben erreichbar sein; es reicht nicht, wenn diese Elemente nur mit der Maus klickbar sind.
+Die korrekte Tag-Struktur für Links in PDFs enthält einen 'Link'-Tag und darin eingeschlossen einen `Link - OBJR`-Tag. Wenn `Link - OBJR` fehlt, ist ein Link mit der Tastatur nicht bedienbar.
+Bei Formular-Elementen muss überprüft werden, dass Checkboxen, Auswahllisten, Radiobuttons etc. mit der Tastatur alleine aktiviert/deaktiviert bzw. ausgewählt werden können.
+
+## Details zum blinden Testen
+
+Man kann mit Screenreadern wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) zwar auch mit `Tab` navigieren und interaktive Elemente oft gleich bedienen wie mit Tastatur alleine; dabei zeigt sich aber eher, ob die Elemente die korrekten semantischen Rollen und Zustände aufweisen (siehe [📜-4.1.2a Erweiterte Steuerelemente (Widgets)](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets)), und weniger, ob sie mit der Tastatur gut bedienbar sind.
+
+(Tastatur-Bedienung ist sozusagen eine Vorstufe für Screenreader-Bedienung: funktioniert ein Element mit der Tastatur nicht, so ist es meist auch mit Screenreader kaum bedienbar. Hingegen kann ein Element perfekt mit Tastatur bedienbar sein, aber dennoch nicht mit Screenreader.)
 
 ## Screenshots typischer Fälle
 

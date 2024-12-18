@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:41:16"
 ---
 
@@ -37,6 +41,18 @@ Interaktive Textelemente (z.B. Schalterbeschriftungen) erfüllen die Kontrastanf
     - ⚠️ Auch diese Zustandsänderungen müssen die Anforderungen erfüllen; für die Unterscheidbarkeit zwischen denselben gelten auf Stufe AA allerdings keine strikten Kontrastanforderungen.
 
 ⚠️ Mit etwas Übung entwickelt man schnell ein Gefühl, ob ein Element gute oder schlechte Kontraste hat. Entsprechend ist eine pragmatische Herangehensweise zu empfehlen, indem man insbesondere Elemente, die als potenziell kontrastarm wahrgenommen werden, mit obigem Testverfahren überprüft. Aber Vorsicht: Der Farbton spielt bei der Berechnung des Kontrasts keine Rolle, weshalb z.B. ein sattes Grün und ein sattes Rot (welche für Normalsehende klar unterscheidbar sind) wider Erwarten zu wenig Kontrast aufweisen!
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar. Das Testen der Kontrastwerte kann über Screenshots geschehen, oder über [🏷️ Screen Mirroring](/de/tags/screen-mirroring) auf den Desktop. Dabei muss beachtet werden, dass Kompressions-Verfahren die Farben leicht verändern können!
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüfschritte analog zu Web
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

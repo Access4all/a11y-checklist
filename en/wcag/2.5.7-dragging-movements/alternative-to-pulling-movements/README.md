@@ -6,6 +6,10 @@ applies_to_design: ""
 applies_to_development: ""
 applies_to_content: ""
 applies_to_quality_assurance: ""
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-04-16 08:24:34"
 ---
 
@@ -22,6 +26,18 @@ There are alternatives for drag & drop movements that can be operated with simpl
 **Keyboard:** Make sure that drag movements can also be operated with simple pointer gestures (e.g. click, double-click, or click-and-hold).
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 

@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 12:18:53"
 ---
 
@@ -34,6 +38,18 @@ Aktive Elemente (z.B. der aktive Menüpunkt in einer Navigation) sind semantisch
     - **🙂 Beispiel:** Bei einer Prozess-Navigation wird der aktive Schritt als "aktiv" o.ä. angesagt
         - ⚠️ Es geht hier **nicht** darum, dass das Element insgesamt als Prozess-Navigation erkennbar ist mit Screenreader (dafür existiert [✅ Breadcrumbs und Prozessanzeigen](/de/wcag/1.3.1-info-und-beziehungen/breadcrumbs-und-prozessanzeigen))!
         - **😡 Beispiel:** Der Screenreader gibt keinen entsprechenden Hinweis.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Auf PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Ja (falls das Element insgesamt überhaupt als Prozessanzeige erkannt wird).
 
 ## Screenshots typischer Fälle
 

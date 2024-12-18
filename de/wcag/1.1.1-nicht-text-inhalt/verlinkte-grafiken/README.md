@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-13 16:17:35"
 ---
 
@@ -34,6 +38,22 @@ Verlinkte Grafiken weisen einen Alternativtext auf, der Linkziel oder -zweck bes
         - **😡 Beispiel:** Bei "Vollansicht" alleine fehlt der Bildinhalt
 
 ⚠️ Bilder werden oft auch als Teil einer Card ([✅-112 ⚠️](javascript: alert('Wie gesagt: Verlinkung fehlgeschlagen... 🙄 Wahrscheinlich hast du eine falsche oder veraltete ID verwendet?')){title='Verlinkung fehlgeschlagen!'}) verlinkt, z.B. sogenannte "Teaser" auf der Startseite einer Zeitung. Je nach Art der Umsetzung kann es sehr unterschiedlich sein, wie ein sinnvoller Alternativtext dann aussieht, z.B. kann es auch Sinn machen, das Bild in dieser Ansicht als dekorativ ([✅ Dekorative Grafiken](/de/wcag/1.1.1-nicht-text-inhalt/dekorative-grafiken)) einzustufen.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Mit [🏷️ PDF Accessibility Checker (PAC)](/de/tags/pdf-accessibility-checker-pac) testen und Screenreader-Vorschau öffnen
+1. Prüfen, dass verlinkte Grafiken über einen aussagekräftigen Alternativtext verfügen (analog zu Web).
+
+## Details zum blinden Testen
+
+Eingeschränkt: es kann zwar evaluiert werden, ob eine Grafik einen Alternativtext hat oder nicht - ob dieser aber sinnvoll ist, ist oft schwer zu beurteilen.
 
 ## Screenshots typischer Fälle
 

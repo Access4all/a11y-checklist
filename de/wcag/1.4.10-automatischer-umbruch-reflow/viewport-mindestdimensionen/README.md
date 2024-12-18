@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:44:00"
 ---
 
@@ -35,6 +39,25 @@ Inhalt lässt sich ohne Einschränkungen (z.B. Überlappungen) und ohne horizont
         - **🙂 Beispiel:** Oder ein Bild, Diagramm, Video...
 
 ⚠️ Es gibt mittlerweile Methoden, Tabellen responsiv zu machen, so dass kein horizontales Scrollen mehr notwendig ist. Dies wird von den WCAG aber nicht gefordert. Zudem sind diese Möglichkeiten relativ begrenzt und funktionieren nur bei nicht allzu grossen Tabellen.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf Web-Views 1:1 übertragbar.
+
+Für native Apps obsolet.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Mit Ansicht > Vergrössern > Umfluss Textumfluss aktivieren.
+1. Prüfen, dass Inhalte korrekt angezeigt werden.
+1. Inhalte, die nicht korrekt umfliessen müssen: Tabellen, Formularfelder, Kopf- und Fusszeilen und Bilder.
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

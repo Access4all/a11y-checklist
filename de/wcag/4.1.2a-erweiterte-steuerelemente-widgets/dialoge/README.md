@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:14:46"
 ---
 
@@ -92,6 +96,18 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
     - Es kann aber auch ein einfaches `<div>` o.ä. sein (siehe [ADG: Dialog](https://www.accessibility-developer-guide.com/examples/widgets/dialog/))
 
 ⚠️ Dem gegenüber stehen die kleineren und simpleren **Tooltips** / **Toggletips**, siehe [✅ Tooltips / Toggletips](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/tooltips-toggletips).
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Einerseits können in einer Mobile App beliebige Web-Inhalte (inkl. Dialoge) eingebettet sein; andererseits gibt es auch native Implementierungen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+So komplexe interaktive Elemente gibt's in PDFs nicht.
+
+## Details zum blinden Testen
+
+Dialoge **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) geprüft werden!
 
 ## Screenshots typischer Fälle
 

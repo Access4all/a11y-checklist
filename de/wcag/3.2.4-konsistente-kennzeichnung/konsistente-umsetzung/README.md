@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:06:21"
 ---
 
@@ -33,6 +37,18 @@ Bestandteile mit gleicher Funktion sind konsistent umgesetzt, sowohl auf visuell
             - ⚠️ Dies kann vorkommen, wenn z.B. nicht ein- und dieselbe Web-Agentur alle Bereiche einer grossen Webseite umgesetzt hat (z.B. ein Flugportal mit den Bereichen Flugticket-Suche, Hotel-Reservation, Flugmeilen-Infos, etc.): die Bereiche haben dann zwar ein ähnliches Design, ihre Inhalte und Funktionalitäten wurden aber ggf. unterschiedlich umgesetzt, was visuell oft wenig auffällt, aber z.B. für Screenreader erheblich unterschiedliches Erleben bedeuten kann (z.B. wenn unterschiedliche JavaScript-Widget-Bibliotheken eingesetzt werden).
 
 ⚠️ Insgesamt wird dieses Erfolgskriterium sehr selten verletzt. Es ist auch nicht klar definiert, ab wann etwas als nicht mehr "konsistent" angesehen wird.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf Web-Views 1:1 übertragbar. Insgesamt sind Mobile Webseiten wie auch Mobile Apps aber niemals so komplex wie gewisse Webseiten, weshalb dieses Erfolgskriterium hier noch seltener verletzt wird.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Ja, auch wenn es hier noch schwieriger sein kann, festzustellen, ob unterschiedliche Inhalte und Funktionalitäten tatsächlich als konsistent vorgesehen worden sind.
 
 ## Screenshots typischer Fälle
 

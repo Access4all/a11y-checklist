@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-14 12:24:42"
 ---
 
@@ -52,6 +56,18 @@ Zahlen vom [WebAIM Screen Reader Survey #10](https://webaim.org/projects/screenr
 
 - Navigieren via Überschriften: 71.6%
 - Navigieren via Landmarks: 3.7%
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zum Prüfen mit Wisch-Bewegung durch Inhalte navigieren.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Visuell hervorgehobene Inhalte in einem PDF, wie zum Beispiel eine Sidebar oder eine Textbox, müssen eine einleitende Überschrift haben.
+
+## Details zum blinden Testen
+
+Überschriften sind für Blinde besonders wichtig!
 
 ## Screenshots typischer Fälle
 

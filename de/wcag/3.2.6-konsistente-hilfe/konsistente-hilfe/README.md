@@ -6,6 +6,10 @@ applies_to_design: ""
 applies_to_development: ""
 applies_to_content: ""
 applies_to_quality_assurance: ""
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-04-16 08:30:41"
 ---
 
@@ -33,6 +37,18 @@ Hilfestellungen werden über Prozesse und Unter-Seiten hinweg konsistent angebot
         - **😡 Beispiel:** Bei gewissen Prozessschritten wird man auf andere Seitenbereiche weitergeleitet (z.B. auf der Webseite auf einer Fluggesellschaft befindet man sich zuerst im Buchungsprozess, danach landet man bei zusätzlichen Angeboten wie Hotelbuchung oder Meilenprämien), welche zwar ähnlich aussehen, aber die Hilfe fehlt plötzlich (oder ist woanders platziert) → ⚠️ In der Praxis werden solche voneinander abgegrenzte, aber ähnlich aussehende Inhalte oft von unterschiedlichen Anbietern umgesetzt. Insofern ist hier nicht immer offensichtlich, ob bzw. wann man dieses Erfolgskriterium einfordern kann.
     - **🙂 Beispiel:** Im Fussbereich einer Webseite befindet sich immer ein Link zu einem Kontaktformular oder ein Telefon für Hilfe
         - **😡 Beispiel:** Auf diversen Unterseiten fehlen diese Informationen
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Selbst wenn etwas visuell über mehrere Seiten gleich aussieht, kann die Semantik im Hintergrund sehr unterschiedlich sein! Entsprechend ist diese Anforderung für Blinde besonders relevant.
 
 ## Screenshots typischer Fälle
 

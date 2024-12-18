@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 14:02:56"
 ---
 
@@ -31,6 +35,18 @@ Durch Bewegungsaktivierung (z.B. Gerätebewegung oder Erkennung von Gesten per V
         **😡 Beispiel:** Es existiert kein solcher Schalter.
     - **🙂 Beispiel:** Eine Präsentation kann nach links bzw. rechts gesteuert werden per Wischgesten, welche durch eine Videokamera erkannt werden; zusätzlich gibt es die Schalter "Nächste Folie" bzw. "Vorherige Folie".
         **😡 Beispiel:** Es existieren keine solchen Schalter.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Schwierig testbar: wenn man von der Funktionalität weiss, kann man aber zumindest herauszufinden versuchen, ob diese auch durch konventionelle Methoden angeboten wird.
 
 ## Screenshots typischer Fälle
 

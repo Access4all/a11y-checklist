@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 13:00:51"
 ---
 
@@ -39,6 +43,20 @@ Glossare und ähnliche Informationslisten sind als Definitionslisten formatiert.
 - `I` drücken, um Punkte innerhalb einer Liste direkt anzuspringen
 
 ⚠️ Denn: viele Fehler findet man oft auch ohne Screenreader, z.B. wenn die Semantik komplett fehlt oder offensichtlich falsch ist. Wenn Semantik aber grundsätzlich **vorhanden scheint**, lässt sich deren Korrektheit und Sinnhaftigkeit oft nur mit Screenreader final beurteilen.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf hybride Inhalte 1:1 anwendbar.
+
+Native Apps scheinen aber keine spezifischen Definitions-Listen-Elemente zu kennen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Es gibt in PDFs keine Definitionslisten.
+
+## Details zum blinden Testen
+
+Definitions-Listen sind für Blinde besonders wichtig!
 
 ## Screenshots typischer Fälle
 

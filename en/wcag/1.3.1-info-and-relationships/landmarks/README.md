@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 12:20:01"
 ---
 
@@ -22,6 +26,18 @@ Landmark roles (HTML5 elements such as `<header>`, `<main>`, etc. as well as ARI
 **Screenreader:** Explore and check output: Are page areas output as such recognisable?
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 

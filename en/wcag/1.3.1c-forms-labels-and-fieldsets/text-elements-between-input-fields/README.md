@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 13:12:33"
 ---
 
@@ -22,6 +26,18 @@ Text elements that are located between the input fields (e.g. an `<h3>` or `<p>`
 **Screenreader:** Navigate through input fields using the 'Tab' key and check whether relevant text elements are also displayed.
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 

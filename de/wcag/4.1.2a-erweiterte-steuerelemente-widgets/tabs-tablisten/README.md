@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:16:04"
 ---
 
@@ -60,6 +64,18 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 - Tabs können auch **vertikal** ausgerichtet sein (übereinander, meist auf der linken Seite des Inhalts)
 - Oft wird eine ausgefeilte ARIA-Implementierung verwendet (siehe [APG: Tabs Pattern](https://www.w3.org/WAI/ARIA/apg/patterns/tabs/)) → `role="tablist"` wird heutzutage gut unterstützt
     - Es kann aber auch ein einfaches `<div>` mit einer Link-Liste als Navigation sein; in Formularen können sogar Radiobuttons sinnvoll sein, siehe [ADG: Tabs](https://www.accessibility-developer-guide.com/examples/widgets/tabs/)
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Einerseits können in einer Mobile App beliebige Web-Inhalte (inkl. Tabs) eingebettet sein; andererseits gibt es auch native Implementierungen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+So komplexe interaktive Elemente gibt's in PDFs nicht.
+
+## Details zum blinden Testen
+
+Tabs **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) geprüft werden!
 
 ## Screenshots typischer Fälle
 

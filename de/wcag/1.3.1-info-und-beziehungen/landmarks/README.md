@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 12:20:01"
 ---
 
@@ -57,6 +61,18 @@ Zahlen vom [WebAIM Screen Reader Survey #10](https://webaim.org/projects/screenr
 
 - Navigieren via Überschriften: 71.6%
 - Navigieren via Landmarks: 3.7%
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Auf PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Ja: insbesondere das Fehlen von Landmarks kann natürlich erkannt werden. Ob vergebene Landmarks sinnvoll sind (und ob alle Inhalte sinnvoll darauf verteilt sind), ist ggf. schwieriger einzuschätzen.
 
 ## Screenshots typischer Fälle
 

@@ -6,6 +6,10 @@ applies_to_design: ""
 applies_to_development: ""
 applies_to_content: ""
 applies_to_quality_assurance: ""
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-04-16 09:10:44"
 ---
 
@@ -37,6 +41,18 @@ Aktivierbare Elemente weisen die geforderte Mindestgrösse oder genügend Abstan
         - **⚠️ Erlaubte Ausnahme:** In Fliesstext gilt die Anforderung nicht!
     - **🙂 Beispiel:** Eine Karte der Schweiz zeigt alle Ortschaften als klickbare Bereiche an; einzelne Ortschaften sind so klein, dass ihr klickbarer Bereich kleiner ist als `24x24px`.
         - **⚠️ Erlaubte Ausnahme:** Die Grösse ist hier essenziell für die Funktion!
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht relevant.
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

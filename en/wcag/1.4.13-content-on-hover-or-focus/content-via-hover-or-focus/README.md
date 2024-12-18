@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 07:54:36"
 ---
 
@@ -22,6 +26,18 @@ Content that is displayed via hover or focus is not distracting and can be inter
 **Manual check:** Look through elements, interact with them and make sure that they behave as expected: Can content be shown/hidden? Can content shown via hover also be hovered itself? Does content remain permanently displayed?
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 

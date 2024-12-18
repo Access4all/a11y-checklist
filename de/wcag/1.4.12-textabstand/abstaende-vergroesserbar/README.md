@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 07:50:30"
 ---
 
@@ -31,6 +35,18 @@ Abstände zwischen Zeilen, Wörtern und Buchstaben sowie nach Absätzen sind ohn
     - **🙂 Beispiel:** Die Inhalte werden weiterhin gut lesbar dargestellt
     - **😡 Beispiel:** Es kommt zu Überlappungen von Text (z.B. aufgrund langer Wörter) oder anderen Elementen
         - ⚠️ Lange Wörter treten insbesondere in der Deutschen Sprache auf. Sie können mittels CSS (`hyphens: auto;`) zwar automatisch getrennt werden, aber dies bewirkt nicht immer den gewünschten Effekt. Deshalb wird auch gerne auf JavaScript-Libraries zurück gegriffen, welche Worttrennung im Code "künstlich" forcieren, was aber wiederum unschöne Effekte z.B. auf Screenreader haben kann.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf Web-Views 1:1 übertragbar. Bei nativen Apps gibt es aktuell keine solche Einstellung.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht anwendbar (WCAG-Wortlaut: "Currently, this SC does not apply to PDF as it is not implemented using markup.")
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

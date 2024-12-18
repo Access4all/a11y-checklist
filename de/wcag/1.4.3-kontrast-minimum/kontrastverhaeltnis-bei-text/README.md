@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:39:19"
 ---
 
@@ -39,6 +43,18 @@ Das Kontrastverhältnis bei Text und Bildern von Text zum Hintergrund beträgt m
         - ⚠️ `placeholder` sind aus verschiedenen Gründen ein schwieriges Thema bezüglich Barrierefreiheit: z.B. sind sie "von Natur aus" sehr kontrastarm, damit gut erkennbar wird, ob man bereits eine Eingabe getätigt hat oder nicht. Dies aber widerspricht den vorliegenden Kontrastanforderungen, weshalb es schwierig ist, einen "Sweet Spot" zu finden. Generell empfehlen wir, `placeholder` nur als redundante oder beispielhafte Information zu verwenden, und ein Eingabeformat etwa als zusätzlicher Text unterhalb des Eingabefelds anzuzeigen.
 
 ⚠️ Mit etwas Übung entwickelt man schnell ein Gefühl, ob ein Element gute oder schlechte Kontraste hat. Entsprechend ist eine pragmatische Herangehensweise zu empfehlen, indem man insbesondere Elemente, die als potenziell kontrastarm wahrgenommen werden, mit obigem Testverfahren überprüft. Aber Vorsicht: Der Farbton spielt bei der Berechnung des Kontrasts keine Rolle, weshalb z.B. ein sattes Grün und ein sattes Rot (welche für Normalsehende klar unterscheidbar sind) wider Erwarten zu wenig Kontrast aufweisen!
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar. Das Testen der Kontrastwerte kann über Screenshots geschehen, oder über [🏷️ Screen Mirroring](/de/tags/screen-mirroring) auf den Desktop. Dabei muss beachtet werden, dass Kompressions-Verfahren die Farben leicht verändern können!
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüfschritte analog zu Web
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

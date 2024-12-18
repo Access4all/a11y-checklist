@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 14:20:14"
 ---
 
@@ -46,6 +50,20 @@ Statusmeldungen sind für assistierende Technologien zugänglich und überstrapa
         - **😡 Beispiel:** Es wird vom Screenreader nichts angesagt.
 
 ⚠️ Gewisse Status-Nachrichten lassen sich nicht manuell auslösen, was es schwierig macht, sie zu prüfen (z.B. "Ihre Sitzung läuft bald ab"). Hier muss ggf. mit dem Seitenbetreiber geschaut werden, ob solche Status-Nachrichten existieren, und wie man sie testen kann.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Auf PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Nur sehr eingeschränkt testbar - wenn es nicht korrekt implementiert ist, weiss der Screenreader-Nutzer oft gar nicht, dass eine Status-Meldung angezeigt wird.
+
+Generell gilt ja: wenn der Screenreader-Nutzer etwas tut, muss in irgendeiner Form eine Rückmeldung passieren. Etwa wenn er einen Schalter "Nur ungelesene Nachrichten anzeigen" drückt: dies kann manchmal eine Statusmeldung triggern ("Es werden 13 Nachrichten angezeigt" o.ä.), oft passiert es aber auch durch andere Techniken (etwa indem `aria-pressed` auf `true` gesetzt wird und der Screenreader deshalb "Gedrückt" o.ä. ausgibt).
 
 ## Screenshots typischer Fälle
 

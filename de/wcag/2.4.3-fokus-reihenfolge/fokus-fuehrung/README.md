@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 13:52:58"
 ---
 
@@ -57,6 +61,20 @@ Fokus-Führung ist dann wichtig, wenn die In-Page-Änderung zu einer Interaktion
 - Die obige Meldung im e-Banking bietet eine Schaltfläche "Sitzung jetzt verlängern" an.
 
 Wenn es sich hingegen um einen reinen Hinweis handelt (etwa ohne Schaltfläche zur Verlängerung der Sitzung), so ist eine Status-Nachricht (ohne Fokus-Führung) sinnvoller, siehe [✅ Statusmeldungen](/de/wcag/4.1.3-statusmeldungen/statusmeldungen).
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Wird oft vergessen, aber auch Mobile Apps müssen komplett mit Tastatur gesteuert werden können.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Teilweise: Wird der Fokus versetzt, so kündet der Screenreader das neu fokussierte Element an. Wird der Fokus hingegen nicht versetzt, so kann der Screenreader-Nutzer zumindest mutmassen, dass es an mangelhafter Fokus-Führung liegt (und kann das neu geöffnete Element - z.B. einen Dialog - ggf. sogar manuell aufspüren).
+
+Es kann aber auch ein anderes Problem vorliegen, welches schwieriger zu eruieren ist: z.B. wenn ein gedrückter Schalter visuell zwar als "gedrückt" erkennbar ist, aber kein entsprechendes Feedback vom Screenreader gegeben wird (z.B. durch `aria-pressed="true"`); dies wäre eher ein Fall für [📜-4.1.2 Name, Rolle, Wert](/de/wcag/4.1.2-name-rolle-wert) oder [📜-4.1.3 Statusmeldungen](/de/wcag/4.1.3-statusmeldungen).
 
 ## Screenshots typischer Fälle
 
