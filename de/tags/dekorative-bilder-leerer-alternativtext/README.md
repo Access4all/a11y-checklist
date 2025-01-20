@@ -2,7 +2,7 @@
 id: "30"
 parent_id: "69"
 created_at: "2024-03-09 14:38:55"
-video_ids: "[20, 21]"
+video_ids: "[]"
 ---
 
 # 🏷️ Dekorative Bilder (leerer Alternativtext)

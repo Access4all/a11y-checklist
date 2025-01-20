@@ -2,7 +2,7 @@
 id: "11"
 parent_id: "65"
 created_at: "2024-03-09 11:07:55"
-video_ids: "[16, 11, 12, 7, 6, 15]"
+video_ids: "[16, 12, 7, 15]"
 ---
 
 # 🏷️ Fokussierbarkeit

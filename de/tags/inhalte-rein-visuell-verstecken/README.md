@@ -2,7 +2,7 @@
 id: "4"
 parent_id: "70"
 created_at: "2024-03-09 10:46:54"
-video_ids: "[5, 8, 3, 28, 29]"
+video_ids: "[5, 3, 28, 29]"
 ---
 
 # 🏷️ Inhalte rein visuell verstecken
