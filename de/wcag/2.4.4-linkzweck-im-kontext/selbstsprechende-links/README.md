@@ -36,6 +36,7 @@ Link-Texte sind selbstsprechend, d.h. aus sich selbst heraus oder über den Kont
     - **🙂 Beispiel:** "Mehr zum Thema X"
     - **🙂 Beispiel:** "Kontakt"
     - **🙄 Beispiel:** "Mehr" / "Weiter" o.ä. → wenn nur ein einziger Link mit diesem Namen existiert, kann es je nach Kontext okay sein
+    - **🙄 Beispiel:** "Sehr gut, 4.9 von 5" → es ist einigermassen offensichtlich, dass es sich um eine Bewertung handelt, aber ein Zusatz wie "Aktuelle Bewertung" o.ä. wäre noch besser (kann visuell versteckt werden, siehe [🏷️ Inhalte rein visuell verstecken](/de/tags/inhalte-rein-visuell-verstecken))
     - **😡 Beispiel:** "Mehr" / "Weiter" o.ä. → wenn mehrere Links mit diesem Namen existieren
     - **😡 Beispiel:** "hier"
     - **😡 Beispiel:** Generell mehrfach vorkommende Links

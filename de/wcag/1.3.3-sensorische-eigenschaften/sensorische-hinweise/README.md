@@ -47,6 +47,7 @@ Inhalte weisen nicht ausschliesslich auf sensorische Eigenschaften (rein visuell
         - **😡 Beispiel:** Es wird nur ein auditives Signal erzeugt
     - **🙂 Beispiel:** Eine Grafik hat den Alternativtext "Statistik über die Geburtenrate, Details nachfolgend", wobei nach der Grafik ein Paragraf mit Details folgt
         - **😡 Beispiel:** Der Alternativtext ist "Statistik über die Geburtenrate, Details rechts"
+            - ⚠️ Die Begriffe "links" und "rechts" sind problematisch, da Screenreader Inhalte nur 1-dimensional (also nach einander), und nicht 2-dimensional (nach und neben einander) wahrnehmen. Begriffe wie "über/oberhalb/oben" bzw. "unter/unterhalb/unten" hingegen können verwendet werden, z.B. "Beachten Sie den Hinweis oben" (aber nicht: "Beachten Sie den Hinweis rechts").
 
 ## Prüfmethode für Mobile (Ergänzungen zu Web)
 
