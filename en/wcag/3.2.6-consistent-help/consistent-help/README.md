@@ -1,11 +1,11 @@
 ---
 id: "115"
 wcag_criterion_id: "113"
-applies_to_pdf: ""
-applies_to_design: ""
-applies_to_development: ""
-applies_to_content: ""
-applies_to_quality_assurance: ""
+applies_to_pdf: "false"
+applies_to_design: "true"
+applies_to_development: "false"
+applies_to_content: "true"
+applies_to_quality_assurance: "true"
 created_at: "2024-04-16 08:30:41"
 ---
 

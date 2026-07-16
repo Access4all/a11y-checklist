@@ -149,6 +149,9 @@ class Validator
         next unless k.start_with?('applies_to_')
         error(e.rel, "#{k} must be \"true\" or \"false\", got #{v.inspect}") unless %w[true false].include?(v.to_s)
       end
+      unless e.fm.any? { |k, v| k.start_with?('applies_to_') && v == 'true' }
+        error(e.rel, 'at least one applies_to_* flag must be "true" (decision #1)')
+      end
     end
 
     slug_re = e.type == 'tag' || e.type == 'checkpoint' ? PLAIN_SLUG_RE : WCAG_SLUG_RE

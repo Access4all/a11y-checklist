@@ -71,7 +71,7 @@ Split criteria (`1.3.1a` etc.) differ in two ways: their `parent_id` points at t
 ```yaml
 id: "1"
 wcag_criterion_id: "1" # must equal the id of the criterion folder it sits in
-applies_to_pdf: "true"             # all five flags: "true" | "false"
+applies_to_pdf: "true"             # all five flags: "true" | "false"; at least one must be "true"
 applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
@@ -139,6 +139,5 @@ The validator enforces everything above that can be checked mechanically (frontm
 
 Known gaps versus the original database, to be resolved:
 
-- **Empty `applies_to_*` flags:** 7 checkpoints have empty values (never set in the database). Once they are filled in, add a validator rule that every checkpoint has at least one `applies_to_*` flag set to `"true"`.
 - **Tag categories:** the database's `tags.category` field was not exported. A CSV dump exists to backfill it as a frontmatter field.
 - **`applies_to_pdf` vs `applicable_to_pdf`:** the branch `feat/add-mobile-pdf-blind-and-videos` introduces `applicable_to_web/mobile/pdf` (medium applicability) alongside the existing `applies_to_pdf` (audience flag) — two near-identical names for different concepts. To be resolved when that branch lands, ideally by merging them into a single item. The branch's new frontmatter keys and H2 sections must be added here and to the validator at the same time.
