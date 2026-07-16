@@ -89,13 +89,15 @@ created_at: "..."
 
 Tags form a tree: root tags (e.g. `werkzeuge`, `techniken`, `aria-attribute`) have an empty `parent_id`; all others point to another tag's id.
 
+Tag names and descriptions were never localized in the original database (a single field served both languages), so the English tag files duplicate the German content until they are actually translated.
+
 ## Body conventions
 
 - The body starts with exactly one H1, prefixed by the type's emoji:
   - `# 📜 …` for principles, guidelines, and criteria (e.g. `# 📜 1.1.1 Nicht-Text-Inhalt - A`, `# 📜 Prinzip 1: Wahrnehmbar`, `# 📜 Guideline 1.1: Text Alternatives`)
   - `# ✅ …` for checkpoints
   - `# 🏷️ …` for tags
-- Criterion H1s end with the conformance level (`- A` or `- AA`); split criteria carry no level.
+- Criterion H1s end with the conformance level (`- A` or `- AA`); split criteria carry no level. (In the original database the level was a dedicated field; since the export it lives only in this H1 suffix.)
 - Typical H2 sections (not enforced strictly, but stay consistent):
   - Criterion (de): `Verstehen (in Kürze)`, `Verstehen (ausführlich)`, `Beispiele`, `Referenzen (öffentlich)`, `Referenzen (intern)`, `✅ Checkpoints`
   - Criterion (en): `Understanding (short)`, `Understanding (long)`, `Examples`, `References public`, `References internal`, `✅ Checkpoints`
