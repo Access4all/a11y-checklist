@@ -31,6 +31,29 @@ H1_PREFIX = {
   'checkpoint' => '# ✅ ', 'tag' => '# 🏷️ '
 }.freeze
 
+# H2 sections per type and language, in canonical order (they render database
+# fields, so set and order are fixed). true = required, false = optional
+# (nullable in the original database). Principles and guidelines have none.
+H2_SECTIONS = {
+  'principle' => { 'de' => [], 'en' => [] },
+  'guideline' => { 'de' => [], 'en' => [] },
+  'criterion' => {
+    'de' => [['Verstehen (in Kürze)', true], ['Verstehen (ausführlich)', true],
+             ['Beispiele', false], ['✅ Checkpoints', true],
+             ['Referenzen (öffentlich)', false], ['Referenzen (intern)', false]],
+    'en' => [['Understanding (short)', true], ['Understanding (long)', true],
+             ['Examples', false], ['✅ Checkpoints', true],
+             ['References public', false], ['References internal', false]]
+  },
+  'checkpoint' => {
+    'de' => [['Beschreibung', true], ['Prüfmethode (in Kürze)', true],
+             ['Prüfmethode für Web (ausführlich)', true], ['Screenshots typischer Fälle', true]],
+    'en' => [['Description', true], ['Method', true],
+             ['Details on web applicability (specific test steps)', true], ['Screenshots', true]]
+  },
+  'tag' => { 'de' => [['Beschreibung', true]], 'en' => [['Description', true]] }
+}.freeze
+
 WCAG_SLUG_RE  = /\A\d+(\.\d+){0,2}[a-z]?(-[a-z0-9]+)+\z/
 PLAIN_SLUG_RE = /\A[a-z0-9]+(-[a-z0-9]+)*\z/
 CREATED_AT_RE = /\A\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\z/
@@ -143,6 +166,26 @@ class Validator
     split = e.num.to_s.match?(/[a-z]\z/)
     if e.type == 'criterion' && !split && !h1s.first.match?(/ - AA?\z/)
       error(e.rel, "criterion H1 must end with the conformance level (\"- A\" or \"- AA\"): #{h1s.first.inspect}")
+    end
+
+    check_sections(e)
+  end
+
+  def check_sections(e)
+    sections = H2_SECTIONS.fetch(e.type).fetch(e.lang)
+    names = sections.map(&:first)
+    h2s = e.body.gsub(/^```.*?^```/m, '').scan(/^## (.+)$/).flatten
+
+    (h2s - names).each { |h| error(e.rel, "unknown H2 section: #{h.inspect}") }
+    h2s.tally.each { |h, count| error(e.rel, "duplicate H2 section: #{h.inspect}") if count > 1 }
+    sections.each do |name, required|
+      error(e.rel, "missing H2 section: #{name.inspect}") if required && !h2s.include?(name)
+    end
+
+    present = h2s.uniq.select { |h| names.include?(h) }
+    expected = names.select { |n| present.include?(n) }
+    if present != expected
+      error(e.rel, "H2 sections out of order: got #{present.join(' | ')}, expected #{expected.join(' | ')}")
     end
   end
 

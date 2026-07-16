@@ -98,12 +98,13 @@ Tag names and descriptions were never localized in the original database (a sing
   - `# ✅ …` for checkpoints
   - `# 🏷️ …` for tags
 - Criterion H1s end with the conformance level (`- A` or `- AA`); split criteria carry no level. (In the original database the level was a dedicated field; since the export it lives only in this H1 suffix.)
-- Typical H2 sections (not enforced strictly, but stay consistent):
-  - Criterion (de): `Verstehen (in Kürze)`, `Verstehen (ausführlich)`, `Beispiele`, `Referenzen (öffentlich)`, `Referenzen (intern)`, `✅ Checkpoints`
-  - Criterion (en): `Understanding (short)`, `Understanding (long)`, `Examples`, `References public`, `References internal`, `✅ Checkpoints`
+- H2 sections are **fixed per content type** (they render database fields): only the sections below may appear, each at most once, in exactly this order. Sections marked *(optional)* correspond to nullable database fields and may be omitted; all others are required. Deeper headings (H3+) are free-form.
+  - Criterion (de): `Verstehen (in Kürze)`, `Verstehen (ausführlich)`, `Beispiele` *(optional)*, `✅ Checkpoints`, `Referenzen (öffentlich)` *(optional)*, `Referenzen (intern)` *(optional)*
+  - Criterion (en): `Understanding (short)`, `Understanding (long)`, `Examples` *(optional)*, `✅ Checkpoints`, `References public` *(optional)*, `References internal` *(optional)*
   - Checkpoint (de): `Beschreibung`, `Prüfmethode (in Kürze)`, `Prüfmethode für Web (ausführlich)`, `Screenshots typischer Fälle`
   - Checkpoint (en): `Description`, `Method`, `Details on web applicability (specific test steps)`, `Screenshots`
   - Tag: `Beschreibung` / `Description`
+  - Principles and guidelines have no H2 sections at all.
 - Markdown uses default syntax only (no extensions).
 - Every file ends with a newline.
 
@@ -132,4 +133,12 @@ ruby tools/validate.rb              # validate everything
 ruby tools/validate.rb de/wcag/…    # validate specific files/folders only
 ```
 
-The validator enforces everything above that can be checked mechanically (frontmatter schema, id uniqueness, reference integrity, de/en parity, link and image resolution, naming, H1 conventions). It exits non-zero if errors are found; warnings don't fail the run. CI runs it on every push and pull request.
+The validator enforces everything above that can be checked mechanically (frontmatter schema, id uniqueness, reference integrity, de/en parity, link and image resolution, naming, H1 conventions, H2 section sets and order). It exits non-zero if errors are found; warnings don't fail the run. CI runs it on every push and pull request.
+
+## Open items
+
+Known gaps versus the original database, to be resolved:
+
+- **Empty `applies_to_*` flags:** 7 checkpoints have empty values (never set in the database). Once they are filled in, add a validator rule that every checkpoint has at least one `applies_to_*` flag set to `"true"`.
+- **Tag categories:** the database's `tags.category` field was not exported. A CSV dump exists to backfill it as a frontmatter field.
+- **`applies_to_pdf` vs `applicable_to_pdf`:** the branch `feat/add-mobile-pdf-blind-and-videos` introduces `applicable_to_web/mobile/pdf` (medium applicability) alongside the existing `applies_to_pdf` (audience flag) — two near-identical names for different concepts. To be resolved when that branch lands, ideally by merging them into a single item. The branch's new frontmatter keys and H2 sections must be added here and to the validator at the same time.
