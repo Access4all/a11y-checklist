@@ -73,13 +73,13 @@ Listen mit einem einzigen Eintrag sollten vermieden werden (ausser sie werden au
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H48>
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF21>
 
+### Weiteres
+- <https://wcag.com/developers/1-3-1-info-and-relationships/>
+- <https://www.wuhcag.com/info-and-relationships/>
+- <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/vdp/1-3-1-info-und-beziehungen/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-1b-html-strukturelemente-fuer-listen>
-
-### Weiteres
-- <https://wcag.com/developers/1-3-1-info-and-relationships/>
-- <https://www.wuhcag.com/info-and-relationships/>
-- <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>

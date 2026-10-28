@@ -46,15 +46,15 @@ The specified minimum resolution for this is `320`x`256` CSS pixels. A typical p
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C34>
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C37>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-10-umbruch-der-inhalte-reflow/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-10-inhalte-brechen-um>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-1-reflow/>
 - <https://www.digitala11y.com/understanding-sc-1-4-10-reflow/>
 - <https://www.boia.org/wcag2/cp/1.4.10>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/#Success_Criterion_1410_Reflow>
 - <https://www.tpgi.com/going-with-the-pdf-reflow/>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-10-umbruch-der-inhalte-reflow/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-10-inhalte-brechen-um>

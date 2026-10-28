@@ -110,16 +110,16 @@ Die erste Überschrift einer Seite muss nicht unbedingt eine `<h1>` sein: oft st
 - <https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA12>
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF9>
 
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-1-info-und-beziehungen/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-1a-html-strukturelemente-fuer-ueberschriften>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-1-bereiche-ueberspringbar>
-
 ### Weiteres
 
 - Überschriften müssen vor Inhalt platziert sein: <https://adrianroselli.com/2020/02/block-links-cards-clickable-regions-etc.html#Order>
 - <https://wcag.com/developers/1-3-1-info-and-relationships/>
 - <https://www.wuhcag.com/info-and-relationships/>
 - <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-1-info-und-beziehungen/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-1a-html-strukturelemente-fuer-ueberschriften>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-1-bereiche-ueberspringbar>

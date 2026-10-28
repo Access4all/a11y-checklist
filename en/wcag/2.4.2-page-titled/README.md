@@ -56,16 +56,16 @@ The repetitive part (the operator information) should be placed at the end. In a
 
 - <https://www.w3.org/WAI/WCAG21/Techniques/general/G88.html>
 
-## References internal
-
-### BITV
-
-- <https://www.bit-inklusiv.de/bitv-softwaretest/> → keine spezifischen Infos für dieses EK!
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-2-sinnvolle-dokumenttitel>
-
 ### Weiteres
 
 - <https://www.wuhcag.com/page-titled/>
 - <https://wcag.com/authors/2-4-2-page-titled/>
 - <https://www.digitala11y.com/understanding-sc-2-4-2-page-titled/>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/2-4-navigable-level-a/#Success_Criterion_242_Page_Titled>
+
+## References internal
+
+### BITV
+
+- <https://www.bit-inklusiv.de/bitv-softwaretest/> → keine spezifischen Infos für dieses EK!
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-2-sinnvolle-dokumenttitel>

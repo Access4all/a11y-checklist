@@ -42,8 +42,6 @@ Ein teilweises Verdecken des Fokus ist tolerierbar, wenn auch zu vermeiden; ein 
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C43>
 
-## Referenzen (intern)
-
 ### Weiteres
 
 - <https://www.w3.org/TR/css-scroll-snap/#propdef-scroll-padding>

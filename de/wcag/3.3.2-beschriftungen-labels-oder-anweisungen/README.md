@@ -116,13 +116,13 @@ Verwenden Sie sinngemäss die in [📜-3.3.1 Fehlerkennzeichnung](/de/wcag/3.3.1
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H71>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G167>
 
+### Weiteres
+- <https://wcag.com/developers/3-3-2-labels-instructions/>
+- <https://www.wuhcag.com/labels-or-instructions/>
+- <https://www.digitala11y.com/understanding-sc-3-3-2-labels-or-instructions/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/vdp/3-3-2-beschriftungen-oder-anweisungen/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-3-2-beschriftungen-von-formularelementen-vorhanden>
-
-### Weiteres
-- <https://wcag.com/developers/3-3-2-labels-instructions/>
-- <https://www.wuhcag.com/labels-or-instructions/>
-- <https://www.digitala11y.com/understanding-sc-3-3-2-labels-or-instructions/>

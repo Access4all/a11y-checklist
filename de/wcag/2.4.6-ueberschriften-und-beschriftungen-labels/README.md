@@ -20,8 +20,6 @@ Formularelemente müssen ebenfalls gut durch Labels bezeichnet sein (mittels `<l
 
 **Empfehlung:** Verzichten Sie, wenn möglich, auf den Einsatz des `title`-Attributs. Dieses wird nicht einheitlich von assistierenden Technologien (z.B. Screenreadern) ausgegeben.
 
-
-
 ### Fremdgenerierter Inhalt
 
 Auf unzugänglichen, fremdgenerierten Inhalt muss hingewiesen werden! Z.B. indem direkt vor entsprechendem Inhalt eine kurze (visuell versteckte) Information steht, dass nicht barrierefreier, fremderzeugter Inhalt folgt.
@@ -77,13 +75,13 @@ Auf unzugänglichen, fremdgenerierten Inhalt muss hingewiesen werden! Z.B. indem
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G130>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G131>
 
+### Weiteres
+- <https://www.wcag.com/authors/2-4-6-headings-and-labels/>
+- <https://www.digitala11y.com/headings-labels-understanding-sc-2-4-6/>
+- <https://www.boia.org/wcag2/cp/2.4.6>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/vdp/2-4-6-aussagekraeftige-ueberschriften-und-beschriftungen/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-6-aussagekraeftige-ueberschriften-und-beschriftungen>
-
-### Weiteres
-- <https://www.wcag.com/authors/2-4-6-headings-and-labels/>
-- <https://www.digitala11y.com/headings-labels-understanding-sc-2-4-6/>
-- <https://www.boia.org/wcag2/cp/2.4.6>

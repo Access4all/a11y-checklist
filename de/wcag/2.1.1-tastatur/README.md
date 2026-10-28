@@ -69,13 +69,6 @@ Beachten Sie diesbezüglich unbedingt auch die Hinweise in [📜-4.1.2a Erweiter
 - <https://www.w3.org/WAI/WCAG21/Techniques/pdf/PDF13>
 - <https://www.w3.org/WAI/WCAG21/Techniques/pdf/PDF23>
 
-## Referenzen (intern)
-
-### BITV
-
-- <https://www.bit-inklusiv.de/bitv-softwaretest/> → keine spezifischen Infos für dieses EK!
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-2-sinnvolle-dokumenttitel>
-
 ### Weiteres
 
 - <https://www.wuhcag.com/page-titled/>
@@ -83,3 +76,10 @@ Beachten Sie diesbezüglich unbedingt auch die Hinweise in [📜-4.1.2a Erweiter
 - <https://www.digitala11y.com/understanding-sc-2-1-1-keyboard/>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/2-1-keyboard-accessible-level-a/#Guideline_21_Keyboard_Accessible>
 - <https://webaim.org/techniques/keyboard/#testing>
+
+## Referenzen (intern)
+
+### BITV
+
+- <https://www.bit-inklusiv.de/bitv-softwaretest/> → keine spezifischen Infos für dieses EK!
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-2-sinnvolle-dokumenttitel>

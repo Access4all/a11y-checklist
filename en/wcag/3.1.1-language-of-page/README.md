@@ -37,14 +37,14 @@ The ‘lang’ attribute requires an ISO language code as a value. Normally this
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF16>
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF19>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/3-1-1-sprache-der-software/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-1-1-hauptsprache-angegeben>
-
 ### Weiteres
 - <https://www.wcag.com/developers/3-1-1-language-of-a-page/>
 - <https://www.wuhcag.com/language-of-page/>
 - <https://www.digitala11y.com/understanding-sc-3-1-1-language-of-page/>
 - <https://www.boia.org/wcag2/cp/3.1.1>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/3-1-1-sprache-der-software/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-1-1-hauptsprache-angegeben>

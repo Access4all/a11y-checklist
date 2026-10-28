@@ -99,12 +99,12 @@ Sometimes, however, it is easier to split complex tables into several smaller ta
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF6>
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF20>
 
+### Weiteres
+- <https://adrianroselli.com/2023/02/avoid-spanning-table-headers.html>
+- <https://www.boia.org/blog/how-to-build-accessible-tables>
+
 ## References internal
 
 ### BITV
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-1e-datentabellen-richtig-aufgebaut>
 - <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-1-info-und-beziehungen/>
-
-### Weiteres
-- <https://adrianroselli.com/2023/02/avoid-spanning-table-headers.html> → Ich (Josua) habe das sehr ausführlich nachgeprüft und die obigen Empfehlungen daraus abgeleitet. Es ist und bleibt aber ein leidiges Thema, dass Screenreader bis heute Probleme damit haben, obwohl die Browser dies visuell eindeutig und korrekt darstellen.
-- <https://www.boia.org/blog/how-to-build-accessible-tables>

@@ -44,8 +44,6 @@ Insbesondere bei Prozessen, welche über unterschiedliche Seiten hinweg führen,
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G220>
 
-## Referenzen (intern)
-
 ### Weiteres
 
 - Intopia 3.2.6: <https://youtu.be/JIuWM3iFPVM>

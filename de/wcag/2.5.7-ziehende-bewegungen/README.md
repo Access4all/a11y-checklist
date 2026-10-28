@@ -52,8 +52,6 @@ Es ist deshalb wichtig, dass Funktionen, die auf Ziehbewegungen setzen, auch üb
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G219>
 
-## Referenzen (intern)
-
 ### Weiteres
 
 - <https://www.tpgi.com/how-to-test-2-5-7-dragging-movements/>

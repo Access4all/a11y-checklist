@@ -51,11 +51,11 @@ Fügen Sie zu allen Videos Audiodeskriptionen hinzu, deren visuelle Informatione
 - <https://www.w3.org/WAI/WCAG22/Techniques/smil/SM2>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G203>
 
+### Weiteres
+- <https://www.digitala11y.com/understanding-sc-1-2-5-audio-description-prerecorded/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/1-2-5-audiobeschreibung-aufgezeichnete-videos/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-2-5-audiodeskription-fuer-videos>
-
-### Weiteres
-- <https://www.digitala11y.com/understanding-sc-1-2-5-audio-description-prerecorded/>

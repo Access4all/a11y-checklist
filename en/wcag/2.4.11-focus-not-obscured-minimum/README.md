@@ -42,8 +42,6 @@ Partial covering of the focus is tolerable, even if it should be avoided; comple
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C43>
 
-## References internal
-
 ### Weiteres
 
 - <https://www.w3.org/TR/css-scroll-snap/#propdef-scroll-padding>

@@ -48,12 +48,12 @@ In order for user agents (e.g. browsers) to be able to fill in form fields autom
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H98>
 
+### Weiteres
+- <https://www.wcag.com/developers/1-3-5-identify-input-purpose/>
+- <https://www.digitala11y.com/what-are-the-autocomplete-attributes-defined-in-1-3-5-input-purpose/>
+
 ## References internal
 
 ### BITV
 - <https://www.bit-inklusiv.de/vdp/1-3-5-eingabezweck-bestimmen/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-5-eingabefelder-zu-nutzerdaten-vermitteln-den-zweck>
-
-### Weiteres
-- <https://www.wcag.com/developers/1-3-5-identify-input-purpose/>
-- <https://www.digitala11y.com/what-are-the-autocomplete-attributes-defined-in-1-3-5-input-purpose/>

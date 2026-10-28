@@ -45,14 +45,14 @@ Many people with visual impairments are dependent on the browser's zoom function
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G178>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G179>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-4-textgroesse-aendern/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-4-text-auf-200-vergroesserbar>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-4-resize-text/>
 - <https://www.digitala11y.com/understanding-sc-1-4-4-resize-text/>
 - <https://www.boia.org/wcag2/cp/1.4.4>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/#Success_Criterion_144_Resize_text>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-4-textgroesse-aendern/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-4-text-auf-200-vergroesserbar>

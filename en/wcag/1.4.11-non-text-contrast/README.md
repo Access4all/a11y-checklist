@@ -20,8 +20,6 @@ Every visual cue that is necessary for perception and operation, especially for 
 
 For switches, it is recommended that the clickable area is also labelled with sufficient contrast. As long as a button is clearly identifiable as such by its position, font, etc., high-contrast labelling is sufficient. For text fields with high-contrast placeholder text, there are no contrast requirements for the field border lines.
 
-
-
 For graphic elements, sufficient contrast means that every visual cue required for perception and interpretation must have a contrast value of at least ‘3:1’. This means, for example, curves and lines of a diagram, symbols contained therein, labelling, etc.
 
 **Note:** The minimum contrast requirements only apply to meaningful, informative graphic elements; purely decorative graphics are therefore not meant. See also [📜-1.4.3 Contrast (Minimum)](/en/wcag/1.4.3-contrast-minimum) in this regard.
@@ -54,14 +52,14 @@ For graphic elements, sufficient contrast means that every visual cue required f
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G207>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G209>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-11-nicht-text-kontrast/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-11-kontraste-von-grafiken-und-grafischen-bedienelementen-ausreichend>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-11-non-text-contrast/>
 - <https://www.digitala11y.com/understanding-sc-1-4-11-non-text-contrast/>
 - <https://www.boia.org/wcag2/cp/1.4.11>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/#Success_Criterion_1411_Non-Text_Contrast>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-11-nicht-text-kontrast/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-11-kontraste-von-grafiken-und-grafischen-bedienelementen-ausreichend>

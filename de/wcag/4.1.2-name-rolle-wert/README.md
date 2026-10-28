@@ -64,14 +64,14 @@ Das vorliegende Erfolgskriterium 4.1.2 ist sehr umfangreich. Neben den Prüfpunk
 - <https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA5>
 - <https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA16>
 
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/4-1-2-name-rolle-wert-verfuegbar/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-4-1-2-name-rolle-wert-verfuegbar>
-
 ### Weiteres
 - <https://www.wcag.com/developers/4-1-2-name-role-value/>
 - <https://www.wuhcag.com/name-role-value/>
 - <https://www.digitala11y.com/understanding-sc-4-1-2-name-role-value/>
 - <https://www.boia.org/wcag2/cp/4.1.2>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/4-1-2-name-rolle-wert-verfuegbar/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-4-1-2-name-rolle-wert-verfuegbar>

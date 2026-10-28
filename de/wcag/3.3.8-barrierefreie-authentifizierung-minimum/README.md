@@ -65,8 +65,6 @@ Hingegen Tests, bei welchen der Nutzer ein Objekt erkennen muss (etwa ein Tier o
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G218>
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H100>
 
-## Referenzen (intern)
-
 ### Weiteres
 
 - Intopia 3.3.8: <https://youtu.be/WJgc-goUhS0>

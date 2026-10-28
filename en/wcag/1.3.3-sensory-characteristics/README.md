@@ -43,14 +43,14 @@ Incorrect input fields in a form are not only outlined in red, but also labelled
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G96>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-3-sensorische-merkmale/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-3-ohne-bezug-auf-sensorische-merkmale-nutzbar>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-3-3-sensory-characteristics/>
 - <https://www.wuhcag.com/sensory-characteristics/>
 - <https://www.digitala11y.com/understanding-sc-1-3-3-sensory-characteristics/>
 - <https://www.boia.org/wcag2/cp/1.3.3>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-3-sensorische-merkmale/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-3-ohne-bezug-auf-sensorische-merkmale-nutzbar>

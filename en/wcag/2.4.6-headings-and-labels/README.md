@@ -20,8 +20,6 @@ Form elements must also be well labelled (using `<label>`, see [📜-1.3.1c Form
 
 **Recommendation:** If possible, avoid using the `title` attribute. This is not consistently displayed by assistive technologies (e.g. screen readers).
 
-
-
 ### External generated content
 
 Inaccessible, externally generated content must be pointed out! For example, by placing a short (visually hidden) information directly before the corresponding content that non-accessible, externally generated content follows.
@@ -77,13 +75,13 @@ Inaccessible, externally generated content must be pointed out! For example, by 
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G130>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G131>
 
+### Weiteres
+- <https://www.wcag.com/authors/2-4-6-headings-and-labels/>
+- <https://www.digitala11y.com/headings-labels-understanding-sc-2-4-6/>
+- <https://www.boia.org/wcag2/cp/2.4.6>
+
 ## References internal
 
 ### BITV
 - <https://www.bit-inklusiv.de/vdp/2-4-6-aussagekraeftige-ueberschriften-und-beschriftungen/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-6-aussagekraeftige-ueberschriften-und-beschriftungen>
-
-### Weiteres
-- <https://www.wcag.com/authors/2-4-6-headings-and-labels/>
-- <https://www.digitala11y.com/headings-labels-understanding-sc-2-4-6/>
-- <https://www.boia.org/wcag2/cp/2.4.6>

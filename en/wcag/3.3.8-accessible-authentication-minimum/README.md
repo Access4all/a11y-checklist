@@ -65,8 +65,6 @@ On the other hand, tests in which the user has to recognize an object (such as a
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G218>
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H100>
 
-## References internal
-
 ### Weiteres
 
 - Intopia 3.3.8: <https://youtu.be/WJgc-goUhS0>

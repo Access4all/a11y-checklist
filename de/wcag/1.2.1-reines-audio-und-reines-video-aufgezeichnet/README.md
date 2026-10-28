@@ -66,13 +66,13 @@ Der Stummfilmklassiker Metropolis aus dem Jahre 1927 beginnt mit der Einblendung
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G166>
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H96>
 
+### Weiteres
+- <https://www.wuhcag.com/audio-only-video-only-prerecorded/>
+- <https://www.digitala11y.com/understanding-sc-1-2-1-audio-only-and-video-only-prerecorded/>
+- <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-2-time-based-media-level-a/#121_Audio-Only_and_Video-Only_Prerecorded_Explained>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/1-2-1-nur-audio-und-nur-video-aufgezeichnet/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-2-1-alternativen-fuer-audiodateien-und-stumme-videos>
-
-### Weiteres
-- <https://www.wuhcag.com/audio-only-video-only-prerecorded/>
-- <https://www.digitala11y.com/understanding-sc-1-2-1-audio-only-and-video-only-prerecorded/>
-- <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-2-time-based-media-level-a/#121_Audio-Only_and_Video-Only_Prerecorded_Explained>

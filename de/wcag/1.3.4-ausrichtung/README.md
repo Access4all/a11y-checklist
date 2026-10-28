@@ -38,12 +38,12 @@ Passt sich der Inhalt nicht automatisch an die Bildschirmorientierung an, so mus
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G214>
 
+### Weiteres
+- <https://www.wcag.com/designers/1-3-4-orientation/>
+- <https://www.digitala11y.com/understanding-sc-1-3-4-orientation/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-4-ausrichtung/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-4-keine-beschraenkung-der-bildschirmausrichtung>
-
-### Weiteres
-- <https://www.wcag.com/designers/1-3-4-orientation/>
-- <https://www.digitala11y.com/understanding-sc-1-3-4-orientation/>

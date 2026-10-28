@@ -60,14 +60,14 @@ Wenn ein Platzhalter (`placeholder`-Attribut) zusätzliche Information liefert, 
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G174>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G145>
 
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-3-kontraste-von-texten/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-3-kontraste-von-texten-ausreichend>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-3-color-contrast/>
 - <https://www.digitala11y.com/understanding-sc-1-4-3-contrast-minimum/>
 - <https://www.boia.org/wcag2/cp/1.4.3>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-3-kontraste-von-texten/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-3-kontraste-von-texten-ausreichend>

@@ -42,14 +42,14 @@ It must also be ensured that such functionalities are not triggered accidentally
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G213>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-5-4-alternativen-fuer-bewegungsaktivierung/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-4-alternativen-fuer-bewegungsaktivierung>
-
 ### Weiteres
 - <https://www.wcag.com/developers/2-5-4-motion-actuation/>
 - <https://www.wuhcag.com/motion-actuation/>
 - <https://www.digitala11y.com/understanding-sc-2-5-4-motion-actuation/>
 - <https://www.boia.org/wcag2/cp/2.5.4>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-5-4-alternativen-fuer-bewegungsaktivierung/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-4-alternativen-fuer-bewegungsaktivierung>

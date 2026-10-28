@@ -21,7 +21,6 @@ If font variations have meaningful content, they must be accessible to everyone.
 
 **Important**: The separation between information with structure (content and HTML) and presentation (CSS) must be ensured. Markup without meaning (such as <i> and <b>) should be avoided.
 
-
 ### Responsibilities
 
 - The development team provides the page areas and functionalities with semantically meaningful markup. It also creates the necessary technical prerequisites for content creation, such as the ability to define corresponding elements in a WYSIWYG editor.
@@ -80,12 +79,12 @@ If font variations have meaningful content, they must be accessible to everyone.
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G138>
 - <https://www.w3.org/WAI/WCAG22/Techniques/text/T1>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/1-3-1-info-und-beziehungen/>
-
 ### Weiteres
 - <https://www.wcag.com/developers/1-3-1-info-and-relationships/>
 - <https://www.wuhcag.com/info-and-relationships/>
 - <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/1-3-1-info-und-beziehungen/>

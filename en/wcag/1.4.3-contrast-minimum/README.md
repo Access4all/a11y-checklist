@@ -27,7 +27,6 @@ The color code stored in the CSS is decisive, not pixel colors that may have bee
 
 If a placeholder (`placeholder` attribute) provides additional information that is not otherwise available, then it must have sufficient contrast. This applies, for example, in the case of format specifications, if it is specified that a zip code, city, order number, etc. can be entered and searched for in a search field. If the placeholder is purely redundant, then no contrast requirements apply to it.
 
-
 **Important:** The color tone plays no role in the calculation of contrast. Thus, for example, a rich green and a rich red may contrary to expectations show too little contrast because people who do not see colors perceive both colors in the same rich gray. On the other hand, a rich green and a weak red are perceived as a rich gray and a weak gray, and the contrast is guaranteed accordingly.
 
 **Exceptions:** No contrast requirements apply to logos or inactive elements (e.g. non-selectable buttons). The same applies to decorative or redundant elements (e.g. a shopping cart symbol in a link labeled “shopping cart”).
@@ -61,14 +60,14 @@ If a placeholder (`placeholder` attribute) provides additional information that 
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G174>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G145>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-3-kontraste-von-texten/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-3-kontraste-von-texten-ausreichend>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-3-color-contrast/>
 - <https://www.digitala11y.com/understanding-sc-1-4-3-contrast-minimum/>
 - <https://www.boia.org/wcag2/cp/1.4.3>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-3-kontraste-von-texten/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-3-kontraste-von-texten-ausreichend>

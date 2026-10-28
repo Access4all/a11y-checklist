@@ -48,8 +48,6 @@ Zuvor eingegebene Nutzer-Daten müssen also in einem nachfolgenden Prozess-Schri
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G221>
 
-## Referenzen (intern)
-
 ### Weiteres
 
 - Intopia 3.3.7: <https://youtu.be/jKirEdlHMao>

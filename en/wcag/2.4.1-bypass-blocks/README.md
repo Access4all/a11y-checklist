@@ -106,13 +106,13 @@ Techniques to further simplify the skipping of such elements for certain assisti
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H64>
 - <https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR28>
 
-## References internal
-
-### BITV
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-1-bereiche-ueberspringbar>
-
 ### Weiteres
 - <https://www.wcag.com/developers/2-4-1-bypass-blocks/>
 - <https://www.wuhcag.com/bypass-blocks/>
 - <https://www.digitala11y.com/understanding-sc-2-4-1-bypass-blocks/>
 - <https://www.boia.org/wcag2/cp/2.4.1>
+
+## References internal
+
+### BITV
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-1-bereiche-ueberspringbar>

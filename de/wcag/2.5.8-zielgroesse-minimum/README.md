@@ -38,9 +38,7 @@ Die vorgeschriebene Mindest-Grösse beträgt `24 * 24px`. Ist ein aktivierbares 
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C42>
 
-## Referenzen (intern)
-
-### Weiterführende Ressourcen
+### Weiteres
 - Intopia 2.5.8: <https://youtu.be/PTgOK2obw9s>
 - <https://www.tpgi.com/how-to-test-2-5-8-target-size-minimum/>
 - <https://www.wcag.com/developers/2-5-8-target-size-minimum-level-aa/>

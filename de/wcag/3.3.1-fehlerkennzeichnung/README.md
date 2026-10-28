@@ -103,13 +103,13 @@ Auch Client-seitige Formular-Validierung kann eingesetzt werden, reicht alleine 
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G139>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G199>
 
+### Weiteres
+- <https://wcag.com/developers/3-3-1-error-identification/>
+- <https://www.wuhcag.com/error-identification/>
+- <https://www.digitala11y.com/understanding-sc-3-3-1-error-identification/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/3-3-1-fehlerkennung/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-3-1-fehlererkennung>
-
-### Weiteres
-- <https://wcag.com/developers/3-3-1-error-identification/>
-- <https://www.wuhcag.com/error-identification/>
-- <https://www.digitala11y.com/understanding-sc-3-3-1-error-identification/>

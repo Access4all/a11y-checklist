@@ -44,8 +44,6 @@ It is important that this help is always found in the same place, especially for
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G220>
 
-## References internal
-
 ### Weiteres
 
 - Intopia 3.2.6: <https://youtu.be/JIuWM3iFPVM>

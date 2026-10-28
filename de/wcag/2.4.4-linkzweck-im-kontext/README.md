@@ -127,13 +127,13 @@ Bei alleinstehenden, textlich uninformativen Links empfehlen wir, den Linktext z
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF11>
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF13>
 
+### Weiteres
+- <https://wcag.com/authors/2-4-4-link-purpose-in-context/>
+- <https://www.wuhcag.com/link-purpose-in-context/>
+- <https://www.digitala11y.com/link-purpose-in-context-understanding-sc-2-4-4/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/2-4-4-linkzweck-im-kontext/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-4-aussagekraeftige-linktexte>
-
-### Weiteres
-- <https://wcag.com/authors/2-4-4-link-purpose-in-context/>
-- <https://www.wuhcag.com/link-purpose-in-context/>
-- <https://www.digitala11y.com/link-purpose-in-context-understanding-sc-2-4-4/>

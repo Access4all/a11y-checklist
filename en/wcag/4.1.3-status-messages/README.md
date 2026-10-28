@@ -74,13 +74,13 @@ It is unfavourable to declare extensive content (e.g. SPAs) completely as live r
 - <https://www.w3.org/WAI/WCAG22/Techniques/aria/ARIA22>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G193>
 
+### Weiteres
+- <https://www.wcag.com/developers/4-1-3-status-messages/>
+- <https://www.digitala11y.com/understanding-sc-4-1-3-status-messages/>
+- <https://www.boia.org/blog/understanding-wcag-2-1-success-criterion-4-3-1-status-messages>
+
 ## References internal
 
 ### BITV
 - <https://www.bit-inklusiv.de/vdp/4-1-3-statusmeldungen-programmatisch-verfuegbar/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-4-1-3-statusmeldungen-programmatisch-verfuegbar>
-
-### Weiteres
-- <https://www.wcag.com/developers/4-1-3-status-messages/>
-- <https://www.digitala11y.com/understanding-sc-4-1-3-status-messages/>
-- <https://www.boia.org/blog/understanding-wcag-2-1-success-criterion-4-3-1-status-messages>

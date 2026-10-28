@@ -52,8 +52,6 @@ It is therefore important that functions that rely on dragging movements can als
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G219>
 
-## References internal
-
 ### Weiteres
 
 - <https://www.tpgi.com/how-to-test-2-5-7-dragging-movements/>

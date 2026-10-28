@@ -43,14 +43,14 @@ Steuer-Buttons (Play, Stopp usw.) stehen zur Verfügung.
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G170>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G171>
 
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/1-4-2-audio-steuerung/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-2-ton-abschaltbar>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-2-audio-control/>
 - <https://www.wuhcag.com/audio-control/>
 - <https://www.digitala11y.com/understanding-sc-1-4-2-audio-control/>
 - <https://www.boia.org/wcag2/cp/1.4.2>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/1-4-2-audio-steuerung/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-2-ton-abschaltbar>

@@ -38,9 +38,7 @@ The prescribed minimum size is `24 * 24px`. If an activatable element is smaller
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C42>
 
-## References internal
-
-### Weiterführende Ressourcen
+### Weiteres
 - Intopia 2.5.8: <https://youtu.be/PTgOK2obw9s>
 - <https://www.tpgi.com/how-to-test-2-5-8-target-size-minimum/>
 - <https://www.wcag.com/developers/2-5-8-target-size-minimum-level-aa/>

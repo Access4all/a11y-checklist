@@ -52,14 +52,14 @@ Bei grafischen Elementen bedeuten ausreichende Kontraste, dass jeder visuelle Hi
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G207>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G209>
 
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-11-nicht-text-kontrast/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-11-kontraste-von-grafiken-und-grafischen-bedienelementen-ausreichend>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-11-non-text-contrast/>
 - <https://www.digitala11y.com/understanding-sc-1-4-11-non-text-contrast/>
 - <https://www.boia.org/wcag2/cp/1.4.11>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/#Success_Criterion_1411_Non-Text_Contrast>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-11-nicht-text-kontrast/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-11-kontraste-von-grafiken-und-grafischen-bedienelementen-ausreichend>

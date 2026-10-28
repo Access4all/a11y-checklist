@@ -23,7 +23,6 @@ For text content, the spacing of lines, paragraphs, words and letters must be ad
 - Word spacing (`word-spacing`) can be changed by at least `0.16` times the font size.
 - Character spacing (`letter-spacing`) can be changed by at least `0.12` times the font size.
 
-
 **Note:** This only applies to ‘real’ text; texts on graphics are not affected. For requirements relating to images of a text, see [📜-1.4.5 Images of Text](/en/wcag/1.4.5-images-of-text).
 
 **Important:** The requirement does not demand that the specified change options be implemented in the programming (e.g. using a style switcher). It only requires that subsequent adjustments made in the browser do not lead to text being cut off or overlapped or to a loss of functionality.
@@ -57,14 +56,14 @@ The spacing is increased with the help of customised bookmarklets or style sheet
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C21>
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C28>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-12-textabstand/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-12-textabstaende-anpassbar>
-
 ### Weiteres
 - <https://www.wcag.com/designers/1-4-12-text-spacing/>
 - <https://www.digitala11y.com/understanding-sc-1-4-12-text-spacing/>
 - <https://www.boia.org/wcag2/cp/1.4.12>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/#Success_Criterion_1412_Text_Spacing>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-12-textabstand/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-12-textabstaende-anpassbar>

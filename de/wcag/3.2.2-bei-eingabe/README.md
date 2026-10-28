@@ -44,13 +44,13 @@ Stellen Sie etwa sicher, dass die Wahl eines Eintrags in einer Combobox (`<selec
 - <https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR19>
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF15>
 
+### Weiteres
+- <https://wcag.com/developers/3-2-2-on-input/>
+- <https://www.wuhcag.com/on-input/>
+- <https://www.digitala11y.com/understanding-sc-3-2-2-on-input/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/vdp/3-2-2-kontextaenderung-bei-eingabe/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-2-2-keine-unerwartete-kontextaenderung-bei-eingabe>
-
-### Weiteres
-- <https://wcag.com/developers/3-2-2-on-input/>
-- <https://www.wuhcag.com/on-input/>
-- <https://www.digitala11y.com/understanding-sc-3-2-2-on-input/>

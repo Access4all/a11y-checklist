@@ -64,14 +64,14 @@ The accessible label can differ from the visible label if it is defined via non-
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G208>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G211>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-5-3-sichtbare-beschriftung-teil-des-zugaenglichen-namens/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-3-sichtbare-beschriftung-teil-des-zugaenglichen-namens>
-
 ### Weiteres
 - <https://www.wcag.com/authors/2-5-3-label-in-name/>
 - <https://www.wuhcag.com/label-in-name/>
 - <https://www.digitala11y.com/understanding-sc-2-5-3-label-in-name/>
 - <https://www.boia.org/wcag2/cp/2.5.3>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-5-3-sichtbare-beschriftung-teil-des-zugaenglichen-namens/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-3-sichtbare-beschriftung-teil-des-zugaenglichen-namens>

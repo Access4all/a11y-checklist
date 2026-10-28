@@ -50,14 +50,14 @@ It is therefore important that functions that rely on path and/or multi-point po
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G215>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G216>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-5-1-zeigergesten-alternativen-fuer-komplexe-zeiger-gesten/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-1-alternativen-fuer-komplexe-zeiger-gesten>
-
 ### Weiteres
 - <https://www.wcag.com/developers/2-5-1-pointer-gestures/>
 - <https://www.wuhcag.com/pointer-gestures/>
 - <https://www.digitala11y.com/understanding-sc-2-5-1-pointer-gestures/>
 - <https://www.boia.org/wcag2/cp/2.5.1>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-5-1-zeigergesten-alternativen-fuer-komplexe-zeiger-gesten/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-1-alternativen-fuer-komplexe-zeiger-gesten>

@@ -54,13 +54,13 @@ Wir empfehlen zudem, dass Zustandsänderungen (wie Hover und Fokus) nicht nur ü
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G111>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G14>
 
+### Weiteres
+- <https://www.wcag.com/designers/1-4-1-use-of-color/>
+- <https://www.wuhcag.com/use-of-colour/>
+- <https://www.digitala11y.com/understanding-sc-1-4-1-use-of-color/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-1-nutzung-von-farbe/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-1-ohne-farben-nutzbar>
-
-### Weiteres
-- <https://www.wcag.com/designers/1-4-1-use-of-color/>
-- <https://www.wuhcag.com/use-of-colour/>
-- <https://www.digitala11y.com/understanding-sc-1-4-1-use-of-color/>

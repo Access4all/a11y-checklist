@@ -48,8 +48,6 @@ Previously entered user data must therefore be made available for selection in a
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G221>
 
-## References internal
-
 ### Weiteres
 
 - Intopia 3.3.7: <https://youtu.be/jKirEdlHMao>

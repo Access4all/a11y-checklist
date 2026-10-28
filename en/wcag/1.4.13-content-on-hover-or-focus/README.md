@@ -48,13 +48,13 @@ The following aspects must be taken into account:
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/client-side-script/SCR39>
 
+### Weiteres
+- <https://www.wcag.com/authors/1-4-13-content-on-hover-or-focus/>
+- <https://www.digitala11y.com/understanding-sc-1-4-13-content-on-hover-or-focus/>
+- <https://www.boia.org/blog/tips-for-meeting-wcag-1.4.13-content-on-hover-or-focus>
+
 ## References internal
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-13-eingeblendete-inhalte/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-13-eingeblendete-inhalte-bedienbar>
-
-### Weiteres
-- <https://www.wcag.com/authors/1-4-13-content-on-hover-or-focus/>
-- <https://www.digitala11y.com/understanding-sc-1-4-13-content-on-hover-or-focus/>
-- <https://www.boia.org/blog/tips-for-meeting-wcag-1.4.13-content-on-hover-or-focus>

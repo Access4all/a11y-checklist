@@ -53,14 +53,14 @@ Permanently animated elements (such as advertising banners) require additional a
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G186>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G191>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-2-2-bewegte-inhalte-abschaltbar/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-2-2-bewegte-inhalte-abschaltbar>
-
 ### Weiteres
 - <https://www.wcag.com/designers/2-2-2-pause-stop-hide/>
 - <https://www.wuhcag.com/pause-stop-hide/>
 - <https://www.digitala11y.com/understanding-sc-2-2-2-pause-stop-hide/>
 - <https://www.boia.org/wcag2/cp/2.2.2>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-2-2-bewegte-inhalte-abschaltbar/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-2-2-bewegte-inhalte-abschaltbar>

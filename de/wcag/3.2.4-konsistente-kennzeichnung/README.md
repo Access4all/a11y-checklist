@@ -43,12 +43,12 @@ Die Such-Funktion ist in allen Seiten immer gleich aufgebaut und betitelt.
 ### Techniken
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G197>
 
-## Referenzen (intern)
-
-### BITV
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-2-4-konsistente-bezeichnung>
-
 ### Weiteres
 - <https://www.wcag.com/authors/3-2-4-consistent-identification/>
 - <https://www.digitala11y.com/3-2-4-consistent-identification/>
 - <https://www.boia.org/wcag2/cp/3.2.4>
+
+## Referenzen (intern)
+
+### BITV
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-2-4-konsistente-bezeichnung>

@@ -151,6 +151,13 @@ The following graphical elements should be implemented in such a way that they c
 - <https://www.w3.org/WAI/WCAG22/Techniques/html/H67>
 - <https://www.w3.org/WAI/WCAG22/Techniques/pdf/PDF4>
 
+### Weiteres
+- <https://www.smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/>
+- <https://www.wcag.com/authors/1-1-1-non-text-content/>
+- <https://www.wuhcag.com/non-text-content/>
+- <https://www.digitala11y.com/understanding-sc-1-1-1-non-text-content/>
+- <https://www.boia.org/wcag2/cp/1.1.1>
+
 ## References internal
 
 ### BITV
@@ -159,10 +166,3 @@ The following graphical elements should be implemented in such a way that they c
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-1-1b-alternativtexte-fuer-grafiken-und-objekte>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-1-1c-leere-alt-attribute-fuer-layoutgrafiken>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-1-1d-alternativen-fuer-captchas>
-
-### Weitere
-- <https://www.smashingmagazine.com/2021/05/accessible-svg-patterns-comparison/>
-- <https://www.wcag.com/authors/1-1-1-non-text-content/>
-- <https://www.wuhcag.com/non-text-content/>
-- <https://www.digitala11y.com/understanding-sc-1-1-1-non-text-content/>
-- <https://www.boia.org/wcag2/cp/1.1.1>

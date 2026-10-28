@@ -41,12 +41,12 @@ Various methods must be available to locate content so that people with differen
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G126>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G185>
 
-## References internal
-
-### BITV
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-5-alternative-zugangswege>
-
 ### Weiteres
 - <https://www.wcag.com/designers/2-4-5-multiple-ways/>
 - <https://www.digitala11y.com/2-4-5-multiple-ways-to-locate-web-pages/>
 - <https://www.boia.org/wcag2/cp/2.4.5>
+
+## References internal
+
+### BITV
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-5-alternative-zugangswege>

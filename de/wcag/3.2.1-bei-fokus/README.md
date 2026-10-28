@@ -39,13 +39,13 @@ Stellen Sie etwa sicher, dass bei Fokus weder Links oder Schalter aktiviert noch
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G200>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G201>
 
+### Weiteres
+- <https://wcag.com/designers/3-2-1-on-focus/>
+- <https://www.wuhcag.com/on-focus/>
+- <https://www.digitala11y.com/understanding-sc-3-2-1-on-focus/>
+
 ## Referenzen (intern)
 
 ### BITV
 - <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-2-kontextaenderung-bei-fokus/>
 - <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-2-1-keine-unerwartete-kontextaenderung-bei-fokus>
-
-### Weiteres
-- <https://wcag.com/designers/3-2-1-on-focus/>
-- <https://www.wuhcag.com/on-focus/>
-- <https://www.digitala11y.com/understanding-sc-3-2-1-on-focus/>

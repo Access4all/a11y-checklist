@@ -50,14 +50,14 @@ Es ist deshalb wichtig, dass Funktionen, die auf Pfad- und/oder Mehrpunkt-Zeiger
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G215>
 - <https://www.w3.org/WAI/WCAG22/Techniques/general/G216>
 
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-5-1-zeigergesten-alternativen-fuer-komplexe-zeiger-gesten/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-1-alternativen-fuer-komplexe-zeiger-gesten>
-
 ### Weiteres
 - <https://www.wcag.com/developers/2-5-1-pointer-gestures/>
 - <https://www.wuhcag.com/pointer-gestures/>
 - <https://www.digitala11y.com/understanding-sc-2-5-1-pointer-gestures/>
 - <https://www.boia.org/wcag2/cp/2.5.1>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-5-1-zeigergesten-alternativen-fuer-komplexe-zeiger-gesten/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-1-alternativen-fuer-komplexe-zeiger-gesten>

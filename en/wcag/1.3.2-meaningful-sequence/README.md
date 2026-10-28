@@ -80,12 +80,6 @@ If, for example, the photo of a news item is placed visually before its headline
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C6>
 - <https://www.w3.org/WAI/WCAG22/Techniques/css/C8>
 
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/1-3-2-sinnvolle-reihenfolge/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-2-sinnvolle-reihenfolge>
-
 ### Weiteres
 
 - <https://adrianroselli.com/2015/09/source-order-matters.html>
@@ -95,3 +89,9 @@ If, for example, the photo of a news item is placed visually before its headline
 - <https://www.wuhcag.com/meaningful-sequence/>
 - <https://www.digitala11y.com/understanding-sc-1-3-2-meaningful-sequence/>
 - <https://www.boia.org/wcag2/cp/1.3.2>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/1-3-2-sinnvolle-reihenfolge/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-2-sinnvolle-reihenfolge>
