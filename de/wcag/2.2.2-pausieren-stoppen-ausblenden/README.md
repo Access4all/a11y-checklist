@@ -58,3 +58,9 @@ Dauerhaft animierte Elemente (etwa Werbebanner) erfordern zusätzliche Aufmerksa
 - <https://www.wuhcag.com/pause-stop-hide/>
 - <https://www.digitala11y.com/understanding-sc-2-2-2-pause-stop-hide/>
 - <https://www.boia.org/wcag2/cp/2.2.2>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-2-2-bewegte-inhalte-abschaltbar/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-2-2-bewegte-inhalte-abschaltbar>

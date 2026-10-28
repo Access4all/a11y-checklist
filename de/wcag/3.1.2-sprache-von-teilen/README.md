@@ -63,3 +63,8 @@ In längeren Textpassagen müssen Sprachwechsel angegeben sein. Ansonsten lesen 
 - <https://www.wcag.com/developers/3-1-2-language-of-parts/>
 - <https://www.digitala11y.com/understanding-sc-3-1-2-language-of-parts/>
 - <https://www.boia.org/wcag2/cp/3.1.2>
+
+## Referenzen (intern)
+
+### BITV
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-1-2-anderssprachige-woerter-und-abschnitte-ausgezeichnet>

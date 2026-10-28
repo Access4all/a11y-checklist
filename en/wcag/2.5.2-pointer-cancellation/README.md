@@ -66,3 +66,9 @@ Therefore, functionality that is operated with a pointing device must fulfil at 
 - <https://www.wuhcag.com/pointer-cancellation/>
 - <https://www.digitala11y.com/2-5-2-pointer-cancellation/>
 - <https://www.boia.org/wcag2/cp/2.5.2>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-5-2-zeigerabbruch/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-2-zeigergesten-eingaben-koennen-abgebrochen-oder-widerrufen-werden>

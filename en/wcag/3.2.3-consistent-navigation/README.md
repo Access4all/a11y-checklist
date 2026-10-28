@@ -40,3 +40,8 @@ Therefore, you should ensure that navigation is offered consistently on differen
 - <https://www.wcag.com/designers/3-2-3-consistent-navigation/>
 - <https://www.digitala11y.com/3-2-3-consistent-navigation/>
 - <https://www.boia.org/wcag2/cp/3.2.3>
+
+## References internal
+
+### BITV
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-2-3-konsistente-navigation>

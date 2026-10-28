@@ -157,3 +157,12 @@ The following graphical elements should be implemented in such a way that they c
 - <https://www.wuhcag.com/non-text-content/>
 - <https://www.digitala11y.com/understanding-sc-1-1-1-non-text-content/>
 - <https://www.boia.org/wcag2/cp/1.1.1>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/1-1-1-nicht-text-inhalte/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-1-1a-alternativtexte-fuer-bedienelemente>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-1-1b-alternativtexte-fuer-grafiken-und-objekte>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-1-1c-leere-alt-attribute-fuer-layoutgrafiken>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-1-1d-alternativen-fuer-captchas>

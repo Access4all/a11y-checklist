@@ -69,3 +69,9 @@ Die zugängliche Beschriftung kann von der sichtbaren Beschriftung abweichen, we
 - <https://www.wuhcag.com/label-in-name/>
 - <https://www.digitala11y.com/understanding-sc-2-5-3-label-in-name/>
 - <https://www.boia.org/wcag2/cp/2.5.3>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/2-5-3-sichtbare-beschriftung-teil-des-zugaenglichen-namens/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-3-sichtbare-beschriftung-teil-des-zugaenglichen-namens>

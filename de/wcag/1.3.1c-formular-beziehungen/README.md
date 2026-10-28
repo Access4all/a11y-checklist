@@ -134,3 +134,9 @@ Wir empfehlen, mit Anweisungen in Formularen zurückhaltend zu sein; für ausfü
 - <https://wcag.com/developers/1-3-1-info-and-relationships/>
 - <https://www.wuhcag.com/info-and-relationships/>
 - <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-1-info-und-beziehungen/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-1h-beschriftung-von-formularelementen-programmatisch-ermittelbar>

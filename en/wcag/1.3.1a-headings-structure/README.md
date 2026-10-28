@@ -116,3 +116,10 @@ Headings are generally the first element of a content block in the DOM. They alw
 - <https://wcag.com/developers/1-3-1-info-and-relationships/>
 - <https://www.wuhcag.com/info-and-relationships/>
 - <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-1-info-und-beziehungen/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-1a-html-strukturelemente-fuer-ueberschriften>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-1-bereiche-ueberspringbar>

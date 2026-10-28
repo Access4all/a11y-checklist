@@ -65,3 +65,9 @@ If a placeholder (`placeholder` attribute) provides additional information that 
 - <https://www.digitala11y.com/understanding-sc-1-4-3-contrast-minimum/>
 - <https://www.boia.org/wcag2/cp/1.4.3>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-3-kontraste-von-texten/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-3-kontraste-von-texten-ausreichend>

@@ -61,3 +61,10 @@ Falls Videos nur Hintergrundmusik spielen, weisen Sie auch darauf hin (z.B. "Ent
 - <https://wcag.com/authors/1-2-2-captions-prerecorded/>
 - <https://www.digitala11y.com/understanding-sc-1-2-2-captions-prerecorded/>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-2-time-based-media-level-a/#122_Captions_Prerecorded_Explained>
+
+## Referenzen (intern)
+
+### BITV
+
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-2-2-untertitel-aufgezeichnete-videos/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-7-1-1-wiedergabe-von-untertiteln>

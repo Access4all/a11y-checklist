@@ -64,3 +64,9 @@ Ausgenommen sind Texte, bei welchen die besondere Art der Präsentation unentbeh
 - <https://www.digitala11y.com/understanding-sc-1-4-5-image-of-text/>
 - <https://www.boia.org/wcag2/cp/1.4.5>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/#Success_Criterion_145_Images_of_Text>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-5-schriftgrafiken/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-5-schriftgrafiken>

@@ -120,3 +120,9 @@ Use the techniques presented in [📜-3.3.1 Error Identification](/en/wcag/3.3.1
 - <https://wcag.com/developers/3-3-2-labels-instructions/>
 - <https://www.wuhcag.com/labels-or-instructions/>
 - <https://www.digitala11y.com/understanding-sc-3-3-2-labels-or-instructions/>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/3-3-2-beschriftungen-oder-anweisungen/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-3-2-beschriftungen-von-formularelementen-vorhanden>

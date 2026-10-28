@@ -71,3 +71,9 @@ See [📜-3.3.1 Error Identification](/en/wcag/3.3.1-error-identification) and [
 - <https://www.wcag.com/designers/3-3-3-error-suggestion/>
 - <https://www.digitala11y.com/understanding-sc-3-3-3-error-suggestion/>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/3-3-input-assistance-level-aa-and-aaa/#Success_Criterion_333_Error_Suggestion>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/3-3-3-fehlerbehebung/>
+- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-3-3-hilfe-bei-fehlern>

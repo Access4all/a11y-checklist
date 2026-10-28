@@ -83,3 +83,8 @@ Wenn Schriftvariationen eine inhaltliche Bedeutung haben, muss diese für alle e
 - <https://www.wcag.com/developers/1-3-1-info-and-relationships/>
 - <https://www.wuhcag.com/info-and-relationships/>
 - <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/1-3-1-info-und-beziehungen/>

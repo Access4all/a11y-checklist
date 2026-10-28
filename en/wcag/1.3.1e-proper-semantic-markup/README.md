@@ -83,3 +83,8 @@ If font variations have meaningful content, they must be accessible to everyone.
 - <https://www.wcag.com/developers/1-3-1-info-and-relationships/>
 - <https://www.wuhcag.com/info-and-relationships/>
 - <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
+
+## References internal
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/1-3-1-info-und-beziehungen/>

@@ -55,3 +55,8 @@ Das vorliegende Erfolgskriterium 1.3.1 ist sehr umfangreich. Neben den Prüfpunk
 - <https://www.wuhcag.com/info-and-relationships/>
 - <https://www.digitala11y.com/understanding-sc-1-3-1-info-and-relationship/>
 - <https://www.boia.org/wcag2/cp/1.3.1>
+
+## Referenzen (intern)
+
+### BITV
+- <https://www.bit-inklusiv.de/vdp/1-3-1-info-und-beziehungen/>
