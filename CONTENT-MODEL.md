@@ -71,11 +71,15 @@ Split criteria (`1.3.1a` etc.) differ in two ways: their `parent_id` points at t
 ```yaml
 id: "1"
 wcag_criterion_id: "1" # must equal the id of the criterion folder it sits in
-applies_to_pdf: "true"             # all five flags: "true" | "false"; at least one must be "true"
+applies_to_pdf: "true"             # all five applies_to_* flags: "true" | "false"; at least one must be "true"
 applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"          # medium applicability: "true" | "false"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"             # can be tested by a blind tester: "true" | "false"
 created_at: "..."
 ```
 
@@ -89,7 +93,7 @@ created_at: "..."
 
 Tags form a tree: root tags (e.g. `werkzeuge`, `techniken`, `aria-attribute`) have an empty `parent_id`; all others point to another tag's id.
 
-Tag names and descriptions were never localized in the original database (a single field served both languages), so the English tag files duplicate the German content until they are actually translated.
+Tag names and descriptions were never localized in the original database (a single field served both languages), so the English tag descriptions only say "🇩🇪 Currently only available in German." until they are actually translated.
 
 ## Body conventions
 
@@ -101,8 +105,8 @@ Tag names and descriptions were never localized in the original database (a sing
 - H2 sections are **fixed per content type** (they render database fields): only the sections below may appear, each at most once, in exactly this order. Sections marked *(optional)* correspond to nullable database fields and may be omitted; all others are required. Deeper headings (H3+) are free-form.
   - Criterion (de): `Verstehen (in Kürze)`, `Verstehen (ausführlich)`, `Beispiele` *(optional)*, `✅ Checkpoints`, `Referenzen (öffentlich)` *(optional)*, `Referenzen (intern)` *(optional)*
   - Criterion (en): `Understanding (short)`, `Understanding (long)`, `Examples` *(optional)*, `✅ Checkpoints`, `References public` *(optional)*, `References internal` *(optional)*
-  - Checkpoint (de): `Beschreibung`, `Prüfmethode (in Kürze)`, `Prüfmethode für Web (ausführlich)`, `Screenshots typischer Fälle`
-  - Checkpoint (en): `Description`, `Method`, `Details on web applicability (specific test steps)`, `Screenshots`
+  - Checkpoint (de): `Beschreibung`, `Prüfmethode (in Kürze)`, `Prüfmethode für Web (ausführlich)`, `Prüfmethode für Mobile (Ergänzungen zu Web)`, `Prüfmethode für PDF (Ergänzungen zu Web)`, `Details zum blinden Testen`, `Screenshots typischer Fälle`
+  - Checkpoint (en): `Description`, `Method`, `Details on web applicability (specific test steps)`, `Details on mobile applicability (additions to web)`, `Details on PDF applicability (additions to web)`, `Blind testable details`, `Screenshots`
   - Tag: `Beschreibung` / `Description`
   - Principles and guidelines have no H2 sections at all.
 - Markdown uses default syntax only (no extensions).
@@ -142,4 +146,4 @@ The validator enforces everything above that can be checked mechanically (frontm
 Known gaps versus the original database, to be resolved:
 
 - **Tag categories:** the database's `tags.category` field was not exported. A CSV dump exists to backfill it as a frontmatter field.
-- **`applies_to_pdf` vs `applicable_to_pdf`:** the branch `feat/add-mobile-pdf-blind-and-videos` introduces `applicable_to_web/mobile/pdf` (medium applicability) alongside the existing `applies_to_pdf` (audience flag) — two near-identical names for different concepts. To be resolved when that branch lands; renaming the `applies_to_*` audience flags is acceptable. The branch's new frontmatter keys and H2 sections must be added here and to the validator at the same time.
+- **`applies_to_pdf` vs `applicable_to_pdf`:** `applies_to_pdf` is an imprecise predecessor of `applicable_to_pdf`, and the two disagree on 29 checkpoints. A planned restructuring resolves this: per-medium sections (Web, Mobile, PDF) replace the `applicable_to_*` flags, `applies_to_pdf`, `applies_to_development` and `applies_to_quality_assurance` are removed, and `applies_to_design` and `applies_to_content` stay for filtering by role.
