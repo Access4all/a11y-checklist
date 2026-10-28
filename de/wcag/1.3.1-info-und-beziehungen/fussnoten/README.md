@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-14 12:21:16"
+video_ids: "[]"
 ---
 
 # ✅ Fussnoten
@@ -33,8 +38,27 @@ Fussnoten sind barrierefrei umgesetzt: Auch mit einem Screenreader ist beim Fuss
         - **😡 Beispiel:** Die Fussnote wird als "1" angesagt und ist nicht verlinkt
         - **🙄 Beispiel:** Die Fussnote ist zur Definition hin verlinkt, aber nicht mehr zurück → über die "Zurück"-Funktion des Browsers kann ggf. wieder an die ursprüngliche Stelle gesprungen werden, aber z.B. innerhalb eines Formulars ist man eher vorsichtig, diese Funktion zu nutzen (um nicht versehentlich Eingaben wieder zu löschen)
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) Fussnoten lesen und bedienen
+1. Sicherstellen, dass Fussnoten funktionieren und man den Kontext nicht verliert
+
+## Details zum blinden Testen
+
+Ja (falls die Fussnoten überhaupt als solche erkannt werden).
+
 ## Screenshots typischer Fälle
 
 ![Fussnoten sind in-Page Anker-Links...](images/fussnoten-sind-in-page-anker-links.png)
 
 ![...und verlinken zurück!](images/und-verlinken-zurck.png)
+
+## Videos
+
+Keine Videos verfügbar.

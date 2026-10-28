@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:43:01"
+video_ids: "[]"
 ---
 
 # ✅ Texte nicht als Grafiken
@@ -35,6 +40,27 @@ Texte werden nicht nur als Grafiken eingebunden, denn diese lassen keine Anpassu
         - ⚠️ Bei sowas muss man sich immer fragen: legitimiert die rein ästhetische Optimierung eines Elements tatsächlich die Verringerung ihrer Barrierefreiheit?
     - **😡 Beispiel:** Ein komplexer Textinhalt (z.B. Paragrafen, Listen, etc.) ist komplett als Schriftgrafik umgesetzt
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+Hier ist die Prüfung schwieriger, da man solche Elemente nur mit Screenreader entdecken kann. In neueren iOS-Versionen versucht VoiceOver zudem, Texte auf Grafiken mittels KI automatisch zu erkennen und vorzulesen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Überprüfen, ob Text markiert werden kann und somit als Text ausgegeben wird, oder
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen.
+
+## Details zum blinden Testen
+
+Nein.
+
 ## Screenshots typischer Fälle
 
 ![Ein komplexer Text nur als Bild umgesetzt](images/ein-komplexer-text-nur-als-bild-umgesetzt.png)
+
+## Videos
+
+Keine Videos verfügbar.

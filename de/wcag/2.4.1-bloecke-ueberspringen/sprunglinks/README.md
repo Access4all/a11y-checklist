@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 13:50:20"
+video_ids: "[]"
 ---
 
 # ✅ Sprunglinks
@@ -34,6 +39,23 @@ Sprunglinks ermöglichen das einfache Überspringen von sich wiederholenden Info
 
 ⚠️ Es kann auch weitere Sprunglinks auf einer Seite haben, z.B. zur Suche, zum Fussbereich, etc. Dies kann je nach Webseite sinnvoll sein, aber man sollte es nicht übertreiben!
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Kann in hybriden Mobile Apps vorkommen, sowie auch auf Mobile Webseiten.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen
+1. Prüfen, dass Headings vorhanden sind, um Inhalte überspringen zu können.
+
+## Details zum blinden Testen
+
+Auch wenn Sprunglinks nicht für Screenreader (sondern explizit für Tastatur-Nutzende) gedacht sind, kann das Vorhandensein und Funktionieren derselben auch mit Screenreader getestet werden.
+
+(Screenreader benötigen keine Sprunglinks, weil sie z.B. Überschriften anspringen und deshalb problemlos auch grosse Inhaltsblöcke überspringen können.)
+
 ## Screenshots typischer Fälle
 
 ![Sprunglink auf GitHub](images/sprunglink-auf-github.png)
@@ -41,3 +63,7 @@ Sprunglinks ermöglichen das einfache Überspringen von sich wiederholenden Info
 ![Sprunglink auf WebAIM](images/sprunglink-auf-webaim.png)
 
 ![Sprunglink im A4AA](images/sprunglink-im-a4aa.png)
+
+## Videos
+
+Keine Videos verfügbar.

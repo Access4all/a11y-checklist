@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-14 13:18:55"
+video_ids: "[10]"
 ---
 
 # ✅ Paragraphs semantically correct
@@ -25,8 +30,24 @@ Paragraphs are semantically correctly labelled, not just visually (e.g. using do
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Absatz mit doppelten BR vorgegaukelt](images/absatz-mit-doppelten-br-vorgegaukelt.png)
 
 ![Absätze nur als DIV formatiert](images/abstze-nur-als-div-formatiert.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

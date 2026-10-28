@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:16:37"
+video_ids: "[6]"
 ---
 
 # ✅ Tooltips / Toggletips
@@ -85,6 +90,18 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 ⚠️ Dem gegenüber stehen die grösseren und komplexeren **Dialoge**, siehe [✅ Dialoge](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/dialoge).
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Einerseits können in einer Mobile App beliebige Web-Inhalte (inkl. Tooltips / Toggletips) eingebettet sein; andererseits gibt es auch native Implementierungen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+So komplexe interaktive Elemente gibt's in PDFs nicht.
+
+## Details zum blinden Testen
+
+Tooltips / Toggletips **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) geprüft werden!
+
 ## Screenshots typischer Fälle
 
 ![Tooltip oben](images/tooltip-oben.png)
@@ -94,3 +111,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 ![Tooltip aus dem ADG](images/tooltip-aus-dem-adg.png)
 
 ![Tooltip mit fokussierbaren Inhalten](images/tooltip-mit-fokussierbaren-inhalten.png)
+
+## Videos
+
+Keine Videos verfügbar.

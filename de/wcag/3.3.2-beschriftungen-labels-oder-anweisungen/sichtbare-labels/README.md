@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 14:09:10"
+video_ids: "[]"
 ---
 
 # ✅ Sichtbare Labels
@@ -35,8 +40,27 @@ Formularfelder verfügen über visuell sichtbare Labels. Die alleinige Verwendun
         - **😡 Beispiel:** Das Label verschwindet bei Klick ins Eingabefeld bzw. sobald man etwas eingibt (typisches Verhalten von `placeholder`)
         - ⚠️ Wenn ein Ausklapp-Element (z.B. ein `<select>`) beim Ausklappen sein eigenes Label temporär verdeckt, ist dies aber kein Problem!
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zum Prüfen einfach zum fehlerhaften Eingabefeld wischen und damit interagieren.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Durch Eingabefelder navigieren mit `Tab`
+1. Sichtprüfung, ob alle Eingabefelder sichtbare Labels haben.
+
+## Details zum blinden Testen
+
+Nein.
+
 ## Screenshots typischer Fälle
 
 ![Labels sind immer sichtbar in A4AA](images/labels-sind-immer-sichtbar-in-a4aa.png)
 
 ![Float-Label-Pattern](images/float-label-pattern.png)
+
+## Videos
+
+Keine Videos verfügbar.

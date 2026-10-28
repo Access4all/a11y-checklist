@@ -2,6 +2,7 @@
 id: "9"
 parent_id: "60"
 created_at: "2024-03-09 11:05:52"
+video_ids: "[15]"
 ---
 
 # 🏷️ Hover (Inhalte einblenden)
@@ -13,3 +14,7 @@ Der Hover-Status eines Elements war ursprünglich dazu gedacht, rein **dekorativ
 Manchmal wird das Hovern aber auch als Trigger für **funktionale** Anpassungen verwendet. So kann beim Hovern über ein Dropdown-Menü dasselbe gleich aufklappen. Dies kann als benutzerfreundlich empfunden werden, weil es einen zusätzlichen Klick erspart. Es kann aber problematisch sein, wenn die bei Hover getriggerte Funktionalität unerwartet ist: wenn beim Hovern über einen kleinen Link ein riesiges Mega-Menü sich öffnet, dann kann das erschrecken und verwirren.
 
 Deshalb raten wir eher vor solchen Hover-Triggern ab, insbesondere bei grossen Inhalten wie eben z.B. Mega-Menüs (da sie oft andere Inhalte plötzlich und unbeabsichtigt verdecken). Wir empfehlen, nur bei Klick Inhalte ein- und auszublenden (dies stellt auch die Tastaturbedienung sicher).
+
+## Videos
+
+- [🎬 Tooltips erscheinen bei Fokus - Brack (💚💻)](/de/videos/tooltips-erscheinen-bei-fokus-brack)

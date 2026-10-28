@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 13:46:37"
+video_ids: "[7, 31]"
 ---
 
 # ✅ Keyboard traps
@@ -25,6 +30,18 @@ There are no keyboard traps. All operating elements can be accessed and exited u
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ### Fokus gefangen in Gruppe von Elementen
@@ -32,3 +49,7 @@ There are no keyboard traps. All operating elements can be accessed and exited u
 ![Fokus bleibt gefangen in Unter-Navigation (Brack)](images/fokus-bleibt-gefangen-in-unter-navigation-brack.png)
 
 Nach dem letzten Element "Ausverkauf" springt man direkt zurück zum ersten Element "IT & Multimedia".
+
+## Videos
+
+🇩🇪 Currently only available in German.

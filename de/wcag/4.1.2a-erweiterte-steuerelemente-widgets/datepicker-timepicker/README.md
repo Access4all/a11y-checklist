@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:14:05"
+video_ids: "[]"
 ---
 
 # ✅ Datepicker / Timepicker
@@ -121,6 +126,22 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 ⚠️ Für die Tastatur-Nutzung macht dies oft wenig Unterschied; mit Screenreader kann sich die Bedienung aber erheblich unterscheiden, was in Ordnung ist (Hauptsache, die Implementierung ist verständlich und zielführend nutzbar).
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Einerseits können in einer Mobile App beliebige Web-Inhalte (inkl. Datepicker) eingebettet sein; andererseits gibt es auch native Implementierungen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+So komplexe interaktive Elemente gibt's in PDFs nicht.
+
+## Details zum blinden Testen
+
+Datepicker **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) geprüft werden!
+
 ## Screenshots typischer Fälle
 
 ![Angular Material Datepicker](images/angular-material-datepicker.png)
+
+## Videos
+
+Keine Videos verfügbar.

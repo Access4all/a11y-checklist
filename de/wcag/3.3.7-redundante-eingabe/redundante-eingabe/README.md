@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-04-16 08:35:33"
+video_ids: "[]"
 ---
 
 # ✅ Redundante Eingabe
@@ -34,8 +39,24 @@ Persönliche Daten müssen nicht mehrfach eingegeben werden, sondern sind bei me
         - ⚠️ Erlaubte Ausnahme: Aus Gründen der Sicherheit macht das durchaus Sinn
     - **🙂 Beispiel:** Nach Abschicken eines Suchformulars wird das erneut angezeigte Suchfeld wieder mit dem Suchbegriff vor-ausgefüllt
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht relevant.
+
+## Details zum blinden Testen
+
+Ja.
+
 ## Screenshots typischer Fälle
 
 ![Lieferadresse wird als Rechnungsadresse übernommen (und kann aber natürlich auf Wunsch geändert werden)](images/lieferadresse-wird-als-rechnungsadresse-bernommen.png)
 
 ![Option, die Lieferadresse als Rechnungsadresse zu übernehmen](images/option-die-lieferadresse-als-rechnungsadresse-zu-bernehmen.png)
+
+## Videos
+
+Keine Videos verfügbar.

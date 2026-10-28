@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-13 17:04:08"
+video_ids: "[1]"
 ---
 
 # ✅ Alternative für reine Video-Inhalte
@@ -38,6 +43,22 @@ Ausnahme: Wenn der reine Video-Inhalt bereits eine Alternative für bestehenden 
     - Alle relevanten Infos vorhanden?
         - ⚠️ Sowohl Bild- als auch Text-Inhalte!
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Audio-Inhalte gibt's sowohl in hybriden wie auch in nativen Apps.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Grundsätzlich ist es möglich, in PDFs Multimedia-Inhalte wie Audio und Videos einzubetten. Solche Dokumente sind in der Praxis eher selten anzutreffen und bringen andere Accessibility-Probleme mit sich, da die Videos je nach Screenreader, PDF-Programm und Betriebssystem nicht abspielbar sind.
+
+## Details zum blinden Testen
+
+Nein.
+
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
+
+## Videos
+
+- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID (🚨💻)](/de/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

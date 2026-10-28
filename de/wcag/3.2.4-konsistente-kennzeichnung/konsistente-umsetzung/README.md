@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:06:21"
+video_ids: "[]"
 ---
 
 # ✅ Konsistente Umsetzung
@@ -34,6 +39,22 @@ Bestandteile mit gleicher Funktion sind konsistent umgesetzt, sowohl auf visuell
 
 ⚠️ Insgesamt wird dieses Erfolgskriterium sehr selten verletzt. Es ist auch nicht klar definiert, ab wann etwas als nicht mehr "konsistent" angesehen wird.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf Web-Views 1:1 übertragbar. Insgesamt sind Mobile Webseiten wie auch Mobile Apps aber niemals so komplex wie gewisse Webseiten, weshalb dieses Erfolgskriterium hier noch seltener verletzt wird.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Ja, auch wenn es hier noch schwieriger sein kann, festzustellen, ob unterschiedliche Inhalte und Funktionalitäten tatsächlich als konsistent vorgesehen worden sind.
+
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
+
+## Videos
+
+Keine Videos verfügbar.

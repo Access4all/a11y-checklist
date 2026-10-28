@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 14:08:12"
+video_ids: "[]"
 ---
 
 # ✅ Mandatory fields
@@ -25,6 +30,22 @@ Mandatory fields are marked as accessible, both on a visual and non-visual level
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Pflichtfeld in A4AA](images/pflichtfeld-in-a4aa.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

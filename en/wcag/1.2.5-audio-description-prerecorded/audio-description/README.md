@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-14 12:16:46"
+video_ids: "[]"
 ---
 
 # ✅ Audio description
@@ -27,8 +32,24 @@ Audio descriptions exist for synchronised video content (videos in which the aud
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Cabinet of Curiosities](images/cabinet-of-curiosities.png)
 
 Many newer films on Netflix offer audio descriptions.
+
+## Videos
+
+🇩🇪 Currently only available in German.

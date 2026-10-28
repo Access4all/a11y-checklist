@@ -2,6 +2,7 @@
 id: "29"
 parent_id: "59"
 created_at: "2024-03-09 14:35:03"
+video_ids: "[19]"
 ---
 
 # 🏷️ aria-describedby
@@ -49,3 +50,7 @@ Vgl. z.B. [✅ Text-Elemente zwischen Eingabefeldern](/de/wcag/1.3.1c-formular-b
 ### Mehrere IDs möglich
 
 Man kann nicht nur eine ID übergeben (`aria-describedby="help-text"`), sondern mehrere durch Leerzeichen getrennt (`aria-describedby="help-text another-help-text"`).
+
+## Videos
+
+- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri (🚨💻)](/de/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknuepft-atupri)

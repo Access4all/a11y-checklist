@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:46:12"
+video_ids: "[]"
 ---
 
 # ✅ Kontrast bei informativen grafischen Elementen
@@ -31,6 +36,18 @@ Das Kontrastverhältnis bei informativen grafischen Elementen (z.B. Linien und K
         - **😡 Beispiel:** Die Umrandung ist kontrastarm (kleiner als `3:1`)
         - **😡 Beispiel:** Es gibt gar keine Umrandung
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüfschritte analog zu Web-Inhalten.
+
+## Details zum blinden Testen
+
+Nein.
+
 ## Screenshots typischer Fälle
 
 ### Statistisches Diagramm
@@ -50,3 +67,7 @@ Das Kontrastverhältnis bei informativen grafischen Elementen (z.B. Linien und K
 ![Kontrastarmes Kuchendiagramm](images/kontrastarmes-kuchendiagramm.png)
 
 ![Gut erkennbares Kuchendiagramm](images/gut-erkennbares-kuchendiagramm.png)
+
+## Videos
+
+Keine Videos verfügbar.

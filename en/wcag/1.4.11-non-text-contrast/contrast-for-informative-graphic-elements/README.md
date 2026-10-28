@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:46:12"
+video_ids: "[]"
 ---
 
 # ✅ Contrast for informative graphic elements
@@ -22,6 +27,18 @@ The contrast ratio of informative graphic elements (e.g. lines and curves in dia
 **Manual check:** Review content and look for weak contrasts. Determine contrast using Colour Contrast Analyser if necessary.
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 
@@ -44,3 +61,7 @@ The contrast ratio of informative graphic elements (e.g. lines and curves in dia
 ![Kontrastarmes Kuchendiagramm](images/kontrastarmes-kuchendiagramm.png)
 
 ![Gut erkennbares Kuchendiagramm](images/gut-erkennbares-kuchendiagramm.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

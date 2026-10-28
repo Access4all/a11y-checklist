@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-13 16:24:25"
+video_ids: "[21]"
 ---
 
 # ✅ Komplexe Grafiken
@@ -39,6 +44,22 @@ Wenn Alternativtext nicht ausreicht (z.B. bei komplexen Grafiken wie Infografike
 
 ⚠️ Es gibt komplexe Grafiken, deren sinnvolle Beschreibung schwierig ist, z.B. ein Linienplan der SBB oder eine Meteo-Übersicht. In solchen Fällen muss abgewogen werden, was die wichtigste Information ist. Ggf. ist auf weitere Möglichkeiten hinzuweisen, wie die Informationen ebenfalls beschafft werden können: z.B. die SBB Mobile App, wo man spezifisch Infos über einzelne Linien in Erfahrung bringen kann; oder die Detailansicht der Wettervorhersage, wo die Infos zusätzlich in Tabellenform o.ä. vorhanden sind.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Mit [🏷️ PDF Accessibility Checker (PAC)](/de/tags/pdf-accessibility-checker-pac) testen und Screenreader-Vorschau öffnen
+1. Prüfung analog zu Web.
+
+## Details zum blinden Testen
+
+Wenn, dann nur sehr beschränkt testbar: oft weiss man ja nicht, wie detailliert eine Grafik ist, und kann dann nicht feststellen, ob der vorhandene Alternativtext genügt.
+
 ## Screenshots typischer Fälle
 
 ![Kurzer Alternativtext bei Diagramm mit Verweis auf Text darunter (tiptop)](images/kurzer-alternativtext-bei-diagramm-mit-verweis-auf-text-darunter.png)
@@ -50,3 +71,7 @@ Wenn Alternativtext nicht ausreicht (z.B. bei komplexen Grafiken wie Infografike
 ![Linienpläne sind sehr schwierig zu beschreiben](images/linienplne-sind-sehr-schwierig-zu-beschreiben.png)
 
 ![Auch Übersichten von Wettervorhersagen sind sehr komplex](images/auch-bersichten-von-wettervorhersagen-sind-sehr-komplex.png)
+
+## Videos
+
+Keine Videos verfügbar.

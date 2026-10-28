@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:41:16"
+video_ids: "[]"
 ---
 
 # ✅ Contrast of interactive text elements
@@ -25,6 +30,22 @@ Interactive text elements (e.g. button labels) fulfill the contrast requirement 
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Schalter mit unterschiedlichen Zuständen](images/schalter-mit-unterschiedlichen-zustnden.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

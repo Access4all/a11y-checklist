@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 14:08:12"
+video_ids: "[]"
 ---
 
 # ✅ Pflichtfelder
@@ -47,6 +52,25 @@ Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`)
 
 ⚠️ Denn: viele Fehler findet man oft auch ohne Screenreader, z.B. wenn die Semantik komplett fehlt oder offensichtlich falsch ist. Wenn Semantik aber grundsätzlich **vorhanden scheint**, lässt sich deren Korrektheit und Sinnhaftigkeit oft nur mit Screenreader final beurteilen.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zum Prüfen einfach zum Eingabefeld wischen: wenn es direkt zusammen mit der Angabe "Pflichtfeld" angesagt wird, ist es gut gelöst (wenn man für die Angabe nochmal wischen muss, dann nicht).
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen
+1. Prüfen, ob Pflichtfelder als Pflichtfelder angesagt werden.
+
+## Details zum blinden Testen
+
+Pflichtangaben für Formular-Elemente sind für Blinde besonders wichtig!
+
 ## Screenshots typischer Fälle
 
 ![Pflichtfeld in A4AA](images/pflichtfeld-in-a4aa.png)
+
+## Videos
+
+Keine Videos verfügbar.

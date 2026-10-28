@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 14:05:04"
+video_ids: "[]"
 ---
 
 # ✅ Kontextänderung bei Eingabe
@@ -33,6 +38,28 @@ Der Kontext ändert sich nicht automatisch bei Eingabe (z.B. Weiterleitung auf e
     - **🙄 Beispiel:** Eine Seite bietet ein "Sprache wechseln" Menü im Kopfbereich an: dieses ist als `<select>` umgesetzt und lädt bei der Wahl einer Sprache die Seite neu.
         - ⚠️ Dies hat sich als geläufiges Pattern etabliert und führt kaum zu Überraschungen; dennoch sollte eine solche Ausnahme mittels eines `aria-label="Sprache wählen, um Seite neu zu laden"` o.ä. angekündigt werden.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Wird oft vergessen, aber auch Mobile Apps müssen komplett mit Tastatur gesteuert werden können.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Bei PDF-Formularen ist es möglich, interaktive Elemente wie zum Beispiel Buttons und Verlinkungen hinzuzufügen.
+
+### Prüfschritte:
+
+1. Für jede PDF-Seite, die Daten übermittelt, visuell überprüfen, dass das Formular einen Submit-Button hat.
+1. Mittels Tab zum Button navigieren und überprüfen, ob bei Aktivieren die Daten übermittelt werden.
+1. PDF mit [🏷️ Adobe Acrobat](/de/tags/adobe-acrobat) öffnen und Eigenschaften des Buttons überprüfen.
+
+## Details zum blinden Testen
+
+Ja, solche Probleme können auch per Screenreader gefunden werden.
+
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
+
+## Videos
+
+Keine Videos verfügbar.

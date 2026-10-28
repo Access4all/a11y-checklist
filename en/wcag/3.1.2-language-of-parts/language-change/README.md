@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 14:04:05"
+video_ids: "[]"
 ---
 
 # ✅ Language change
@@ -25,8 +30,24 @@ Language changes for longer text passages are indicated: Text passages in other 
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Ein BLOCKQUOTE-Zitat in einer anderen Sprache](images/ein-blockquote-zitat-in-einer-anderen-sprache.png)
 
 ![Ein Sprachwechsler in verschiedenen Sprachen](images/ein-sprachwechsler-in-verschiedenen-sprachen.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

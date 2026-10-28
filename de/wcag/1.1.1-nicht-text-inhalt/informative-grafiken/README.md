@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-12 18:46:48"
+video_ids: "[21]"
 ---
 
 # ✅ Informative Grafiken
@@ -43,8 +48,30 @@ Informative Grafiken weisen einen Alternativtext auf, der äquivalente Informati
         - **🙄 Beispiel:** "Geschäftsausflug 2023, Foto Nr. 123" ist wirklich extrem minimalistisch
         - **😡 Beispiel:** "DSC_123.jpg" ist definitiv zu minimalistisch
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Mit [🏷️ PDF Accessibility Checker (PAC)](/de/tags/pdf-accessibility-checker-pac) testen und Screenreader-Vorschau öffnen
+1. Prüfen, dass informative Bild über einen sinnvollen Alternativtext verfügen und dass dekorative Elemente/Bilder nicht vom Screenreader ausgegeben werden.
+
+## Details zum blinden Testen
+
+Teilweise: es kann zwar evaluiert werden, ob eine Grafik einen Alternativtext hat oder nicht - ob dieser aber sinnvoll ist, ist oft schwierig zu beurteilen. Auch sind Grafiken manchmal so implementiert, dass sie durch Screenreader gar nicht ausgegeben werden.
+
+[🏷️ VoiceOver/iOS](/de/tags/voiceoverios) versucht zudem, Elemente bzw. Text auf einem Bild per KI zu identifizieren und vorzulesen, wenn kein Alternativtext vorhanden ist. Solche Ausgaben sehen so aus: "Möglicherweise: X, Y, Z".
+
 ## Screenshots typischer Fälle
 
 ![Beispiel-Bild auf WebAIM (mit Web Developer Tools aktiv)](images/beispiel-bild-auf-webaim.png)
 
 ![Dasselbe Beispiel auf WebAIM (mit Image Alt Text Viewer aktiv)](images/dasselbe-beispiel-auf-webaim.png)
+
+## Videos
+
+Keine Videos verfügbar.

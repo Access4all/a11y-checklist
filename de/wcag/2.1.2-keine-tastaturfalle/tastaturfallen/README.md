@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 13:46:37"
+video_ids: "[7, 31]"
 ---
 
 # ✅ Tastaturfallen
@@ -33,6 +38,18 @@ Es treten keine Tastaturfallen auf. Alle Bedienelemente können mit der Tastatur
         - **🙂 Beispiel:** Der Fokus bleibt zwar auf die Inhalte eines gerade angezeigten Dialogs beschränkt, aber nach Bestätigen oder Abbrechen des Dialogs ist der Fokus wieder frei.
 1. Mit `Shift`-`Tab` dasselbe rückwärts prüfen
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Wird oft vergessen, aber auch Mobile Apps müssen komplett mit Tastatur gesteuert werden können.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Ansich kann das im Fokus-Modus (mit `Tab` navigieren) in gewissen Screenreadern (etwa [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader)) schon geprüft werden, aber es ist nicht unbedingt pragmatisch (da Sehende dies sowieso bemerken, wenn sie Tastatur-Bedienung prüfen, siehe [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur)).
+
 ## Screenshots typischer Fälle
 
 ### Fokus gefangen in Gruppe von Elementen
@@ -40,3 +57,8 @@ Es treten keine Tastaturfallen auf. Alle Bedienelemente können mit der Tastatur
 ![Fokus bleibt gefangen in Unter-Navigation (Brack)](images/fokus-bleibt-gefangen-in-unter-navigation-brack.png)
 
 Nach dem letzten Element "Ausverkauf" springt man direkt zurück zum ersten Element "IT & Multimedia".
+
+## Videos
+
+- [🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack (🚨💻)](/de/videos/tastaturfalle-fokus-bleibt-in-navigation-gefangen-brack)
+- [🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen (🚨💻)](/de/videos/tastaturfalle-tab-erzeugt-leerzeichen-in-code-editor-codepen)

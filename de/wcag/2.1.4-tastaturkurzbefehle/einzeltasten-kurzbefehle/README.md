@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 13:47:27"
+video_ids: "[]"
 ---
 
 # ✅ Einzeltasten-Kurzbefehle
@@ -34,8 +39,24 @@ Einzeltasten-Kurzbefehle (bestehend aus einer einzelnen Buchstaben-, Interpunkti
         - **🙄 Beispiel:** Man kann es in den Einstellungen des eingeloggten Nutzers deaktivieren (oder ändern) → ⚠️ Dazu muss man sich ggf. erst einmal registrieren und einloggen, was bereits eine Hürde sein kann
         - **😡 Beispiel:** Man kann es nicht deaktivieren
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Wird oft vergessen, aber auch Mobile Apps müssen komplett mit Tastatur gesteuert werden können.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Grundsätzlich testbar, wenn man bewusst in den "Application Modus" wechselt (`Insert`+`Space`), welcher alle Tastenanschläge direkt an den Browser weiter gibt.
+
 ## Screenshots typischer Fälle
 
 ![Github fokussiert das Suchfeld mit Tastenkürzel "/"](images/github-fokussiert-das-suchfeld-mit-tastenkrzel.png)
 
 ![Github erlaubt das Deaktivieren dieser Tastenkürzel](images/github-erlaubt-das-deaktivieren-dieser-tastenkrzel.png)
+
+## Videos
+
+Keine Videos verfügbar.

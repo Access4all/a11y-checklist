@@ -2,6 +2,7 @@
 id: "3"
 parent_id: "60"
 created_at: "2024-03-09 10:22:07"
+video_ids: "[1]"
 ---
 
 # 🏷️ Audiodeskription
@@ -13,3 +14,7 @@ Eine Audiodeskription ist die sprachliche Erläuterung von rein visueller Inform
 Audiodeskription ist meistens ein zusätzlicher Audiokanal, welcher gewählt werden kann. In diesem werden (neben dem "normalen" Audio) weitere Informationen zur Handlung gegeben, z.B. "Der Assassine schleicht sich von hinten an den Kommissar an".
 
 Videos, in welchen ein Kommentator alle wichtigen Infos bereits gut verständlich ansagt, benötigt keine Audiodeskription.
+
+## Videos
+
+- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID (🚨💻)](/de/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

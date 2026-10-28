@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:15:36"
+video_ids: "[]"
 ---
 
 # ✅ Carousels
@@ -25,8 +30,24 @@ Carousels (sliders) are implemented barrier-free. They are correctly announced b
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Bootstrap Carousel](images/bootstrap-carousel.png)
 
 ![Viseca Karussell](images/viseca-karussell.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

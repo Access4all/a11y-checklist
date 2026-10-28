@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 13:12:33"
+video_ids: "[]"
 ---
 
 # ✅ Text-Elemente zwischen Eingabefeldern
@@ -52,6 +57,22 @@ Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`)
 
 Elemente, die via `aria-describedby` ([🏷️ aria-describedby](/de/tags/aria-describedby)) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zum Prüfen einfach zum Eingabefeld wischen: wenn es direkt zusammen mit dem Beschreibungs-Text angesagt wird, ist es gut gelöst (wenn man für's Label nochmal wischen muss, dann nicht).
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Es ist nicht in PDFs nicht möglich, Texte mit Formularfeldern zu verknüpfen. Sämtliche zusätzlichen Informationen müssen direkt im Tooltip eingefügt werden.
+
+## Details zum blinden Testen
+
+Beschreibende Texte in Formular-Elementen sind für Blinde besonders wichtig!
+
 ## Screenshots typischer Fälle
 
 ![Beschreibende Texte in A4AA](images/beschreibende-texte-in-a4aa.png)
+
+## Videos
+
+Keine Videos verfügbar.

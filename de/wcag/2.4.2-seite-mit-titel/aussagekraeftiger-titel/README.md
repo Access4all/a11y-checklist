@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "false"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 13:51:00"
+video_ids: "[]"
 ---
 
 # ✅ Aussagekräftiger Titel
@@ -44,6 +49,21 @@ Seiten haben einen eindeutigen, aussagekräftigen Titel, der Thema oder Zweck de
     - **😡 Beispiel:** "Kontakt"
     - **😡 Beispiel:** "Über uns"
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowas wie ein `<title>` gibt es bei Mobile Apps nicht. Zwar haben die meisten Screens vieler typischer Apps sowas wie eine Überschrift zuoberst, aber ich denke nicht, dass dies vergleichbar ist.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Überprüfen, ob ein Dokumenttitel oder der Dateiname angezeigt wird.
+1. Wenn kein Titel angezeigt wird: In den Dokumenteigenschaften überprüfen, ob ein Titel erfasst ist und ob unter "Ansicht beim Öffnen" Dokumenttitel ausgewählt ist.
+
+## Details zum blinden Testen
+
+[🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) sagt den Titel beim Öffnen einer Seite an.
+
 ## Screenshots typischer Fälle
 
 ### Einzelner Tab
@@ -61,3 +81,7 @@ Auch für visuelle Nutzer ist es hier sinnvoll, dass der Thema der Seite am Anfa
 Als Vergleich:
 
 ![Viele Tabs, deren Titel identisch anfangen](images/viele-tabs-deren-titel-identisch-anfangen.png)
+
+## Videos
+
+Keine Videos verfügbar.

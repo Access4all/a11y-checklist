@@ -9,3 +9,7 @@ created_at: "2024-07-08 15:21:15"
 ## Description
 
 🇩🇪 Currently only available in German.
+
+## Videos
+
+🇩🇪 Currently only available in German.

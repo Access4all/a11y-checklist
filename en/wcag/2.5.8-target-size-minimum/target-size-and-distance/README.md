@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-04-16 09:10:44"
+video_ids: "[]"
 ---
 
 # ✅ Target size and distance
@@ -25,6 +30,18 @@ Activatable elements have the required minimum size or sufficient spacing.
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Dropdown-Indikatoren auf ZFA-Webseite](images/dropdown-indikatoren-auf-zfa-webseite.png)
@@ -40,3 +57,7 @@ Activatable elements have the required minimum size or sufficient spacing.
 ![Eine problematisch dichte Ansammlung von Points of Interest auf einer Karte](images/eine-problematisch-dichte-ansammlung-von-points-of-interest-auf-einer-karte.png)
 
 ![Datepicker, dessen einzelne Tage zu kleine Klickflächen aufweisen](images/datepicker-dessen-einzelne-tage-zu-kleine-klickflchen-aufweisen.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 14:01:06"
+video_ids: "[]"
 ---
 
 # ✅ Alternative für Pfad- und Mehrfach-Punkt-Zeigergesten
@@ -36,8 +41,24 @@ Für pfadbasierte oder Mehrpunkt-Zeigergesten existieren Alternativen, die mit e
     - **🙂 Beispiel:** In einem Projektmanagement-Werkzeug mit diversen Spalten können die Arbeitspakete mittels Wischgeste in die nächste bzw. vorhergehende Spalte verschoben werden; zudem ein Element markiert und mit Schaltflächen "Nach links" (bzw. "Nach rechts") verschoben werden.
         - **😡 Beispiel:** Es existieren keine solche Schaltflächen.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht relevant.
+
+## Details zum blinden Testen
+
+Kaum. Es handelt sich hier um sehr visuelle Eingabe-Methoden; für Screenreader müssen natürlich ebenfalls alternative Bedienungs-Möglichkeiten bestehen (diese werden aber meist über [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur) angeboten).
+
 ## Screenshots typischer Fälle
 
 ![Slider, welcher neben Wischgesten auch Weiter/Zurück-Schalter anbietet](images/slider-welcher-neben-wischgesten-auch-weiterzurck-schalter-anbietet.png)
 
 ![Per Swipe angezeigtes Chat-Kontextmenü in WhatsApp](images/per-swipe-angezeigtes-chat-kontextmen-in-whatsapp.png)
+
+## Videos
+
+Keine Videos verfügbar.

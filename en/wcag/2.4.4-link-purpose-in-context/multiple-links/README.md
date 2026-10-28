@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 13:57:26"
+video_ids: "[]"
 ---
 
 # ✅ Multiple links
@@ -25,8 +30,24 @@ Multiple, different links (e.g. a headline, a graphic and an additional text lin
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Card als ein einziger Link bei WOZ](images/card-als-ein-einziger-link-bei-woz.png)
 
 ![Card mit mehreren Links auf dasselbe Ziel](images/card-mit-mehreren-links-auf-dasselbe-ziel.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

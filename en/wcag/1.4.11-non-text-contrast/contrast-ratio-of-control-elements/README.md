@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:45:10"
+video_ids: "[]"
 ---
 
 # ✅ Contrast ratio of control elements
@@ -22,6 +27,18 @@ The contrast ratio of control elements (e.g. text fields, radio buttons, checkbo
 **Manual check:** Look through elements, interact with them and look for weak contrasts. Contrast determination by Colour Contrast Analyser if necessary.
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 
@@ -50,3 +67,7 @@ The contrast ratio of control elements (e.g. text fields, radio buttons, checkbo
 ![Besser sichtbare Begrenzungslinien bei der Tabliste](images/besser-sichtbare-begrenzungslinien-bei-der-tabliste.png)
 
 ![Zusätzliche Begrenzungslinien bei der Tabliste](images/zustzliche-begrenzungslinien-bei-der-tabliste.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

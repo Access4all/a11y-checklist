@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-13 16:18:36"
+video_ids: "[]"
 ---
 
 # ✅ Redundanz in Alternativtexten
@@ -44,8 +49,30 @@ Alternativtexte von Grafiken beinhalten keine redundanten Informationen, z.B. ei
         - **🙄 Beispiel:** "Abdul Hassim ist Bauer in 4. Generation und arbeitet auf dem Feld mit seinem Esel" → da ist einiges an Redundanz mit dem umgebenden Text, was manchmal sinnvoll/notwendig sein kann, aber nicht übertrieben werden sollte.
         - **😡 Beispiel:** "Abdul Hassim bei der Arbeit auf dem Feld. Er ist Bauer in 4. Generation. Die Kartoffeln erntet er von Hand, unterstützt nur von seinem Esel." → das ist quasi eine 1:1 Kopie des umgebenden Texts und deshalb übertrieben redundant!
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Mit [🏷️ PDF Accessibility Checker (PAC)](/de/tags/pdf-accessibility-checker-pac) testen und Screenreader-Vorschau öffnen
+1. Prüfung analog zu Web.
+
+## Details zum blinden Testen
+
+Teilweise: es kann zwar evaluiert werden, ob ein Alternativtext solche redundante Information enthält. Aber manche Grafiken sind so implementiert, dass sie durch Screenreader gar nicht ausgegeben werden.
+
+[🏷️ VoiceOver/iOS](/de/tags/voiceoverios) versucht zudem, Elemente bzw. Text auf einem Bild per KI zu identifizieren und vorzulesen, wenn kein Alternativtext vorhanden ist. Solche Ausgaben sehen so aus: "Möglicherweise: X, Y, Z".
+
 ## Screenshots typischer Fälle
 
 ![Bild eines Papageis ("Bild" ist unnötig)](images/bild-eines-papageis.png)
 
 ![Foto eines Papageis ("Foto" kann sinnvoll sein - es könnte sich schliesslich auch um ein Ölgemälde handeln)](images/foto-eines-papageis.png)
+
+## Videos
+
+Keine Videos verfügbar.

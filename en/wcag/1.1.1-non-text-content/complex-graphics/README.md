@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-13 16:24:25"
+video_ids: "[21]"
 ---
 
 # ✅ Complex graphics
@@ -25,6 +30,18 @@ If alternative text is not sufficient (e.g. for complex graphics such as infogra
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Kurzer Alternativtext bei Diagramm mit Verweis auf Text darunter (tiptop)](images/kurzer-alternativtext-bei-diagramm-mit-verweis-auf-text-darunter.png)
@@ -36,3 +53,7 @@ If alternative text is not sufficient (e.g. for complex graphics such as infogra
 ![Linienpläne sind sehr schwierig zu beschreiben](images/linienplne-sind-sehr-schwierig-zu-beschreiben.png)
 
 ![Auch Übersichten von Wettervorhersagen sind sehr komplex](images/auch-bersichten-von-wettervorhersagen-sind-sehr-komplex.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

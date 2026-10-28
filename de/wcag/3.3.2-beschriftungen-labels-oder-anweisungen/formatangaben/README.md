@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 14:09:35"
+video_ids: "[]"
 ---
 
 # ✅ Formatangaben
@@ -48,8 +53,27 @@ Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `aria-label`)
 
 Elemente, die via `aria-describedby` ([🏷️ aria-describedby](/de/tags/aria-describedby)) mit einem Element verknüpft sind, werden nur als Plain-Text ausgegeben. Information über enthaltene Semantik wird ausgegeben (z.B. ein Link "AGBs lesen" in einem Paragraf wird nur als "AGBs lesen" angesagt, nicht als "Link AGBs lesen"). Insofern müssen solche beschreibenden Texte so geschrieben werden, dass sie auch ohne semantische Info verständlich bleiben.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zum Prüfen einfach zum Eingabefeld wischen: wenn es direkt zusammen mit dem Eingabeformat angesagt wird, ist es gut gelöst (wenn man für das Eingabeformat nochmal wischen muss, dann nicht).
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Prüfen, dass Formatangaben ausgegeben werden.
+
+## Details zum blinden Testen
+
+Formatangaben für Formular-Elemente sind für Blinde besonders wichtig!
+
 ## Screenshots typischer Fälle
 
 ![Datumsformat wird als Placeholder angegeben](images/datumsformat-wird-als-placeholder-angegeben.png)
 
 ![Datumsformat wird als Fehlermeldung angegeben](images/datumsformat-wird-als-fehlermeldung-angegeben.png)
+
+## Videos
+
+Keine Videos verfügbar.

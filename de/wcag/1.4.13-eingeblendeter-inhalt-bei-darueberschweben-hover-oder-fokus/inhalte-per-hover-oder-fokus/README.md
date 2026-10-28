@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 07:54:36"
+video_ids: "[]"
 ---
 
 # ✅ Inhalte per Hover oder Fokus
@@ -47,6 +52,18 @@ Inhalte, die per Hover oder Fokus eingeblendet werden, sind nicht störend und e
         - **🙂 Beispiel:** Auf einer Auktions-Plattform erscheint die Meldung "Diese Auktion wird in weniger als 1 Minute beendet"; kurz darauf wird die Meldung wieder ausgeblendet.
             - ⚠️ Da diese Meldung essenziell ist für die Funktionsweise der Plattform (die Auktion ist nach einer Minute tatsächlich beendet, weshalb die angezeigte Meldung daraufhin ihre Gültigkeit verliert), ist das automatische Ausblenden in Ordnung.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Kann sowohl in nativen / hybriden Mobile Apps vorkommen, wie auch auf Mobile Webseiten.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht relevant.
+
+## Details zum blinden Testen
+
+Grösstenteils nur sehr eingeschränkt testbar.
+
 ## Screenshots typischer Fälle
 
 ![Ein Tooltip, der bei Hover angezeigt wird](images/ein-tooltip-der-bei-hover-angezeigt-wird.png)
@@ -58,3 +75,7 @@ Inhalte, die per Hover oder Fokus eingeblendet werden, sind nicht störend und e
 ![Ein Tooltip mit "X"-Schalter zum gezielten Schliessen](images/ein-tooltip-mit-x-schalter-zum-gezielten-schliessen.png)
 
 ![Eine Fehlermeldung bei fehlerhafter Eingabe als Tooltip](images/eine-fehlermeldung-bei-fehlerhafter-eingabe-als-tooltip.png)
+
+## Videos
+
+Keine Videos verfügbar.

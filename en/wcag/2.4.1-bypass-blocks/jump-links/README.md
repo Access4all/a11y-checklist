@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 13:50:20"
+video_ids: "[]"
 ---
 
 # ✅ Jump links
@@ -25,6 +30,18 @@ Jump links make it easy to skip repeating blocks of information (e.g. navigation
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Sprunglink auf GitHub](images/sprunglink-auf-github.png)
@@ -32,3 +49,7 @@ Jump links make it easy to skip repeating blocks of information (e.g. navigation
 ![Sprunglink auf WebAIM](images/sprunglink-auf-webaim.png)
 
 ![Sprunglink im A4AA](images/sprunglink-im-a4aa.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

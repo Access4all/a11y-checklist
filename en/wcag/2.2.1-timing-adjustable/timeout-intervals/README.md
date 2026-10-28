@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 13:48:14"
+video_ids: "[]"
 ---
 
 # ✅ Timeout intervals
@@ -25,6 +30,18 @@ Timeout intervals are customizable or can be deactivated. A clear indication of 
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Hinweis auf eine ablaufende Session (mit einfacher Möglichkeit, diese zu verlängern)](images/hinweis-auf-eine-ablaufende-session-mit-einfacher-mglichkeit-diese-zu-verlngern.png)
@@ -36,3 +53,7 @@ Timeout intervals are customizable or can be deactivated. A clear indication of 
 ![Möglichkeiten um Anpassen der Dauer einer Session](images/mglichkeiten-um-anpassen-der-dauer-einer-session.png)
 
 ![Restdauer bei einer Online-Auktion](images/restdauer-bei-einer-online-auktion.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

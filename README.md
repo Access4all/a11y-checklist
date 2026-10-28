@@ -6,6 +6,8 @@ An initiative of [Allianz Digitale Inklusion Schweiz](https://www.adis.ch/) (ADI
 
 ## Summary
 
+TODO: Update for this branch!
+
 This project consists of two parts:
 
 - The **📜 Accessibility Checklist** is a succinct yet comprehensive summary of the [WCAG](https://www.w3.org/WAI/standards-guidelines/wcag/)'s success criteria (version 2.2, levels A and AA). It aims to make those contents more tangible to parties involved in producing websites (designers, developers, and content creators, among others). In addition to explanatory text, it provides basic examples (in text and code form), links to official and other high quality resources, as well as so called checkpoints: general instructions which help to be aware of the most common accessibility issues, and to test them with pragmatic tools.

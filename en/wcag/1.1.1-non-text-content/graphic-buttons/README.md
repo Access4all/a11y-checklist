@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-13 16:19:25"
+video_ids: "[9, 8]"
 ---
 
 # ✅ Graphic buttons
@@ -25,6 +30,18 @@ Graphic buttons are correctly labeled.
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Korrekt beschrifteter Schalter für Hamburger-Menü](images/korrekt-beschrifteter-schalter-fr-hamburger-men.png)
@@ -32,3 +49,7 @@ Graphic buttons are correctly labeled.
 ![Schalter-Elementliste in NVDA](images/schalter-elementliste-in-nvda.png)
 
 ![Schalter ohne erkennbare Beschriftung](images/schalter-ohne-erkennbare-beschriftung.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

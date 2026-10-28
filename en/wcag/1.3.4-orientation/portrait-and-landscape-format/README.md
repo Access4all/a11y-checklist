@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "false"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 07:35:03"
+video_ids: "[]"
 ---
 
 # ✅ Portrait and landscape format
@@ -25,6 +30,18 @@ Content is correctly displayed and usable in both screen orientations (portrait 
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Mobile App im Hochformat](images/mobile-app-im-hochformat.png)
@@ -32,3 +49,7 @@ Content is correctly displayed and usable in both screen orientations (portrait 
 ![Dieselbe Mobile App im Querformat](images/dieselbe-mobile-app-im-querformat.png)
 
 ![Mobile App mit Button zum Wechseln des Formats](images/mobile-app-mit-button-zum-wechseln-des-formats.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

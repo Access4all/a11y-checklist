@@ -2,6 +2,7 @@
 id: "4"
 parent_id: "70"
 created_at: "2024-03-09 10:46:54"
+video_ids: "[5, 3, 28, 29]"
 ---
 
 # 🏷️ Inhalte rein visuell verstecken
@@ -14,3 +15,10 @@ Der Einsatz von `display: none` o.ä. ([🏷️ Inhalte komplett verstecken (dis
 
 - [WebAIM: Invisible Content Just for Screen Reader Users](https://webaim.org/techniques/css/invisiblecontent/)
 - [CSS-Tricks: Inclusively Hidden](https://css-tricks.com/inclusively-hidden/)
+
+## Videos
+
+- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla (🚨💻)](/de/videos/fehlende-zwischen-ueberschrift-und-ebenen-sprung-mozilla)
+- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack (🚨💻)](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

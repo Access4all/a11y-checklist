@@ -2,6 +2,7 @@
 id: "27"
 parent_id: "60"
 created_at: "2024-03-09 14:31:55"
+video_ids: "[24, 19]"
 ---
 
 # 🏷️ Rückmeldung durch Screenreader
@@ -22,3 +23,8 @@ In anderen Fällen muss man spezifisch etwas dafür tun:
 - Wenn man einen Dialog per Klick auf einen Schalter geöffnet hat, wird der Fokus in den Dialog verschoben ([🏷️ Fokus-Management](/de/tags/fokus-management)) und das fokussierte Element wird angesagt
 
 Beachte auch [🏷️ Auf Interaktion folgt stets Rückmeldung!](/de/tags/auf-interaktion-folgt-stets-rueckmeldung)!
+
+## Videos
+
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson (🚨💻)](/de/videos/bei-aufklappen-eines-hamburger-menues-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
+- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri (🚨💻)](/de/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknuepft-atupri)

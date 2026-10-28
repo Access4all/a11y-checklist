@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 14:04:05"
+video_ids: "[]"
 ---
 
 # ✅ Sprachwechsel
@@ -36,8 +41,27 @@ Sprachwechsel bei längeren Textpassagen werden angegeben: Anderssprachige Texta
     - **🙂 Beispiel:** Eine Seite nutzt Anglizismen; diese sind **nicht** durch ein `lang`-Attribut bezeichnet
         - ⚠️ Einzelne Wörter (z.B. auch ein englischer Name o.ä.) oder auch sehr kurze Zitate in einem Fliesstext müssen nicht als Fremdsprache markiert werden
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf Web-Views 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Ausschau halten nach Inhalten, die in einer anderen Sprache als der Seitensprache sind
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen
+
+## Details zum blinden Testen
+
+Ja: wenn der Screenreader die fremdsprachigen Inhalte in einem seltsamen Akzent ausspricht, ist wohl die Sprache falsch gesetzt worden. Vorsicht: wenn für die benötigte Sprache kein Synthesizer installiert ist, dann wird die Standard-Sprache verwendet!
+
 ## Screenshots typischer Fälle
 
 ![Ein BLOCKQUOTE-Zitat in einer anderen Sprache](images/ein-blockquote-zitat-in-einer-anderen-sprache.png)
 
 ![Ein Sprachwechsler in verschiedenen Sprachen](images/ein-sprachwechsler-in-verschiedenen-sprachen.png)
+
+## Videos
+
+Keine Videos verfügbar.

@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 13:53:57"
+video_ids: "[]"
 ---
 
 # ✅ Unternavigationspunkte überspringen
@@ -33,8 +38,24 @@ Unter-Navigationspunkte können mit der Tastatur übersprungen werden. Unter-Nav
             - **🙄 Beispiel:** Die Sub-Elemente können nicht geschlossen werden, aber erneutes Drücken von `Tab` setzt den Fokus **nicht** in die Sub-Elemente hinein, sondern zum nächsten Parent-Element; Navigation durch die Sub-Elemente passiert dann via Pfeiltasten. ⚠️ Wir empfehlen, Navigation via Pfeiltasten nur in Desktop-Software-ähnlichen Elementen einzusetzen (z.B. das Menü in Google Docs); für klassische Webseiten reicht die `Tab`-Taste meistens vollauf.
             - **😡 Beispiel:** Die Sub-Elemente können nicht geschlossen (und auch nicht auf andere Art und Weise übersprungen) werden, sprich: man muss sich durch alle Elemente hindurch bewegen mit der `Tab`-Taste (was mühsam und zeitraubend ist).
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Kann in hybriden Mobile Apps vorkommen, sowie auch auf Mobile Webseiten.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht relevant.
+
+## Details zum blinden Testen
+
+Im Fokus-Modus kann dies durchaus geprüft werden.
+
 ## Screenshots typischer Fälle
 
 ![Sub-Menüs bei Disney öffnen automatisch bei Fokus und können nicht geschlossen werden](images/sub-mens-bei-disney-ffnen-automatisch-bei-fokus-und-knnen-mit-esc-nicht-geschlossen-werden.png)
 
 ![Sub-Menüs bei Mozilla können mit Esc und X-Schalter geschlossen werden](images/sub-mens-bei-mozilla-knnen-mit-esc-und-x-schalter-geschlossen-werden.png)
+
+## Videos
+
+Keine Videos verfügbar.

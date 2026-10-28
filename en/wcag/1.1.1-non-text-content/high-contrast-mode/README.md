@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "false"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-13 16:21:05"
+video_ids: "[]"
 ---
 
 # ✅ High contrast mode
@@ -25,6 +30,18 @@ Activate **Windows High Contrast Mode** (up to Windows 10: `Alt` + `Shift` + `Pr
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Grafik ist auch im Hochkontrast-Modus noch sichtbar](images/grafik-ist-auch-im-hochkontrast-modus-noch-sichtbar.png)
@@ -36,3 +53,7 @@ Activate **Windows High Contrast Mode** (up to Windows 10: `Alt` + `Shift` + `Pr
 ![Transparente Symbole sind (gegen gewählten Hintergrund) nicht mehr gut erkennbar](images/transparente-symbole-sind-gegen-gewhlten-hintergrund-nicht-mehr-gut-erkennbar.png)
 
 ![Mehrzeiliges Textfeld ohne Umrandung nicht sichtbar im HCM](images/mehrzeiliges-textfeld-ohne-umrandung-nicht-sichtbar-im-hcm.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

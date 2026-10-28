@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:44:00"
+video_ids: "[]"
 ---
 
 # ✅ Viewport minimum dimensions
@@ -25,6 +30,18 @@ Content can be displayed without restrictions (e.g. overlapping) and without hor
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Mindest-Dimension setzen im DOM-Inspektor](images/mindest-dimension-setzen-im-dom-inspektor.png)
@@ -32,3 +49,7 @@ Content can be displayed without restrictions (e.g. overlapping) and without hor
 ![Ein Karussell muss man zwar links und rechts scrollen zum Wechseln der Folie, aber die Inhalte der Folie brechen wie gewünscht um. Alles okay!](images/ein-karussell-muss-man-zwar-links-und-rechts-scrollen-zum-wechseln-der-folie-aber-die-inhalte-der-folie-brechen-wie-gewnscht-um-alles-okay.png)
 
 ![Dito: die Auswahl eines Artikels scrollt horizontal, aber der Inhalt bricht um.](images/dito-die-auswahl-eines-artikels-scrollt-horizontal-aber-der-inhalt-bricht-um.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

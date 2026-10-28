@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 13:55:44"
+video_ids: "[]"
 ---
 
 # ✅ Elemente korrekt verstecken
@@ -35,6 +40,22 @@ Elemente sind korrekt versteckt und zwar so, dass sie auch durch assistierende T
             - ⚠️ Hier muss stattdessen auf `display: none` (oder `visibility: hidden`) zurück gegriffen werden!
             - ⚠️ Rein lesbare (nicht fokussierbare) Inhalte, welche nur für Screenreader relevant sind, dürfen natürlich schon aus dem Viewport verschoben werden
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Kann sowohl in nativen / hybriden Mobile Apps vorkommen, wie auch auf Mobile Webseiten.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+In seltenen Fällen kann zwar auch blind erahnt werden, dass Elemente nicht korrekt versteckt wurden (weil sie per Screenreader erreichbar sind, dies aber wahrscheinlich nicht sein sollten). Man ist dabei aber stets begrenzt auf Mutmassung.
+
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
+
+## Videos
+
+Keine Videos verfügbar.

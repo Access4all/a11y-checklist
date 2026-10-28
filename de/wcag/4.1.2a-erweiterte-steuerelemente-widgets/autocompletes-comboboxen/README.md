@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:13:38"
+video_ids: "[]"
 ---
 
 # ✅ Autocompletes (Comboboxen)
@@ -175,6 +180,18 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 
 ⚠️ Für die Tastatur-Nutzung macht dies oft wenig Unterschied; mit Screenreader kann sich die Bedienung aber erheblich unterscheiden, was in Ordnung ist (Hauptsache, die Implementierung ist verständlich und zielführend nutzbar).
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Einerseits können in einer Mobile App beliebige Web-Inhalte (inkl. Autocompletes) eingebettet sein; andererseits gibt es auch native Implementierungen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+So komplexe interaktive Elemente gibt's in PDFs nicht.
+
+## Details zum blinden Testen
+
+Autocompletes **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) geprüft werden!
+
 ## Screenshots typischer Fälle
 
 ![Material UI Autocomplete](images/typisches-autocomplete.png)
@@ -182,3 +199,7 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 ![Autocomplete mit Pills](images/autocomplete-mit-pills.png)
 
 ![Multi-Select mit Pills](images/multi-select-mit-pills.png)
+
+## Videos
+
+Keine Videos verfügbar.

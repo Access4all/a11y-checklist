@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 13:59:23"
+video_ids: "[17]"
 ---
 
 # ✅ Tastatur-Fokus sichtbar
@@ -36,6 +41,22 @@ Der Tastatur-Fokus ist genügend sichtbar, z.B. durch einen gut sichtbaren Rahme
 
 Mindest-Kontrast bei Fokus-Styles wird erst ab WCAG 2.2 und nur ab Level AAA gefordert! Dennoch versuchen wir stets zu überzeugen, dass dies generell wünschenswert ist.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Wird oft vergessen, aber auch Mobile Apps müssen komplett mit Tastatur gesteuert werden können. Entsprechend benötigt es überall einen gut sichtbaren Fokus (sowohl in nativen / hybriden Apps als auch in Mobile Webseiten).
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Dieser Prüfpunkt ist nur auf PDF-Formulare anwendbar.
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit Tab durch das Formular tabben und überprüfen, ob fokussierte Formularfelder gut erkennbar sind.
+
+## Details zum blinden Testen
+
+Nein.
+
 ## Screenshots typischer Fälle
 
 ### Clearly visible focus
@@ -49,3 +70,7 @@ Mindest-Kontrast bei Fokus-Styles wird erst ab WCAG 2.2 und nur ab Level AAA gef
 ![Kaum sichtbare Umrandung](images/kaum-sichtbare-umrandung.png)
 
 ![Kaum sichtbare Hintergrundfarbe](images/kaum-sichtbare-hintergrundfarbe.png)
+
+## Videos
+
+- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson (🚨💻)](/de/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)

@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-13 16:19:25"
+video_ids: "[9, 8]"
 ---
 
 # ✅ Grafische Schalter
@@ -38,6 +43,21 @@ Grafische Schalter sind korrekt beschriftet.
         - **🙄 Beispiel:** Die Beschriftung ist "Los!" → auch nicht sehr aussagekräftig
         - **😡 Beispiel:** Es hat gar keine Beschriftung
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Prüfen, dass grafische Schalter über einen aussagekräftigen Alternativtext (Tooltip) verfügen.
+
+## Details zum blinden Testen
+
+Die zugängliche Beschriftung von Schaltern ist für Blinde besonders wichtig!
+
 ## Screenshots typischer Fälle
 
 ![Korrekt beschrifteter Schalter für Hamburger-Menü](images/korrekt-beschrifteter-schalter-fr-hamburger-men.png)
@@ -45,3 +65,7 @@ Grafische Schalter sind korrekt beschriftet.
 ![Schalter-Elementliste in NVDA](images/schalter-elementliste-in-nvda.png)
 
 ![Schalter ohne erkennbare Beschriftung](images/schalter-ohne-erkennbare-beschriftung.png)
+
+## Videos
+
+- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)

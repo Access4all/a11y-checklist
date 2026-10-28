@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:37:24"
+video_ids: "[]"
 ---
 
 # ✅ Links in Fliesstext
@@ -35,6 +40,18 @@ Wenn Links innerhalb von Fliesstext nur durch Farbe vom Fliesstext unterschieden
             - ⚠️ Dies kann ausreichend sein, allerdings gibt ein solches Symbol keinen Hinweis darauf, wie gross der klickbare Bereich ist (also wieviele Wörter des Fliesstexts zum Link gehören)
         - **😡 Beispiel:** Der Link ist weder durch Unterstreichung, noch über ein Symbol o.ä. erkennbar
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüf-Schritte analog zu Web-Inhalten.
+
+## Details zum blinden Testen
+
+Kaum testbar (auch wenn gewisse Formatierungen wie Unterstreichung über `Insert`+`F` ausgegeben werden können).
+
 ## Screenshots typischer Fälle
 
 ![Link in Fliesstext ohne Unterstreichung](images/link-in-fliesstext-ohne-unterstreichung.png)
@@ -42,3 +59,7 @@ Wenn Links innerhalb von Fliesstext nur durch Farbe vom Fliesstext unterschieden
 ![Link in Fliesstext mit Unterstreichung](images/link-in-fliesstext-mit-unterstreichung.png)
 
 ![Link in Fliesstext ohne Unterstreichung, dafür mit Symbol](images/link-in-fliesstext-ohne-unterstreichung-dafr-mit-symbol.png)
+
+## Videos
+
+Keine Videos verfügbar.

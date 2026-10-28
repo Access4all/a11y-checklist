@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 13:58:51"
+video_ids: "[28, 29]"
 ---
 
 # ✅ Überschriften und Labels
@@ -43,6 +48,23 @@ WCAG-Kriterium: [📜 2.4.6 Überschriften und Beschriftungen (Labels) - AA](..)
 
 @Thinh-Lay: Ich finde es gar nicht so einfach, hier klar gute und schlechte Beispiele zu finden. Hast du noch einige Ideen??
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüf-Schritte analog zu Web
+
+## Details zum blinden Testen
+
+Ja.
+
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
+
+## Videos
+
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
+- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

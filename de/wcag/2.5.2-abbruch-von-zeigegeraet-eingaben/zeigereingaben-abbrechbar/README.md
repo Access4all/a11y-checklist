@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 14:02:01"
+video_ids: "[]"
 ---
 
 # ✅ Zeigereingaben abbrechbar
@@ -35,6 +40,22 @@ Zeigereingaben sind abbrechbar oder können rückgängig gemacht werden.
         - **🙄 Beispiel:** Das Klicken kann **nicht** abgebrochen werden, aber ein erneutes Drücken stellt den vorherigen Zustand wieder her (fett vs. nicht fett). → ⚠️ Auch hier: wir empfehlen, auf `up`-Events zu reagieren (nicht immer wird durch erneutes Drücken nämlich exakt der Ursprungszustand wieder hergestellt, z.B. wenn ein Text markiert war, der nur teilweise fett war).
             - **🙄 Beispiel:** Es existiert eine "Rückgängig"-Funktion. → ⚠️ Auch das ist immer eine gute Idee! Aber dennoch ggf. nur ein mässiger Ersatz für ein generelles Problem.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht anwendbar.
+
+## Details zum blinden Testen
+
+Nein.
+
 ## Screenshots typischer Fälle
 
 ![Zittrige Hände können die Bedienung eines Smartphones stark erschweren - gut wenn man fehlerhaftes Tippen abbrechen kann!](images/zittrige-hnde-knnen-die-bedienung-eines-smartphones-stark-erschweren.png)
+
+## Videos
+
+Keine Videos verfügbar.

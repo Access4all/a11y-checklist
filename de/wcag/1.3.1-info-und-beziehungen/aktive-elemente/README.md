@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 12:18:53"
+video_ids: "[27, 26]"
 ---
 
 # ✅ Aktive Elemente
@@ -37,8 +42,24 @@ Aktive Elemente (z.B. der aktive Menüpunkt in einer Navigation) sind semantisch
     - **🙂 Beispiel:** Die Sprachauswahl einer Webseite beinhaltet mehrere Links zu unterschiedlichen Sprachversionen der Seite ("Zu Deutsch wechseln", "Switch to English", etc.); die aktuell gewählte Sprache wird als "aktiv" o.ä. angesagt)
         - "**🙄 Beispiel:** Manchmal wird die aktuell gewählte Sprache nicht mehr als Link umgesetzt; man könnte argumentieren, dass daraus ja bereits ersichtlich wird, dass es die aktive Sprache ist (weil alle anderen Sprachen weiterhin als Link angeboten werden), und dass deshalb ein Zusatz wie "aktive Seite" o.ä. überflüssig wäre → sich dies zu erschliessen benötigt aber eine gewisse kognitive Leistung, weshalb wir empfehlen, dennoch einen solchen Zusatz ("aktiv" o.ä.) zu setzen, egal ob es sich um einen Link handelt oder nicht
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Auf PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Ja (falls das Element insgesamt überhaupt als Prozessanzeige erkannt wird).
+
 ## Screenshots typischer Fälle
 
 ![Versteckter Text macht aktuellen Menüpunkt erkennbar im A4AA](images/versteckter-text-macht-aktuellen-menpunkt-erkennbar-im-a4aa.png)
 
 ![Markierung des aktuellen Menüpunkts mittels aria-current="page"](images/markierung-des-aktuellen-menpunkts-mittels-aria-currentpage.png)
+
+## Videos
+
+Keine Videos verfügbar.

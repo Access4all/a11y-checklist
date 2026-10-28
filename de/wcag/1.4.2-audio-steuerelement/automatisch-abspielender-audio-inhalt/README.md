@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 07:38:05"
+video_ids: "[]"
 ---
 
 # ✅ Automatisch abspielender Audio-Inhalt
@@ -35,6 +40,22 @@ Automatisch abspielender Audio-Inhalt von mehr als 3 Sekunden wird nach Möglich
     - **🙂 Beispiel:** Die Webseite einer Radiosendung startet sofort den Live-Audiostream; dieser kann deaktiviert oder leiser gestellt werden
         - ⚠️ Auch das würden wir nicht empfehlen; da man die Seite einer Radiosendung aber eher bewusst besucht, um Radio zu hören, ist dies ggf. etwas weniger störend, als wenn irgendwo "random" Audioinhalt (z.B. Werbung) abgespielt wird
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Ja.
+
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
+
+## Videos
+
+Keine Videos verfügbar.

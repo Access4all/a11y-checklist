@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "false"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-13 16:21:05"
+video_ids: "[]"
 ---
 
 # ✅ Hochkontrast-Modus
@@ -43,6 +48,20 @@ Informative Grafiken und grafische Elemente (z.B. Häkchen in einer aktivierten 
     - **🙂 Beispiel:** Ein Textfeld hat keine Umrandung (CSS `border`), sondern wird nur durch die Hintergrundfarbe erkennbar; im Hochkontrast-Modus wird zusätzlich eine Umrandung angezeigt
         - **😡 Beispiel:** Im Hochkontrast-Modus wird keine zusätzliche Umrandung angezeigt, deshalb ist das Textfeld nicht mehr erkennbar
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Nein, es existiert kein Äquivalent zum Windows Hochkontrast-Modus auf Mobile.
+
+⚠️ Hinweis: Die Funktion "Farben invertieren" (oder "klassische Farbumkehrung") ist ein gänzlich anderer Effekt als "Forced Colors"! Dabei wird nämlich bloss jede Farbe in ihr Gegenteil verkehrt, wodurch alle Kontraste erhalten bleiben.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Nein.
+
 ## Screenshots typischer Fälle
 
 ![Grafik ist auch im Hochkontrast-Modus noch sichtbar](images/grafik-ist-auch-im-hochkontrast-modus-noch-sichtbar.png)
@@ -54,3 +73,7 @@ Informative Grafiken und grafische Elemente (z.B. Häkchen in einer aktivierten 
 ![Transparente Symbole sind (gegen gewählten Hintergrund) nicht mehr gut erkennbar](images/transparente-symbole-sind-gegen-gewhlten-hintergrund-nicht-mehr-gut-erkennbar.png)
 
 ![Mehrzeiliges Textfeld ohne Umrandung nicht sichtbar im HCM](images/mehrzeiliges-textfeld-ohne-umrandung-nicht-sichtbar-im-hcm.png)
+
+## Videos
+
+Keine Videos verfügbar.

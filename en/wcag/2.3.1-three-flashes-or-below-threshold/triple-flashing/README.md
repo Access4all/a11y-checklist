@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 13:49:31"
+video_ids: "[]"
 ---
 
 # ✅ Triple flashing
@@ -25,6 +30,22 @@ There are no elements that flash more than three times in one second or the flas
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Darstellung eines stroboskopischen Lichteffekts in einer Diskothek](images/darstellung-eines-stroboskopischen-lichteffekts-in-einer-diskothek.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.

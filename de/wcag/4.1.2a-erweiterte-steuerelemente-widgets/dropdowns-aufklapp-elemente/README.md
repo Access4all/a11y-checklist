@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:15:05"
+video_ids: "[24, 25, 9]"
 ---
 
 # ✅ Dropdowns (Aufklapp-Elemente)
@@ -92,6 +97,18 @@ Die Nutzung des Begriffs "Dropdown" wird kontrovers diskutiert, da er zu allgeme
 
 Dropdowns können **Toggletips** (siehe [✅ Tooltips / Toggletips](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/tooltips-toggletips)) stark ähneln, enthalten aber typischerweise vor allem interaktive Elemente, also Menü-Einträge (und nicht hauptsächlich lesbare Inhalte).
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+In den meisten Fällen sind per Screenreader auch nicht-barrierefreie solche Elemente erkennbar.
+
 ## Screenshots typischer Fälle
 
 ![Ein einfaches Dropdown in der Navigation von A4AA](images/ein-einfaches-dropdown-in-der-navigation-von-a4aa.png)
@@ -107,3 +124,9 @@ Dropdowns können **Toggletips** (siehe [✅ Tooltips / Toggletips](/de/wcag/4.1
 ![Menü-Leiste in Google Docs](images/men-leiste-in-google-docs.png)
 
 ![Mega-Menü](images/mega-men.png)
+
+## Videos
+
+- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson (🚨💻)](/de/videos/bei-aufklappen-eines-hamburger-menues-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
+- [🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ (💚💻)](/de/videos/hamburger-menue-mit-aria-expanded-und-direkt-darunter-liegendem-menue-inhalt-woz)
+- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)

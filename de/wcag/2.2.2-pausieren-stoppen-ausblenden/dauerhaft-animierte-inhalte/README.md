@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 13:48:53"
+video_ids: "[]"
 ---
 
 # ✅ Dauerhaft animierte Inhalte
@@ -39,8 +44,24 @@ Dauerhaft animierte Inhalte (länger als fünf Sekunden) können mittels gut sic
         - **🙄 Beispiel:** Das Video kann nicht pausiert werden, dauert aber höchstens 5 Sekunden.
         - **😡 Beispiel:** Das Video kann nicht pausiert werden.
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Kann sowohl in nativen / hybriden Mobile Apps vorkommen, wie auch auf Mobile Webseiten.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Wenn, dann nur sehr beschränkt testbar: Animationen sind durch und durch visuell; es kann aber z.B. erkannt werden, wenn ein Video mit Audio automatisch abspielt.
+
 ## Screenshots typischer Fälle
 
 ![Ein horizontal scrollender Werbe-Text](images/ein-horizontal-scrollender-werbe-text.png)
 
 ![Ein Karussell mit Autoplay- und entsprechender Stop-Funktion](images/ein-karussell-mit-autoplay-und-entsprechender-stop-funktion.png)
+
+## Videos
+
+Keine Videos verfügbar.

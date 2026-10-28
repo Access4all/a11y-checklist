@@ -6,7 +6,12 @@ applies_to_design: "true"
 applies_to_development: "false"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-04-16 08:30:41"
+video_ids: "[]"
 ---
 
 # ✅ Konsistente Hilfe
@@ -34,8 +39,24 @@ Hilfestellungen werden über Prozesse und Unter-Seiten hinweg konsistent angebot
     - **🙂 Beispiel:** Im Fussbereich einer Webseite befindet sich immer ein Link zu einem Kontaktformular oder ein Telefon für Hilfe
         - **😡 Beispiel:** Auf diversen Unterseiten fehlen diese Informationen
 
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Selbst wenn etwas visuell über mehrere Seiten gleich aussieht, kann die Semantik im Hintergrund sehr unterschiedlich sein! Entsprechend ist diese Anforderung für Blinde besonders relevant.
+
 ## Screenshots typischer Fälle
 
 ![Hilfe-Angebot im Header der Swiss](images/hilfe-angebot-im-header-der-swiss.png)
 
 ![Chat-Möglichkeit immer an derselben Position](images/chat-mglichkeit-immer-an-derselben-position.png)
+
+## Videos
+
+Keine Videos verfügbar.

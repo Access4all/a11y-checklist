@@ -6,7 +6,12 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:14:46"
+video_ids: "[]"
 ---
 
 # ✅ Dialogs
@@ -25,6 +30,18 @@ Dialogs (also called modals, overlays, lightboxes, etc.) are implemented barrier
 
 🇩🇪 Currently only available in German.
 
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
+
+🇩🇪 Currently only available in German.
+
 ## Screenshots
 
 ![Bootstrap Dialog](images/bootstrap-dialog.png)
@@ -32,3 +49,7 @@ Dialogs (also called modals, overlays, lightboxes, etc.) are implemented barrier
 ![Dialog in A4AA](images/dialog-in-a4aa.png)
 
 ![Hinweis als Dialog, dass Sitzung abgelaufen ist](images/hinweis-als-dialog-dass-sitzung-abgelaufen-ist.png)
+
+## Videos
+
+🇩🇪 Currently only available in German.
