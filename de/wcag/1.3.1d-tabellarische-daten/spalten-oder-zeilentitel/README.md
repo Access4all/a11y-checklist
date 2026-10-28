@@ -47,5 +47,3 @@ Bei zweifelhaftem Code (z.B. Einsatz von `role="table"`) sollte besser mit [🏷
 ## Screenshots typischer Fälle
 
 ![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)
-
-![Tabelle in A4AA mit aktiviertem Tables-Bookmarklet](images/tabelle-in-a4aa-mit-aktiviertem-tables-bookmarklet.png)

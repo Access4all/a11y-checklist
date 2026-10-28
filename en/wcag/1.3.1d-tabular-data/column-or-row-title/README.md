@@ -28,5 +28,3 @@ Data tables have column or row titles (`<th>`), ideally both.
 ## Screenshots
 
 ![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)
-
-![Tabelle in A4AA mit aktiviertem Tables-Bookmarklet](images/tabelle-in-a4aa-mit-aktiviertem-tables-bookmarklet.png)

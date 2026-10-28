@@ -27,4 +27,4 @@ Data that is clearly tabular in nature (i.e. no layout tables) is semantically c
 
 ## Screenshots
 
-![Korrekt umgesetzte Tabelle in A4AA](images/korrekt-umgesetzte-tabelle-in-a4aa.png)
+![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)

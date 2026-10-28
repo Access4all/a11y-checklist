@@ -44,4 +44,4 @@ Bei zweifelhaftem Code (z.B. Einsatz von `role="table"` oder `role="grid"`) soll
 
 ## Screenshots typischer Fälle
 
-![Korrekt umgesetzte Tabelle in A4AA](images/korrekt-umgesetzte-tabelle-in-a4aa.png)
+![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)
