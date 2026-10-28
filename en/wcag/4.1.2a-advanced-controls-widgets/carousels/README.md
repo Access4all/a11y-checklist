@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:15:36"
-video_ids: "[]"
 ---
 
 # ✅ Carousels
@@ -47,7 +46,3 @@ Carousels (sliders) are implemented barrier-free. They are correctly announced b
 ![Bootstrap Carousel](images/bootstrap-carousel.png)
 
 ![Viseca Karussell](images/viseca-karussell.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

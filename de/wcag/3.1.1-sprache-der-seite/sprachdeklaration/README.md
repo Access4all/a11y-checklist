@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:03:27"
-video_ids: "[]"
 ---
 
 # ✅ Sprachdeklaration
@@ -62,7 +61,3 @@ Ja: wenn der Screenreader die Inhalte in einem seltsamen Akzent ausspricht, ist 
 ![CH-Deutsch beim Blick](images/ch-deutsch-beim-blick.png)
 
 ![Fehlende Sprachdeklaration](images/fehlende-sprachdeklaration.png)
-
-## Videos
-
-Keine Videos verfügbar.

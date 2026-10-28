@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:21:16"
-video_ids: "[]"
 ---
 
 # ✅ Footnotes
@@ -47,7 +46,3 @@ Footnotes are implemented barrier-free: The footnote text can also be accessed w
 ![Fussnoten sind in-Page Anker-Links...](images/fussnoten-sind-in-page-anker-links.png)
 
 ![...und verlinken zurück!](images/und-verlinken-zurck.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

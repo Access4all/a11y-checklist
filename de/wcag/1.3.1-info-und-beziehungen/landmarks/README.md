@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 12:20:01"
-video_ids: "[]"
 ---
 
 # ✅ Landmarks
@@ -80,7 +79,3 @@ Ja: insbesondere das Fehlen von Landmarks kann natürlich erkannt werden. Ob ver
 ![Landmarks auf Galaxus](images/landmarks-auf-galaxus.png)
 
 ![Nur ein einziges Landmark auf Watson](images/nur-ein-einziges-landmark-auf-watson.png)
-
-## Videos
-
-Keine Videos verfügbar.

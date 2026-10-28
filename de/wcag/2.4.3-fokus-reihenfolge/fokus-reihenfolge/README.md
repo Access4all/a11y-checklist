@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 13:52:07"
-video_ids: "[]"
 ---
 
 # ✅ Fokus-Reihenfolge
@@ -60,7 +59,3 @@ Ansich kann das im Fokus-Modus (mit `Tab` navigieren) in gewissen Screenreadern 
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-Keine Videos verfügbar.

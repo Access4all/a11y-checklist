@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 07:29:59"
-video_ids: "[]"
 ---
 
 # ✅ Leere Elemente
@@ -57,7 +56,3 @@ Ja: man kann mittels `P` von Paragraf zu Paragraf springen. Wenn diese als "leer
 ## Screenshots typischer Fälle
 
 ![Ein leerer Paragraf](images/ein-leerer-paragraf.png)
-
-## Videos
-
-Keine Videos verfügbar.

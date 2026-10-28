@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:33:18"
-video_ids: "[]"
 ---
 
 # ✅ Sensorische Hinweise
@@ -64,7 +63,3 @@ Nur sehr eingeschränkt testbar, wenn man nicht alle Wahrnehmungskanäle zur Ver
 ## Screenshots typischer Fälle
 
 ![Fehlerhaftes Feld rot umrandet und mit zusätzlichem Text](images/fehlerhaftes-feld-rot-umrandet-und-mit-zustzlichem-text.png)
-
-## Videos
-
-Keine Videos verfügbar.

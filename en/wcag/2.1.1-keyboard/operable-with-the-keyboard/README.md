@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:55:43"
-video_ids: "[16, 11, 13, 12, 6, 15]"
 ---
 
 # ✅ Operable with the keyboard
@@ -49,7 +48,3 @@ Content/functionalities (page functionalities, page elements, form fields, contr
 ![Nicht fokussierbares Hamburger-Menü auf Watson](images/nicht-fokussierbares-hamburger-men-auf-watson.png)
 
 Das Element zum Ausklappen des Hamburger-Menüs kann nicht fokussiert werden.
-
-## Videos
-
-🇩🇪 Currently only available in German.

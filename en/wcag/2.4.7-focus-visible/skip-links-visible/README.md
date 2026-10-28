@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:00:37"
-video_ids: "[]"
 ---
 
 # ✅ Skip-Links visible
@@ -45,7 +44,3 @@ Skip links are visible when using the keyboard.
 ## Screenshots
 
 ![Visible skip link on GitHub](images/sichtbarer-sprunglink-auf-github.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

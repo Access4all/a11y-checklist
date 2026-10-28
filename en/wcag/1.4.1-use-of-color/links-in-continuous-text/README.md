@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:37:24"
-video_ids: "[]"
 ---
 
 # ✅ Links in continuous text
@@ -49,7 +48,3 @@ If links within continuous text are distinguished from the continuous text only 
 ![Link in Fliesstext mit Unterstreichung](images/link-in-fliesstext-mit-unterstreichung.png)
 
 ![Link in Fliesstext ohne Unterstreichung, dafür mit Symbol](images/link-in-fliesstext-ohne-unterstreichung-dafr-mit-symbol.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

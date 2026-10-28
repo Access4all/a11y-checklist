@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 07:42:11"
-video_ids: "[]"
 ---
 
 # ✅ 200% zoom
@@ -49,7 +48,3 @@ Elements are zoomable to at least 200%, either the text alone or the entire page
 ![Firefox erlaubt auch, nur den Text zu zoomen](images/firefox-erlaubt-auch-nur-den-text-zu-zoomen.png)
 
 ![Text-Vergrösserung in iOS](images/text-vergrsserung-in-ios.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

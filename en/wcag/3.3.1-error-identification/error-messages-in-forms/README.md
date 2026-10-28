@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:06:51"
-video_ids: "[19]"
 ---
 
 # ✅ Error messages in forms
@@ -45,7 +44,3 @@ Interact with the form and check whether errors can also be experienced with a s
 ## Screenshots
 
 ![Fehlermeldungen in A4AA](images/fehlermeldungen-in-a4aa.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

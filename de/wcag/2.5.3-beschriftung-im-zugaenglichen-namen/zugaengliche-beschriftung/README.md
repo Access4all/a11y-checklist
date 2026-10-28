@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:02:31"
-video_ids: "[]"
 ---
 
 # ✅ Zugängliche Beschriftung
@@ -59,7 +58,3 @@ Nein.
 ![Die zugängliche Beschriftung beinhaltet die visuell sichtbare Beschriftung](images/die-zugngliche-beschriftung-beinhaltet-die-visuell-sichtbare-beschriftung.png)
 
 ![Schalter mit Symbol und sinnvoller zugänglicher Beschriftung](images/schalter-mit-symbol-und-sinnvoller-zugnglicher-beschriftung.png)
-
-## Videos
-
-Keine Videos verfügbar.

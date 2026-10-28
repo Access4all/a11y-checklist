@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:09:35"
-video_ids: "[]"
 ---
 
 # ✅ Format information
@@ -47,7 +46,3 @@ Format information for form fields is accessible and clearly linked to the assoc
 ![Datumsformat wird als Placeholder angegeben](images/datumsformat-wird-als-placeholder-angegeben.png)
 
 ![Datumsformat wird als Fehlermeldung angegeben](images/datumsformat-wird-als-fehlermeldung-angegeben.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

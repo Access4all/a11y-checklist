@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:15:36"
-video_ids: "[]"
 ---
 
 # ✅ Karusselle
@@ -105,7 +104,3 @@ Karusselle **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenread
 ![Bootstrap Carousel](images/bootstrap-carousel.png)
 
 ![Viseca Karussell](images/viseca-karussell.png)
-
-## Videos
-
-Keine Videos verfügbar.

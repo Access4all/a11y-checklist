@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:16:37"
-video_ids: "[6]"
 ---
 
 # ✅ Tooltips / Toggletips
@@ -111,7 +110,3 @@ Tooltips / Toggletips **müssen** sogar mit einem Screenreader wie [🏷️ NVDA
 ![Tooltip aus dem ADG](images/tooltip-aus-dem-adg.png)
 
 ![Tooltip mit fokussierbaren Inhalten](images/tooltip-mit-fokussierbaren-inhalten.png)
-
-## Videos
-
-Keine Videos verfügbar.

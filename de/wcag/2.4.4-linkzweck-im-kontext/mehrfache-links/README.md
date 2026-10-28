@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 13:57:26"
-video_ids: "[]"
 ---
 
 # ✅ Mehrfache Links
@@ -55,7 +54,3 @@ Problemlos per Screenreader [🏷️ NVDA Screenreader](/de/tags/nvda-screenread
 ![Card als ein einziger Link bei WOZ](images/card-als-ein-einziger-link-bei-woz.png)
 
 ![Card mit mehreren Links auf dasselbe Ziel](images/card-mit-mehreren-links-auf-dasselbe-ziel.png)
-
-## Videos
-
-Keine Videos verfügbar.

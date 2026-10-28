@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:04:34"
-video_ids: "[]"
 ---
 
 # ✅ Kontextänderung bei Fokus
@@ -50,7 +49,3 @@ Im Focus-Modus (mit `Tab`) können solche Probleme auch per Screenreader gefunde
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-Keine Videos verfügbar.

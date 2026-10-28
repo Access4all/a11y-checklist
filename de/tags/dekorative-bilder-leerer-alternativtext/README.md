@@ -2,7 +2,6 @@
 id: "30"
 parent_id: "69"
 created_at: "2024-03-09 14:38:55"
-video_ids: "[]"
 ---
 
 # 🏷️ Dekorative Bilder (leerer Alternativtext)
@@ -31,7 +30,3 @@ Falsch hingegen ist folgendes:
 Es gilt gut abzuwägen, ob ein Bild tatsächlich **keinerlei** informativen Wert hat. Wenn sich auf der Webseite eines Reisebüros ein Bild von einer Hängematte am Strand befindet, so könnte man argumentieren, dass dies ja nur eine Stimmung hervorrufen soll und entsprechend nur dekorativ ist. Man könnte aber einwenden, dass auch ein Blinder mit Screenreader sich freut, wenn er inspiriert wird von einem Bild mit Alternativtext "Einfach wieder mal in einer Hängematte am Meer die Seele baumeln lassen!". Wieder jemand anderes mag argumentieren, ein möglichst kurzer, rein beschreibender Alternativtext wäre optimal, z.B. "Hängematte am Meer".
 
 Ganz gemäss dem Grundsatz [🏷️ Alle Nutzer haben möglichst dasselbe Erlebnis!](/de/tags/alle-nutzer-haben-moeglichst-dasselbe-erlebnis): im Zweifelsfall lieber einen Alternativtext verfassen!
-
-## Videos
-
-Keine Videos verfügbar.

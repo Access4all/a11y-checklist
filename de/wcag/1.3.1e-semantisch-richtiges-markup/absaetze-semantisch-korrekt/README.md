@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:18:55"
-video_ids: "[10]"
 ---
 
 # ✅ Absätze semantisch korrekt
@@ -60,7 +59,3 @@ Ja. Es ist allerdings etwas mühsam, da Paragrafen nicht explizit vom Screenread
 ![Absatz mit doppelten BR vorgegaukelt](images/absatz-mit-doppelten-br-vorgegaukelt.png)
 
 ![Absätze nur als DIV formatiert](images/abstze-nur-als-div-formatiert.png)
-
-## Videos
-
-- [🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri (🚨💻)](/de/videos/paragraf-aufgeteilt-in-drei-p-elemente-forcierter-zeilenumbruch-atupri)

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:11:33"
-video_ids: "[]"
 ---
 
 # ✅ User input verifiable
@@ -45,7 +44,3 @@ User input must be verifiable before process completion with financial/legal con
 ## Screenshots
 
 ![Eine Übersichts-Seite in einem Online-Shop zeigt alle relevanten Infos nochmal an, bevor die Bestellung definitiv abgeschickt wird](images/eine-bersichts-seite-in-einem-online-shop-zeigt-alle-relevanten-infos-nochmal-an-bevor-die-bestellung-definitiv-abgeschickt-wird.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

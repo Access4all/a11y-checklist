@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 13:11:30"
-video_ids: "[]"
 ---
 
 # ✅ Fieldset / Legend
@@ -74,7 +73,3 @@ Sinnvolle Gruppierung von Formular-Elementen ist für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Fieldset/Legends in A4AA](images/fieldsetlegends-in-a4aa.png)
-
-## Videos
-
-Keine Videos verfügbar.

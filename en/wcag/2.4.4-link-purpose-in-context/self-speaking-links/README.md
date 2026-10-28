@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 13:56:46"
-video_ids: "[]"
 ---
 
 # ✅ Self-speaking links
@@ -45,7 +44,3 @@ Link texts are self-explanatory, i.e. understandable by themselves or via contex
 ## Screenshots
 
 ![Mehr erfahren Links bei EGK](images/mehr-erfahren-links-bei-egk.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

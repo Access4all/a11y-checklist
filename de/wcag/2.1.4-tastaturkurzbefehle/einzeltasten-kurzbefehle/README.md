@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:47:27"
-video_ids: "[]"
 ---
 
 # ✅ Einzeltasten-Kurzbefehle
@@ -56,7 +55,3 @@ Grundsätzlich testbar, wenn man bewusst in den "Application Modus" wechselt (`I
 ![Github fokussiert das Suchfeld mit Tastenkürzel "/"](images/github-fokussiert-das-suchfeld-mit-tastenkrzel.png)
 
 ![Github erlaubt das Deaktivieren dieser Tastenkürzel](images/github-erlaubt-das-deaktivieren-dieser-tastenkrzel.png)
-
-## Videos
-
-Keine Videos verfügbar.

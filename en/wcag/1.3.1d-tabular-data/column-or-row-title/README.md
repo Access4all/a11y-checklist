@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:15:29"
-video_ids: "[]"
 ---
 
 # ✅ Column or row title
@@ -45,7 +44,3 @@ Data tables have column or row titles (`<th>`), ideally both.
 ## Screenshots
 
 ![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

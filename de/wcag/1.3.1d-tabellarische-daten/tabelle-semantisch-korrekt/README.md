@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:16:58"
-video_ids: "[]"
 ---
 
 # ✅ Tabelle semantisch korrekt
@@ -67,7 +66,3 @@ Korrekte Umsetzung von Tabellen ist für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)
-
-## Videos
-
-Keine Videos verfügbar.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-14 12:16:46"
-video_ids: "[]"
 ---
 
 # ✅ Audiodeskription
@@ -67,7 +66,3 @@ Nein.
 ![Cabinet of Curiosities](images/cabinet-of-curiosities.png)
 
 Many newer films on Netflix offer audio descriptions.
-
-## Videos
-
-Keine Videos verfügbar.

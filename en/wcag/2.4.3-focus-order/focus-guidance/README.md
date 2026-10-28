@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:52:58"
-video_ids: "[24]"
 ---
 
 # ✅ Focus-Guidance
@@ -45,7 +44,3 @@ The keyboard focus is guided sensibly when someone interacts with elements on th
 ## Screenshots
 
 ![Fokus sollte direkt in Cookie-Banner gesetzt werden](images/fokus-sollte-direkt-in-cookie-banner-gesetzt-werden.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

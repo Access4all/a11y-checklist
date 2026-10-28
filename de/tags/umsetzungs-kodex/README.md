@@ -2,7 +2,6 @@
 id: "77"
 parent_id: ""
 created_at: "2024-10-28 14:25:17"
-video_ids: "[]"
 ---
 
 # 🏷️ Umsetzungs-Kodex
@@ -10,7 +9,3 @@ video_ids: "[]"
 ## Beschreibung
 
 Über die Jahre haben sich einige Grundsätze heraus gebildet, welche Voraussetzung für gute Barrierefreiheit sind (oder diese zumindest stark begünstigen).
-
-## Videos
-
-Keine Videos verfügbar.

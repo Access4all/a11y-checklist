@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-13 16:25:00"
-video_ids: "[20, 21]"
 ---
 
 # ✅ Dekorative Grafiken
@@ -58,7 +57,3 @@ Beschränkt testbar: vielleicht stolpert man mal über ein Bild mit Alternativte
 ## Screenshots typischer Fälle
 
 ![Dekorative Grafik](images/dekorative-grafik.png)
-
-## Videos
-
-Keine Videos verfügbar.

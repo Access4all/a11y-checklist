@@ -11,7 +11,6 @@ applicable_to_mobile: "false"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:12:15"
-video_ids: "[]"
 ---
 
 # ✅ Keine Syntaxfehler (obsolet)
@@ -34,20 +33,12 @@ _**Obsolet:** Dieses Kriterium hat keinen Nutzen mehr und wurde aus den WCAG ges
 
 ## Prüfmethode für Mobile (Ergänzungen zu Web)
 
-
-
 ## Prüfmethode für PDF (Ergänzungen zu Web)
 
 Für PDF nicht anwendbar.
 
 ## Details zum blinden Testen
 
-
-
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-Keine Videos verfügbar.

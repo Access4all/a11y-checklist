@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 13:59:23"
-video_ids: "[17]"
 ---
 
 # ✅ Keyboard-Focus visible
@@ -55,7 +54,3 @@ The keyboard focus is sufficiently visible, e.g. through a clearly visible frame
 ![Kaum sichtbare Umrandung](images/kaum-sichtbare-umrandung.png)
 
 ![Kaum sichtbare Hintergrundfarbe](images/kaum-sichtbare-hintergrundfarbe.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

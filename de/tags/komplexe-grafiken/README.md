@@ -2,7 +2,6 @@
 id: "31"
 parent_id: "69"
 created_at: "2024-03-09 14:40:58"
-video_ids: "[]"
 ---
 
 # 🏷️ Komplexe Grafiken
@@ -37,7 +36,3 @@ Manchmal macht es Sinn, zusätzliche Informationen per Download anzubieten. Dies
 ```
 
 Das [`longdesc`](https://developer.mozilla.org/en-US/docs/Web/API/HTMLImageElement/longDesc)-Attribut hingegen ist deprecated.
-
-## Videos
-
-Keine Videos verfügbar.

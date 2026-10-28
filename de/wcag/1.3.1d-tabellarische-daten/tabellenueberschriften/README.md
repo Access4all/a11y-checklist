@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:14:26"
-video_ids: "[]"
 ---
 
 # ✅ Tabellenüberschriften
@@ -68,7 +67,3 @@ Beschriftungen von Tabellen sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Caption-Demo auf MDN](images/caption-demo-auf-mdn.png)
-
-## Videos
-
-Keine Videos verfügbar.

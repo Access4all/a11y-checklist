@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:53:57"
-video_ids: "[]"
 ---
 
 # ✅ Unternavigationspunkte überspringen
@@ -55,7 +54,3 @@ Im Fokus-Modus kann dies durchaus geprüft werden.
 ![Sub-Menüs bei Disney öffnen automatisch bei Fokus und können nicht geschlossen werden](images/sub-mens-bei-disney-ffnen-automatisch-bei-fokus-und-knnen-mit-esc-nicht-geschlossen-werden.png)
 
 ![Sub-Menüs bei Mozilla können mit Esc und X-Schalter geschlossen werden](images/sub-mens-bei-mozilla-knnen-mit-esc-und-x-schalter-geschlossen-werden.png)
-
-## Videos
-
-Keine Videos verfügbar.

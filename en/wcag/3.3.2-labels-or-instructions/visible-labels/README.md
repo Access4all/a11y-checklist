@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 14:09:10"
-video_ids: "[]"
 ---
 
 # ✅ Visible labels
@@ -47,7 +46,3 @@ Form fields have visually visible labels. The sole use of `placeholder` attribut
 ![Labels sind immer sichtbar in A4AA](images/labels-sind-immer-sichtbar-in-a4aa.png)
 
 ![Float-Label-Pattern](images/float-label-pattern.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

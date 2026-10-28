@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:06:51"
-video_ids: "[19]"
 ---
 
 # ✅ Fehlermeldungen in Formularen
@@ -87,7 +86,3 @@ Fehler-Meldungen für Formular-Elemente sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Fehlermeldungen in A4AA](images/fehlermeldungen-in-a4aa.png)
-
-## Videos
-
-- [🎬 Fehlermeldungen werden nicht ausgegeben (Fokus nicht versetzt, nicht verknüpft) - Atupri (🚨💻)](/de/videos/fehlermeldungen-werden-nicht-ausgegeben-fokus-nicht-versetzt-nicht-verknuepft-atupri)

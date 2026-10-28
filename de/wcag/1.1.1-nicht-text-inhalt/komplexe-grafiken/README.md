@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-13 16:24:25"
-video_ids: "[21]"
 ---
 
 # ✅ Komplexe Grafiken
@@ -71,7 +70,3 @@ Wenn, dann nur sehr beschränkt testbar: oft weiss man ja nicht, wie detailliert
 ![Linienpläne sind sehr schwierig zu beschreiben](images/linienplne-sind-sehr-schwierig-zu-beschreiben.png)
 
 ![Auch Übersichten von Wettervorhersagen sind sehr komplex](images/auch-bersichten-von-wettervorhersagen-sind-sehr-komplex.png)
-
-## Videos
-
-Keine Videos verfügbar.

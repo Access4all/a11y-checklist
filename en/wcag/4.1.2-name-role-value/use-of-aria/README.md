@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:18:08"
-video_ids: "[]"
 ---
 
 # ✅ Use of ARIA
@@ -45,7 +44,3 @@ The use of ARIA is reasonable and correct. Wherever possible, standard HTML elem
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 07:42:11"
-video_ids: "[]"
 ---
 
 # ✅ 200% Zoom
@@ -50,8 +49,6 @@ Es ist in Mobile Apps manchmal schwierig zu eruieren, ob Schriften sich tatsäch
 
 ## Prüfmethode für PDF (Ergänzungen zu Web)
 
-
-
 ## Details zum blinden Testen
 
 Nein.
@@ -63,7 +60,3 @@ Nein.
 ![Firefox erlaubt auch, nur den Text zu zoomen](images/firefox-erlaubt-auch-nur-den-text-zu-zoomen.png)
 
 ![Text-Vergrösserung in iOS](images/text-vergrsserung-in-ios.png)
-
-## Videos
-
-Keine Videos verfügbar.

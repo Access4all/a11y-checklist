@@ -2,7 +2,6 @@
 id: "34"
 parent_id: "60"
 created_at: "2024-03-09 14:47:48"
-video_ids: "[]"
 ---
 
 # 🏷️ ARIA Live Regions
@@ -14,7 +13,3 @@ Ganz gemäss dem Grundsatz [🏷️ Auf Interaktion folgt stets Rückmeldung!](/
 Siehe [📜-4.1.3 Statusmeldungen](/de/wcag/4.1.3-statusmeldungen).
 
 Manchmal kann es stattdessen auch sinnvoll sein, den Fokus sinnvoll neu zu setzen, um ein Element vom Screenreader ansagen zu lassen. (Siehe [✅ Fokus-Führung](/de/wcag/2.4.3-fokus-reihenfolge/fokus-fuehrung))
-
-## Videos
-
-Keine Videos verfügbar.

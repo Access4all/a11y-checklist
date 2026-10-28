@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 13:59:23"
-video_ids: "[17]"
 ---
 
 # ✅ Tastatur-Fokus sichtbar
@@ -70,7 +69,3 @@ Nein.
 ![Kaum sichtbare Umrandung](images/kaum-sichtbare-umrandung.png)
 
 ![Kaum sichtbare Hintergrundfarbe](images/kaum-sichtbare-hintergrundfarbe.png)
-
-## Videos
-
-- [🎬 Interaktive Elemente ohne sichtbaren Fokus (Focus-Reset) - Watson (🚨💻)](/de/videos/interaktive-elemente-ohne-sichtbaren-fokus-focus-reset-watson)

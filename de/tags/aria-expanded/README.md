@@ -2,7 +2,6 @@
 id: "17"
 parent_id: "59"
 created_at: "2024-03-09 12:42:46"
-video_ids: "[9]"
 ---
 
 # 🏷️ aria-expanded
@@ -19,7 +18,3 @@ Oft möchte man aber z.B. mit einem Schalter ein direkt darunter liegendes Eleme
 ```
 
 In solchen Fällen kann man [`aria-expanded`](https://developer.mozilla.org/en-US/docs/Web/Accessibility/ARIA/Attributes/aria-expanded) verwenden. Dadurch erhält der Screenreader beim Aktivieren ein Feedback "Ausgeklappt" (oder "Eingeklappt), ganz gemäss dem Prinzip: [🏷️ Auf Interaktion folgt stets Rückmeldung!](/de/tags/auf-interaktion-folgt-stets-rueckmeldung)
-
-## Videos
-
-- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)

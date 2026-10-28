@@ -11,7 +11,6 @@ applicable_to_mobile: "false"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-13 16:21:05"
-video_ids: "[]"
 ---
 
 # ✅ Hochkontrast-Modus
@@ -73,7 +72,3 @@ Nein.
 ![Transparente Symbole sind (gegen gewählten Hintergrund) nicht mehr gut erkennbar](images/transparente-symbole-sind-gegen-gewhlten-hintergrund-nicht-mehr-gut-erkennbar.png)
 
 ![Mehrzeiliges Textfeld ohne Umrandung nicht sichtbar im HCM](images/mehrzeiliges-textfeld-ohne-umrandung-nicht-sichtbar-im-hcm.png)
-
-## Videos
-
-Keine Videos verfügbar.

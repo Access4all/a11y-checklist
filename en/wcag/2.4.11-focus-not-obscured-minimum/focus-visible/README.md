@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-04-16 08:17:49"
-video_ids: "[]"
 ---
 
 # ✅ Focus visible
@@ -51,7 +50,3 @@ The keyboard focus is always clearly visible when navigating and is at most part
 ![Ein Cookie-Banner verdeckt fast die komplette Mobile-Ansicht](images/ein-cookie-banner-verdeckt-fast-die-komplette-mobile-ansicht.png)
 
 ![Sticky Header und Footer können fokussierte Elemente verdecken](images/sticky-header-und-footer-knnen-fokussierte-elemente-verdecken.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

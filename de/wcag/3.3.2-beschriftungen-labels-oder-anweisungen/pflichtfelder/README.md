@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:08:12"
-video_ids: "[]"
 ---
 
 # ✅ Pflichtfelder
@@ -70,7 +69,3 @@ Pflichtangaben für Formular-Elemente sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Pflichtfeld in A4AA](images/pflichtfeld-in-a4aa.png)
-
-## Videos
-
-Keine Videos verfügbar.

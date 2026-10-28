@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 13:00:51"
-video_ids: "[]"
 ---
 
 # ✅ Glossaries
@@ -45,7 +44,3 @@ Glossaries and similar information lists are formatted as definition lists.
 ## Screenshots
 
 ![Definitions-Liste in A4AA](images/definitions-liste-in-a4aa.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

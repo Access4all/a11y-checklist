@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 07:38:05"
-video_ids: "[]"
 ---
 
 # ✅ Auto-playing audio content
@@ -45,7 +44,3 @@ Audio content that plays automatically for more than 3 seconds is avoided wherev
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

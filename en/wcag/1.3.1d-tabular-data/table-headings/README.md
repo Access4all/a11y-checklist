@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:14:26"
-video_ids: "[]"
 ---
 
 # ✅ Table headings
@@ -45,7 +44,3 @@ Complex data tables in particular have table headings (`<caption>`).
 ## Screenshots
 
 ![Caption-Demo auf MDN](images/caption-demo-auf-mdn.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

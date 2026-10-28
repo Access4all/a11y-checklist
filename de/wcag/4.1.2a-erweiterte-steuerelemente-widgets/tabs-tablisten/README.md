@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:16:04"
-video_ids: "[]"
 ---
 
 # ✅ Tabs / Tablisten
@@ -85,7 +84,3 @@ Tabs **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/d
 ![Tabs aus dem ADG](images/tabs-aus-dem-adg.png)
 
 ![Tabs von Switch Cast](images/tabs-von-switch-cast.png)
-
-## Videos
-
-Keine Videos verfügbar.

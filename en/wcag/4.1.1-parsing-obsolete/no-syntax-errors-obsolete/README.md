@@ -11,7 +11,6 @@ applicable_to_mobile: "false"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:12:15"
-video_ids: "[]"
 ---
 
 # ✅ No syntax errors (obsolete)
@@ -47,7 +46,3 @@ The HTML code does not contain any errors relevant to accessibility.
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

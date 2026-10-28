@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:20:14"
-video_ids: "[24, 23, 25]"
 ---
 
 # ✅ Statusmeldungen
@@ -71,8 +70,3 @@ Generell gilt ja: wenn der Screenreader-Nutzer etwas tut, muss in irgendeiner Fo
 ![Meldung über Speicherung des Dokuments in Word 365](images/meldung-ber-speicherung-des-dokuments-in-word-365.png)
 
 ![Hinweis nach Bewertung einer Prüfung in Moodle](images/hinweis-nach-bewertung-einer-prfung-in-moodle.png)
-
-## Videos
-
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson (🚨💻)](/de/videos/bei-aufklappen-eines-hamburger-menues-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
-- [🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ (💚💻)](/de/videos/hamburger-menue-mit-aria-expanded-und-direkt-darunter-liegendem-menue-inhalt-woz)

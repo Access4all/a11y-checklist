@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:49:31"
-video_ids: "[]"
 ---
 
 # ✅ Triple flashing
@@ -45,7 +44,3 @@ There are no elements that flash more than three times in one second or the flas
 ## Screenshots
 
 ![Darstellung eines stroboskopischen Lichteffekts in einer Diskothek](images/darstellung-eines-stroboskopischen-lichteffekts-in-einer-diskothek.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

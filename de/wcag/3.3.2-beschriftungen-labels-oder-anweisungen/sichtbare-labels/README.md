@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 14:09:10"
-video_ids: "[]"
 ---
 
 # ✅ Sichtbare Labels
@@ -60,7 +59,3 @@ Nein.
 ![Labels sind immer sichtbar in A4AA](images/labels-sind-immer-sichtbar-in-a4aa.png)
 
 ![Float-Label-Pattern](images/float-label-pattern.png)
-
-## Videos
-
-Keine Videos verfügbar.

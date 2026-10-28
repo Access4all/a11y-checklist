@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:22:50"
-video_ids: "[2, 3, 28, 29]"
 ---
 
 # ✅ Hierarchie existierender Überschriften
@@ -75,10 +74,3 @@ WICHTIG: Screenreader-Nutzende nehmen die Inhalte in einem PDF nicht seitenweise
 ![Sehr detaillierte Überschriften-Hierarchie auf WOZ in h123](images/sehr-detaillierte-berschriften-hierarchie-auf-woz.png)
 
 ![Dieselbe Hierarchie in NVDA](images/dieselbe-hierarchie-in-nvda.png)
-
-## Videos
-
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick (🚨💻)](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-blick)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack (🚨💻)](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

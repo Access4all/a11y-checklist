@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:52:58"
-video_ids: "[24]"
 ---
 
 # ✅ Fokus-Führung
@@ -80,7 +79,3 @@ Es kann aber auch ein anderes Problem vorliegen, welches schwieriger zu eruieren
 ## Screenshots typischer Fälle
 
 ![Fokus sollte direkt in Cookie-Banner gesetzt werden](images/fokus-sollte-direkt-in-cookie-banner-gesetzt-werden.png)
-
-## Videos
-
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson (🚨💻)](/de/videos/bei-aufklappen-eines-hamburger-menues-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:13:34"
-video_ids: "[]"
 ---
 
 # ✅ Formularfelder Labels
@@ -70,7 +69,3 @@ Labels für Formular-Elementen sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Labels in A4AA](images/labels-in-a4aa.png)
-
-## Videos
-
-Keine Videos verfügbar.

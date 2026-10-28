@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:04:34"
-video_ids: "[]"
 ---
 
 # ✅ Context change with focus
@@ -45,7 +44,3 @@ The context does not change automatically with focus (e.g. redirection to anothe
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

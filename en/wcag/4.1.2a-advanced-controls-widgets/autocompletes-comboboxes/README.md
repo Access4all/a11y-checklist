@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:13:38"
-video_ids: "[]"
 ---
 
 # ✅ Autocompletes (comboboxes)
@@ -49,7 +48,3 @@ Autocompletes are implemented barrier-free. They are correctly announced by scre
 ![Autocomplete mit Pills](images/autocomplete-mit-pills.png)
 
 ![Multi-Select mit Pills](images/multi-select-mit-pills.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

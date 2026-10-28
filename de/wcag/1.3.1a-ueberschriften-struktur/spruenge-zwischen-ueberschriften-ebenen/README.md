@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:23:55"
-video_ids: "[5, 22, 28, 29]"
 ---
 
 # ✅ Sprünge zwischen Überschriften-Ebenen
@@ -74,10 +73,3 @@ In nativen Apps hingegen gibt es semantisch nur eine Überschriften-Stufe (auch 
 ## Screenshots typischer Fälle
 
 ![Ein Sprung von Ebene 2 auf Ebene 4](images/ein-sprung-von-ebene-2-auf-ebene-4.png)
-
-## Videos
-
-- [🎬 Fehlende Zwischen-Überschrift und Ebenen-Sprung - Mozilla (🚨💻)](/de/videos/fehlende-zwischen-ueberschrift-und-ebenen-sprung-mozilla)
-- [🎬 Sprünge zwischen Überschriften-Ebenen - Atupri (🚨💻)](/de/videos/spruenge-zwischen-ueberschriften-ebenen-atupri)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

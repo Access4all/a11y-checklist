@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:23:55"
-video_ids: "[5, 22, 28, 29]"
 ---
 
 # ✅ Jumps between heading levels
@@ -45,7 +44,3 @@ Execute **Bookmarklet h123:** and search for jumps in the hierarchy.
 ## Screenshots
 
 ![Ein Sprung von Ebene 2 auf Ebene 4](images/ein-sprung-von-ebene-2-auf-ebene-4.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

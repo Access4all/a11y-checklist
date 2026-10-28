@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 13:12:33"
-video_ids: "[]"
 ---
 
 # ✅ Text-Elemente zwischen Eingabefeldern
@@ -72,7 +71,3 @@ Beschreibende Texte in Formular-Elementen sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Beschreibende Texte in A4AA](images/beschreibende-texte-in-a4aa.png)
-
-## Videos
-
-Keine Videos verfügbar.

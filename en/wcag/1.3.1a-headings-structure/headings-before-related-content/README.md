@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:26:12"
-video_ids: "[28, 29]"
 ---
 
 # ✅ Headings before related content
@@ -45,7 +44,3 @@ Headings are placed in the code before their associated content.
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

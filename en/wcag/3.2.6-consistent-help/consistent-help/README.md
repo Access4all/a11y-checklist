@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-04-16 08:30:41"
-video_ids: "[]"
 ---
 
 # ✅ Consistent help
@@ -47,7 +46,3 @@ Assistance is offered consistently across processes and sub-pages.
 ![Hilfe-Angebot im Header der Swiss](images/hilfe-angebot-im-header-der-swiss.png)
 
 ![Chat-Möglichkeit immer an derselben Position](images/chat-mglichkeit-immer-an-derselben-position.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-13 16:11:33"
-video_ids: "[]"
 ---
 
 # ✅ Graphical tests and exercises
@@ -45,7 +44,3 @@ Tests and exercises whose content must consist of non-text content have an alter
 ## Screenshots
 
 ![Farbenblindheit-Test](images/farbenblindheit-test.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

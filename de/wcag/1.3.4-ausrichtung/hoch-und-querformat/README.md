@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 07:35:03"
-video_ids: "[]"
 ---
 
 # ✅ Hoch- und Querformat
@@ -55,7 +54,3 @@ Nein.
 ![Dieselbe Mobile App im Querformat](images/dieselbe-mobile-app-im-querformat.png)
 
 ![Mobile App mit Button zum Wechseln des Formats](images/mobile-app-mit-button-zum-wechseln-des-formats.png)
-
-## Videos
-
-Keine Videos verfügbar.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 12:18:53"
-video_ids: "[27, 26]"
 ---
 
 # ✅ Active elements
@@ -47,7 +46,3 @@ Active elements (e.g. the active menu item in a navigation) are semantically rec
 ![Versteckter Text macht aktuellen Menüpunkt erkennbar im A4AA](images/versteckter-text-macht-aktuellen-menpunkt-erkennbar-im-a4aa.png)
 
 ![Markierung des aktuellen Menüpunkts mittels aria-current="page"](images/markierung-des-aktuellen-menpunkts-mittels-aria-currentpage.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

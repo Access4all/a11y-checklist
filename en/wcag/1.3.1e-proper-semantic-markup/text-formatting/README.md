@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 07:30:37"
-video_ids: "[]"
 ---
 
 # ✅ Text formatting
@@ -45,7 +44,3 @@ Text formatting with informational content (e.g., crossed out) is also accessibl
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

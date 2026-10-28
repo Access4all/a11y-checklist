@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:43:01"
-video_ids: "[]"
 ---
 
 # ✅ Texte nicht als Grafiken
@@ -60,7 +59,3 @@ Nein.
 ## Screenshots typischer Fälle
 
 ![Ein komplexer Text nur als Bild umgesetzt](images/ein-komplexer-text-nur-als-bild-umgesetzt.png)
-
-## Videos
-
-Keine Videos verfügbar.

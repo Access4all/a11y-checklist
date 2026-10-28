@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 12:26:50"
-video_ids: "[]"
 ---
 
 # ✅ Headings for accordions
@@ -45,7 +44,3 @@ Headings for accordions are implemented as such.
 ## Screenshots
 
 ![Akkordeon im A4AA mit Überschriften](images/akkordeon-im-a4aa-mit-berschriften.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

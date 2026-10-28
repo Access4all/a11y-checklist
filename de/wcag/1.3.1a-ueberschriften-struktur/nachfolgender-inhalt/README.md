@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:25:33"
-video_ids: "[28, 29]"
 ---
 
 # ✅ Nachfolgender Inhalt
@@ -67,8 +66,3 @@ Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zum Prüfen mitte
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

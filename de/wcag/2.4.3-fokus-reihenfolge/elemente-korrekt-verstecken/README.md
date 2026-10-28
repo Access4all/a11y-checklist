@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:55:44"
-video_ids: "[]"
 ---
 
 # ✅ Elemente korrekt verstecken
@@ -55,7 +54,3 @@ In seltenen Fällen kann zwar auch blind erahnt werden, dass Elemente nicht korr
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-Keine Videos verfügbar.

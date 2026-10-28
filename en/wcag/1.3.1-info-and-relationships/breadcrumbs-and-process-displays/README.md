@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 12:20:47"
-video_ids: "[]"
 ---
 
 # ✅ Breadcrumbs and process displays
@@ -47,7 +46,3 @@ Breadcrumbs or process displays can also be recognised as such non-visually.
 ![Breadcrumbs in A4AA](images/breadcrumbs-in-a4aa.png)
 
 ![Breadcrumbs auf Galaxus](images/breadcrumbs-auf-galaxus.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

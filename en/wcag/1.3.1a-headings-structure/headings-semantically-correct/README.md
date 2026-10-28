@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:27:30"
-video_ids: "[4, 2, 3, 28, 29]"
 ---
 
 # ✅ Headings semantically correct
@@ -45,7 +44,3 @@ Headings are semantically correctly marked with the heading element (`<h1>` to `
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:06:21"
-video_ids: "[]"
 ---
 
 # ✅ Consistent implementation
@@ -45,7 +44,3 @@ Components with the same function are implemented consistently, both visually an
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

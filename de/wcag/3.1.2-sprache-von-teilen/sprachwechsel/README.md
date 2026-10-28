@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:04:05"
-video_ids: "[]"
 ---
 
 # ✅ Sprachwechsel
@@ -61,7 +60,3 @@ Ja: wenn der Screenreader die fremdsprachigen Inhalte in einem seltsamen Akzent 
 ![Ein BLOCKQUOTE-Zitat in einer anderen Sprache](images/ein-blockquote-zitat-in-einer-anderen-sprache.png)
 
 ![Ein Sprachwechsler in verschiedenen Sprachen](images/ein-sprachwechsler-in-verschiedenen-sprachen.png)
-
-## Videos
-
-Keine Videos verfügbar.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:46:37"
-video_ids: "[7, 31]"
 ---
 
 # ✅ Tastaturfallen
@@ -57,8 +56,3 @@ Ansich kann das im Fokus-Modus (mit `Tab` navigieren) in gewissen Screenreadern 
 ![Fokus bleibt gefangen in Unter-Navigation (Brack)](images/fokus-bleibt-gefangen-in-unter-navigation-brack.png)
 
 Nach dem letzten Element "Ausverkauf" springt man direkt zurück zum ersten Element "IT & Multimedia".
-
-## Videos
-
-- [🎬 Tastaturfalle (Fokus bleibt in Navigation gefangen) - Brack (🚨💻)](/de/videos/tastaturfalle-fokus-bleibt-in-navigation-gefangen-brack)
-- [🎬 Tastaturfalle (Tab erzeugt Leerzeichen in Code-Editor) - CodePen (🚨💻)](/de/videos/tastaturfalle-tab-erzeugt-leerzeichen-in-code-editor-codepen)

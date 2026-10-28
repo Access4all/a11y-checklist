@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:00:37"
-video_ids: "[]"
 ---
 
 # ✅ Sprung-Links sichtbar
@@ -58,7 +57,3 @@ Das Vorhanden-Sein solcher Links kann zwar geprüft werden, aber deren Sichtbark
 ## Screenshots typischer Fälle
 
 ![Sichtbarer Sprunglink auf GitHub](images/sichtbarer-sprunglink-auf-github.png)
-
-## Videos
-
-Keine Videos verfügbar.

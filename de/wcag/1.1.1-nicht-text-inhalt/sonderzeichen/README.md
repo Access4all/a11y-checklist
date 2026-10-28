@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-13 16:23:34"
-video_ids: "[]"
 ---
 
 # ✅ Sonderzeichen
@@ -66,7 +65,3 @@ Während der Sprach-Synthesizer symbolhafte Schriftzeichen verschlucken, Abkürz
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-Keine Videos verfügbar.

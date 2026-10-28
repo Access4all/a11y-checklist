@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-12 18:46:48"
-video_ids: "[21]"
 ---
 
 # ✅ Informative graphics
@@ -47,7 +46,3 @@ Informative graphics have an alternative text that conveys equivalent informatio
 ![Beispiel-Bild auf WebAIM (mit Web Developer Tools aktiv)](images/beispiel-bild-auf-webaim.png)
 
 ![Dasselbe Beispiel auf WebAIM (mit Image Alt Text Viewer aktiv)](images/dasselbe-beispiel-auf-webaim.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

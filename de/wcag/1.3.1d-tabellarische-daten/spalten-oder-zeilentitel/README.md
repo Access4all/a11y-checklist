@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:15:29"
-video_ids: "[]"
 ---
 
 # ✅ Spalten- oder Zeilentitel
@@ -69,7 +68,3 @@ Spalten- und Zeilen-Header von Tabellen sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)
-
-## Videos
-
-Keine Videos verfügbar.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:58:13"
-video_ids: "[]"
 ---
 
 # ✅ Navigations-Methoden
@@ -55,7 +54,3 @@ Ja.
 ![Sitemap von Apple](images/sitemap-von-apple.png)
 
 ![Suche auf VMWare.com](images/suche-auf-vmwarecom.png)
-
-## Videos
-
-Keine Videos verfügbar.

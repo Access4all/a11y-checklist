@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-14 13:00:51"
-video_ids: "[]"
 ---
 
 # ✅ Glossare
@@ -62,7 +61,3 @@ Definitions-Listen sind für Blinde besonders wichtig!
 ## Screenshots typischer Fälle
 
 ![Definitions-Liste in A4AA](images/definitions-liste-in-a4aa.png)
-
-## Videos
-
-Keine Videos verfügbar.

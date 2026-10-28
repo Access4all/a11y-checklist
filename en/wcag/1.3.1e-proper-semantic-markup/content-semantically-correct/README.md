@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 07:29:12"
-video_ids: "[10]"
 ---
 
 # ✅ Content semantically correct
@@ -45,7 +44,3 @@ Content is placed within semantically meaningful HTML elements (e.g. <h#>, <p>, 
 ## Screenshots
 
 ![Block-Zitat korrekt als BLOCKQUOTE formatiert](images/block-zitat-korrekt-als-blockquote-formatiert.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

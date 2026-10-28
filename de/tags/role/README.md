@@ -2,7 +2,6 @@
 id: "76"
 parent_id: "59"
 created_at: "2024-10-28 14:11:42"
-video_ids: "[]"
 ---
 
 # 🏷️ role
@@ -14,7 +13,3 @@ Mit dem `role`-Attribut kann man die Rolle eines Elements setzen und damit desse
 Man kann die native Rolle auch überschreiben, z.B. `<a href role="button">`: damit wird der `<a href>`-Container, welcher sonst als "Link" angesagt wird, nun als "Schalter" angesagt.
 
 Wichtig: Die Rolle eines Elements bestimmt nur, wie es vom Screenreader **angesagt** wird - und nicht, wie es sich **verhält**! Ein `<div role="button">` kann (im Gegensatz zu einem nativen `<button>`) z.B. weiterhin nicht fokussiert ([🏷️ Fokussierbarkeit](/de/tags/fokussierbarkeit)) werden! Man kann zwar sein Verhalten durch weitere "Optimierungen" an einen nativen Schalter annähern, aber dies führt zu unnötig kompliziertem ("smelly") Code und oft zu unschönen Nebeneffekten. Deshalb gilt auch hier der Kodex: [🏷️ Nutze stets Standard-HTML!](/de/tags/nutze-stets-standard-html)
-
-## Videos
-
-Keine Videos verfügbar.

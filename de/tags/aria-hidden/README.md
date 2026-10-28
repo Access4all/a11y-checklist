@@ -2,7 +2,6 @@
 id: "20"
 parent_id: "59"
 created_at: "2024-03-09 12:53:04"
-video_ids: "[10]"
 ---
 
 # 🏷️ aria-hidden
@@ -29,7 +28,3 @@ Vorsicht: fokussierbare Elemente sind da per Screenreader immer noch erreichbar 
 ```
 
 Im Fokus-Modus ([🏷️ Fokus-Modus](/de/tags/fokus-modus)) wird der Browser weiterhin den Link "Warum?" fokussieren, aber der Screenreader kann nicht auf dessen Accessibility-Informationen zugreifen und wird etwas Verwirrendes ("Link Leer") oder gar nichts ("Leer") ausgeben. Dies ist seit Jahren so, und man kann debattieren, wer der Übeltäter ist: Eigentlich dürfte der Browser den Link nicht fokussieren, weil er auf `aria-hidden` gesetzt ist. Aber der Browser weiss ggf. selber gar nicht, dass aktuell ein Screenreader läuft!
-
-## Videos
-
-- [🎬 Paragraf aufgeteilt in drei P-Elemente (forcierter Zeilenumbruch) - Atupri (🚨💻)](/de/videos/paragraf-aufgeteilt-in-drei-p-elemente-forcierter-zeilenumbruch-atupri)

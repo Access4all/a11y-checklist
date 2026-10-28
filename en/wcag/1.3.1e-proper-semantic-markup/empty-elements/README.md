@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 07:29:59"
-video_ids: "[]"
 ---
 
 # ✅ Empty elements
@@ -45,7 +44,3 @@ Empty meaningful elements are avoided.
 ## Screenshots
 
 ![Ein leerer Paragraf](images/ein-leerer-paragraf.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

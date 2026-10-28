@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:05:04"
-video_ids: "[]"
 ---
 
 # ✅ Context change on input
@@ -45,7 +44,3 @@ The context does not change automatically on entry (e.g. redirection to another 
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

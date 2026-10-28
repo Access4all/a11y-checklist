@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:27:30"
-video_ids: "[4, 2, 3, 28, 29]"
 ---
 
 # ✅ Überschriften semantisch korrekt
@@ -66,11 +65,3 @@ Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar; zu Prüfen mittel
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-- [🎬 Überschrift nicht korrekt umgesetzt (P statt H) - Atupri (🚨💻)](/de/videos/ueberschrift-nicht-korrekt-umgesetzt-p-statt-h-atupri)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Blick (🚨💻)](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-blick)
-- [🎬 Unvollständige Überschriften (kein H1, falsch umgesetzt, etc.) - Brack (🚨💻)](/de/videos/unvollstaendige-ueberschriften-kein-h1-falsch-umgesetzt-etc-brack)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

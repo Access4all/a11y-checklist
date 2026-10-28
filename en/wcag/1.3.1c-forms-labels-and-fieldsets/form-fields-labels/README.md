@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:13:34"
-video_ids: "[]"
 ---
 
 # ✅ Form fields Labels
@@ -47,7 +46,3 @@ Form fields have correctly linked labels.
 ## Screenshots
 
 ![Labels in A4AA](images/labels-in-a4aa.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

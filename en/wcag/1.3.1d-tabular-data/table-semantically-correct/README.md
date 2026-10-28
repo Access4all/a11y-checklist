@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:16:58"
-video_ids: "[]"
 ---
 
 # ✅ Table semantically correct
@@ -45,7 +44,3 @@ Data that is clearly tabular in nature (i.e. no layout tables) is semantically c
 ## Screenshots
 
 ![Table-Demo auf MDN mit korrekten THs](images/table-demo-auf-mdn-mit-korrekten-ths.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

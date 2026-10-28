@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:02:56"
-video_ids: "[]"
 ---
 
 # ✅ Alternatives for movement activation
@@ -47,7 +46,3 @@ Functionality executed by motion activation (e.g. device movement or recognition
 ![Undo-Funktion bei Schütteln in iOS](images/undo-funktion-bei-schtteln-in-ios.png)
 
 ![Gesten-Erkennung per Video-Kamera](images/gesten-erkennung-per-video-kamera.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

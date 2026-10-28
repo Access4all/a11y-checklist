@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:15:05"
-video_ids: "[24, 25, 9]"
 ---
 
 # ✅ Disclosure (pop-up elements)
@@ -57,7 +56,3 @@ Discolsure (also mega disclosure) are implemented barrier-free. They are correct
 ![Menü-Leiste in Google Docs](images/men-leiste-in-google-docs.png)
 
 ![Mega-Menü](images/mega-men.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

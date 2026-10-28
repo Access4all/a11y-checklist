@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-13 17:04:08"
-video_ids: "[]"
 ---
 
 # ✅ Alternative für Audio-Inhalte
@@ -61,7 +60,3 @@ Audio- wie auch Text-Inhalte können problemlos blind konsumiert und miteinander
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-Keine Videos verfügbar.

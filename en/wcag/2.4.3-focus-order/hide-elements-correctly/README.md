@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:55:44"
-video_ids: "[]"
 ---
 
 # ✅ Hide elements correctly
@@ -47,7 +46,3 @@ Elements are correctly hidden in such a way that they are not displayed even by 
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

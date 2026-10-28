@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:19:20"
-video_ids: "[]"
 ---
 
 # ✅ Form switch implemented correctly
@@ -47,7 +46,3 @@ List form elements and check whether switches have been implemented correctly.
 ![Ein korrekt umgesetzter Schalter](images/ein-korrekt-umgesetzter-schalter.png)
 
 ![Ein mit ARIA umgesetzter Schalter](images/ein-mit-aria-umgesetzter-schalter.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

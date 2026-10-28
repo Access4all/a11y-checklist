@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-13 16:22:24"
-video_ids: "[]"
 ---
 
 # ✅ Linked page logo
@@ -47,7 +46,3 @@ The page logo (with link to the homepage) has a meaningful text alternative (pat
 ![Verlinktes Logo auf Blick.ch](images/verlinktes-logo-auf-blickch.png)
 
 ![Verlinktes Logo auf Wetzikon.ch, aber ohne Hinweis auf Logo](images/verlinktes-logo-auf-wetzikonch.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

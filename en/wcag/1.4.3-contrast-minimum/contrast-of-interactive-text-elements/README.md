@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:41:16"
-video_ids: "[]"
 ---
 
 # ✅ Contrast of interactive text elements
@@ -45,7 +44,3 @@ Interactive text elements (e.g. button labels) fulfill the contrast requirement 
 ## Screenshots
 
 ![Schalter mit unterschiedlichen Zuständen](images/schalter-mit-unterschiedlichen-zustnden.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 13:46:37"
-video_ids: "[7, 31]"
 ---
 
 # ✅ Keyboard traps
@@ -49,7 +48,3 @@ There are no keyboard traps. All operating elements can be accessed and exited u
 ![Fokus bleibt gefangen in Unter-Navigation (Brack)](images/fokus-bleibt-gefangen-in-unter-navigation-brack.png)
 
 Nach dem letzten Element "Ausverkauf" springt man direkt zurück zum ersten Element "IT & Multimedia".
-
-## Videos
-
-🇩🇪 Currently only available in German.

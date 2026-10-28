@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:14:05"
-video_ids: "[]"
 ---
 
 # ✅ Datepicker / Timepicker
@@ -91,7 +90,6 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
         - **😡 Beispiel:** "Donnerstag, 9. Mai 2024" → kein Hinweis, aber Option kann nicht gewählt werden (`Enter` bewirkt nichts)
         - ⚠️ Ein solcher Hinweis kann auch als Fehler-Meldung implementiert werden, siehe ✅ 93
 
-
 ### Konventionen
 
 #### Funktionalitäten
@@ -141,7 +139,3 @@ Datepicker **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenread
 ## Screenshots typischer Fälle
 
 ![Angular Material Datepicker](images/angular-material-datepicker.png)
-
-## Videos
-
-Keine Videos verfügbar.

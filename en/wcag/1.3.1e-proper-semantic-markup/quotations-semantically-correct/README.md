@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 07:31:21"
-video_ids: "[]"
 ---
 
 # ✅ Quotations semantically correct
@@ -47,7 +46,3 @@ Visually recognizable quotations are semantically correctly marked (e.g. as `<bl
 ![Ein Zitat als BLOCKQUOTE umgesetzt](images/ein-zitat-als-blockquote-umgesetzt.png)
 
 ![Ein Zitat als DIV umgesetzt](images/ein-zitat-als-div-umgesetzt.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

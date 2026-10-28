@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:11:04"
-video_ids: "[]"
 ---
 
 # ✅ Informative Fehlermeldungen
@@ -71,7 +70,3 @@ Wenn die Fehlermeldungen korrekt mit den Eingabefeldern verknüpft sind, ist die
 ![Wenig aussagekräftiger Login-Fehler](images/wenig-aussagekrftiger-login-fehler.png)
 
 ![Wenig informative Fehlermeldung bei IBM SPSS](images/wenig-informative-fehlermeldung-bei-ibm-spss.png)
-
-## Videos
-
-Keine Videos verfügbar.

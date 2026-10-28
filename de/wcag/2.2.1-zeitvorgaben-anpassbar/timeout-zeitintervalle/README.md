@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:48:14"
-video_ids: "[]"
 ---
 
 # ✅ Timeout-Zeitintervalle
@@ -67,7 +66,3 @@ Wenn alles gut (barrierefrei) umgesetzt wurde, sollte es gut testbar sein. Wenn 
 ![Möglichkeiten um Anpassen der Dauer einer Session](images/mglichkeiten-um-anpassen-der-dauer-einer-session.png)
 
 ![Restdauer bei einer Online-Auktion](images/restdauer-bei-einer-online-auktion.png)
-
-## Videos
-
-Keine Videos verfügbar.

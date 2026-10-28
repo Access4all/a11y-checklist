@@ -2,7 +2,6 @@
 id: "15"
 parent_id: "59"
 created_at: "2024-03-09 12:35:48"
-video_ids: "[]"
 ---
 
 # 🏷️ aria-label, aria-labelledby
@@ -38,7 +37,3 @@ Manchmal möchte man den zugänglichen Namen verändern. Dies kann man mittels `
 ```
 
 Damit sagt der Screenreader nun also etwas anderes an, als visuell zu sehen ist. Dies widerspricht dem Prinzip, dass alle Nutzenden möglichst dasselbe Nutzer-Erlebnis haben sollen (siehe [🏷️ Alle Nutzer haben möglichst dasselbe Erlebnis!](/de/tags/alle-nutzer-haben-moeglichst-dasselbe-erlebnis)). Deshalb darf man das nur in gut begründeten Fällen tun.
-
-## Videos
-
-Keine Videos verfügbar.

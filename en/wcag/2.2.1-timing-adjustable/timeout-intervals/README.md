@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:48:14"
-video_ids: "[]"
 ---
 
 # ✅ Timeout intervals
@@ -53,7 +52,3 @@ Timeout intervals are customizable or can be deactivated. A clear indication of 
 ![Möglichkeiten um Anpassen der Dauer einer Session](images/mglichkeiten-um-anpassen-der-dauer-einer-session.png)
 
 ![Restdauer bei einer Online-Auktion](images/restdauer-bei-einer-online-auktion.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

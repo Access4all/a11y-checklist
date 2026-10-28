@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-13 17:04:08"
-video_ids: "[1]"
 ---
 
 # ✅ Alternative für reine Video-Inhalte
@@ -58,7 +57,3 @@ Nein.
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID (🚨💻)](/de/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:22:50"
-video_ids: "[2, 3, 28, 29]"
 ---
 
 # ✅ Hierarchy of existing headings
@@ -47,7 +46,3 @@ The hierarchy of the heading levels is logically correct in terms of content and
 ![Sehr detaillierte Überschriften-Hierarchie auf WOZ in h123](images/sehr-detaillierte-berschriften-hierarchie-auf-woz.png)
 
 ![Dieselbe Hierarchie in NVDA](images/dieselbe-hierarchie-in-nvda.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

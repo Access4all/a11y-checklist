@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 13:58:51"
-video_ids: "[28, 29]"
 ---
 
 # ✅ Überschriften und Labels
@@ -63,8 +62,3 @@ Ja.
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - MySwitzerland (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-myswitzerland)
-- [🎬 Vorbildliche Überschriften (inkl. versteckte) - WOZ (💚💻)](/de/videos/vorbildliche-ueberschriften-inkl-versteckte-woz)

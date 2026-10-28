@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:46:12"
-video_ids: "[]"
 ---
 
 # ✅ Contrast for informative graphic elements
@@ -61,7 +60,3 @@ The contrast ratio of informative graphic elements (e.g. lines and curves in dia
 ![Kontrastarmes Kuchendiagramm](images/kontrastarmes-kuchendiagramm.png)
 
 ![Gut erkennbares Kuchendiagramm](images/gut-erkennbares-kuchendiagramm.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

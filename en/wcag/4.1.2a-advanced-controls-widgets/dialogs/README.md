@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:14:46"
-video_ids: "[]"
 ---
 
 # ✅ Dialogs
@@ -49,7 +48,3 @@ Dialogs (also called modals, overlays, lightboxes, etc.) are implemented barrier
 ![Dialog in A4AA](images/dialog-in-a4aa.png)
 
 ![Hinweis als Dialog, dass Sitzung abgelaufen ist](images/hinweis-als-dialog-dass-sitzung-abgelaufen-ist.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

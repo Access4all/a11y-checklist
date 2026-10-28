@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 13:56:46"
-video_ids: "[]"
 ---
 
 # ✅ Selbstsprechende Links
@@ -60,7 +59,3 @@ Das **muss** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/ta
 ## Screenshots typischer Fälle
 
 ![Mehr erfahren Links bei EGK](images/mehr-erfahren-links-bei-egk.png)
-
-## Videos
-
-Keine Videos verfügbar.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:24:42"
-video_ids: "[5, 2, 3, 28, 29]"
 ---
 
 # ✅ Own heading
@@ -45,7 +44,3 @@ Independent page areas have their own heading, otherwise they will be incorrectl
 ## Screenshots
 
 ![Blick hat kaum Überschriften trotz sehr vieler Inhalte](images/blick-hat-kaum-berschriften-trotz-sehr-vieler-inhalte.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

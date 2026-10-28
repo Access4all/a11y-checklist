@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-14 12:15:28"
-video_ids: "[1]"
 ---
 
 # ✅ Audiodeskription oder Medienalternative
@@ -51,7 +50,3 @@ Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reine
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-- [🎬 Video mit rein visueller Information ohne Audio-Deskription - SwissID (🚨💻)](/de/videos/video-mit-rein-visueller-information-ohne-audio-deskription-swissid)

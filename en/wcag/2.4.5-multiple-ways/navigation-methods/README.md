@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 13:58:13"
-video_ids: "[]"
 ---
 
 # ✅ Navigation methods
@@ -49,7 +48,3 @@ There are at least two of the following three methods for accessing content: Nav
 ![Sitemap von Apple](images/sitemap-von-apple.png)
 
 ![Suche auf VMWare.com](images/suche-auf-vmwarecom.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

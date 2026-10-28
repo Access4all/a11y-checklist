@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 14:20:14"
-video_ids: "[24, 23, 25]"
 ---
 
 # ✅ Status messages
@@ -47,7 +46,3 @@ Status messages are accessible to assistive technologies and do not overload the
 ![Meldung über Speicherung des Dokuments in Word 365](images/meldung-ber-speicherung-des-dokuments-in-word-365.png)
 
 ![Hinweis nach Bewertung einer Prüfung in Moodle](images/hinweis-nach-bewertung-einer-prfung-in-moodle.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

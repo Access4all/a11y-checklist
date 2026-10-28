@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-04-16 08:24:34"
-video_ids: "[]"
 ---
 
 # ✅ Alternative to pulling movements
@@ -55,7 +54,3 @@ There are alternatives for drag & drop movements that can be operated with simpl
 ![Scrollbar, die über zwei Schalter auch mit einfacher Zeigereingabe benutzt werden kann](images/scrollbar-die-ber-zwei-schalter-auch-mit-einfacher-zeigereingabe-benutzt-werden-kann.png)
 
 ![Ein Audio-Player, dessen Wiedergabe-Position man per Slider verändern kann](images/ein-audio-player-dessen-wiedergabe-position-man-per-slider-verndern-kann.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

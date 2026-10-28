@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-13 16:23:34"
-video_ids: "[]"
 ---
 
 # ✅ Special characters
@@ -45,7 +44,3 @@ Special characters (such as "-10%", "CHF 20.35.-" or "23.11.2023") convey inform
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

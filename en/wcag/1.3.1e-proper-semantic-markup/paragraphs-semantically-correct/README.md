@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 13:18:55"
-video_ids: "[10]"
 ---
 
 # ✅ Paragraphs semantically correct
@@ -47,7 +46,3 @@ Paragraphs are semantically correctly labelled, not just visually (e.g. using do
 ![Absatz mit doppelten BR vorgegaukelt](images/absatz-mit-doppelten-br-vorgegaukelt.png)
 
 ![Absätze nur als DIV formatiert](images/abstze-nur-als-div-formatiert.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

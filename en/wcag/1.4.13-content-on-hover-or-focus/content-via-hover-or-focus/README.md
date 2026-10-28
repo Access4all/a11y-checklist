@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-15 07:54:36"
-video_ids: "[]"
 ---
 
 # ✅ Content via hover or focus
@@ -53,7 +52,3 @@ Content that is displayed via hover or focus is not distracting and can be inter
 ![Ein Tooltip mit "X"-Schalter zum gezielten Schliessen](images/ein-tooltip-mit-x-schalter-zum-gezielten-schliessen.png)
 
 ![Eine Fehlermeldung bei fehlerhafter Eingabe als Tooltip](images/eine-fehlermeldung-bei-fehlerhafter-eingabe-als-tooltip.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.

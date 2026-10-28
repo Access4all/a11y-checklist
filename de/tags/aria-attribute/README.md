@@ -2,7 +2,6 @@
 id: "59"
 parent_id: ""
 created_at: "2024-10-08 16:59:11"
-video_ids: "[]"
 ---
 
 # 🏷️ ARIA Attribute
@@ -31,7 +30,3 @@ Es gibt kein natives HTML-Attribut für den Ausklapp-Zustand eines Elements. Des
 ```
 
 Stattdessen besser ein natives [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)-Element verwenden!
-
-## Videos
-
-Keine Videos verfügbar.

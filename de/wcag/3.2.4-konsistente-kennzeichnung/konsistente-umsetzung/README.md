@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:06:21"
-video_ids: "[]"
 ---
 
 # ✅ Konsistente Umsetzung
@@ -54,7 +53,3 @@ Ja, auch wenn es hier noch schwieriger sein kann, festzustellen, ob unterschiedl
 ## Screenshots typischer Fälle
 
 Keine Screenshots verfügbar.
-
-## Videos
-
-Keine Videos verfügbar.

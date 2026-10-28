@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 13:52:07"
-video_ids: "[]"
 ---
 
 # ✅ Focus order
@@ -45,7 +44,3 @@ The focus sequence is sensible, i.e. intuitively understandable and comprehensib
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

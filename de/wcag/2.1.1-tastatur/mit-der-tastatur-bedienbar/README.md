@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "false"
 created_at: "2024-03-15 07:55:43"
-video_ids: "[16, 11, 13, 12, 6, 15]"
 ---
 
 # ✅ Mit der Tastatur bedienbar
@@ -92,10 +91,3 @@ Man kann mit Screenreadern wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenr
 ![Nicht fokussierbares Hamburger-Menü auf Watson](images/nicht-fokussierbares-hamburger-men-auf-watson.png)
 
 Das Element zum Ausklappen des Hamburger-Menüs kann nicht fokussiert werden.
-
-## Videos
-
-- [🎬 Cookie-Banner wird direkt fokussiert - Brack (💚💻)](/de/videos/cookie-banner-wird-direkt-fokussiert-brack)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (div statt button) - Atupri (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-div-statt-button-atupri)
-- [🎬 Nicht-fokussierbares Hamburger-Menü (kein href-Attribut) - Watson (🚨💻)](/de/videos/nicht-fokussierbares-hamburger-menue-kein-href-attribut-watson)
-- [🎬 Tooltips erscheinen bei Fokus - Brack (💚💻)](/de/videos/tooltips-erscheinen-bei-fokus-brack)

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-14 12:25:33"
-video_ids: "[28, 29]"
 ---
 
 # ✅ The following content
@@ -45,7 +44,3 @@ Headings have the following content (or underlying headings).
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

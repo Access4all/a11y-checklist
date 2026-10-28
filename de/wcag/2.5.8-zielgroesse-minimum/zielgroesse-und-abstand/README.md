@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-04-16 09:10:44"
-video_ids: "[]"
 ---
 
 # ✅ Zielgrösse und Abstand
@@ -70,7 +69,3 @@ Nein.
 ![Eine problematisch dichte Ansammlung von Points of Interest auf einer Karte](images/eine-problematisch-dichte-ansammlung-von-points-of-interest-auf-einer-karte.png)
 
 ![Datepicker, dessen einzelne Tage zu kleine Klickflächen aufweisen](images/datepicker-dessen-einzelne-tage-zu-kleine-klickflchen-aufweisen.png)
-
-## Videos
-
-Keine Videos verfügbar.

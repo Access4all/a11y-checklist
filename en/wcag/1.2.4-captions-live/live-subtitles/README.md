@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "false"
 created_at: "2024-03-14 12:16:03"
-video_ids: "[]"
 ---
 
 # ✅ Live subtitles
@@ -45,7 +44,3 @@ For live video content with audio (e.g. news programmes), there are equivalent, 
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

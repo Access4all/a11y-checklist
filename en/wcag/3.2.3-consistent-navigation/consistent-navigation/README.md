@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:05:35"
-video_ids: "[]"
 ---
 
 # ✅ Consistent navigation
@@ -45,7 +44,3 @@ The navigation is consistent, i.e. it is arranged and structured in the same way
 ## Screenshots
 
 No screenshots available.
-
-## Videos
-
-🇩🇪 Currently only available in German.

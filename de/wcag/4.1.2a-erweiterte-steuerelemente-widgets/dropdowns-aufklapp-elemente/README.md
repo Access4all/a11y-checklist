@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:15:05"
-video_ids: "[24, 25, 9]"
 ---
 
 # ✅ Dropdowns (Aufklapp-Elemente)
@@ -124,9 +123,3 @@ In den meisten Fällen sind per Screenreader auch nicht-barrierefreie solche Ele
 ![Menü-Leiste in Google Docs](images/men-leiste-in-google-docs.png)
 
 ![Mega-Menü](images/mega-men.png)
-
-## Videos
-
-- [🎬 Bei Aufklappen eines Hamburger-Menüs wird der Fokus nicht in dasselbe gesetzt - Watson (🚨💻)](/de/videos/bei-aufklappen-eines-hamburger-menues-wird-der-fokus-nicht-in-dasselbe-gesetzt-watson)
-- [🎬 Hamburger-Menü mit aria-expanded (und direkt darunter liegendem Menü-Inhalt) - WOZ (💚💻)](/de/videos/hamburger-menue-mit-aria-expanded-und-direkt-darunter-liegendem-menue-inhalt-woz)
-- [🎬 Hamburger-Menü schlecht umgesetzt (kein Schalter / aria-expanded, schlechte Benennung) - Atupri (🚨💻)](/de/videos/hamburger-menue-schlecht-umgesetzt-kein-schalter-aria-expanded-schlechte-benennung-atupri)

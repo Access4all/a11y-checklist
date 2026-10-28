@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "false"
 blind_testable: "true"
 created_at: "2024-03-15 14:13:38"
-video_ids: "[]"
 ---
 
 # ✅ Autocompletes (Comboboxen)
@@ -199,7 +198,3 @@ Autocompletes **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenr
 ![Autocomplete mit Pills](images/autocomplete-mit-pills.png)
 
 ![Multi-Select mit Pills](images/multi-select-mit-pills.png)
-
-## Videos
-
-Keine Videos verfügbar.

@@ -11,7 +11,6 @@ applicable_to_mobile: "true"
 applicable_to_pdf: "true"
 blind_testable: "true"
 created_at: "2024-03-15 14:03:27"
-video_ids: "[]"
 ---
 
 # ✅ Declaration of language
@@ -49,7 +48,3 @@ The language declaration is available and correct.
 ![CH-Deutsch beim Blick](images/ch-deutsch-beim-blick.png)
 
 ![Fehlende Sprachdeklaration](images/fehlende-sprachdeklaration.png)
-
-## Videos
-
-🇩🇪 Currently only available in German.
