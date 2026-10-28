@@ -52,9 +52,3 @@ Folgende Aspekte sind zu beachten:
 - <https://www.wcag.com/authors/1-4-13-content-on-hover-or-focus/>
 - <https://www.digitala11y.com/understanding-sc-1-4-13-content-on-hover-or-focus/>
 - <https://www.boia.org/blog/tips-for-meeting-wcag-1.4.13-content-on-hover-or-focus>
-
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-13-eingeblendete-inhalte/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-13-eingeblendete-inhalte-bedienbar>

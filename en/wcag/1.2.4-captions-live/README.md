@@ -46,9 +46,3 @@ The live news programme is broadcast with live subtitles.
 ### Weiteres
 - <https://wcag.com/authors/1-2-4-captions-live/>
 - <https://www.digitala11y.com/understanding-sc-1-2-4-captions-live/>
-
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-2-4-untertitel-live-video/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-2-4-videos-live-mit-untertiteln>

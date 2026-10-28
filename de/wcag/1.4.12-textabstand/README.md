@@ -61,9 +61,3 @@ Die Abstände werden mithilfe von eigenen Bookmarklets oder Stylesheets vergrös
 - <https://www.digitala11y.com/understanding-sc-1-4-12-text-spacing/>
 - <https://www.boia.org/wcag2/cp/1.4.12>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-4-distinguishable-level-aa-and-aaa/#Success_Criterion_1412_Text_Spacing>
-
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-4-12-textabstand/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-4-12-textabstaende-anpassbar>

@@ -42,9 +42,3 @@ Webseiten dürfen nichts enthalten, was mehr als dreimal pro Sekunde blitzt (aus
 - <https://www.wuhcag.com/three-flashes-or-below-threshold/>
 - <https://www.digitala11y.com/understanding-sc-2-3-1-three-flashes-or-below-threshold/>
 - <https://www.boia.org/wcag2/cp/2.3.1>
-
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-3-1-verzicht-auf-flackern/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-3-1-verzicht-auf-flackern>

@@ -47,9 +47,3 @@ Es muss zudem sicher gestellt sein, dass solche Funktionalitäten nicht aus Vers
 - <https://www.wuhcag.com/motion-actuation/>
 - <https://www.digitala11y.com/understanding-sc-2-5-4-motion-actuation/>
 - <https://www.boia.org/wcag2/cp/2.5.4>
-
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-5-4-alternativen-fuer-bewegungsaktivierung/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-5-4-alternativen-fuer-bewegungsaktivierung>

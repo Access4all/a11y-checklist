@@ -107,9 +107,3 @@ Client-side form validation can also be used, but is often not sufficient on its
 - <https://wcag.com/developers/3-3-1-error-identification/>
 - <https://www.wuhcag.com/error-identification/>
 - <https://www.digitala11y.com/understanding-sc-3-3-1-error-identification/>
-
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/3-3-1-fehlerkennung/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-3-1-fehlererkennung>

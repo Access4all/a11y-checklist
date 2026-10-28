@@ -56,9 +56,3 @@ Siehe [📜-1.2.1 Reines Audio und reines Video (aufgezeichnet)](/de/wcag/1.2.1-
 - <https://www.wuhcag.com/audio-description-media-alternative-prerecorded/>
 - <https://www.digitala11y.com/understanding-sc-1-2-3-audio-description-or-media-alternative-prerecorded/>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-2-time-based-media-level-a/#123_Audio_Description_or_Media_Alternative_Prerecorded_Explained>
-
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-2-3-audiobeschreibung-oder-medienalternative-aufgezeichnet/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-2-3-audiodeskription-oder-volltext-alternative-fuer-videos>

@@ -102,9 +102,3 @@ Sometimes, however, it is easier to split complex tables into several smaller ta
 ### Weiteres
 - <https://adrianroselli.com/2023/02/avoid-spanning-table-headers.html>
 - <https://www.boia.org/blog/how-to-build-accessible-tables>
-
-## References internal
-
-### BITV
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-1e-datentabellen-richtig-aufgebaut>
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-3-1-info-und-beziehungen/>

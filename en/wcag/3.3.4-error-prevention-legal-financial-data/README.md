@@ -47,9 +47,3 @@ Before an order is sent in the online store, a confirmation page with the entire
 ### Weiteres
 - <https://www.wcag.com/designers/3-3-4-error-prevention-legal-financial-data/>
 - <https://www.digitala11y.com/understanding-sc-3-3-4-error-prevention-legal-financial-data/>
-
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/3-3-4-fehlervermeidung-rechtlich-finanziell-daten/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-3-3-4-fehlervermeidung-wird-unterstuetzt>

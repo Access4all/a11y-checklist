@@ -53,9 +53,3 @@ Add audio descriptions to all videos whose visual information is not already ava
 
 ### Weiteres
 - <https://www.digitala11y.com/understanding-sc-1-2-5-audio-description-prerecorded/>
-
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-2-5-audiobeschreibung-aufgezeichnete-videos/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-2-5-audiodeskription-fuer-videos>

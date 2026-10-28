@@ -44,8 +44,3 @@ Verschiedene Methoden müssen vorhanden sein zum Aufspüren von Inhalten, damit 
 - <https://www.wcag.com/designers/2-4-5-multiple-ways/>
 - <https://www.digitala11y.com/2-4-5-multiple-ways-to-locate-web-pages/>
 - <https://www.boia.org/wcag2/cp/2.4.5>
-
-## Referenzen (intern)
-
-### BITV
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-5-alternative-zugangswege>

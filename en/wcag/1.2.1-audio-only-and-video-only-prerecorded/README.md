@@ -70,9 +70,3 @@ The silent film classic Metropolis from 1927 begins with the fade-in of...
 - <https://www.wuhcag.com/audio-only-video-only-prerecorded/>
 - <https://www.digitala11y.com/understanding-sc-1-2-1-audio-only-and-video-only-prerecorded/>
 - <https://pressbooks.library.torontomu.ca/iwacc/chapter/1-2-time-based-media-level-a/#121_Audio-Only_and_Video-Only_Prerecorded_Explained>
-
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/bitv-softwaretest/1-2-1-nur-audio-und-nur-video-aufgezeichnet/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-2-1-alternativen-fuer-audiodateien-und-stumme-videos>

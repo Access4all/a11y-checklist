@@ -79,9 +79,3 @@ Inaccessible, externally generated content must be pointed out! For example, by 
 - <https://www.wcag.com/authors/2-4-6-headings-and-labels/>
 - <https://www.digitala11y.com/headings-labels-understanding-sc-2-4-6/>
 - <https://www.boia.org/wcag2/cp/2.4.6>
-
-## References internal
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/2-4-6-aussagekraeftige-ueberschriften-und-beschriftungen/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-6-aussagekraeftige-ueberschriften-und-beschriftungen>

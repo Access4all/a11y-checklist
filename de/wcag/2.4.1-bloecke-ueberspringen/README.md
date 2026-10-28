@@ -111,8 +111,3 @@ Techniken, um das Überspringen solcher Elemente für bestimmte assistierende Te
 - <https://www.wuhcag.com/bypass-blocks/>
 - <https://www.digitala11y.com/understanding-sc-2-4-1-bypass-blocks/>
 - <https://www.boia.org/wcag2/cp/2.4.1>
-
-## Referenzen (intern)
-
-### BITV
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-2-4-1-bereiche-ueberspringbar>

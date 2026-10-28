@@ -89,9 +89,3 @@ Wird etwa das Foto einer News-Meldung visuell vor deren Überschrift platziert, 
 - <https://www.wuhcag.com/meaningful-sequence/>
 - <https://www.digitala11y.com/understanding-sc-1-3-2-meaningful-sequence/>
 - <https://www.boia.org/wcag2/cp/1.3.2>
-
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/1-3-2-sinnvolle-reihenfolge/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-1-3-2-sinnvolle-reihenfolge>

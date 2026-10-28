@@ -78,9 +78,3 @@ Es ist ungünstig, umfangreiche Inhalte (z.B. SPAs) komplett als Live-Regions zu
 - <https://www.wcag.com/developers/4-1-3-status-messages/>
 - <https://www.digitala11y.com/understanding-sc-4-1-3-status-messages/>
 - <https://www.boia.org/blog/understanding-wcag-2-1-success-criterion-4-3-1-status-messages>
-
-## Referenzen (intern)
-
-### BITV
-- <https://www.bit-inklusiv.de/vdp/4-1-3-statusmeldungen-programmatisch-verfuegbar/>
-- <https://bitvtest.de/pruefschritt/bitv-20-web/bitv-20-web-9-4-1-3-statusmeldungen-programmatisch-verfuegbar>
