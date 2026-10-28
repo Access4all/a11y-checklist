@@ -10,7 +10,7 @@ This command exists for small changes (typo/doc fixes) where a PR is overhead. B
    - Current branch is `main` (`git branch --show-current`).
    - There is at least one commit to push and no divergence: `git fetch origin && git status` must show "ahead of 'origin/main'", not "diverged".
    - Everything intended for the push is committed. Unrelated uncommitted changes are fine — they stay behind — but confirm nothing staged is half-done.
-2. Run `ruby tools/validate.rb`. No error may point at a file changed by the outgoing commits (`git diff --name-only origin/main..HEAD`), and the total error count must not have grown. Otherwise stop and report — do not push.
+2. Run `ruby tools/validate.rb`. It must report 0 errors. Otherwise stop and report — do not push.
 3. Check whether a branch ruleset protects `main`: `gh api repos/{owner}/{repo}/rulesets --jq '.[] | {id, name}'`. If no ruleset requires a pull request (currently the repository has none), just `git push` and skip the remaining bypass steps.
 4. Enable the bypass for repository admins on that ruleset:
    ```
