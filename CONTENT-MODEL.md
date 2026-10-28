@@ -143,7 +143,11 @@ The validator enforces everything above that can be checked mechanically (frontm
 
 ## Open items
 
-Known gaps versus the original database, to be resolved:
+Known gaps and planned changes:
 
-- **Tag categories:** the database's `tags.category` field was not exported. A CSV dump exists to backfill it as a frontmatter field.
-- **`applies_to_pdf` vs `applicable_to_pdf`:** `applies_to_pdf` is an imprecise predecessor of `applicable_to_pdf`, and the two disagree on 29 checkpoints. A planned restructuring resolves this: per-medium sections (Web, Mobile, PDF) replace the `applicable_to_*` flags, `applies_to_pdf`, `applies_to_development` and `applies_to_quality_assurance` are removed, and `applies_to_design` and `applies_to_content` stay for filtering by role.
+- **Tags:** the concept is being rethought; don't extend tags for now. They are meant as a place for information that checkpoints reference repeatedly — in an exported version of the checklist, such information could be shown in a dialog inside a checkpoint. The database's `tags.category` field was not exported; a CSV dump exists to backfill it once the concept is settled.
+- **Per-medium sections (planned, not yet confirmed):** the goal is to generate complete standalone documents per medium (web, mobile, PDF) from the shared parts plus that medium's sections, so that e.g. a PDF team doesn't have to read the web content first.
+  - Checkpoints keep the general sections `Beschreibung`, `Prüfmethode (in Kürze)` and `Details zum blinden Testen`, and always have three sections `## Web`, `## Mobile` and `## PDF` (same names in English), each holding that medium's test method and screenshots.
+  - A medium that doesn't apply gets `**Nicht anwendbar:** <reason>` (English: `**Not applicable:** <reason>`) as its only content. Generic statements without a real reason (e.g. "Für PDFs nicht relevant.") become `TODO`; the validator warns about every `TODO`.
+  - Criteria may get optional `## Web`, `## Mobile` and `## PDF` sections for medium-specific text; whether a criterion applies to a medium follows from its checkpoints.
+  - These sections replace the `applicable_to_*` flags. Of the `applies_to_*` flags, `applies_to_pdf` (an imprecise predecessor of `applicable_to_pdf` that disagrees with it on 29 checkpoints), `applies_to_development` and `applies_to_quality_assurance` (true on nearly every checkpoint) are removed; `applies_to_design` and `applies_to_content` stay for filtering by role. This replaces the at-least-one rule of decision #1.
