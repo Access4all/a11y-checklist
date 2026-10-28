@@ -120,6 +120,8 @@ Tag names and descriptions were never localized in the original database (a sing
 
 Absolute internal links point at the **folder** (no trailing `/README.md`, no `.md` suffix). Links across languages are not used; each language links within itself.
 
+The checklist covers only level A and AA criteria. References to level AAA criteria are external links to the W3C Understanding page, without the 📜 prefix that marks internal criterion links (e.g. `[2.4.13 Fokus-Erscheinungsbild](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)`).
+
 ## Files and naming
 
 - Folder slugs are lowercase `a-z`, `0-9`, `.` (criterion numbers only), and `-`. No leading/trailing dashes. Umlauts are transliterated (German: `ä→ae`, `ö→oe`, `ü→ue`; English folder names simply drop the diacritic: `menü→menu`).
@@ -140,4 +142,4 @@ The validator enforces everything above that can be checked mechanically (frontm
 Known gaps versus the original database, to be resolved:
 
 - **Tag categories:** the database's `tags.category` field was not exported. A CSV dump exists to backfill it as a frontmatter field.
-- **`applies_to_pdf` vs `applicable_to_pdf`:** the branch `feat/add-mobile-pdf-blind-and-videos` introduces `applicable_to_web/mobile/pdf` (medium applicability) alongside the existing `applies_to_pdf` (audience flag) — two near-identical names for different concepts. To be resolved when that branch lands, ideally by merging them into a single item. The branch's new frontmatter keys and H2 sections must be added here and to the validator at the same time.
+- **`applies_to_pdf` vs `applicable_to_pdf`:** the branch `feat/add-mobile-pdf-blind-and-videos` introduces `applicable_to_web/mobile/pdf` (medium applicability) alongside the existing `applies_to_pdf` (audience flag) — two near-identical names for different concepts. To be resolved when that branch lands; renaming the `applies_to_*` audience flags is acceptable. The branch's new frontmatter keys and H2 sections must be added here and to the validator at the same time.

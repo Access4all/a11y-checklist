@@ -29,13 +29,9 @@ Equivalent, synchronised subtitles exist for recorded video content with audio (
 
 ### YouTube
 
-![Automatisch erstellte Untertitel in YouTube](images/automatisch-erstellte-untertitel-in-youtube.png)
-
 YouTube erstellt Untertitel automatisch. Sie können manuell ein-/ausgeblendet werden (Closed Captions).
 
 ### SwissID
-
-![Keine zusätzliche Untertitelung nötig bei SwissID](images/keine-zustzliche-untertitelung-ntig-bei-swissid.png)
 
 Das Video von SwissID benötigt keine spezifische Untertitelung, da alle Texte schon im Video selber angezeigt werden.
 

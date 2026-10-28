@@ -40,4 +40,4 @@ Sprung-Links werden bei Tastatur-Bedienung sichtbar.
 
 ## Screenshots typischer Fälle
 
-![Good implementation on GitHub](images/good-implementation-on-github.png)
+![Sichtbarer Sprunglink auf GitHub](images/sichtbarer-sprunglink-auf-github.png)
