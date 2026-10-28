@@ -1,0 +1,8 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(ruby tools/validate.rb)",
+      "Bash(ruby tools/validate.rb:*)"
+    ]
+  }
+}

@@ -27,4 +27,4 @@ Skip links are visible when using the keyboard.
 
 ## Screenshots
 
-![Good implementation on GitHub](images/good-implementation-on-github.png)
+![Visible skip link on GitHub](images/sichtbarer-sprunglink-auf-github.png)

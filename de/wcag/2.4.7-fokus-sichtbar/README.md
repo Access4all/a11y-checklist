@@ -14,7 +14,7 @@ Der **Tastaturfokus** muss jederzeit **gut sichtbar** sein. Dies ermöglicht es 
 
 ## Verstehen (ausführlich)
 
-Wenn der Tastaturfokus nicht bzw. ungenügend sichtbar ist, erschwert dies die Navigation per Tastatur erheblich (siehe [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur)). Der oft Kontrast-arme Standard-Stil vieler Browser ist als Tastatur-Fokus gemäss WCAG 2.1 ausreichend (sofern er bei allen Elementen durchgängig sichtbar bleibt); ein Mindest-Kontrast wird erst auf Stufe AAA gefordert (siehe [📜-2.4.13 Fokus Erscheinungsbild](/de/wcag/2.4.13-fokus-erscheinungsbild)). Für viele Personen ist der Fokus so jedoch nicht genügend gut wahrnehmbar.
+Wenn der Tastaturfokus nicht bzw. ungenügend sichtbar ist, erschwert dies die Navigation per Tastatur erheblich (siehe [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur)). Der oft Kontrast-arme Standard-Stil vieler Browser ist als Tastatur-Fokus gemäss WCAG 2.1 ausreichend (sofern er bei allen Elementen durchgängig sichtbar bleibt); ein Mindest-Kontrast wird erst auf Stufe AAA gefordert (siehe [2.4.13 Fokus-Erscheinungsbild](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)). Für viele Personen ist der Fokus so jedoch nicht genügend gut wahrnehmbar.
 
 Deshalb empfehlen wir auch auf Stufe AA: Stellen Sie stets sicher, dass der Tastatur-Fokus jederzeit gut sichtbar ist, indem Sie einen prominenten, kontrastreichen Stil dafür festlegen. Ein gut sichtbarer Rahmen soll fokussierte Links, Schaltflächen, Radiobuttons, Checkboxen, verlinkte grafische Elemente, etc. auszeichnen. Das CSS Attribut `outline` ist besonders dafür geeignet, z.B. `outline: 2px dotted black`.
 

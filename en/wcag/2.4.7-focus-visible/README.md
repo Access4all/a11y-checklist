@@ -14,7 +14,7 @@ The **keyboard focus** must be **well visible** at all times. This enables peopl
 
 ## Understanding (long)
 
-If the keyboard focus is not or insufficiently visible, this makes navigation using the keyboard considerably more difficult (see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard)). The often low-contrast default style of many browsers is sufficient as a keyboard focus according to WCAG 2.1 (provided it remains visible throughout all elements); a minimum contrast is only required at level AAA (see [📜-2.4.13 TRANSLATION MISSING](/en/wcag/2.4.13-translation-missing)). For many people, however, the focus is not sufficiently visible.
+If the keyboard focus is not or insufficiently visible, this makes navigation using the keyboard considerably more difficult (see [📜-2.1.1 Keyboard](/en/wcag/2.1.1-keyboard)). The often low-contrast default style of many browsers is sufficient as a keyboard focus according to WCAG 2.1 (provided it remains visible throughout all elements); a minimum contrast is only required at level AAA (see [2.4.13 Focus Appearance](https://www.w3.org/WAI/WCAG22/Understanding/focus-appearance.html)). For many people, however, the focus is not sufficiently visible.
 
 We therefore also recommend the following at level AA: Always ensure that the keyboard focus is clearly visible at all times by defining a prominent, high-contrast style for it. A clearly visible frame should characterise focussed links, buttons, radio buttons, checkboxes, linked graphic elements, etc. The CSS attribute `outline` is particularly suitable for this, e.g. `outline: 2px dotted black`.
 
