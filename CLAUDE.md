@@ -17,6 +17,11 @@ This is a **content-only repository** (Markdown, no application code): the A11y 
 - German is the primary language; English Test Specification content (checkpoints, tags) may still be untranslated German text, but the files must exist.
 - Write body text in the established style: address the reader as "Sie" in German; keep examples concrete and code samples minimal.
 
+## Branches
+
+- Until mid-January 2027, `main` is frozen: don't commit, push, or open pull requests against it. All work goes to `interim-main`, directly or through a branch off it and a pull request into it.
+- A change to `main` during the freeze needs Josua's explicit go-ahead for that specific change.
+
 ## What not to do
 
 - Don't add Markdown extensions (tables are fine, no footnotes/frontmatter-in-body/etc. beyond what's already used).
