@@ -17,10 +17,10 @@ This is a **content-only repository** (Markdown, no application code): the A11y 
 - German is the primary language; English Test Specification content (checkpoints, tags) may still be untranslated German text, but the files must exist.
 - Write body text in the established style: address the reader as "Sie" in German; keep examples concrete and code samples minimal.
 
-## Branches
+## Workflow
 
-- Until mid-January 2027, `main` is frozen: don't commit, push, or open pull requests against it. All work goes to `interim-main`, directly or through a branch off it and a pull request into it.
-- A change to `main` during the freeze needs Josua's explicit go-ahead for that specific change.
+- Follow [CONTRIBUTING.md](CONTRIBUTING.md): `main` is frozen until mid-January 2027 (work on `interim-main`), pull request texts are German, commit messages English.
+- When something is agreed in a session, write it into the repository (CONTRIBUTING.md, CONTENT-MODEL.md, or docs/decisions.md), not only into Claude's memory, so other contributors benefit too. Keep confidential context (customers, internal considerations) out of it — the repository is public.
 
 ## What not to do
 
