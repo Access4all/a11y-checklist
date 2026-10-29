@@ -13,7 +13,8 @@
 require 'yaml'
 require 'set'
 
-ROOT = File.expand_path('..', __dir__)
+# VALIDATE_ROOT points the validator at another tree (the fixtures of tools/validate_test.rb).
+ROOT = File.expand_path(ENV.fetch('VALIDATE_ROOT', '..'), __dir__)
 LANGS = %w[de en].freeze
 
 FRONTMATTER_KEYS = {
@@ -110,7 +111,10 @@ class Validator
 
   def parse_frontmatter(rel, text)
     parts = text.split(/^---\s*$\n/, 3)
-    return error(rel, 'missing frontmatter') || [{}, text] if parts.size < 3 || !text.start_with?("---\n")
+    if parts.size < 3 || !text.start_with?("---\n")
+      error(rel, 'missing frontmatter')
+      return [{}, text]
+    end
 
     [YAML.safe_load(parts[1]) || {}, parts[2]]
   rescue Psych::Exception => e
@@ -302,16 +306,19 @@ class Validator
   end
 end
 
-errors, warnings = Validator.new.run
+# Only when run directly: tools/validate_test.rb loads this file for its rule tables.
+if __FILE__ == $PROGRAM_NAME
+  errors, warnings = Validator.new.run
 
-filter = ARGV.map { |a| File.expand_path(a).sub("#{ROOT}/", '').chomp('/') }
-unless filter.empty?
-  keep = ->(rel) { filter.any? { |f| rel == f || rel.start_with?("#{f}/") } }
-  errors = errors.select { |rel, _| keep.(rel) }
-  warnings = warnings.select { |rel, _| keep.(rel) }
+  filter = ARGV.map { |a| File.expand_path(a).sub("#{ROOT}/", '').chomp('/') }
+  unless filter.empty?
+    keep = ->(rel) { filter.any? { |f| rel == f || rel.start_with?("#{f}/") } }
+    errors = errors.select { |rel, _| keep.(rel) }
+    warnings = warnings.select { |rel, _| keep.(rel) }
+  end
+
+  errors.sort.each { |rel, msg| puts "ERROR #{rel}: #{msg}" }
+  warnings.sort.each { |rel, msg| puts "WARN  #{rel}: #{msg}" }
+  puts "#{errors.size} error(s), #{warnings.size} warning(s)"
+  exit errors.empty? ? 0 : 1
 end
-
-errors.sort.each { |rel, msg| puts "ERROR #{rel}: #{msg}" }
-warnings.sort.each { |rel, msg| puts "WARN  #{rel}: #{msg}" }
-puts "#{errors.size} error(s), #{warnings.size} warning(s)"
-exit errors.empty? ? 0 : 1

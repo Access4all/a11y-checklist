@@ -11,6 +11,8 @@ This is a **content-only repository** (Markdown, no application code): the A11y 
   ruby tools/validate.rb
   ```
 
+- When changing `tools/validate.rb` itself, also run `ruby tools/validate_test.rb`, and give every new rule a defect and an expectation there. A run over the real content only shows that valid content passes, not that each rule still fires.
+
 - German (`de/`) and English (`en/`) files are paired by frontmatter `(type, id)`, not by path. When adding content, always create both language versions with the same `id`; pick the next free id within that content type.
 - New ids: numeric strings, unique per content type per language (`ruby tools/validate.rb` catches collisions).
 - Keep frontmatter values quoted strings (`"true"`, not `true`), including in new files.

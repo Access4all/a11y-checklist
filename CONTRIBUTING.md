@@ -10,6 +10,12 @@ Run the validator after every change and fix what it reports; CI runs it on ever
 ruby tools/validate.rb
 ```
 
+When you change the validator itself, also run its test, which checks on a small sample tree that every rule still fires and valid content passes. A new rule needs a defect and an expectation in it.
+
+```sh
+ruby tools/validate_test.rb
+```
+
 ## Branches
 
 - Until mid-January 2027, `main` is frozen: don't commit, push, or open pull requests against it. All work goes to `interim-main`, directly or through a branch off it and a pull request into it.
