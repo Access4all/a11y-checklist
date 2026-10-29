@@ -1,10 +1,11 @@
 ---
-description: Commit the working tree and, on a PR branch, bring the PR title and description up to date in the same pass
+name: a11y-checklist-commit
+description: Use whenever the user asks for a commit, also in plain words without this skill. Asks which branch, validates, stages explicit paths, and on a PR branch brings the PR title and description up to date in the same pass
 ---
 
 Commit the current changes: $ARGUMENTS
 
-Whenever the user asks for a commit (also in plain words, without this command), follow these steps — the point of this command is that a commit on a PR branch and the PR title/description update are **one unit of work**, never two.
+Whenever the user asks for a commit (also in plain words, without invoking this skill), follow these steps — the point of this skill is that a commit on a PR branch and the PR title/description update are **one unit of work**, never two.
 
 1. If the current branch is `main`, stop: `main` is frozen until mid-January 2027 (see "Branches" in CONTRIBUTING.md). Commit on `interim-main` or a branch off it instead.
 2. Ask which branch to commit to, unless the user already named it for this commit. Offer, each with its branch name:

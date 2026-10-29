@@ -25,7 +25,8 @@ This is a **content-only repository** (Markdown, no application code): the A11y 
   - Current checkout: short tasks and anything the user wants to follow live.
   - Separate worktree (`git worktree add <scratchpad>/wt-<slug> -b <branch> interim-main`): longer work and anything on its own branch. Put it in the session's scratchpad, not in the repository. It needs nothing copied over: the only ignored files are `.DS_Store` and `.claude/settings.local.json`, and the validator uses only Ruby's standard library. Remove it after the merge (`git worktree remove <path>`), and report leftover worktrees instead of leaving them.
   - While the work lives in a worktree, link files in replies by their absolute path until it is merged. A relative link resolves against the user's workspace: a file that exists only in the worktree doesn't open, and a changed one opens the user's version instead.
-- Never commit without asking which branch, and never push without asking; [/commit](.claude/commands/commit.md) lists the branch options and how to commit to another branch.
+- Never commit without asking which branch, and never push without asking; [/a11y-checklist-commit](.claude/skills/a11y-checklist-commit/SKILL.md) lists the branch options and how to commit to another branch.
+- Procedures for a specific moment (before a commit, when logging a decision) are skills in `.claude/skills/a11y-checklist-<topic>/SKILL.md`, the layout used across Josua's projects; the `description` says when to use the skill. Rules that always apply belong in this file.
 - Keep code comments (in `tools/`) to one or two lines naming the non-obvious constraint, not retelling how the mechanism works. The full reasoning goes into the commit message and the pull request, which the comment links.
 
 ## What not to do

@@ -1,5 +1,6 @@
 ---
-description: Write concise alt text for the image reference on the currently selected line and move the image into an images/ folder next to the referencing file
+name: a11y-checklist-alt-text
+description: Use when asked for alt text for the image reference on the currently selected line. Writes concise alt text and moves the image into an images/ folder next to the referencing file
 ---
 
 Fix the image reference on the line currently selected in the IDE (provided as the selection context of this conversation). Work **only** on that line — do not scan other lines or files for further image references. If there is no selection, or the selected line contains no `![…](…)` image reference, say so and stop.

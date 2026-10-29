@@ -1,5 +1,6 @@
 ---
-description: Record a decision as a new file in docs/decisions/ and propagate it to affected docs
+name: a11y-checklist-log-decision
+description: Use when a decision about the content model or tooling is made. Records it as a new file in docs/decisions/ and propagates it to affected docs
 ---
 
 Log a new decision in `docs/decisions/`: $ARGUMENTS
