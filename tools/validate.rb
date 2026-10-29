@@ -12,20 +12,22 @@
 
 require 'yaml'
 require 'set'
+require 'date'
 
 ROOT = File.expand_path('..', __dir__)
 LANGS = %w[de en].freeze
 
 FRONTMATTER_KEYS = {
-  'principle'  => { required: %w[id created_at], optional: [] },
-  'guideline'  => { required: %w[id parent_id created_at], optional: [] },
-  'criterion'  => { required: %w[id parent_id wcag_url created_at], optional: %w[wcag_version] },
+  'principle'  => { required: %w[id created_at], optional: %w[verified_at_general] },
+  'guideline'  => { required: %w[id parent_id created_at], optional: %w[verified_at_general] },
+  'criterion'  => { required: %w[id parent_id wcag_url created_at], optional: %w[wcag_version verified_at_general] },
   'checkpoint' => { required: %w[id wcag_criterion_id applies_to_pdf applies_to_design
                                  applies_to_development applies_to_content
                                  applies_to_quality_assurance applicable_to_web
                                  applicable_to_mobile applicable_to_pdf blind_testable
-                                 created_at], optional: [] },
-  'tag'        => { required: %w[id parent_id created_at], optional: [] }
+                                 created_at],
+                 optional: %w[verified_at_general verified_at_web verified_at_mobile verified_at_pdf] },
+  'tag'        => { required: %w[id parent_id created_at], optional: %w[verified_at_general] }
 }.freeze
 
 H1_PREFIX = {
@@ -65,6 +67,9 @@ H2_SECTIONS = {
 WCAG_SLUG_RE  = /\A\d+(\.\d+){0,2}[a-z]?(-[a-z0-9]+)+\z/
 PLAIN_SLUG_RE = /\A[a-z0-9]+(-[a-z0-9]+)*\z/
 CREATED_AT_RE = /\A\d{4}-\d{2}-\d{2} \d{2}:\d{2}:\d{2}\z/
+MEDIA = %w[web mobile pdf].freeze
+VERIFIED_AT_RE = /\A\d{4}-\d{2}-\d{2}\z/
+VERIFIED_STALE_AFTER_DAYS = 730 # warn when a verification is older than ~2 years (decisions #2, #6)
 
 Entry = Struct.new(:rel, :lang, :type, :slug, :num, :fm, :body, keyword_init: true)
 
@@ -89,7 +94,29 @@ class Validator
     [@errors, @warnings]
   end
 
+  # Progress of the content verification (decisions #2, #6), per language: the
+  # verified_at_general on all files, each medium's verified_at_<medium> on the
+  # checkpoints that apply to that medium (applicable_to_<medium> is not "false";
+  # checkpoints without that flag count as applicable).
+  def verification_summary
+    lines = ['verified_at_general: ' + progress { |es| [es.count { |e| e.fm['verified_at_general'] }, es.size] }]
+    MEDIA.each do |medium|
+      lines << "verified_at_#{medium} (checkpoints applicable to #{medium}): " + progress do |es|
+        applicable = es.select { |e| e.type == 'checkpoint' && e.fm["applicable_to_#{medium}"] != 'false' }
+        [applicable.count { |e| e.fm["verified_at_#{medium}"] }, applicable.size]
+      end
+    end
+    lines
+  end
+
   private
+
+  def progress
+    LANGS.map do |lang|
+      done, total = yield @entries.select { |e| e.lang == lang }
+      "#{lang} #{done}/#{total}"
+    end.join(', ')
+  end
 
   def collect
     LANGS.each do |lang|
@@ -143,6 +170,8 @@ class Validator
       error(e.rel, "created_at must be \"YYYY-MM-DD HH:MM:SS\", got #{ts.inspect}")
     end
 
+    check_verified_at(e)
+
     case e.type
     when 'criterion'
       unless e.fm['wcag_url'].to_s.start_with?('https://www.w3.org/')
@@ -167,6 +196,21 @@ class Validator
 
     slug_re = e.type == 'tag' || e.type == 'checkpoint' ? PLAIN_SLUG_RE : WCAG_SLUG_RE
     error(e.rel, "folder name doesn't match naming rules: #{e.slug}") unless e.slug.match?(slug_re)
+  end
+
+  def check_verified_at(e)
+    %w[verified_at_general verified_at_web verified_at_mobile verified_at_pdf].each do |key|
+      next unless (v = e.fm[key])
+
+      date = v.to_s.match?(VERIFIED_AT_RE) ? (Date.strptime(v.to_s, '%Y-%m-%d') rescue nil) : nil
+      next error(e.rel, "#{key} must be a valid date \"YYYY-MM-DD\", got #{v.inspect}") unless date
+
+      if date > Date.today
+        error(e.rel, "#{key} lies in the future: #{v}")
+      elsif (Date.today - date) > VERIFIED_STALE_AFTER_DAYS
+        warn(e.rel, "#{key} is older than #{VERIFIED_STALE_AFTER_DAYS / 365} years (#{v}); verify again")
+      end
+    end
   end
 
   def check_body(e)
@@ -313,7 +357,8 @@ class Validator
   end
 end
 
-errors, warnings = Validator.new.run
+validator = Validator.new
+errors, warnings = validator.run
 
 filter = ARGV.map { |a| File.expand_path(a).sub("#{ROOT}/", '').chomp('/') }
 unless filter.empty?
@@ -325,4 +370,5 @@ end
 errors.sort.each { |rel, msg| puts "ERROR #{rel}: #{msg}" }
 warnings.sort.each { |rel, msg| puts "WARN  #{rel}: #{msg}" }
 puts "#{errors.size} error(s), #{warnings.size} warning(s)"
+puts validator.verification_summary
 exit errors.empty? ? 0 : 1

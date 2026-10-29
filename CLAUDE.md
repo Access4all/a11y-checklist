@@ -14,6 +14,7 @@ This is a **content-only repository** (Markdown, no application code): the A11y 
 - German (`de/`) and English (`en/`) files are paired by frontmatter `(type, id)`, not by path. When adding content, always create both language versions with the same `id`; pick the next free id within that content type.
 - New ids: numeric strings, unique per content type per language (`ruby tools/validate.rb` catches collisions).
 - Keep frontmatter values quoted strings (`"true"`, not `true`), including in new files.
+- Set `verified_at_general` (`"YYYY-MM-DD"`; on checkpoints also `verified_at_web`/`_mobile`/`_pdf` for the respective medium's section) only after verifying everything the field covers against current standards, browsers and assistive technologies; never as a side effect of an edit (decisions #2, #6).
 - German is the primary language; English Test Specification content (checkpoints, tags) may still be untranslated German text, but the files must exist.
 - Write body text in the established style: address the reader as "Sie" in German; keep examples concrete and code samples minimal.
 
