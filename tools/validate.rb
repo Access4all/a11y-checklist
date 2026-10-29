@@ -110,7 +110,10 @@ class Validator
 
   def parse_frontmatter(rel, text)
     parts = text.split(/^---\s*$\n/, 3)
-    return error(rel, 'missing frontmatter') || [{}, text] if parts.size < 3 || !text.start_with?("---\n")
+    if parts.size < 3 || !text.start_with?("---\n")
+      error(rel, 'missing frontmatter')
+      return [{}, text]
+    end
 
     [YAML.safe_load(parts[1]) || {}, parts[2]]
   rescue Psych::Exception => e
