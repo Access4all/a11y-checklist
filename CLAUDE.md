@@ -20,7 +20,13 @@ This is a **content-only repository** (Markdown, no application code): the A11y 
 ## Workflow
 
 - Follow [CONTRIBUTING.md](CONTRIBUTING.md): `main` is frozen until mid-January 2027 (work on `interim-main`), pull request texts are German, commit messages English.
-- When something is agreed in a session, write it into the repository (CONTRIBUTING.md, CONTENT-MODEL.md, or docs/decisions.md), not only into Claude's memory, so other contributors benefit too. Keep confidential context (customers, internal considerations) out of it — the repository is public.
+- When something is agreed in a session, write it into the repository (CONTRIBUTING.md, CONTENT-MODEL.md, or docs/decisions/), not only into Claude's memory, so other contributors benefit too. Keep confidential context (customers, internal considerations) out of it — the repository is public.
+- Before the first change of a task, ask whether to work in the current checkout or in a separate worktree; name the expected branch and say which you'd pick. The user often edits in the same checkout meanwhile: a shared checkout shows them your edits as you make them, and a branch switch swaps the files under their open editor.
+  - Current checkout: short tasks and anything the user wants to follow live.
+  - Separate worktree (`git worktree add <scratchpad>/wt-<slug> -b <branch> interim-main`): longer work and anything on its own branch. Put it in the session's scratchpad, not in the repository. It needs nothing copied over: the only ignored files are `.DS_Store` and `.claude/settings.local.json`, and the validator uses only Ruby's standard library. Remove it after the merge (`git worktree remove <path>`), and report leftover worktrees instead of leaving them.
+  - While the work lives in a worktree, link files in replies by their absolute path until it is merged. A relative link resolves against the user's workspace: a file that exists only in the worktree doesn't open, and a changed one opens the user's version instead.
+- Never commit without asking which branch, and never push without asking; [/commit](.claude/commands/commit.md) lists the branch options and how to commit to another branch.
+- Keep code comments (in `tools/`) to one or two lines naming the non-obvious constraint, not retelling how the mechanism works. The full reasoning goes into the commit message and the pull request, which the comment links.
 
 ## What not to do
 

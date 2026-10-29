@@ -150,7 +150,7 @@ class Validator
         error(e.rel, "#{k} must be \"true\" or \"false\", got #{v.inspect}") unless %w[true false].include?(v.to_s)
       end
       unless e.fm.any? { |k, v| k.start_with?('applies_to_') && v == 'true' }
-        error(e.rel, 'at least one applies_to_* flag must be "true" (decision #1)')
+        error(e.rel, 'at least one applies_to_* flag must be "true" (docs/decisions/2026-07-16-every-checkpoint-has-an-audience.md)')
       end
     end
 

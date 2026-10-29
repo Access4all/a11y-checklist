@@ -1,0 +1,5 @@
+# Decisions are logged one file per decision
+
+**Decision:** Decisions live in `docs/decisions/`, one file per decision named `YYYY-MM-DD-short-slug.md`, without entry numbers and without a maintained index; they are referenced by file name. This replaces the numbered list in `docs/decisions.md`, whose only entry (#1) moved to [2026-07-16-every-checkpoint-has-an-audience.md](2026-07-16-every-checkpoint-has-an-audience.md).
+
+**Why:** With a single numbered list, every branch that logs a decision appends to the same place in the same file and takes the next free number, so two branches doing so in parallel conflict on merge and may both claim the same number. Separate files can't collide. Alternatives rejected: keeping the list and resolving conflicts by hand (recurs with every parallel decision, and by then a duplicate number may already be referenced in commits); numbered files (the number is still a shared counter); an index file (another shared list — the folder listing, sorted by name, is the chronological index).

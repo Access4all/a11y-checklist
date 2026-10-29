@@ -1,8 +1,6 @@
-# Decisions
+# Every checkpoint applies to at least one audience
 
-Numbered, append-only log of decisions about this repository's content model and tooling. New entries are added with the `/log-decision` command (see [.claude/commands/log-decision.md](../.claude/commands/log-decision.md)), which also defines the entry format.
-
-## 1. Every checkpoint applies to at least one audience
+Formerly decision #1 in `docs/decisions.md`; commit 0b6a595 refers to it by that number.
 
 **Decision:** Each checkpoint must have at least one `applies_to_*` frontmatter flag set to `"true"`. The validator enforces this.
 
