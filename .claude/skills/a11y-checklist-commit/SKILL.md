@@ -4,7 +4,7 @@ description: Commit the working tree and, on a PR branch, bring the PR title and
 
 Commit the current changes: $ARGUMENTS
 
-Whenever the user asks for a commit (also in plain words, without this command), follow these steps — the point of this command is that a commit on a PR branch and the PR title/description update are **one unit of work**, never two.
+Whenever the user asks for a commit (also in plain words, without invoking this skill), follow these steps — the point of this skill is that a commit on a PR branch and the PR title/description update are **one unit of work**, never two.
 
 1. If the current branch is `main`, stop: `main` is frozen until mid-January 2027 (see "Branches" in CONTRIBUTING.md). Commit on `interim-main` or a branch off it instead.
 2. Run `ruby tools/validate.rb`. It must report 0 errors. Otherwise stop and report — do not commit.

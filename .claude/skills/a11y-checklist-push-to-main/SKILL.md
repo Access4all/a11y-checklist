@@ -6,7 +6,7 @@ Push the local main commits directly to origin: $ARGUMENTS
 
 **Disabled until mid-January 2027:** `main` is frozen (see "Branches" in CONTRIBUTING.md). Stop and point to `interim-main` instead, unless Josua explicitly confirms this specific push in the current conversation.
 
-This command exists for small changes (typo/doc fixes) where a PR is overhead. Because such a push skips review, the local validation run below is mandatory.
+This skill exists for small changes (typo/doc fixes) where a PR is overhead. Because such a push skips review, the local validation run below is mandatory.
 
 1. Preconditions — abort with an explanation if any fails:
    - Current branch is `main` (`git branch --show-current`).
