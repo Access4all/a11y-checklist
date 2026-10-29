@@ -143,3 +143,4 @@ Known gaps versus the original database, to be resolved:
 
 - **Tag categories:** the database's `tags.category` field was not exported. A CSV dump exists to backfill it as a frontmatter field.
 - **`applies_to_pdf` vs `applicable_to_pdf`:** the branch `feat/add-mobile-pdf-blind-and-videos` introduces `applicable_to_web/mobile/pdf` (medium applicability) alongside the existing `applies_to_pdf` (audience flag) — two near-identical names for different concepts. To be resolved when that branch lands; renaming the `applies_to_*` audience flags is acceptable. The branch's new frontmatter keys and H2 sections must be added here and to the validator at the same time.
+- **Validator test:** before the validator changes substantially (e.g. for the planned per-medium sections), add a test that checks every rule still fires — a run over the real content only shows that valid content passes. A draft is in the closed pull request #4 (`tools/validate_test.rb`).
