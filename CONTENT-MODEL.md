@@ -91,6 +91,22 @@ Tags form a tree: root tags (e.g. `werkzeuge`, `techniken`, `aria-attribute`) ha
 
 Tag names and descriptions were never localized in the original database (a single field served both languages), so the English tag files duplicate the German content until they are actually translated.
 
+### Verification dates
+
+```yaml
+verified_at_general: "2026-11-09"  # optional, all types; "YYYY-MM-DD", placed after created_at
+verified_at_web: "2026-11-09"      # optional, checkpoints only: the medium's own verification
+verified_at_mobile: "2026-11-16"
+verified_at_pdf: "2026-11-23"
+```
+
+All are optional and record the day on which a person checked the text, examples, code and screenshots against current standards, browsers and assistive technologies (see "Content verification" under "Open items"). Set a date only after verifying everything it covers; edits that don't re-verify leave it alone.
+
+- `verified_at_general` covers the whole file for principles, guidelines, criteria and tags. On checkpoints it covers the shared parts (`Beschreibung`, `Prüfmethode (in Kürze)`, `Details zum blinden Testen`).
+- `verified_at_web`, `verified_at_mobile` and `verified_at_pdf` cover that medium's section (currently `Prüfmethode für <Medium>`, after the per-medium restructure `## <Medium>` with its screenshots). Different people verify different media, so each medium has its own date. Leave it out for a medium the checkpoint doesn't apply to.
+
+A date in the future is an error; a date older than two years yields a warning. The validator ends every run with a progress line per field and language (e.g. `verified_at_web (checkpoints applicable to web): de 12/114, en 0/114`). Background: decisions #2 and #6 in [docs/decisions.md](docs/decisions.md).
+
 ## Body conventions
 
 - The body starts with exactly one H1, prefixed by the type's emoji:
@@ -135,12 +151,13 @@ ruby tools/validate.rb              # validate everything
 ruby tools/validate.rb de/wcag/…    # validate specific files/folders only
 ```
 
-The validator enforces everything above that can be checked mechanically (frontmatter schema, id uniqueness, reference integrity, de/en parity, link and image resolution, naming, H1 conventions, H2 section sets and order). It exits non-zero if errors are found; warnings don't fail the run. CI runs it on every push and pull request.
+The validator enforces everything above that can be checked mechanically (frontmatter schema, id uniqueness, reference integrity, de/en parity, link and image resolution, naming, H1 conventions, H2 section sets and order). It also reports the progress of the content verification (see `verified_at_general`). It exits non-zero if errors are found; warnings don't fail the run. CI runs it on every push and pull request.
 
 ## Open items
 
 Known gaps versus the original database, to be resolved:
 
+- **Content verification:** the existing texts, examples and code samples are years old; standards, browsers, assistive technologies and best practices may have changed (e.g. an `aria-label` example on a `<p>` turned out to be invalid). Plan: start with an inventory of what can go stale (code samples, browser/screen reader behavior, tool menus such as Acrobat, WCAG and technique references), then verify in stages, riskiest content first. Checkpoints are verified while the planned per-medium restructure (decision #3) rewrites them, so nothing is read or written twice: Claude proofreads and researches, the maintainer confirms and sets `verified_at_general`; claims about screen reader or browser behavior that research can't settle are flagged for a practical test (decision #4). Files the restructure doesn't touch (principles, guidelines, criteria, tags) get a separate pass. Progress is tracked with `verified_at_general` and, per medium, `verified_at_web|mobile|pdf` on checkpoints (decisions #2, #6). Start: the week of 2026-11-02.
 - **Tag categories:** the database's `tags.category` field was not exported. A CSV dump exists to backfill it as a frontmatter field.
 - **`applies_to_pdf` vs `applicable_to_pdf`:** the branch `feat/add-mobile-pdf-blind-and-videos` introduces `applicable_to_web/mobile/pdf` (medium applicability) alongside the existing `applies_to_pdf` (audience flag) — two near-identical names for different concepts. To be resolved when that branch lands; renaming the `applies_to_*` audience flags is acceptable. The branch's new frontmatter keys and H2 sections must be added here and to the validator at the same time.
 - **Validator test:** before the validator changes substantially (e.g. for the planned per-medium sections), add a test that checks every rule still fires — a run over the real content only shows that valid content passes. A draft is in the closed pull request #4 (`tools/validate_test.rb`).
