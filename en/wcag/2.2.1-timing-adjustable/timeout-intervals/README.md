@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 13:48:14"
 ---
 
@@ -22,6 +26,18 @@ Timeout intervals are customizable or can be deactivated. A clear indication of 
 **Manual check:** Run through processes and ensure that they behave as expected: Can time intervals be adjusted? Can they be experienced and extended at an early stage (also using a keyboard or screen reader)? If necessary, consult with the site operator to ensure that no time intervals are overlooked.
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 

@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-14 13:11:30"
 ---
 
@@ -51,6 +55,20 @@ Bei komplexen Formularen oder zweifelhaftem Code (z.B. Einsatz von `role="group"
 - Dann sicherstellen, dass der Screenreader nun auch dessen `<legend>` vorliest
 
 ⚠️ Denn: viele Fehler findet man oft auch ohne Screenreader, z.B. wenn die Semantik komplett fehlt oder offensichtlich falsch ist. Wenn Semantik aber grundsätzlich **vorhanden scheint**, lässt sich deren Korrektheit und Sinnhaftigkeit oft nur mit Screenreader final beurteilen.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf hybride Inhalte 1:1 anwendbar.
+
+Native Apps scheinen aber keine spezifischen Elemente zum Gruppieren von Formular-Elementen zu kennen (dazu werden üblicherweise Überschriften verwendet).
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Es ist in PDFs nicht möglich, einzelne Formularfelder zu gruppieren.
+
+## Details zum blinden Testen
+
+Sinnvolle Gruppierung von Formular-Elementen ist für Blinde besonders wichtig!
 
 ## Screenshots typischer Fälle
 

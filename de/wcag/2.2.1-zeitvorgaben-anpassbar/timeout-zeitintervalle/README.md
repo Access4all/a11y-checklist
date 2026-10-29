@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 13:48:14"
 ---
 
@@ -38,6 +42,18 @@ Timeout-Zeitintervalle sind anpassbar oder können deaktiviert werden. Es ist ei
             - ⚠️ Wenn das Dreifache aber mind. 20h ergibt, ist es natürlich wieder okay
         - **🙂 Beispiel:** Die Möglichkeit besteht, das Timeout komplett zu deaktivieren
     - **🙂 Beispiel:** Eine Online-Auktion wird in exakt 3min und 21sec beendet; dieses Timeout kann **nicht** verändert werden (da dies den Sinn einer Auktion ad absurdum führen würde)
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Wenn alles gut (barrierefrei) umgesetzt wurde, sollte es gut testbar sein. Wenn hingegen die geforderten Funktionalitäten zwar vorhanden, aber nicht barrierefrei umgesetzt sind, kommen blinde Tester ggf. auf andere Schlussfolgerungen als sehende Tester.
 
 ## Screenshots typischer Fälle
 

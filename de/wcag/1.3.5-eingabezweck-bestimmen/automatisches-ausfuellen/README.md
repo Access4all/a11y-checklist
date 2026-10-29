@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 07:35:43"
 ---
 
@@ -33,6 +37,20 @@ Eingabefelder zu Nutzerdaten können automatisch ausgefüllt werden.
         - **😡 Beispiel:** Es hat `autocomplete="first-name"` → diesen Wert gibt es nicht!
         - **😡 Beispiel:** Es hat `autocomplete="family-name"` → falscher Wert!
         - **😡 Beispiel:** Es hat kein `autocomplete`-Attribut
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf Web-Views 1:1 übertragbar.
+
+Für native Apps hingegen obsolet.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Auf PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Mit entsprechenden Tools, welche Adressen speichern und automatisch einfügen können, kann dieses Verhalten auch blind getestet werden (vorausgesetzt, diese Tools sind selber barrierefrei).
 
 ## Screenshots typischer Fälle
 

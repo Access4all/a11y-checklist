@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 14:00:37"
 ---
 
@@ -37,6 +41,18 @@ Sprung-Links werden bei Tastatur-Bedienung sichtbar.
         - Wird bei nochmaligen Drücken von `Tab` nun tatsächlich durch den Inhalt navigiert?
             - **🙂 Beispiel:** Der Fokus springt auf das erste interaktive Element im Inhalt (z.B. einen Link).
             - **😡 Beispiel:** Der Viewport hat sich zwar wie gewünscht zum Inhalt verschoben, aber der Fokus springt sozusagen zurück an den Anfang der Seite.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Ist mir etwas unklar: wenn jegliche Webseite auf einem Mobile angeschaut werden kann und Tastatur-Bedienbarkeit auch bei Mobile ein Thema ist, dann müssten wohl auch Skip-Links auf Mobile angezeigt werden, oder?
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+Das Vorhanden-Sein solcher Links kann zwar geprüft werden, aber deren Sichtbarkeit bei Fokus nicht (oder nicht sinnvoll).
 
 ## Screenshots typischer Fälle
 

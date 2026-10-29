@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-04-16 08:17:49"
 ---
 
@@ -31,6 +35,18 @@ Der Tastatur-Fokus ist beim Navigieren stets gut sichtbar und höchstens teilwei
     - **🙂 Beispiel:** Der Fokus ist stets gut sichtbar.
     - **🙄 Beispiel:** Das fokussierte Element ist teilweise verdeckt, z.B. von einem Werbebanner, welcher über dem Seiteninhalt schwebt.
     - **😡 Beispiel:** Ein Sticky Header oder Footer verdeckt das fokussierte Element komplett.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht relevant.
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-15 07:54:36"
 ---
 
@@ -46,6 +50,18 @@ Inhalte, die per Hover oder Fokus eingeblendet werden, sind nicht störend und e
             - **😡 Beispiel:** Die Meldung wird nach kurzer Zeit automatisch wieder ausgeblendet.
         - **🙂 Beispiel:** Auf einer Auktions-Plattform erscheint die Meldung "Diese Auktion wird in weniger als 1 Minute beendet"; kurz darauf wird die Meldung wieder ausgeblendet.
             - ⚠️ Da diese Meldung essenziell ist für die Funktionsweise der Plattform (die Auktion ist nach einer Minute tatsächlich beendet, weshalb die angezeigte Meldung daraufhin ihre Gültigkeit verliert), ist das automatische Ausblenden in Ordnung.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Kann sowohl in nativen / hybriden Mobile Apps vorkommen, wie auch auf Mobile Webseiten.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht relevant.
+
+## Details zum blinden Testen
+
+Grösstenteils nur sehr eingeschränkt testbar.
 
 ## Screenshots typischer Fälle
 

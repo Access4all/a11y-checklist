@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:13:12"
 ---
 
@@ -63,6 +67,18 @@ Die folgende Anleitung ist eine Annäherung an die aus der Praxis gebräuchlichs
 - Oft wird eine ausgefeilte ARIA-Implementierung verwendet (siehe [APG: Accordion Pattern (Sections With Show/Hide Functionality)
 ](https://www.w3.org/WAI/ARIA/apg/patterns/accordion/)) → es gibt allerdings kein `role="accordion"`
     - Es kann aber auch ein einfaches `<div>` mit Links oder Buttons als Auf-/Zuklapp-Elemente sein; in Formularen können sogar Checkboxen oder Radiobuttons sinnvoll sein, siehe [ADG: Accordion](https://www.accessibility-developer-guide.com/examples/widgets/accordions/)
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Einerseits können in einer Mobile App beliebige Web-Inhalte (inkl. Akkordeons) eingebettet sein; andererseits gibt es auch native Implementierungen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+So komplexe interaktive Elemente gibt's in PDFs nicht.
+
+## Details zum blinden Testen
+
+Akkordeons **müssen** sogar mit einem Screenreader wie [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) geprüft werden!
 
 ## Screenshots typischer Fälle
 

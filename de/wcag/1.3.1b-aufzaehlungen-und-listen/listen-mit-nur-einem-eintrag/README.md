@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-14 13:00:02"
 ---
 
@@ -41,6 +45,25 @@ Eine Liste muss immer aus einem Container (`<ul>` oder `<ol>`) bestehen und darf
 - `I` drücken, um Punkte innerhalb einer Liste direkt anzuspringen
 
 ⚠️ Denn: viele Fehler findet man oft auch ohne Screenreader, z.B. wenn die Semantik komplett fehlt oder offensichtlich falsch ist. Wenn Semantik aber grundsätzlich **vorhanden scheint**, lässt sich deren Korrektheit und Sinnhaftigkeit oft nur mit Screenreader final beurteilen.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf hybride Inhalte 1:1 anwendbar.
+
+Native Apps scheinen aber keine spezifischen Listen-Elemente zu kennen.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Mit [🏷️ PDF Accessibility Checker (PAC)](/de/tags/pdf-accessibility-checker-pac) testen und Screenreader-Vorschau öffnen und/oder
+1. Mit [🏷️ Adobe Acrobat](/de/tags/adobe-acrobat) (falls vorhanden) öffnen und Tag-Baum untersuchen
+1. Analog zu Web: Sicherstellen, dass keine Listen mit nur einem Eintrag existieren.
+
+## Details zum blinden Testen
+
+Listen sind für Blinde besonders wichtig!
 
 ## Screenshots typischer Fälle
 

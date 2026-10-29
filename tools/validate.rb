@@ -23,7 +23,9 @@ FRONTMATTER_KEYS = {
   'criterion'  => { required: %w[id parent_id wcag_url created_at], optional: %w[wcag_version verified_at_general] },
   'checkpoint' => { required: %w[id wcag_criterion_id applies_to_pdf applies_to_design
                                  applies_to_development applies_to_content
-                                 applies_to_quality_assurance created_at],
+                                 applies_to_quality_assurance applicable_to_web
+                                 applicable_to_mobile applicable_to_pdf blind_testable
+                                 created_at],
                  optional: %w[verified_at_general verified_at_web verified_at_mobile verified_at_pdf] },
   'tag'        => { required: %w[id parent_id created_at], optional: %w[verified_at_general] }
 }.freeze
@@ -49,9 +51,15 @@ H2_SECTIONS = {
   },
   'checkpoint' => {
     'de' => [['Beschreibung', true], ['Prüfmethode (in Kürze)', true],
-             ['Prüfmethode für Web (ausführlich)', true], ['Screenshots typischer Fälle', true]],
+             ['Prüfmethode für Web (ausführlich)', true],
+             ['Prüfmethode für Mobile (Ergänzungen zu Web)', true],
+             ['Prüfmethode für PDF (Ergänzungen zu Web)', true],
+             ['Details zum blinden Testen', true], ['Screenshots typischer Fälle', true]],
     'en' => [['Description', true], ['Method', true],
-             ['Details on web applicability (specific test steps)', true], ['Screenshots', true]]
+             ['Details on web applicability (specific test steps)', true],
+             ['Details on mobile applicability (additions to web)', true],
+             ['Details on PDF applicability (additions to web)', true],
+             ['Blind testable details', true], ['Screenshots', true]]
   },
   'tag' => { 'de' => [['Beschreibung', true]], 'en' => [['Description', true]] }
 }.freeze
@@ -178,7 +186,7 @@ class Validator
       end
     when 'checkpoint'
       e.fm.each do |k, v|
-        next unless k.start_with?('applies_to_')
+        next unless k.start_with?('applies_to_', 'applicable_to_') || k == 'blind_testable'
         error(e.rel, "#{k} must be \"true\" or \"false\", got #{v.inspect}") unless %w[true false].include?(v.to_s)
       end
       unless e.fm.any? { |k, v| k.start_with?('applies_to_') && v == 'true' }

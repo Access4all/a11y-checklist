@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-14 12:22:50"
 ---
 
@@ -42,6 +46,28 @@ Bei zweifelhaftem Code (z.B. Einsatz von `role="heading"`) sollte besser mit [�
 - Dann `Alt`+`H` für Überschriften
 
 ⚠️ Denn: viele Fehler findet man oft auch ohne Screenreader, z.B. wenn die Semantik komplett fehlt oder offensichtlich falsch ist. Wenn Semantik aber grundsätzlich **vorhanden scheint**, lässt sich deren Korrektheit und Sinnhaftigkeit oft nur mit Screenreader final beurteilen.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Auf Web-Views 1:1 übertragbar; zu prüfen mittels Überschriften-Navigation (im [🏷️ Rotor](/de/tags/rotor) aktivieren).
+
+In nativen Apps hingegen gibt es semantisch nur eine Überschriften-Stufe (auch wenn Überschriften visuell unterschiedlich dargestellt werden können).
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+In PDFs können (und müssen) Überschriften ebenfalls korrekt getaggt werden (H1 bis H6).
+
+WICHTIG: Screenreader-Nutzende nehmen die Inhalte in einem PDF nicht seitenweise wahr. Für die Struktur orientieren sich Screenreader-Nutzende nur am Tag-Baum. Deshalb braucht nicht jede PDF-Seite eine eigene Überschrift. Inhalte, die einer Überschrift untergeordnet sind, können sich über mehrere PDF-Seiten erstrecken.
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen und/oder
+1. Mit [🏷️ PDF Accessibility Checker (PAC)](/de/tags/pdf-accessibility-checker-pac) testen und Screenreader-Vorschau öffnen und/oder
+1. Mit [🏷️ Adobe Acrobat](/de/tags/adobe-acrobat) (falls vorhanden) öffnen und Tag-Baum untersuchen
+
+## Details zum blinden Testen
+
+Überschriften sind für Blinde besonders wichtig!
 
 ## Screenshots typischer Fälle
 

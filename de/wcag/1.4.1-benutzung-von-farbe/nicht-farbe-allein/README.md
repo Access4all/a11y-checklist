@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 07:36:23"
 ---
 
@@ -36,6 +40,18 @@ Information wird nicht durch Farbe allein vermittelt. Das gilt auch für Hover- 
     - **🙂 Beispiel:** Kuchenstücke in einem Diagramm können nicht nur durch Farbe, sondern auch durch ein Hintergrund-Muster o.ä. klar mit der zugehörigen Legende verknüpft werden
         - **😡 Beispiel:** Die Kuchenstücke sind nur farblich codiert
             - ⚠️ Es gibt natürlich weitere Möglichkeiten, die Legende mit den Kuchenstücken zu verknüpfen, z.B. indem man jedes Kuchenstück einzeln beschriftet, oder indem man Linien vom Kuchenstück zum Eintrag in der Legende zieht, o.ä.
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüf-Schritte analog zu Web-Inhalten.
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

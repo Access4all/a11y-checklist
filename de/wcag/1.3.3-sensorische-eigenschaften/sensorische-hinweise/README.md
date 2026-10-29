@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:33:18"
 ---
 
@@ -43,6 +47,18 @@ Inhalte weisen nicht ausschliesslich auf sensorische Eigenschaften (rein visuell
     - **🙂 Beispiel:** Eine Grafik hat den Alternativtext "Statistik über die Geburtenrate, Details nachfolgend", wobei nach der Grafik ein Paragraf mit Details folgt
         - **😡 Beispiel:** Der Alternativtext ist "Statistik über die Geburtenrate, Details rechts"
             - ⚠️ Die Begriffe "links" und "rechts" sind problematisch, da Screenreader Inhalte nur 1-dimensional (also nach einander), und nicht 2-dimensional (nach und neben einander) wahrnehmen. Begriffe wie "über/oberhalb/oben" bzw. "unter/unterhalb/unten" hingegen können verwendet werden, z.B. "Beachten Sie den Hinweis oben" (aber nicht: "Beachten Sie den Hinweis rechts").
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüf-Schritte analog zu Web-Inhalten.
+
+## Details zum blinden Testen
+
+Nur sehr eingeschränkt testbar, wenn man nicht alle Wahrnehmungskanäle zur Verfügung hat.
 
 ## Screenshots typischer Fälle
 

@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-14 12:15:28"
 ---
 
@@ -28,6 +32,18 @@ Ausnahme: Wenn der synchronisierte Video-Inhalt eine Medienalternative für bere
 ## Prüfmethode für Web (ausführlich)
 
 ### Test-Schritte
+
+Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet/alternative-fuer-audio-inhalte) (Level A) bzw. [✅ Audiodeskription](/de/wcag/1.2.5-audiodeskription-aufgezeichnet/audiodeskription) (Level AA)
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet/alternative-fuer-audio-inhalte) (Level A) bzw. [✅ Audiodeskription](/de/wcag/1.2.5-audiodeskription-aufgezeichnet/audiodeskription) (Level AA)
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet/alternative-fuer-audio-inhalte) (Level A) bzw. [✅ Audiodeskription](/de/wcag/1.2.5-audiodeskription-aufgezeichnet/audiodeskription) (Level AA)
+
+## Details zum blinden Testen
 
 Siehe [✅ Alternative für Audio-Inhalte](/de/wcag/1.2.1-reines-audio-und-reines-video-aufgezeichnet/alternative-fuer-audio-inhalte) (Level A) bzw. [✅ Audiodeskription](/de/wcag/1.2.5-audiodeskription-aufgezeichnet/audiodeskription) (Level AA)
 

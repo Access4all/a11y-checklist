@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "false"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-13 16:21:05"
 ---
 
@@ -22,6 +26,18 @@ Informative graphics and graphical elements (e.g. a tick in an activated checkbo
 Activate **Windows High Contrast Mode** (up to Windows 10: `Alt` + `Shift` + `PrtScn`; from Windows 11: `System Settings` → `Accessibility` → `Contrast Designs` → `Night Sky` or similar): Are all informative graphics still visible?
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 

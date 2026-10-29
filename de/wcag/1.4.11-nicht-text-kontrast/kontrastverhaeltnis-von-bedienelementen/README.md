@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 07:45:10"
 ---
 
@@ -35,6 +39,18 @@ Das Kontrastverhältnis von Bedienelementen (z.B. Textfelder, Radiobuttons, Chec
         - ⚠️ Das gesamte Beispiel kann sinngemäss auf Schalter angewandt werden (statt eines Platzhalter aber natürlich mit einer "normalen" Beschriftung, wie etwa "Nachricht abschicken" o.ä.)!
     - **🙂 Beispiel:** Ein Ausklapp-Element wird dadurch erkennbar, dass ein kleines Dreieck nach unten zeigt; dieses ist kontraststark
         - **😡 Beispiel:** Es ist kontrastarm
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Prüfschritte analog zu Webinhalten.
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 

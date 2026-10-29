@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "true"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "false"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 13:51:00"
 ---
 
@@ -22,6 +26,18 @@ Pages have a clear, meaningful title that contains the topic or purpose of the p
 **Manual check:** Look through the pages and make sure that their titles correspond to the expectations: Topic/purpose available? Operator present?
 
 ## Details on web applicability (specific test steps)
+
+🇩🇪 Currently only available in German.
+
+## Details on mobile applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Details on PDF applicability (additions to web)
+
+🇩🇪 Currently only available in German.
+
+## Blind testable details
 
 🇩🇪 Currently only available in German.
 

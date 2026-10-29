@@ -6,6 +6,10 @@ applies_to_design: "true"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "false"
 created_at: "2024-03-15 13:52:07"
 ---
 
@@ -37,6 +41,20 @@ Die Fokus-Reihenfolge ist sinnvoll, d. h. intuitiv verständlich und nachvollzie
             - ⚠️ Hier darf die visuelle Reihenfolge von der Fokus-Reihenfolge abweichen! Visuell darf sich solche Information auch mal unterhalb des Formulars befinden (wenn auch meines Erachtens wenig sinnvoll); Hauptsache, die Fokus-Reihenfolge stimmt insofern, dass ein solcher AGBs-Link vor dem Abschicken-Schalter kommt!
         - **😡 Beispiel:** Ein Cookies-Banner wird angezeigt, aber der Fokus wird nicht hinein gesetzt.
 1. Mit `Shift`-`Tab` dasselbe rückwärts prüfen
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Wird oft vergessen, aber auch Mobile Apps müssen komplett mit Tastatur gesteuert werden können.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit Tab durch das Dokument tabben und prüfen, ob interaktive Elemente wie Links und Formularfelder in der korrekten Reihenfolge fokussiert werden.
+
+## Details zum blinden Testen
+
+Ansich kann das im Fokus-Modus (mit `Tab` navigieren) in gewissen Screenreadern (etwa [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader)) schon geprüft werden, aber es ist nicht unbedingt pragmatisch (da Sehende dies sowieso bemerken, wenn sie Tastatur-Bedienung prüfen, siehe [📜-2.1.1 Tastatur](/de/wcag/2.1.1-tastatur)).
 
 ## Screenshots typischer Fälle
 

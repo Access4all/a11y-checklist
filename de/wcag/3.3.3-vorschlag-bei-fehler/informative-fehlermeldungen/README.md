@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "true"
+blind_testable: "true"
 created_at: "2024-03-15 14:11:04"
 ---
 
@@ -42,6 +46,22 @@ Fehlermeldungen sind informativ und mit den zugehörigen Eingabefeldern eindeuti
     - **🙂 Beispiel:** Beim Einloggen wird ein Fehler "Die eingegebene Kombination von Nutzer und Passwort existiert nicht" agezeigt
         - **🙂 Beispiel:** Es wird "Das Einloggen ist aktuell aufgrund von Wartungsarbeiten nicht möglich" angezeigt
         - **🙄 Beispiel:** Es wird "Einloggen nicht erfolgreich" angezeigt → es ist unklar, ob die Eingabe falsch war, oder das Einloggen generell nicht möglich ist
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+### Prüf-Schritte
+1. PDF mit [🏷️ Adobe Reader](/de/tags/adobe-reader) öffnen
+1. Mit [🏷️ NVDA Screenreader](/de/tags/nvda-screenreader) vorlesen lassen
+1. Prüfen, dass Fehlermeldungen ausreichend informativ sind.
+1. Ein Feld fehlerhaft oder unvollständig ausfüllen und weitertabben. Dabei überprüfen, ob die ausgegebene Fehlermeldung ausreichend informativ ist.
+
+## Details zum blinden Testen
+
+Wenn die Fehlermeldungen korrekt mit den Eingabefeldern verknüpft sind, ist dieser Prüfpunkt mit Screenreader gut testbar. Ansonsten kann es etwas mühsam werden, weil man manuell auf die Suche nach Fehlermeldungen gehen muss.
 
 ## Screenshots typischer Fälle
 

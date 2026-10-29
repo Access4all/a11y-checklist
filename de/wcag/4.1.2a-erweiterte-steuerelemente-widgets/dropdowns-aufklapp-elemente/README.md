@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "true"
+applicable_to_pdf: "false"
+blind_testable: "true"
 created_at: "2024-03-15 14:15:05"
 ---
 
@@ -91,6 +95,18 @@ Die Nutzung des Begriffs "Dropdown" wird kontrovers diskutiert, da er zu allgeme
 #### Abgrenzung
 
 Dropdowns können **Toggletips** (siehe [✅ Tooltips / Toggletips](/de/wcag/4.1.2a-erweiterte-steuerelemente-widgets/tooltips-toggletips)) stark ähneln, enthalten aber typischerweise vor allem interaktive Elemente, also Menü-Einträge (und nicht hauptsächlich lesbare Inhalte).
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Sowohl auf Web-Views als auch native Inhalte 1:1 übertragbar.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDFs nicht relevant.
+
+## Details zum blinden Testen
+
+In den meisten Fällen sind per Screenreader auch nicht-barrierefreie solche Elemente erkennbar.
 
 ## Screenshots typischer Fälle
 

@@ -6,6 +6,10 @@ applies_to_design: "false"
 applies_to_development: "true"
 applies_to_content: "false"
 applies_to_quality_assurance: "true"
+applicable_to_web: "true"
+applicable_to_mobile: "false"
+applicable_to_pdf: "false"
+blind_testable: "false"
 created_at: "2024-03-13 16:21:05"
 ---
 
@@ -42,6 +46,20 @@ Informative Grafiken und grafische Elemente (z.B. Häkchen in einer aktivierten 
         - **😡 Beispiel:** Im Hochkontrast-Modus ist nicht mehr erkennbar, welches Tab aktiv ist (weil alle Farben auf den System-Standard gesetzt werden und Invertieren der Farben keinen Effekt mehr hat)
     - **🙂 Beispiel:** Ein Textfeld hat keine Umrandung (CSS `border`), sondern wird nur durch die Hintergrundfarbe erkennbar; im Hochkontrast-Modus wird zusätzlich eine Umrandung angezeigt
         - **😡 Beispiel:** Im Hochkontrast-Modus wird keine zusätzliche Umrandung angezeigt, deshalb ist das Textfeld nicht mehr erkennbar
+
+## Prüfmethode für Mobile (Ergänzungen zu Web)
+
+Nein, es existiert kein Äquivalent zum Windows Hochkontrast-Modus auf Mobile.
+
+⚠️ Hinweis: Die Funktion "Farben invertieren" (oder "klassische Farbumkehrung") ist ein gänzlich anderer Effekt als "Forced Colors"! Dabei wird nämlich bloss jede Farbe in ihr Gegenteil verkehrt, wodurch alle Kontraste erhalten bleiben.
+
+## Prüfmethode für PDF (Ergänzungen zu Web)
+
+Für PDF nicht anwendbar.
+
+## Details zum blinden Testen
+
+Nein.
 
 ## Screenshots typischer Fälle
 
