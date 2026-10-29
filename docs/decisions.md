@@ -1,6 +1,6 @@
 # Decisions
 
-Numbered, append-only log of decisions about this repository's content model and tooling. New entries are added with the `/log-decision` command (see [.claude/commands/log-decision.md](../.claude/commands/log-decision.md)), which also defines the entry format.
+Numbered, append-only log of decisions about this repository's content model and tooling. New entries are added with the `/a11y-checklist-log-decision` skill (see [.claude/skills/a11y-checklist-log-decision/SKILL.md](../.claude/skills/a11y-checklist-log-decision/SKILL.md)), which also defines the entry format.
 
 ## 1. Every checkpoint applies to at least one audience
 
